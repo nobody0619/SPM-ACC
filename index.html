@@ -66,6 +66,35 @@
     #confetti { position:fixed; inset:0; pointer-events:none; overflow:hidden; z-index:9998; }
     .confetti-piece { position:absolute; width:10px; height:16px; opacity:0.9; border-radius:3px; animation: fall linear forwards; }
     @keyframes fall { 0% { transform: translateY(-120%) rotate(0deg);} 100% { transform: translateY(120vh) rotate(720deg);} }
+
+    /* ===== Hero / Brand ===== */
+    .hero {
+      margin: 18px auto 8px;
+      padding: 24px 18px;
+      border-radius: 18px;
+      background:
+        radial-gradient(1200px 400px at -10% -10%, #e7f8ff 0%, rgba(255,255,255,0) 60%),
+        radial-gradient(900px 300px at 110% 20%, #eef9f1 0%, rgba(255,255,255,0) 55%),
+        linear-gradient(135deg, #ffffff, #fafafa);
+      border: 1px solid #eee;
+      box-shadow: 0 6px 20px rgba(0,0,0,.06);
+      text-align: left;
+    }
+    .brand { display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+    .brand-icon {
+      width:46px; height:46px; border-radius:14px; background:#111; color:#fff;
+      display:grid; place-items:center; font-weight:800; letter-spacing:.5px;
+      box-shadow: 0 6px 14px rgba(17,17,17,.18);
+    }
+    .brand-title { margin:0; font-size:26px; line-height:1.15; }
+    .brand-sub { margin:4px 0 0; color:#555; }
+    .tag-row { margin-top:10px; display:flex; gap:8px; flex-wrap:wrap; }
+    .tag {
+      font-size:12px; padding:4px 10px; border-radius:999px; border:1px solid #e5e7eb;
+      background:#fff; color:#111;
+    }
+    .tag.hot { border-color:#16a34a; color:#16a34a; background:#f0fff5; }
+    .tag.dark { background:#111; color:#fff; border-color:#111; }
   </style>
 </head>
 <body>
@@ -81,12 +110,29 @@
   </div>
   <div id="confetti"></div>
 
+  <!-- Hero / Brand -->
+  <section class="hero">
+    <div class="brand">
+      <div class="brand-icon">ACC</div>
+      <div>
+        <h1 class="brand-title">SPM ACC Paper 1 超强训练器 / <span style="font-weight:700;">ACC P1 Booster</span></h1>
+        <p class="brand-sub">按章节精练 × 州属试卷实战 × 错题二次回刷 × 自动成绩上传</p>
+        <div class="tag-row">
+          <span class="tag hot">Form 4 / Form 5</span>
+          <span class="tag">Chapter &amp; State Papers</span>
+          <span class="tag">Repeat wrong twice</span>
+          <span class="tag dark">Leaderboard Ready</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <div id="welcome">
     <h2>请输入姓名与密码 / Enter Your Name & Password</h2>
     <input type="text" id="username" placeholder="姓名 / Name"/>
     <input type="password" id="password" placeholder="密码 / Password"/>
     <button id="startBtn" type="button">登录 / Log In</button>
-    <div class="help">免费试用密码:testing(5分钟) ；一个ID只需RM10，就可无限做超过1000题考题！ 购买密码请联系纪老师 016-7312519</div>
+    <div class="help">免费试用密码: testing（5分钟）；一个ID只需 RM10，就可无限做超 1000 题！购买密码请联系纪老师 016-7312519</div>
   </div>
 
   <div id="menu"><h2>请选择章节 / Select Chapter</h2></div>
@@ -173,36 +219,19 @@ document.addEventListener('DOMContentLoaded', () => {
   function playWrong(){ beep(220, .12, 'sawtooth', .05); setTimeout(()=>beep(160,.14,'square',.05),100); }
 
   // ======= 成绩存取 =======
-  const LS_KEY = (name)=>`results_${name.toLowerCase()}`;
-  let cloudResults = [];
-  let localResults = [];
-  function loadLocalResults() {
-    try { localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); }
-    catch { localResults = []; }
-  }
-  function saveLocalResult(rec) {
-    loadLocalResults();
-    localResults.push(rec);
-    localStorage.setItem(LS_KEY(user), JSON.stringify(localResults));
-  }
+  const LS_KEY = (name)=>`results_${name.toLowerCase()}`; let cloudResults = []; let localResults = [];
+  function loadLocalResults() { try { localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); } catch { localResults = []; } }
+  function saveLocalResult(rec) { loadLocalResults(); localResults.push(rec); localStorage.setItem(LS_KEY(user), JSON.stringify(localResults)); }
   function mergeResults() { return [...cloudResults, ...localResults]; }
   function buildBestScoreMap() {
-    const all = mergeResults();
-    const best = {};
-    all.forEach(r=>{
-      const qid = String(r.quizId||'').trim();
-      const sc = Number(r.score||0);
-      if (!qid) return;
-      if (!(qid in best) || sc > best[qid]) best[qid] = sc;
-    });
+    const all = mergeResults(); const best = {};
+    all.forEach(r=>{ const qid = String(r.quizId||'').trim(); const sc = Number(r.score||0);
+      if (!qid) return; if (!(qid in best) || sc > best[qid]) best[qid] = sc; });
     return best;
   }
   function bestScoreForChapter(chap, bestMap){
     let candidate = (bestMap[chap] != null) ? bestMap[chap] : null;
-    // 兼容旧数据：chap_section 形式
-    for (const [k,v] of Object.entries(bestMap)){
-      if (k.startsWith(chap + '_')) candidate = Math.max(candidate ?? -Infinity, v);
-    }
+    for (const [k,v] of Object.entries(bestMap)){ if (k.startsWith(chap + '_')) candidate = Math.max(candidate ?? -Infinity, v); }
     return candidate;
   }
   function fetchCloudResultsFor(name) {
@@ -212,34 +241,23 @@ document.addEventListener('DOMContentLoaded', () => {
         complete: (res) => {
           const rows = (res.data||[]).map(r=>{
             const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; });
-            return {
-              quizId: o.quizid || o.quiz_id || '',
-              name: o.name || '',
-              score: o.score || '',
-              correct: o.correct || '',
-              wrong: o.wrong || '',
-              time: o.time || '',
-              timestamp: o.timestamp || ''
-            };
+            return { quizId: o.quizid||o.quiz_id||'', name:o.name||'', score:o.score||'', correct:o.correct||'', wrong:o.wrong||'', time:o.time||'', timestamp:o.timestamp||'' };
           }).filter(r=>String(r.name||'').toLowerCase()===name.toLowerCase());
-          cloudResults = rows;
-          resolve(rows);
+          cloudResults = rows; resolve(rows);
         },
         error: ()=>{ cloudResults=[]; resolve([]); }
       });
     });
   }
 
-  // ======= 题库/菜单数据（去掉 section 概念） =======
+  // ======= 题库/菜单数据 =======
   let chapters = [], grouped = {};
-  let chapterKey, sectionKey, labelKey, sheetKey; // 仍会从 CSV 里探测到，但 UI 不再展示 section
+  let chapterKey, sectionKey, labelKey, sheetKey, groupKey; // 注意多了 groupKey
   let currentChapter = '';
 
   // ======= 测验状态 =======
   let qs = [], queue = [], score = 0, correct = 0, wrong = 0;
-  let chapterStart = 0;
-  let correctStreak = 0, wrongStreak = 0;
-  const MAX_OPTS = 15;
+  let chapterStart = 0; let correctStreak = 0, wrongStreak = 0; const MAX_OPTS = 15;
 
   const PASSWORDS_CSV = 'Passwords.csv';
   document.getElementById('startBtn').onclick = attemptLogin;
@@ -253,24 +271,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
     Papa.parse(PASSWORDS_CSV, { download:true, header:true, skipEmptyLines:true,
       complete: async (res) => {
-        const rows = (res.data||[]).map(r => {
-          const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; });
-          return o;
-        });
+        const rows = (res.data||[]).map(r => { const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; }); return o; });
         const nameKey = 'name', passKey='password';
-        const uwpRow = rows.find(r=>r[nameKey]==='*');
-        const uwpPassword = uwpRow ? (uwpRow[passKey]||'') : '';
+        const uwpRow = rows.find(r=>r[nameKey]==='*'); const uwpPassword = uwpRow ? (uwpRow[passKey]||'') : '';
 
-        if (uwpPassword && pw===uwpPassword) {
-          if (universalRemainingMs()<=0) setUniversalStart(Date.now());
-          usedUniversal = true; updateSessionTimer();
-          user = nm; afterLogin(); return;
-        }
+        if (uwpPassword && pw===uwpPassword) { if (universalRemainingMs()<=0) setUniversalStart(Date.now()); usedUniversal = true; updateSessionTimer(); user = nm; afterLogin(); return; }
         const match = rows.find(r => String(r[nameKey]||'').toLowerCase()===nm.toLowerCase() && String(r[passKey]||'')===pw);
         if (!match) return alert('姓名或密码不正确 / Name or password incorrect.');
 
-        clearUniversalStart(); usedUniversal=false; showSessionTimer(false);
-        user = nm; afterLogin();
+        clearUniversalStart(); usedUniversal=false; showSessionTimer(false); user = nm; afterLogin();
       },
       error: ()=> alert('无法读取 Passwords.csv，请确认文件存在且可公开访问')
     });
@@ -283,7 +292,6 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('welcome').style.display='none';
     loadChapters();
   }
-
   function guardUniversalWindowOrThrow() {
     if (!usedUniversal) return;
     if (universalRemainingMs() <= 0) { alert('会话已到期，请重新登录。'); location.reload(); throw new Error('Session expired'); }
@@ -293,16 +301,15 @@ document.addEventListener('DOMContentLoaded', () => {
     Papa.parse('Chapters.csv',{download:true,header:true,skipEmptyLines:true,
       complete(res) {
         guardUniversalWindowOrThrow();
-        chapters = (res.data||[]).map(raw => {
-          const r={}; Object.entries(raw).forEach(([k,v])=>{ r[k.trim()] = typeof v==='string'? v.trim(): v; }); return r;
-        });
+        chapters = (res.data||[]).map(raw => { const r={}; Object.entries(raw).forEach(([k,v])=>{ r[k.trim()] = typeof v==='string'? v.trim(): v; }); return r; });
         if (!chapters.length) return alert('请检查 Chapters.csv');
 
         const keys = Object.keys(chapters[0]);
         chapterKey = keys.find(k=>k.toLowerCase()==='chapter');
-        sectionKey = keys.find(k=>k.toLowerCase()==='section'); // 仍可存在，但不再用于导航
+        sectionKey = keys.find(k=>k.toLowerCase()==='section');
         labelKey   = keys.find(k=>k.toLowerCase()==='label');
         sheetKey   = keys.find(k=>k.toLowerCase()==='sheet');
+        groupKey   = keys.find(k=>k.toLowerCase()==='group');   // NEW
 
         grouped = {};
         chapters.forEach(r => { const c=r[chapterKey]; (grouped[c]||(grouped[c]=[])).push(r); });
@@ -312,27 +319,49 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
+  /* ============ 分组渲染（支持 group 列；无 group 时自动推断） ============ */
+  function extractYear(str){ const m=String(str).match(/20\d{2}/); return m?Number(m[0]):null; }
+  function isChapterLabel(str){
+    const s=String(str);
+    const hasForm=/(F[45]|Form ?[45]|Ting(?:katan)? ?[45])/i.test(s);
+    const hasChapterWord=/(Chp|Chapter|Chap|Bab)\b/i.test(s);
+    const hasBabNum=/\bBab\s*\d+/i.test(s);
+    return hasForm && (hasChapterWord || hasBabNum);
+  }
+
   function renderMenu() {
     const menu = document.getElementById('menu');
     menu.innerHTML = '<h2>请选择章节 / Select Chapter</h2>';
 
     const bestMap = buildBestScoreMap();
 
-    // 预分类容器（按年 & F4/F5 & 州属）
-    const statePapers = {2025:{},2024:{},2023:{}};
-    const chaptersF4 = {2025:[],2024:[],2023:[]};
-    const chaptersF5 = {2025:[],2024:[],2023:[]};
-
+    const statePapers = {}, chaptersF4 = {}, chaptersF5 = {};
     Object.keys(grouped).forEach(chap => {
-      const year = chap.match(/2025/)?2025 : chap.match(/2024/)?2024 : chap.match(/2023/)?2023 : null;
-      if (!year) return;
-      if (/Chp/i.test(chap)) {
-        if (/F4/i.test(chap)) chaptersF4[year].push(chap);
-        else if (/F5/i.test(chap)) chaptersF5[year].push(chap);
+      const year = extractYear(chap); if (!year) return;
+      statePapers[year] ||= {}; chaptersF4[year] ||= []; chaptersF5[year] ||= [];
+
+      if (groupKey) {
+        const gval = String((grouped[chap][0][groupKey]||'')).toLowerCase();
+        if (gval === 'chapter') {
+          if (/(F4|Form ?4|Ting(?:katan)? ?4)/i.test(chap)) chaptersF4[year].push(chap);
+          else if (/(F5|Form ?5|Ting(?:katan)? ?5)/i.test(chap)) chaptersF5[year].push(chap);
+          else chaptersF4[year].push(chap);
+          return;
+        }
+        if (gval === 'state') {
+          const state = chap.split(' ')[0] || 'Others';
+          (statePapers[year][state] ||= []).push(chap);
+          return;
+        }
+      }
+      // 没有 group 列或值异常 → 推断
+      if (isChapterLabel(chap)) {
+        if (/(F4|Form ?4|Ting(?:katan)? ?4)/i.test(chap)) chaptersF4[year].push(chap);
+        else if (/(F5|Form ?5|Ting(?:katan)? ?5)/i.test(chap)) chaptersF5[year].push(chap);
+        else chaptersF4[year].push(chap);
       } else {
-        const state = chap.split(' ')[0];
-        if (!statePapers[year][state]) statePapers[year][state] = [];
-        statePapers[year][state].push(chap);
+        const state = chap.split(' ')[0] || 'Others';
+        (statePapers[year][state] ||= []).push(chap);
       }
     });
 
@@ -349,36 +378,40 @@ document.addEventListener('DOMContentLoaded', () => {
       return btn;
     };
 
-    // 州属试卷（2025→2024→2023）
-    [2025,2024,2023].forEach(y=>{
-      const states = statePapers[y];
-      if (Object.keys(states).length) {
-        const h = document.createElement('h2'); h.textContent = `州属试卷 ${y}`; menu.appendChild(h);
-        for (const st of Object.keys(states).sort()) {
-          const g = document.createElement('div'); g.className='group';
-          const h4 = document.createElement('h4'); h4.textContent = st; g.appendChild(h4);
-          states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)) );
-          menu.appendChild(g);
-        }
-      }
+    const years = Array.from(new Set([
+      ...Object.keys(statePapers).map(Number),
+      ...Object.keys(chaptersF4).map(Number),
+      ...Object.keys(chaptersF5).map(Number),
+    ])).sort((a,b)=>b-a);
+
+    years.forEach(y=>{
+      const states = statePapers[y] || {};
+      const stateNames = Object.keys(states);
+      if (!stateNames.length) return;
+      const h = document.createElement('h2'); h.textContent = `州属试卷 ${y}`; menu.appendChild(h);
+      stateNames.sort().forEach(st=>{
+        const g = document.createElement('div'); g.className='group';
+        const h4 = document.createElement('h4'); h4.textContent = st; g.appendChild(h4);
+        states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
+        menu.appendChild(g);
+      });
     });
 
-    // Form 4 & Form 5（按年）
-    [2025,2024,2023].forEach(y=>{
-      if (chaptersF4[y].length) {
+    years.forEach(y=>{
+      if ((chaptersF4[y]||[]).length) {
         const h = document.createElement('h2'); h.textContent = `Form 4 Chapters ${y}`; menu.appendChild(h);
         const g = document.createElement('div'); g.className='group';
         chaptersF4[y].sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:'base'}))
-             .forEach(ch=> g.appendChild(makeChapterButton(ch)) );
+          .forEach(ch=> g.appendChild(makeChapterButton(ch)));
         menu.appendChild(g);
       }
     });
-    [2025,2024,2023].forEach(y=>{
-      if (chaptersF5[y].length) {
+    years.forEach(y=>{
+      if ((chaptersF5[y]||[]).length) {
         const h = document.createElement('h2'); h.textContent = `Form 5 Chapters ${y}`; menu.appendChild(h);
         const g = document.createElement('div'); g.className='group';
         chaptersF5[y].sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:'base'}))
-             .forEach(ch=> g.appendChild(makeChapterButton(ch)) );
+          .forEach(ch=> g.appendChild(makeChapterButton(ch)));
         menu.appendChild(g);
       }
     });
@@ -386,6 +419,7 @@ document.addEventListener('DOMContentLoaded', () => {
     menu.style.display = 'block';
   }
 
+  /* ================== 出题流程 ================== */
   function startChapter(chap) {
     currentChapter = chap;
     score = 0; correct = 0; wrong = 0; correctStreak = 0; wrongStreak = 0; updateStreak();
@@ -395,7 +429,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadChapterAllSectionsAndStart();
   }
 
-  // 读取该 chapter 下所有行（每行原本是一节）的 CSV，并合并为一个题库
   function getBaseDir(url) {
     try { const u = new URL(url, window.location.href); const s=u.toString(); const i=s.lastIndexOf('/'); return i>=0 ? s.slice(0,i+1) : s; }
     catch { const i=url.lastIndexOf('/'); return i>=0 ? url.slice(0,i+1) : ''; }
@@ -512,8 +545,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
       div.classList.remove('correct-glow','wrong-shake');
       const bubble=document.createElement('div'); bubble.className='score-bubble ' + (delta>0?'plus':'minus'); bubble.textContent=(delta>0?'+':'')+String(delta); div.appendChild(bubble);
-      if (isC){ div.classList.add('correct-glow'); playRight(); setTimeout(()=>div.classList.remove('correct-glow'),900); }
-      else { div.classList.add('wrong-shake'); playWrong(); setTimeout(()=>div.classList.remove('wrong-shake'),900); }
+      if (isC){ playRight(); div.classList.add('correct-glow'); setTimeout(()=>div.classList.remove('correct-glow'),900); }
+      else { playWrong(); div.classList.add('wrong-shake'); setTimeout(()=>div.classList.remove('wrong-shake'),900); }
       setTimeout(()=>bubble.remove(),1000);
 
       const nb=document.createElement('button'); nb.style.marginLeft='8px'; nb.textContent='下一题'; nb.onclick=nextQ; div.appendChild(nb);
@@ -531,7 +564,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('stats').textContent = `得分: ${score}，答对 ${correct} 题，答错 ${wrong} 题`;
 
     const form = document.getElementById('postForm');
-    form.quizId.value  = currentChapter; // 不再包含 section
+    form.quizId.value  = currentChapter;
     form.name.value    = user;
     form.score.value   = score;
     form.correct.value = correct;
@@ -544,8 +577,7 @@ document.addEventListener('DOMContentLoaded', () => {
     launchConfetti(120, 1000);
 
     const ctrl = document.getElementById('controls');
-    ctrl.innerHTML='';
-    const btn = document.createElement('button');
+    ctrl.innerHTML=''; const btn = document.createElement('button');
     btn.textContent = '返回章节选择';
     btn.onclick = () => { document.getElementById('finish').style.display='none'; guardUniversalWindowOrThrow(); renderMenu(); document.getElementById('menu').style.display='block'; };
     ctrl.appendChild(btn);
@@ -567,20 +599,11 @@ document.addEventListener('DOMContentLoaded', () => {
           return String(a.quizId).localeCompare(String(b.quizId));
         });
         const table = document.createElement('table');
-        table.innerHTML = `
-          <thead><tr>
-            <th>测验</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th>
-          </tr></thead>
-          <tbody></tbody>`;
+        table.innerHTML = `<thead><tr><th>测验</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th></tr></thead><tbody></tbody>`;
         const tbody = table.querySelector('tbody');
         all.forEach(r=>{
           const tr = document.createElement('tr');
-          tr.innerHTML = `
-            <td>${escapeHtml(r.quizId||'')}</td>
-            <td>${escapeHtml(r.score||'')}</td>
-            <td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td>
-            <td>${escapeHtml(r.time||'')}</td>
-            <td>${escapeHtml(r.timestamp||'')}</td>`;
+          tr.innerHTML = `<td>${escapeHtml(r.quizId||'')}</td><td>${escapeHtml(r.score||'')}</td><td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td><td>${escapeHtml(r.time||'')}</td><td>${escapeHtml(r.timestamp||'')}</td>`;
           tbody.appendChild(tr);
         });
         wrap.appendChild(table);
@@ -592,7 +615,6 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   function escapeHtml(s){ return String(s).replace(/[&<>"']/g, m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m])); }
-
   function shuffle(arr){ for (let i=arr.length-1;i>0;i--){ const j=Math.floor(Math.random()*(i+1)); [arr[i],arr[j]]=[arr[j],arr[i]]; } return arr; }
   function insertWrongTwiceLater(q, queue) {
     const len = queue.length;
