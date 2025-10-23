@@ -6,24 +6,14 @@
   <title>纪老师 SPM ACC Paper 1 超强训练器</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <style>
-    /* ========== 基础 ========== */
     :root{
-      --black:#111;
-      --fg:#111;
-      --bg:#fff;
-      --muted:#555;
-      --pill:#111;
-      --green:#16a34a;
-      --green-2:#22c55e;
+      --black:#111; --fg:#111; --bg:#fff; --muted:#555;
+      --green:#16a34a; --green-2:#22c55e; --border:#eee;
       --shadow:0 6px 20px rgba(0,0,0,.06);
-      --radius:22px;
-      --radius-sm:12px;
-      --border:#eee;
     }
     html,body{ background:#fff; }
     body { font-family: Arial, sans-serif; max-width:1100px; margin:auto; text-align:center; color:var(--fg); }
-
-    /* 背景装饰：轻微彩色晕染 + 超淡点阵 */
+    /* 背景装饰 */
     body::before{
       content:""; position:fixed; inset:-10% -10% auto -10%;
       height:68vh; pointer-events:none; z-index:-2;
@@ -44,59 +34,44 @@
     #welcome,#menu,#quiz,#finish,#results { margin:20px; }
     #menu,#quiz,#finish,#results { display:none; }
 
-    /* ========== 顶栏 ========== */
-    #topbar {
-      position: sticky; top: 8px; z-index: 50;
-      display:flex; align-items:center; justify-content:space-between; gap:12px; margin:12px 0;
-    }
+    /* 顶栏 */
+    #topbar { position:sticky; top:8px; z-index:50; display:flex; align-items:center; justify-content:space-between; gap:12px; margin:12px 0; }
     .nav-left, .nav-right { display:flex; align-items:center; gap:8px; }
-    .pill-btn{
-      border:0; background:var(--pill); color:#fff; padding:10px 14px; border-radius:999px;
-      cursor:pointer; box-shadow: var(--shadow);
-    }
+    .pill-btn{ border:0; background:#111; color:#fff; padding:10px 14px; border-radius:999px; cursor:pointer; box-shadow:var(--shadow); }
     .pill-btn.light{ background:#222; }
-    .pill-btn.soft{ background:#f3f4f6; color:#111; box-shadow:none; }
     .pill-btn.primary{ background:#0ea5e9; }
     .pill-btn:disabled{ opacity:.6; cursor:not-allowed; }
-    #session-timer { background: var(--black); color:#fff; padding:8px 12px; border-radius:999px; font-size:12px; letter-spacing:.5px; opacity:.9; display:none; box-shadow: var(--shadow); }
+    #session-timer { background:#111; color:#fff; padding:8px 12px; border-radius:999px; font-size:12px; letter-spacing:.5px; opacity:.9; display:none; box-shadow: 0 4px 10px rgba(0,0,0,.25); }
     #sound-toggle.muted { background:#555; }
     #my-results-btn, #back-to-chapters-btn { display:none; }
 
-    /* ========== Hero / 品牌区 ========== */
+    /* Hero */
     .hero{
-      margin: 28px auto;
-      padding: 32px 28px;
-      border-radius: var(--radius);
-      max-width: 950px;
+      margin: 28px auto; padding: 32px 28px; border-radius:22px; max-width: 950px;
       background:
         radial-gradient(1200px 420px at -10% -10%, #e7f8ff 0%, rgba(255,255,255,0) 60%),
         radial-gradient(900px 320px at 110% 20%, #eef9f1 0%, rgba(255,255,255,0) 55%),
         linear-gradient(135deg,#fff,#fafafa);
-      border: 1px solid var(--border);
-      box-shadow: var(--shadow);
-      text-align: center;
+      border:1px solid var(--border); box-shadow:var(--shadow); text-align:center;
     }
     .brand{ display:flex; align-items:center; justify-content:center; gap:14px; flex-wrap:wrap; }
-    .brand-icon{
-      width:56px; height:56px; border-radius:16px; background:var(--black); color:#fff;
-      display:grid; place-items:center; font-weight:800; letter-spacing:.5px; box-shadow: var(--shadow);
-    }
+    .brand-icon{ width:56px; height:56px; border-radius:16px; background:#111; color:#fff; display:grid; place-items:center; font-weight:800; letter-spacing:.5px; box-shadow:var(--shadow); }
     .brand-title{ margin:0; font-size:30px; line-height:1.15; }
     .brand-sub{ margin:6px 0 0; color:#555; }
     .tag-row{ margin-top:12px; display:flex; gap:8px; flex-wrap:wrap; justify-content:center; }
     .tag{ font-size:12px; padding:6px 12px; border-radius:999px; border:1px solid #e5e7eb; background:#fff; color:#111; }
     .tag.hot{ border-color:var(--green); color:var(--green); background:#f0fff5; }
-    .tag.dark{ background:var(--black); color:#fff; border-color:var(--black); }
+    .tag.dark{ background:#111; color:#fff; border-color:#111; }
 
-    /* ========== 菜单与题目 ========== */
+    /* 菜单/题目 */
     h2 { margin-top:26px; }
     h3 { margin-top:18px; text-align:left; }
     .group { margin:6px 0 18px; text-align:left; }
     .group h4 { margin:8px 0; }
-    .pill { display:inline-flex; align-items:center; gap:8px; margin:6px; padding:8px 12px; border-radius:999px; background:var(--black); color:#fff; border:0; cursor:pointer; }
+    .pill { display:inline-flex; align-items:center; gap:8px; margin:6px; padding:8px 12px; border-radius:999px; background:#111; color:#fff; border:0; cursor:pointer; }
     .badge { background:#fff; color:#111; padding:2px 8px; border-radius:999px; font-size:12px; }
     .badge-gray { background:#e5e7eb; color:#111; }
-    .badge-green { background:var(--green-2); color:#fff; }
+    .badge-green { background:#22c55e; color:#fff; }
 
     .question { text-align:left; margin:15px 0; padding:16px 20px; border:2px solid #ddd; border-radius:14px; transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease; position:relative; }
     .option-label { display:block; margin:6px 0; cursor:pointer; }
@@ -133,15 +108,13 @@
     .confetti-piece { position:absolute; width:10px; height:16px; opacity:0.9; border-radius:3px; animation: fall linear forwards; }
     @keyframes fall { 0% { transform: translateY(-120%) rotate(0deg);} 100% { transform: translateY(120vh) rotate(720deg);} }
 
-    /* WhatsApp 浮动按钮 */
+    /* WhatsApp 浮动按钮与页脚 */
     .wa-fab{
       position:fixed; right:18px; bottom:18px; z-index:60;
       background:#25D366; color:#fff; padding:12px 16px; border-radius:999px;
       box-shadow: var(--shadow); text-decoration:none; font-weight:700;
     }
     .wa-fab:hover{ filter:brightness(1.05); }
-
-    /* 页脚 */
     footer{ margin:40px auto 24px; color:#444; font-size:14px; }
     footer a{ color:#0ea5e9; text-decoration:none; }
     footer a:hover{ text-decoration:underline; }
@@ -162,7 +135,7 @@
   </div>
   <div id="confetti"></div>
 
-  <!-- Hero / Brand -->
+  <!-- Hero / 品牌区 -->
   <section class="hero">
     <div class="brand">
       <div class="brand-icon">ACC</div>
@@ -185,7 +158,7 @@
     <input type="text" id="username" placeholder="姓名 / Name"/>
     <input type="password" id="password" placeholder="密码 / Password"/>
     <button id="startBtn" type="button" class="pill-btn">登录 / Log In</button>
-    <div class="muted" style="margin-top:8px;">免费试用密码：<b>testing</b>（5分钟）；RM10 一次性开通，解锁「无限练习」（不限次数，不限时间）开通请联系：纪老师 016-7312519</div>
+    <div class="muted" style="margin-top:8px;">免费试用密码：<b>testing</b>（5分钟）；RM10 一次性开通，解锁「无限练习」（不限次数，不限时间）。购买请联系：纪老师 016-7312519</div>
   </div>
 
   <!-- 菜单 -->
@@ -210,7 +183,7 @@
     <div id="controls"></div>
   </div>
 
-  <!-- 成绩 -->
+  <!-- 我的成绩 -->
   <div id="results">
     <h2>📊 我的成绩 / My Results</h2>
     <div id="results-summary" class="muted"></div>
@@ -220,7 +193,7 @@
     </div>
   </div>
 
-  <!-- 成绩提交 -->
+  <!-- 成绩提交表单（ACC 部署地址） -->
   <iframe name="postFrame" style="display:none;"></iframe>
   <form id="postForm"
         action="https://script.google.com/macros/s/AKfycbxMi-Xv5OWubnwx-tDS2XPsKhUpfGf1e-rMtgPFs4mwA4VvEL1L7gVEXiN_oFK9hyaLWQ/exec"
@@ -229,23 +202,23 @@
     <input name="correct"/><input name="wrong"/><input name="time"/>
   </form>
 
-  <!-- WhatsApp 一键联系 -->
+  <!-- WhatsApp 一键联系（ACC 文案） -->
   <a class="wa-fab" href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20ACC%20P1%20Booster." target="_blank" rel="noopener">💬 WhatsApp</a>
 
   <!-- 页脚 -->
   <footer>
-    如有任何疑问，请联系纪老师 016-7312519 。
-    或直接 <a href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20ACC%20P1%20Booster." target="_blank" rel="noopener">一键打开 WhatsApp</a>
+    如有任何疑问，请联系纪老师 016-7312519 ，或直接
+    <a href="https://wa.me/60167312519?text=Hi%20Mr%20Kee%2C%20I%27d%20like%20to%20ask%20about%20ACC%20P1%20Booster." target="_blank" rel="noopener">一键打开 WhatsApp</a>。
   </footer>
 
 <script>
 document.addEventListener('DOMContentLoaded', () => {
-  /* ======= 成绩表 CSV ======= */
+  /* ======= 成绩表 CSV（与你现有设置一致） ======= */
   const SHEET_ID = '1bUFFiucc1p_z2eFWq6AEdIvdHVZ8gIn_trDJ8PDT_s8';
   const SHEET_GID = '0';
   const RESULTS_CSV_URL = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=${SHEET_GID}`;
 
-  // ======= 登录/会话（试用万能码 5 分钟） =======
+  // ======= 登录/会话（试用 5 分钟） =======
   let user = '', usedUniversal = false;
   const UWP_WINDOW_MS = 5 * 60 * 1000;
   function setUniversalStart(ts) { localStorage.setItem('uwpStart', String(ts)); }
@@ -285,48 +258,65 @@ document.addEventListener('DOMContentLoaded', () => {
   function playRight(){ beep(1100, .10, 'sine', .06); setTimeout(()=>beep(1500,.12,'sine',.05),90); }
   function playWrong(){ beep(220, .12, 'sawtooth', .05); setTimeout(()=>beep(160,.14,'square',.05),100); }
 
-  // ======= 成绩存取 =======
-      // 👉 区分科目前缀，防止不同科成绩混在一起
-  const SUBJECT_PREFIX = 'ACC';  // 改成 ACC / SC / SEJ 视科目而定
+  // ======= 成绩存取（按科目隔离） =======
+  const SUBJECT_PREFIX = 'ACC';  // ★ 本科目前缀
   const LS_KEY = (name)=>`results_${SUBJECT_PREFIX}_${name.toLowerCase()}`;
-  function loadLocalResults() { try { localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); } catch { localResults = []; } }
-  function saveLocalResult(rec) { loadLocalResults(); localResults.push(rec); localStorage.setItem(LS_KEY(user), JSON.stringify(localResults)); }
-  function mergeResults() { return [...cloudResults, ...localResults]; }
-  function buildBestScoreMap() {
+  let cloudResults = []; let localResults = [];
+  function loadLocalResults(){ try{ localResults = JSON.parse(localStorage.getItem(LS_KEY(user))||'[]'); } catch { localResults=[]; } }
+  function saveLocalResult(rec){ loadLocalResults(); localResults.push(rec); localStorage.setItem(LS_KEY(user), JSON.stringify(localResults)); }
+  function mergeResults(){ return [...cloudResults, ...localResults]; }
+  function buildBestScoreMap(){
     const all = mergeResults(); const best = {};
-    all.forEach(r=>{ const qid = String(r.quizId||'').trim(); const sc = Number(r.score||0);
-      if (!qid) return; if (!(qid in best) || sc > best[qid]) best[qid] = sc; });
+    all.forEach(r=>{
+      const pure = (r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, '')).trim();
+      const sc = Number(r.score||0);
+      if(!pure) return;
+      if(!(pure in best) || sc > best[pure]) best[pure] = sc;
+    });
     return best;
   }
   function bestScoreForChapter(chap, bestMap){
     let candidate = (bestMap[chap] != null) ? bestMap[chap] : null;
-    for (const [k,v] of Object.entries(bestMap)){ if (k.startsWith(chap + '_')) candidate = Math.max(candidate ?? -Infinity, v); }
+    for (const [k,v] of Object.entries(bestMap)){
+      if (k.startsWith(chap + '_')) candidate = Math.max(candidate ?? -Infinity, v);
+    }
     return candidate;
   }
-  function fetchCloudResultsFor(name) {
-    return new Promise((resolve) => {
-      Papa.parse(RESULTS_CSV_URL, {
+  function fetchCloudResultsFor(name){
+    return new Promise((resolve)=>{
+      Papa.parse(RESULTS_CSV_URL,{
         download:true, header:true, skipEmptyLines:true,
-        complete: (res) => {
-          const rows = (res.data||[]).map(r=>{
+        complete:(res)=>{
+          const rows=(res.data||[]).map(r=>{
             const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; });
-            return { quizId: o.quizid||o.quiz_id||'', name:o.name||'', score:o.score||'', correct:o.correct||'', wrong:o.wrong||'', time:o.time||'', timestamp:o.timestamp||'' };
-          }).filter(r=>String(r.name||'').toLowerCase()===name.toLowerCase());
+            const rawId = o.quizid || o.quiz_id || '';
+            const isThisSubject = /^ACC\|/i.test(rawId);   // ★ 只要 ACC 的
+            if(!isThisSubject) return null;
+            return {
+              quizId: rawId,
+              quizIdPure: rawId.replace(/^.*?\|/, '').trim(),
+              name: o.name || '',
+              score: o.score || '',
+              correct: o.correct || '',
+              wrong: o.wrong || '',
+              time: o.time || '',
+              timestamp: o.timestamp || ''
+            };
+          }).filter(r=>r && String(r.name||'').toLowerCase()===name.toLowerCase());
           cloudResults = rows; resolve(rows);
         },
-        error: ()=>{ cloudResults=[]; resolve([]); }
+        error:()=>{ cloudResults=[]; resolve([]); }
       });
     });
   }
 
   // ======= 题库/菜单数据 =======
-  let chapters = [], grouped = {};
-  let chapterKey, sectionKey, labelKey, sheetKey, groupKey;
-  let currentChapter = '';
+  let chapters=[], grouped={}; let chapterKey, sectionKey, labelKey, sheetKey; let currentChapter='';
 
   // ======= 测验状态 =======
-  let qs = [], queue = [], score = 0, correct = 0, wrong = 0;
-  let chapterStart = 0; let correctStreak = 0, wrongStreak = 0; const MAX_OPTS = 15;
+  let qs=[], queue=[], score=0, correct=0, wrong=0;
+  let chapterStart=0; let correctStreak=0, wrongStreak=0;
+  const MAX_OPTS=15;
 
   const PASSWORDS_CSV = 'Passwords.csv';
   document.getElementById('startBtn').onclick = attemptLogin;
@@ -342,58 +332,61 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('menu').scrollIntoView({behavior:'smooth', block:'start'});
   }
 
-  function attemptLogin() {
-    const nm = document.getElementById('username').value.trim();
-    const pw = document.getElementById('password').value;
-    if (!nm || !pw) return alert('请输入姓名与密码 / Please enter both name and password.');
+  function attemptLogin(){
+    const nm=document.getElementById('username').value.trim();
+    const pw=document.getElementById('password').value;
+    if(!nm||!pw) return alert('请输入姓名与密码 / Please enter both name and password.');
 
-    Papa.parse(PASSWORDS_CSV, { download:true, header:true, skipEmptyLines:true,
-      complete: async (res) => {
-        const rows = (res.data||[]).map(r => { const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()] = typeof v==='string'? v.trim(): v; }); return o; });
-        const nameKey = 'name', passKey='password';
-        const uwpRow = rows.find(r=>r[nameKey]==='*'); const uwpPassword = uwpRow ? (uwpRow[passKey]||'') : '';
+    Papa.parse(PASSWORDS_CSV,{download:true,header:true,skipEmptyLines:true,
+      complete: async (res)=>{
+        const rows=(res.data||[]).map(r=>{ const o={}; Object.entries(r).forEach(([k,v])=>{ o[k.trim().toLowerCase()]=typeof v==='string'? v.trim(): v; }); return o; });
+        const nameKey='name', passKey='password';
+        const uwpRow=rows.find(r=>r[nameKey]==='*'); const uwpPassword=uwpRow?(uwpRow[passKey]||''):'';
 
-        if (uwpPassword && pw===uwpPassword) { if (universalRemainingMs()<=0) setUniversalStart(Date.now()); usedUniversal = true; updateSessionTimer(); user = nm; afterLogin(); return; }
-        const match = rows.find(r => String(r[nameKey]||'').toLowerCase()===nm.toLowerCase() && String(r[passKey]||'')===pw);
-        if (!match) return alert('姓名或密码不正确 / Name or password incorrect.');
+        if(uwpPassword && pw===uwpPassword){
+          if(universalRemainingMs()<=0) setUniversalStart(Date.now());
+          usedUniversal=true; updateSessionTimer();
+          user=nm; afterLogin(); return;
+        }
+        const match=rows.find(r=>String(r[nameKey]||'').toLowerCase()===nm.toLowerCase() && String(r[passKey]||'')===pw);
+        if(!match) return alert('姓名或密码不正确 / Name or password incorrect.');
 
-        clearUniversalStart(); usedUniversal=false; showSessionTimer(false); user = nm; afterLogin();
+        clearUniversalStart(); usedUniversal=false; showSessionTimer(false);
+        user=nm; afterLogin();
       },
-      error: ()=> alert('无法读取 Passwords.csv，请确认文件存在且可公开访问')
+      error:()=> alert('无法读取 Passwords.csv，请确认文件存在且可公开访问')
     });
   }
 
-  async function afterLogin() {
+  async function afterLogin(){
     await fetchCloudResultsFor(user);
     loadLocalResults();
     document.getElementById('my-results-btn').style.display = 'inline-block';
-    document.getElementById('back-to-chapters-btn').style.display = 'inline-block';
+    document.getElementById('back-to-chapters-btn').style.display='inline-block';
     document.getElementById('welcome').style.display='none';
     loadChapters();
-    // 自动滚到章节列表
     setTimeout(()=>document.getElementById('menu').scrollIntoView({behavior:'smooth'}), 50);
   }
 
-  function guardUniversalWindowOrThrow() {
+  function guardUniversalWindowOrThrow(){
     if (!usedUniversal) return;
     if (universalRemainingMs() <= 0) { alert('会话已到期，请重新登录。'); location.reload(); throw new Error('Session expired'); }
   }
 
-  function loadChapters() {
+  function loadChapters(){
     Papa.parse('Chapters.csv',{download:true,header:true,skipEmptyLines:true,
-      complete(res) {
+      complete(res){
         guardUniversalWindowOrThrow();
-        chapters = (res.data||[]).map(raw => { const r={}; Object.entries(raw).forEach(([k,v])=>{ r[k.trim()] = typeof v==='string'? v.trim(): v; }); return r; });
+        chapters=(res.data||[]).map(raw => { const r={}; Object.entries(raw).forEach(([k,v])=>{ r[k.trim()] = typeof v==='string'? v.trim(): v; }); return r; });
         if (!chapters.length) return alert('请检查 Chapters.csv');
 
-        const keys = Object.keys(chapters[0]);
-        chapterKey = keys.find(k=>k.toLowerCase()==='chapter');
-        sectionKey = keys.find(k=>k.toLowerCase()==='section');
-        labelKey   = keys.find(k=>k.toLowerCase()==='label');
-        sheetKey   = keys.find(k=>k.toLowerCase()==='sheet');
-        groupKey   = keys.find(k=>k.toLowerCase()==='group');
+        const keys=Object.keys(chapters[0]);
+        chapterKey=keys.find(k=>k.toLowerCase()==='chapter');
+        sectionKey=keys.find(k=>k.toLowerCase()==='section');
+        labelKey  =keys.find(k=>k.toLowerCase()==='label');
+        sheetKey  =keys.find(k=>k.toLowerCase()==='sheet');
 
-        grouped = {};
+        grouped={};
         chapters.forEach(r => { const c=r[chapterKey]; (grouped[c]||(grouped[c]=[])).push(r); });
 
         renderMenu();
@@ -401,49 +394,27 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  /* ============ 分组渲染（支持 group 列；无 group 时自动推断） ============ */
-  function extractYear(str){ const m=String(str).match(/20\d{2}/); return m?Number(m[0]):null; }
-  function isChapterLabel(str){
-    const s=String(str);
-    const hasForm=/(F[45]|Form ?[45]|Ting(?:katan)? ?[45])/i.test(s);
-    const hasChapterWord=/(Chp|Chapter|Chap|Bab)\b/i.test(s);
-    const hasBabNum=/\bBab\s*\d+/i.test(s);
-    return hasForm && (hasChapterWord || hasBabNum);
-  }
-
-  function renderMenu() {
-    const menu = document.getElementById('menu');
+  function renderMenu(){
+    const menu=document.getElementById('menu');
     menu.innerHTML = '<h2>请选择章节 / Select Chapter</h2>';
 
     const bestMap = buildBestScoreMap();
 
-    const statePapers = {}, chaptersF4 = {}, chaptersF5 = {};
-    Object.keys(grouped).forEach(chap => {
-      const year = extractYear(chap); if (!year) return;
-      statePapers[year] ||= {}; chaptersF4[year] ||= []; chaptersF5[year] ||= [];
+    // 预分类容器（按年 & F4/F5 & 州属）
+    const statePapers = {2025:{},2024:{},2023:{}};
+    const chaptersF4 = {2025:[],2024:[],2023:[]};
+    const chaptersF5 = {2025:[],2024:[],2023:[]};
 
-      if (groupKey) {
-        const gval = String((grouped[chap][0][groupKey]||'')).toLowerCase();
-        if (gval === 'chapter') {
-          if (/(F4|Form ?4|Ting(?:katan)? ?4)/i.test(chap)) chaptersF4[year].push(chap);
-          else if (/(F5|Form ?5|Ting(?:katan)? ?5)/i.test(chap)) chaptersF5[year].push(chap);
-          else chaptersF4[year].push(chap);
-          return;
-        }
-        if (gval === 'state') {
-          const state = chap.split(' ')[0] || 'Others';
-          (statePapers[year][state] ||= []).push(chap);
-          return;
-        }
-      }
-      // 没有 group 列或值异常 → 推断
-      if (isChapterLabel(chap)) {
-        if (/(F4|Form ?4|Ting(?:katan)? ?4)/i.test(chap)) chaptersF4[year].push(chap);
-        else if (/(F5|Form ?5|Ting(?:katan)? ?5)/i.test(chap)) chaptersF5[year].push(chap);
-        else chaptersF4[year].push(chap);
+    Object.keys(grouped).forEach(chap => {
+      const year = chap.match(/2025/)?2025 : chap.match(/2024/)?2024 : chap.match(/2023/)?2023 : null;
+      if (!year) return;
+      if (/Chp/i.test(chap)) {
+        if (/F4/i.test(chap)) chaptersF4[year].push(chap);
+        else if (/F5/i.test(chap)) chaptersF5[year].push(chap);
       } else {
-        const state = chap.split(' ')[0] || 'Others';
-        (statePapers[year][state] ||= []).push(chap);
+        const state = chap.split(' ')[0];
+        if (!statePapers[year][state]) statePapers[year][state] = [];
+        statePapers[year][state].push(chap);
       }
     });
 
@@ -460,40 +431,42 @@ document.addEventListener('DOMContentLoaded', () => {
       return btn;
     };
 
-    const years = Array.from(new Set([
-      ...Object.keys(statePapers).map(Number),
-      ...Object.keys(chaptersF4).map(Number),
-      ...Object.keys(chaptersF5).map(Number),
-    ])).sort((a,b)=>b-a);
-
-    years.forEach(y=>{
-      const states = statePapers[y] || {};
-      const stateNames = Object.keys(states);
-      if (!stateNames.length) return;
-      const h = document.createElement('h2'); h.textContent = `州属试卷 ${y}`; menu.appendChild(h);
-      stateNames.sort().forEach(st=>{
-        const g = document.createElement('div'); g.className='group';
-        const h4 = document.createElement('h4'); h4.textContent = st; g.appendChild(h4);
-        states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)));
-        menu.appendChild(g);
-      });
+    // 州属试卷（2025→2024→2023）
+    [2025,2024,2023].forEach(y=>{
+      const states = statePapers[y];
+      if (Object.keys(states).length) {
+        const h = document.createElement('h2'); h.textContent = `州属试卷 ${y}`; menu.appendChild(h);
+        for (const st of Object.keys(states).sort()) {
+          const g = document.createElement('div'); g.className='group';
+          const h4 = document.createElement('h4'); h4.textContent = st; g.appendChild(h4);
+          states[st].sort().forEach(ch=> g.appendChild(makeChapterButton(ch)) );
+          menu.appendChild(g);
+        }
+      }
     });
 
-    years.forEach(y=>{
-      if ((chaptersF4[y]||[]).length) {
+    // Form 4 & Form 5（按年，Bab 自然排序）
+    [2025,2024,2023].forEach(y=>{
+      if (chaptersF4[y].length) {
         const h = document.createElement('h2'); h.textContent = `Form 4 Chapters ${y}`; menu.appendChild(h);
         const g = document.createElement('div'); g.className='group';
-        chaptersF4[y].sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:'base'}))
-          .forEach(ch=> g.appendChild(makeChapterButton(ch)));
+        chaptersF4[y].sort((a,b)=>{
+          const na=parseInt(a.match(/Bab\s*(\d+)/i)?.[1]||0);
+          const nb=parseInt(b.match(/Bab\s*(\d+)/i)?.[1]||0);
+          return (na-nb)||a.localeCompare(b, undefined, {sensitivity:'base'});
+        }).forEach(ch=> g.appendChild(makeChapterButton(ch)) );
         menu.appendChild(g);
       }
     });
-    years.forEach(y=>{
-      if ((chaptersF5[y]||[]).length) {
+    [2025,2024,2023].forEach(y=>{
+      if (chaptersF5[y].length) {
         const h = document.createElement('h2'); h.textContent = `Form 5 Chapters ${y}`; menu.appendChild(h);
         const g = document.createElement('div'); g.className='group';
-        chaptersF5[y].sort((a,b)=>a.localeCompare(b, undefined, {numeric:true, sensitivity:'base'}))
-          .forEach(ch=> g.appendChild(makeChapterButton(ch)));
+        chaptersF5[y].sort((a,b)=>{
+          const na=parseInt(a.match(/Bab\s*(\d+)/i)?.[1]||0);
+          const nb=parseInt(b.match(/Bab\s*(\d+)/i)?.[1]||0);
+          return (na-nb)||a.localeCompare(b, undefined, {sensitivity:'base'});
+        }).forEach(ch=> g.appendChild(makeChapterButton(ch)) );
         menu.appendChild(g);
       }
     });
@@ -501,7 +474,6 @@ document.addEventListener('DOMContentLoaded', () => {
     menu.style.display = 'block';
   }
 
-  /* ================== 出题流程 ================== */
   function startChapter(chap) {
     currentChapter = chap;
     score = 0; correct = 0; wrong = 0; correctStreak = 0; wrongStreak = 0; updateStreak();
@@ -511,6 +483,7 @@ document.addEventListener('DOMContentLoaded', () => {
     loadChapterAllSectionsAndStart();
   }
 
+  // 读取该 chapter 下所有行（每行原本是一节）的 CSV，并合并为一个题库
   function getBaseDir(url) {
     try { const u = new URL(url, window.location.href); const s=u.toString(); const i=s.lastIndexOf('/'); return i>=0 ? s.slice(0,i+1) : s; }
     catch { const i=url.lastIndexOf('/'); return i>=0 ? url.slice(0,i+1) : ''; }
@@ -584,7 +557,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (qType==='text') {
       opts.innerHTML = '<input type="text" id="txtAns" placeholder="请输入答案…"/>';
     } else {
-      const letters = Array.from({length:MAX_OPTS},(_,i)=>String.fromCharCode(65+i));
+      const letters = Array.from({length:15},(_,i)=>String.fromCharCode(65+i));
       const avail = letters.filter(l=>q[l]);
       avail.forEach(l=>{
         const inp = document.createElement('input');
@@ -613,7 +586,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (qType==='text') {
         const lows=ua.map(s=>s.toLowerCase()); const ansList=ansStr.split(',').map(s=>s.trim().toLowerCase()); isC = lows.some(v=>ansList.includes(v));
       } else {
-        const uaA = ua.map(s=>s.toUpperCase()).sort().join(','); const caA = ansStr.split(',').map(s=>s.trim().toUpperCase()).sort().join(','); isC = uaA===caA;
+        const uaA = ua.map(s=>s.toUpperCase()).sort().join(','); const caA = ansStr.split(',').map(s=>s.trim().toUpperCase()).sort().join(','); isC = (uaA===caA);
       }
 
       const delta = isC ? (q.attempt?1:2) : (q.attempt?-2:-1);
@@ -625,7 +598,6 @@ document.addEventListener('DOMContentLoaded', () => {
       fb.textContent = isC?`正确! +${delta}`:`错误! ${delta} 正确答案: ${ansTxt}`;
       updateUI(delta); flashProgress(isC); sb.disabled=true;
 
-      div.classList.remove('correct-glow','wrong-shake');
       const bubble=document.createElement('div'); bubble.className='score-bubble ' + (delta>0?'plus':'minus'); bubble.textContent=(delta>0?'+':'')+String(delta); div.appendChild(bubble);
       if (isC){ playRight(); div.classList.add('correct-glow'); setTimeout(()=>div.classList.remove('correct-glow'),900); }
       else { playWrong(); div.classList.add('wrong-shake'); setTimeout(()=>div.classList.remove('wrong-shake'),900); }
@@ -646,7 +618,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.getElementById('stats').textContent = `得分: ${score}，答对 ${correct} 题，答错 ${wrong} 题`;
 
     const form = document.getElementById('postForm');
-    form.quizId.value  = currentChapter;
+    form.quizId.value  = SUBJECT_PREFIX + '|' + currentChapter;  // ★ 带前缀
     form.name.value    = user;
     form.score.value   = score;
     form.correct.value = correct;
@@ -654,16 +626,17 @@ document.addEventListener('DOMContentLoaded', () => {
     form.time.value    = Math.floor((Date.now()-chapterStart)/1000);
     form.submit();
 
-    saveLocalResult({ quizId: form.quizId.value, name: user, score, correct, wrong, time: form.time.value, timestamp: new Date().toISOString() });
+    saveLocalResult({ quizId: form.quizId.value, name:user, score, correct, wrong, time: form.time.value, timestamp:new Date().toISOString() });
 
     launchConfetti(120, 1000);
 
     const ctrl = document.getElementById('controls');
     ctrl.innerHTML='';
-    const btn1 = document.createElement('button');
-    btn1.className='pill-btn'; btn1.textContent = '返回章节选择';
-    btn1.onclick = backToMenu;
-    ctrl.appendChild(btn1);
+    const btn = document.createElement('button');
+    btn.className='pill-btn';
+    btn.textContent = '返回章节选择';
+    btn.onclick = backToMenu;
+    ctrl.appendChild(btn);
   }
 
   function openResults() {
@@ -682,11 +655,20 @@ document.addEventListener('DOMContentLoaded', () => {
           return String(a.quizId).localeCompare(String(b.quizId));
         });
         const table = document.createElement('table');
-        table.innerHTML = `<thead><tr><th>测验</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th></tr></thead><tbody></tbody>`;
+        table.innerHTML = `
+          <thead><tr>
+            <th>测验</th><th>分数</th><th>正确/错误</th><th>用时(秒)</th><th>时间</th>
+          </tr></thead>
+          <tbody></tbody>`;
         const tbody = table.querySelector('tbody');
         all.forEach(r=>{
           const tr = document.createElement('tr');
-          tr.innerHTML = `<td>${escapeHtml(r.quizId||'')}</td><td>${escapeHtml(r.score||'')}</td><td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td><td>${escapeHtml(r.time||'')}</td><td>${escapeHtml(r.timestamp||'')}</td>`;
+          tr.innerHTML = `
+            <td>${escapeHtml(r.quizIdPure || String(r.quizId||'').replace(/^.*?\|/, ''))}</td>
+            <td>${escapeHtml(r.score||'')}</td>
+            <td>${escapeHtml(r.correct||'')}/${escapeHtml(r.wrong||'')}</td>
+            <td>${escapeHtml(r.time||'')}</td>
+            <td>${escapeHtml(r.timestamp||'')}</td>`;
           tbody.appendChild(tr);
         });
         wrap.appendChild(table);
