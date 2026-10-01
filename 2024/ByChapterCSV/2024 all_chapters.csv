@@ -1,0 +1,641 @@
+﻿title,type,question,A,B,C,D,answer,image
+F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,B,Johor Set 1/Picture1.png
+F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,B,Johor Set 1/Picture2.png
+F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,C,Johor Set 2/Picture1.png
+F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,C,Johor Set 2/Picture2.png
+F4 Chp 1,radio,Kedah_Q01,A,B,C,D,D,Kedah/Picture1.png
+F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png
+F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png
+F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png
+F4 Chp 1,radio,Kl_Q01,A,B,C,D,C,KL/Picture1.png
+F4 Chp 1,radio,Kl_Q02,A,B,C,D,A,KL/Picture2.png
+F4 Chp 1,radio,Melaka_Q01,A,B,C,D,D,Melaka/Picture1.png
+F4 Chp 1,radio,Melaka_Q02,A,B,C,D,A,Melaka/Picture2.png
+F4 Chp 1,radio,Mrsm_Q01,A,B,C,D,D,MRSM/Picture1.png
+F4 Chp 1,radio,Mrsm_Q02,A,B,C,D,B,MRSM/Picture2.png
+F4 Chp 1,radio,NegeriSembilan_Q01,A,B,C,D,D,Negeri Sembilan/Picture1.png
+F4 Chp 1,radio,NegeriSembilan_Q02,A,B,C,D,B,Negeri Sembilan/Picture2.png
+F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png
+F4 Chp 1,radio,Pahang_Q02,A,B,C,D,C,Pahang/Picture2.png
+F4 Chp 1,radio,PenangPpdBaratDaya_Q01,A,B,C,D,A,Penang PPD Barat Daya/Picture1.png
+F4 Chp 1,radio,PenangPpdBaratDaya_Q02,A,B,C,D,A,Penang PPD Barat Daya/Picture2.png
+F4 Chp 1,radio,Perak_Q01,A,B,C,D,C,Perak/Picture1.png
+F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png
+F4 Chp 1,radio,Perlis_Q01,A,B,C,D,D,Perlis/Picture1.png
+F4 Chp 1,radio,Perlis_Q02,A,B,C,D,B,Perlis/Picture2.png
+F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 1/Picture1.png
+F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,A,Selangor Set 1/Picture2.png
+F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 2/Picture1.png
+F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,B,Selangor Set 2/Picture2.png
+F4 Chp 1,radio,Smka_Q01,A,B,C,D,D,SMKA/Picture1.png
+F4 Chp 1,radio,Smka_Q02,A,B,C,D,D,SMKA/Picture2.png
+F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,B,Terengganu/Picture1.png
+F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,D,Terengganu/Picture2.png
+F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,C,Johor Set 1/Picture3.png
+F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,C,Johor Set 1/Picture4.png
+F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,A,Johor Set 1/Picture5.png
+F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,A,Johor Set 2/Picture3.png
+F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,B,Johor Set 2/Picture4.png
+F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,D,Johor Set 2/Picture5.png
+F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png
+F4 Chp 2,radio,Kedah_Q04,A,B,C,D,D,Kedah/Picture4.png
+F4 Chp 2,radio,Kedah_Q05,A,B,C,D,C,Kedah/Picture5.png
+F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,D,Kelantan/Picture3.png
+F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,D,Kelantan/Picture4.png
+F4 Chp 2,radio,Kelantan_Q05,A,B,C,D,D,Kelantan/Picture5.png
+F4 Chp 2,radio,Kl_Q03,A,B,C,D,A,KL/Picture3.png
+F4 Chp 2,radio,Kl_Q04,A,B,C,D,A,KL/Picture4.png
+F4 Chp 2,radio,Kl_Q05,A,B,C,D,B,KL/Picture5.png
+F4 Chp 2,radio,Melaka_Q03,A,B,C,D,D,Melaka/Picture3.png
+F4 Chp 2,radio,Melaka_Q04,A,B,C,D,A,Melaka/Picture4.png
+F4 Chp 2,radio,Melaka_Q05,A,B,C,D,A,Melaka/Picture5.png
+F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,A,MRSM/Picture3.png
+F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,A,MRSM/Picture4.png
+F4 Chp 2,radio,Mrsm_Q05,A,B,C,D,C,MRSM/Picture5.png
+F4 Chp 2,radio,NegeriSembilan_Q03,A,B,C,D,A,Negeri Sembilan/Picture3.png
+F4 Chp 2,radio,NegeriSembilan_Q04,A,B,C,D,D,Negeri Sembilan/Picture4.png
+F4 Chp 2,radio,NegeriSembilan_Q05,A,B,C,D,C,Negeri Sembilan/Picture5.png
+F4 Chp 2,radio,Pahang_Q03,A,B,C,D,B,Pahang/Picture3.png
+F4 Chp 2,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png
+F4 Chp 2,radio,Pahang_Q05,A,B,C,D,C,Pahang/Picture5.png
+F4 Chp 2,radio,PenangPpdBaratDaya_Q03,A,B,C,D,D,Penang PPD Barat Daya/Picture3.png
+F4 Chp 2,radio,PenangPpdBaratDaya_Q04,A,B,C,D,D,Penang PPD Barat Daya/Picture4.png
+F4 Chp 2,radio,PenangPpdBaratDaya_Q05,A,B,C,D,C,Penang PPD Barat Daya/Picture5.png
+F4 Chp 2,radio,Perak_Q03,A,B,C,D,D,Perak/Picture3.png
+F4 Chp 2,radio,Perak_Q04,A,B,C,D,B,Perak/Picture4.png
+F4 Chp 2,radio,Perak_Q05,A,B,C,D,D,Perak/Picture5.png
+F4 Chp 2,radio,Perlis_Q03,A,B,C,D,C,Perlis/Picture3.png
+F4 Chp 2,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png
+F4 Chp 2,radio,Perlis_Q05,A,B,C,D,A,Perlis/Picture5.png
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,B,Selangor Set 1/Picture3.png
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,D,Selangor Set 1/Picture4.png
+F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 1/Picture5.png
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,D,Selangor Set 2/Picture3.png
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor Set 2/Picture4.png
+F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 2/Picture5.png
+F4 Chp 2,radio,Smka_Q03,A,B,C,D,B,SMKA/Picture3.png
+F4 Chp 2,radio,Smka_Q04,A,B,C,D,C,SMKA/Picture4.png
+F4 Chp 2,radio,Smka_Q05,A,B,C,D,B,SMKA/Picture5.png
+F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png
+F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,B,Terengganu/Picture4.png
+F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png
+F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,C,Johor Set 1/Picture6.png
+F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,A,Johor Set 2/Picture6.png
+F4 Chp 3,radio,Kedah_Q06,A,B,C,D,A,Kedah/Picture6.png
+F4 Chp 3,radio,Kelantan_Q06,A,B,C,D,B,Kelantan/Picture6.png
+F4 Chp 3,radio,Kl_Q06,A,B,C,D,D,KL/Picture6.png
+F4 Chp 3,radio,Melaka_Q06,A,B,C,D,C,Melaka/Picture6.png
+F4 Chp 3,radio,Mrsm_Q06,A,B,C,D,C,MRSM/Picture6.png
+F4 Chp 3,radio,NegeriSembilan_Q06,A,B,C,D,B,Negeri Sembilan/Picture6.png
+F4 Chp 3,radio,Pahang_Q06,A,B,C,D,A,Pahang/Picture6.png
+F4 Chp 3,radio,PenangPpdBaratDaya_Q06,A,B,C,D,D,Penang PPD Barat Daya/Picture6.png
+F4 Chp 3,radio,Perak_Q06,A,B,C,D,C,Perak/Picture6.png
+F4 Chp 3,radio,Perlis_Q06,A,B,C,D,A,Perlis/Picture6.png
+F4 Chp 3,radio,SelangorSet_Q06,A,B,C,D,C,Selangor Set 1/Picture6.png
+F4 Chp 3,radio,SelangorSet_Q06,A,B,C,D,B,Selangor Set 2/Picture6.png
+F4 Chp 3,radio,Smka_Q06,A,B,C,D,C,SMKA/Picture6.png
+F4 Chp 3,radio,Terengganu_Q06,A,B,C,D,D,Terengganu/Picture6.png
+F4 Chp 4,radio,JohorSet_Q07,A,B,C,D,A,Johor Set 1/Picture7.png
+F4 Chp 4,radio,JohorSet_Q08,A,B,C,D,B,Johor Set 1/Picture8.png
+F4 Chp 4,radio,JohorSet_Q07,A,B,C,D,D,Johor Set 2/Picture7.png
+F4 Chp 4,radio,JohorSet_Q08,A,B,C,D,C,Johor Set 2/Picture8.png
+F4 Chp 4,radio,Kedah_Q07,A,B,C,D,C,Kedah/Picture7.png
+F4 Chp 4,radio,Kedah_Q08,A,B,C,D,A,Kedah/Picture8.png
+F4 Chp 4,radio,Kelantan_Q07,A,B,C,D,B,Kelantan/Picture7.png
+F4 Chp 4,radio,Kelantan_Q08,A,B,C,D,A,Kelantan/Picture8.png
+F4 Chp 4,radio,Kl_Q07,A,B,C,D,C,KL/Picture7.png
+F4 Chp 4,radio,Kl_Q08,A,B,C,D,A,KL/Picture8.png
+F4 Chp 4,radio,Melaka_Q07,A,B,C,D,B,Melaka/Picture7.png
+F4 Chp 4,radio,Melaka_Q08,A,B,C,D,C,Melaka/Picture8.png
+F4 Chp 4,radio,Mrsm_Q07,A,B,C,D,C,MRSM/Picture7.png
+F4 Chp 4,radio,Mrsm_Q08,A,B,C,D,B,MRSM/Picture8.png
+F4 Chp 4,radio,NegeriSembilan_Q07,A,B,C,D,B,Negeri Sembilan/Picture7.png
+F4 Chp 4,radio,NegeriSembilan_Q08,A,B,C,D,B,Negeri Sembilan/Picture8.png
+F4 Chp 4,radio,Pahang_Q07,A,B,C,D,D,Pahang/Picture7.png
+F4 Chp 4,radio,Pahang_Q08,A,B,C,D,D,Pahang/Picture8.png
+F4 Chp 4,radio,PenangPpdBaratDaya_Q07,A,B,C,D,A,Penang PPD Barat Daya/Picture7.png
+F4 Chp 4,radio,PenangPpdBaratDaya_Q08,A,B,C,D,A,Penang PPD Barat Daya/Picture8.png
+F4 Chp 4,radio,Perak_Q07,A,B,C,D,D,Perak/Picture7.png
+F4 Chp 4,radio,Perak_Q08,A,B,C,D,A,Perak/Picture8.png
+F4 Chp 4,radio,Perlis_Q07,A,B,C,D,B,Perlis/Picture7.png
+F4 Chp 4,radio,Perlis_Q08,A,B,C,D,A,Perlis/Picture8.png
+F4 Chp 4,radio,SelangorSet_Q07,A,B,C,D,A,Selangor Set 1/Picture7.png
+F4 Chp 4,radio,SelangorSet_Q08,A,B,C,D,D,Selangor Set 1/Picture8.png
+F4 Chp 4,radio,SelangorSet_Q07,A,B,C,D,A,Selangor Set 2/Picture7.png
+F4 Chp 4,radio,SelangorSet_Q08,A,B,C,D,D,Selangor Set 2/Picture8.png
+F4 Chp 4,radio,Smka_Q07,A,B,C,D,D,SMKA/Picture7.png
+F4 Chp 4,radio,Smka_Q08,A,B,C,D,C,SMKA/Picture8.png
+F4 Chp 4,radio,Terengganu_Q07,A,B,C,D,B,Terengganu/Picture7.png
+F4 Chp 4,radio,Terengganu_Q08,A,B,C,D,B,Terengganu/Picture8.png
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,D,Johor Set 1/Picture9.png
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 1/Picture10.png
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 1/Picture11.png
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,B,Johor Set 2/Picture9.png
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 2/Picture10.png
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 2/Picture11.png
+F4 Chp 5,radio,Kedah_Q09,A,B,C,D,D,Kedah/Picture9.png
+F4 Chp 5,radio,Kedah_Q10,A,B,C,D,C,Kedah/Picture10.png
+F4 Chp 5,radio,Kedah_Q11,A,B,C,D,D,Kedah/Picture11.png
+F4 Chp 5,radio,Kelantan_Q09,A,B,C,D,C,Kelantan/Picture9.png
+F4 Chp 5,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png
+F4 Chp 5,radio,Kelantan_Q11,A,B,C,D,D,Kelantan/Picture11.png
+F4 Chp 5,radio,Kl_Q09,A,B,C,D,D,KL/Picture9.png
+F4 Chp 5,radio,Kl_Q10,A,B,C,D,A,KL/Picture10.png
+F4 Chp 5,radio,Kl_Q11,A,B,C,D,C,KL/Picture11.png
+F4 Chp 5,radio,Melaka_Q09,A,B,C,D,A,Melaka/Picture9.png
+F4 Chp 5,radio,Melaka_Q10,A,B,C,D,B,Melaka/Picture10.png
+F4 Chp 5,radio,Melaka_Q11,A,B,C,D,D,Melaka/Picture11.png
+F4 Chp 5,radio,Mrsm_Q09,A,B,C,D,A,MRSM/Picture9.png
+F4 Chp 5,radio,Mrsm_Q10,A,B,C,D,A,MRSM/Picture10.png
+F4 Chp 5,radio,Mrsm_Q11,A,B,C,D,D,MRSM/Picture11.png
+F4 Chp 5,radio,NegeriSembilan_Q09,A,B,C,D,D,Negeri Sembilan/Picture9.png
+F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,A,Negeri Sembilan/Picture10.png
+F4 Chp 5,radio,NegeriSembilan_Q11,A,B,C,D,B,Negeri Sembilan/Picture11.png
+F4 Chp 5,radio,Pahang_Q09,A,B,C,D,A,Pahang/Picture9.png
+F4 Chp 5,radio,Pahang_Q10,A,B,C,D,A,Pahang/Picture10.png
+F4 Chp 5,radio,Pahang_Q11,A,B,C,D,C,Pahang/Picture11.png
+F4 Chp 5,radio,PenangPpdBaratDaya_Q09,A,B,C,D,B,Penang PPD Barat Daya/Picture9.png
+F4 Chp 5,radio,PenangPpdBaratDaya_Q10,A,B,C,D,D,Penang PPD Barat Daya/Picture10.png
+F4 Chp 5,radio,PenangPpdBaratDaya_Q11,A,B,C,D,D,Penang PPD Barat Daya/Picture11.png
+F4 Chp 5,radio,Perak_Q09,A,B,C,D,A,Perak/Picture9.png
+F4 Chp 5,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png
+F4 Chp 5,radio,Perak_Q11,A,B,C,D,A,Perak/Picture11.png
+F4 Chp 5,radio,Perlis_Q09,A,B,C,D,D,Perlis/Picture9.png
+F4 Chp 5,radio,Perlis_Q10,A,B,C,D,A,Perlis/Picture10.png
+F4 Chp 5,radio,Perlis_Q11,A,B,C,D,A,Perlis/Picture11.png
+F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,D,Selangor Set 1/Picture9.png
+F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,A,Selangor Set 1/Picture10.png
+F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 1/Picture11.png
+F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,B,Selangor Set 2/Picture9.png
+F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 2/Picture10.png
+F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 2/Picture11.png
+F4 Chp 5,radio,Smka_Q09,A,B,C,D,B,SMKA/Picture9.png
+F4 Chp 5,radio,Smka_Q10,A,B,C,D,B,SMKA/Picture10.png
+F4 Chp 5,radio,Smka_Q11,A,B,C,D,D,SMKA/Picture11.png
+F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,C,Terengganu/Picture9.png
+F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,A,Terengganu/Picture10.png
+F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png
+F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,C,Johor Set 1/Picture12.png
+F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,B,Johor Set 2/Picture12.png
+F4 Chp 6,radio,Kedah_Q12,A,B,C,D,B,Kedah/Picture12.png
+F4 Chp 6,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png
+F4 Chp 6,radio,Kl_Q12,A,B,C,D,A,KL/Picture12.png
+F4 Chp 6,radio,Melaka_Q12,A,B,C,D,D,Melaka/Picture12.png
+F4 Chp 6,radio,Mrsm_Q12,A,B,C,D,B,MRSM/Picture12.png
+F4 Chp 6,radio,NegeriSembilan_Q12,A,B,C,D,C,Negeri Sembilan/Picture12.png
+F4 Chp 6,radio,Pahang_Q12,A,B,C,D,B,Pahang/Picture12.png
+F4 Chp 6,radio,PenangPpdBaratDaya_Q12,A,B,C,D,A,Penang PPD Barat Daya/Picture12.png
+F4 Chp 6,radio,Perak_Q12,A,B,C,D,C,Perak/Picture12.png
+F4 Chp 6,radio,Perlis_Q12,A,B,C,D,D,Perlis/Picture12.png
+F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,B,Selangor Set 1/Picture12.png
+F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,C,Selangor Set 2/Picture12.png
+F4 Chp 6,radio,Smka_Q12,A,B,C,D,C,SMKA/Picture12.png
+F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,D,Johor Set 1/Picture13.png
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 1/Picture14.png
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,B,Johor Set 2/Picture13.png
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 2/Picture14.png
+F4 Chp 7,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png
+F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png
+F4 Chp 7,radio,Kelantan_Q13,A,B,C,D,B,Kelantan/Picture13.png
+F4 Chp 7,radio,Kelantan_Q14,A,B,C,D,B,Kelantan/Picture14.png
+F4 Chp 7,radio,Kl_Q13,A,B,C,D,B,KL/Picture13.png
+F4 Chp 7,radio,Kl_Q14,A,B,C,D,C,KL/Picture14.png
+F4 Chp 7,radio,Melaka_Q13,A,B,C,D,C,Melaka/Picture13.png
+F4 Chp 7,radio,Melaka_Q14,A,B,C,D,A,Melaka/Picture14.png
+F4 Chp 7,radio,Mrsm_Q13,A,B,C,D,C,MRSM/Picture13.png
+F4 Chp 7,radio,Mrsm_Q14,A,B,C,D,D,MRSM/Picture14.png
+F4 Chp 7,radio,NegeriSembilan_Q13,A,B,C,D,D,Negeri Sembilan/Picture13.png
+F4 Chp 7,radio,NegeriSembilan_Q14,A,B,C,D,B,Negeri Sembilan/Picture14.png
+F4 Chp 7,radio,Pahang_Q13,A,B,C,D,D,Pahang/Picture13.png
+F4 Chp 7,radio,Pahang_Q14,A,B,C,D,D,Pahang/Picture14.png
+F4 Chp 7,radio,PenangPpdBaratDaya_Q13,A,B,C,D,B,Penang PPD Barat Daya/Picture13.png
+F4 Chp 7,radio,PenangPpdBaratDaya_Q14,A,B,C,D,C,Penang PPD Barat Daya/Picture14.png
+F4 Chp 7,radio,Perak_Q13,A,B,C,D,B,Perak/Picture13.png
+F4 Chp 7,radio,Perak_Q14,A,B,C,D,B,Perak/Picture14.png
+F4 Chp 7,radio,Perlis_Q13,A,B,C,D,C,Perlis/Picture13.png
+F4 Chp 7,radio,Perlis_Q14,A,B,C,D,B,Perlis/Picture14.png
+F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,A,Selangor Set 1/Picture13.png
+F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 1/Picture14.png
+F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,B,Selangor Set 2/Picture13.png
+F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 2/Picture14.png
+F4 Chp 7,radio,Smka_Q13,A,B,C,D,C,SMKA/Picture13.png
+F4 Chp 7,radio,Smka_Q14,A,B,C,D,B,SMKA/Picture14.png
+F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,B,Terengganu/Picture13.png
+F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,A,Terengganu/Picture14.png
+F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 1/Picture15.png
+F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,A,Johor Set 1/Picture16.png
+F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,A,Johor Set 1/Picture17.png
+F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,B,Johor Set 1/Picture18.png
+F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,A,Johor Set 1/Picture19.png
+F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 2/Picture15.png
+F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,D,Johor Set 2/Picture16.png
+F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,B,Johor Set 2/Picture17.png
+F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,A,Johor Set 2/Picture18.png
+F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 2/Picture19.png
+F4 Chp 8,radio,Kedah_Q15,A,B,C,D,B,Kedah/Picture15.png
+F4 Chp 8,radio,Kedah_Q16,A,B,C,D,D,Kedah/Picture16.png
+F4 Chp 8,radio,Kedah_Q17,A,B,C,D,A,Kedah/Picture17.png
+F4 Chp 8,radio,Kedah_Q18,A,B,C,D,C,Kedah/Picture18.png
+F4 Chp 8,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png
+F4 Chp 8,radio,Kelantan_Q15,A,B,C,D,D,Kelantan/Picture15.png
+F4 Chp 8,radio,Kelantan_Q16,A,B,C,D,A,Kelantan/Picture16.png
+F4 Chp 8,radio,Kelantan_Q17,A,B,C,D,B,Kelantan/Picture17.png
+F4 Chp 8,radio,Kelantan_Q18,A,B,C,D,B,Kelantan/Picture18.png
+F4 Chp 8,radio,Kelantan_Q19,A,B,C,D,D,Kelantan/Picture19.png
+F4 Chp 8,radio,Kl_Q15,A,B,C,D,D,KL/Picture15.png
+F4 Chp 8,radio,Kl_Q16,A,B,C,D,B,KL/Picture16.png
+F4 Chp 8,radio,Kl_Q17,A,B,C,D,A,KL/Picture17.png
+F4 Chp 8,radio,Kl_Q18,A,B,C,D,C,KL/Picture18.png
+F4 Chp 8,radio,Kl_Q19,A,B,C,D,A,KL/Picture19.png
+F4 Chp 8,radio,Melaka_Q15,A,B,C,D,C,Melaka/Picture15.png
+F4 Chp 8,radio,Melaka_Q16,A,B,C,D,B,Melaka/Picture16.png
+F4 Chp 8,radio,Melaka_Q17,A,B,C,D,B,Melaka/Picture17.png
+F4 Chp 8,radio,Melaka_Q18,A,B,C,D,C,Melaka/Picture18.png
+F4 Chp 8,radio,Melaka_Q19,A,B,C,D,D,Melaka/Picture19.png
+F4 Chp 8,radio,Mrsm_Q15,A,B,C,D,D,MRSM/Picture15.png
+F4 Chp 8,radio,Mrsm_Q16,A,B,C,D,C,MRSM/Picture16.png
+F4 Chp 8,radio,Mrsm_Q17,A,B,C,D,B,MRSM/Picture17.png
+F4 Chp 8,radio,Mrsm_Q18,A,B,C,D,C,MRSM/Picture18.png
+F4 Chp 8,radio,Mrsm_Q19,A,B,C,D,B,MRSM/Picture19.png
+F4 Chp 8,radio,NegeriSembilan_Q15,A,B,C,D,B,Negeri Sembilan/Picture15.png
+F4 Chp 8,radio,NegeriSembilan_Q16,A,B,C,D,D,Negeri Sembilan/Picture16.png
+F4 Chp 8,radio,NegeriSembilan_Q17,A,B,C,D,B,Negeri Sembilan/Picture17.png
+F4 Chp 8,radio,NegeriSembilan_Q18,A,B,C,D,C,Negeri Sembilan/Picture18.png
+F4 Chp 8,radio,NegeriSembilan_Q19,A,B,C,D,C,Negeri Sembilan/Picture19.png
+F4 Chp 8,radio,Pahang_Q15,A,B,C,D,C,Pahang/Picture15.png
+F4 Chp 8,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png
+F4 Chp 8,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png
+F4 Chp 8,radio,Pahang_Q18,A,B,C,D,A,Pahang/Picture18.png
+F4 Chp 8,radio,Pahang_Q19,A,B,C,D,B,Pahang/Picture19.png
+F4 Chp 8,radio,PenangPpdBaratDaya_Q15,A,B,C,D,B,Penang PPD Barat Daya/Picture15.png
+F4 Chp 8,radio,PenangPpdBaratDaya_Q16,A,B,C,D,D,Penang PPD Barat Daya/Picture16.png
+F4 Chp 8,radio,PenangPpdBaratDaya_Q17,A,B,C,D,A,Penang PPD Barat Daya/Picture17.png
+F4 Chp 8,radio,PenangPpdBaratDaya_Q18,A,B,C,D,A,Penang PPD Barat Daya/Picture18.png
+F4 Chp 8,radio,PenangPpdBaratDaya_Q19,A,B,C,D,B,Penang PPD Barat Daya/Picture19.png
+F4 Chp 8,radio,Perak_Q15,A,B,C,D,C,Perak/Picture15.png
+F4 Chp 8,radio,Perak_Q16,A,B,C,D,C,Perak/Picture16.png
+F4 Chp 8,radio,Perak_Q17,A,B,C,D,B,Perak/Picture17.png
+F4 Chp 8,radio,Perak_Q18,A,B,C,D,D,Perak/Picture18.png
+F4 Chp 8,radio,Perak_Q19,A,B,C,D,A,Perak/Picture19.png
+F4 Chp 8,radio,Perlis_Q15,A,B,C,D,A,Perlis/Picture15.png
+F4 Chp 8,radio,Perlis_Q16,A,B,C,D,C,Perlis/Picture16.png
+F4 Chp 8,radio,Perlis_Q17,A,B,C,D,C,Perlis/Picture17.png
+F4 Chp 8,radio,Perlis_Q18,A,B,C,D,A,Perlis/Picture18.png
+F4 Chp 8,radio,Perlis_Q19,A,B,C,D,C,Perlis/Picture19.png
+F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,A,Selangor Set 1/Picture15.png
+F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 1/Picture16.png
+F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,D,Selangor Set 1/Picture17.png
+F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,C,Selangor Set 1/Picture18.png
+F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,C,Selangor Set 1/Picture19.png
+F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,B,Selangor Set 2/Picture15.png
+F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 2/Picture16.png
+F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,A,Selangor Set 2/Picture17.png
+F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,B,Selangor Set 2/Picture18.png
+F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,D,Selangor Set 2/Picture19.png
+F4 Chp 8,radio,Smka_Q15,A,B,C,D,B,SMKA/Picture15.png
+F4 Chp 8,radio,Smka_Q16,A,B,C,D,A,SMKA/Picture16.png
+F4 Chp 8,radio,Smka_Q17,A,B,C,D,A,SMKA/Picture17.png
+F4 Chp 8,radio,Smka_Q18,A,B,C,D,C,SMKA/Picture18.png
+F4 Chp 8,radio,Smka_Q19,A,B,C,D,A,SMKA/Picture19.png
+F4 Chp 8,radio,Terengganu_Q15,A,B,C,D,C,Terengganu/Picture15.png
+F4 Chp 8,radio,Terengganu_Q16,A,B,C,D,B,Terengganu/Picture16.png
+F4 Chp 8,radio,Terengganu_Q17,A,B,C,D,D,Terengganu/Picture17.png
+F4 Chp 8,radio,Terengganu_Q18,A,B,C,D,D,Terengganu/Picture18.png
+F4 Chp 8,radio,Terengganu_Q19,A,B,C,D,C,Terengganu/Picture19.png
+F4 Chp 9,radio,JohorSet_Q20,A,B,C,D,B,Johor Set 1/Picture20.png
+F4 Chp 9,radio,JohorSet_Q21,A,B,C,D,A,Johor Set 1/Picture21.png
+F4 Chp 9,radio,JohorSet_Q20,A,B,C,D,D,Johor Set 2/Picture20.png
+F4 Chp 9,radio,JohorSet_Q21,A,B,C,D,C,Johor Set 2/Picture21.png
+F4 Chp 9,radio,Kedah_Q20,A,B,C,D,A,Kedah/Picture20.png
+F4 Chp 9,radio,Kedah_Q21,A,B,C,D,B,Kedah/Picture21.png
+F4 Chp 9,radio,Kelantan_Q20,A,B,C,D,C,Kelantan/Picture20.png
+F4 Chp 9,radio,Kelantan_Q21,A,B,C,D,C,Kelantan/Picture21.png
+F4 Chp 9,radio,Kl_Q20,A,B,C,D,A,KL/Picture20.png
+F4 Chp 9,radio,Kl_Q21,A,B,C,D,D,KL/Picture21.png
+F4 Chp 9,radio,Melaka_Q20,A,B,C,D,A,Melaka/Picture20.png
+F4 Chp 9,radio,Melaka_Q21,A,B,C,D,C,Melaka/Picture21.png
+F4 Chp 9,radio,Mrsm_Q20,A,B,C,D,A,MRSM/Picture20.png
+F4 Chp 9,radio,Mrsm_Q21,A,B,C,D,D,MRSM/Picture21.png
+F4 Chp 9,radio,NegeriSembilan_Q20,A,B,C,D,C,Negeri Sembilan/Picture20.png
+F4 Chp 9,radio,NegeriSembilan_Q21,A,B,C,D,D,Negeri Sembilan/Picture21.png
+F4 Chp 9,radio,Pahang_Q20,A,B,C,D,C,Pahang/Picture20.png
+F4 Chp 9,radio,Pahang_Q21,A,B,C,D,D,Pahang/Picture21.png
+F4 Chp 9,radio,PenangPpdBaratDaya_Q20,A,B,C,D,C,Penang PPD Barat Daya/Picture20.png
+F4 Chp 9,radio,PenangPpdBaratDaya_Q21,A,B,C,D,D,Penang PPD Barat Daya/Picture21.png
+F4 Chp 9,radio,Perak_Q20,A,B,C,D,B,Perak/Picture20.png
+F4 Chp 9,radio,Perak_Q21,A,B,C,D,B,Perak/Picture21.png
+F4 Chp 9,radio,Perlis_Q20,A,B,C,D,B,Perlis/Picture20.png
+F4 Chp 9,radio,Perlis_Q21,A,B,C,D,B,Perlis/Picture21.png
+F4 Chp 9,radio,SelangorSet_Q20,A,B,C,D,C,Selangor Set 1/Picture20.png
+F4 Chp 9,radio,SelangorSet_Q21,A,B,C,D,B,Selangor Set 1/Picture21.png
+F4 Chp 9,radio,SelangorSet_Q20,A,B,C,D,B,Selangor Set 2/Picture20.png
+F4 Chp 9,radio,SelangorSet_Q21,A,B,C,D,B,Selangor Set 2/Picture21.png
+F4 Chp 9,radio,Smka_Q20,A,B,C,D,C,SMKA/Picture20.png
+F4 Chp 9,radio,Smka_Q21,A,B,C,D,B,SMKA/Picture21.png
+F4 Chp 9,radio,Terengganu_Q20,A,B,C,D,B,Terengganu/Picture20.png
+F4 Chp 9,radio,Terengganu_Q21,A,B,C,D,A,Terengganu/Picture21.png
+F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 1/Picture22.png
+F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 2/Picture22.png
+F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png
+F5 Chp 1,radio,Kelantan_Q22,A,B,C,D,D,Kelantan/Picture22.png
+F5 Chp 1,radio,Kl_Q22,A,B,C,D,C,KL/Picture22.png
+F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png
+F5 Chp 1,radio,Mrsm_Q22,A,B,C,D,A,MRSM/Picture22.png
+F5 Chp 1,radio,NegeriSembilan_Q22,A,B,C,D,B,Negeri Sembilan/Picture22.png
+F5 Chp 1,radio,Pahang_Q22,A,B,C,D,A,Pahang/Picture22.png
+F5 Chp 1,radio,PenangPpdBaratDaya_Q22,A,B,C,D,C,Penang PPD Barat Daya/Picture22.png
+F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png
+F5 Chp 1,radio,Perlis_Q22,A,B,C,D,C,Perlis/Picture22.png
+F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,C,Selangor Set 1/Picture22.png
+F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,A,Selangor Set 2/Picture22.png
+F5 Chp 1,radio,Smka_Q22,A,B,C,D,A,SMKA/Picture22.png
+F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,C,Terengganu/Picture22.png
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,B,Johor Set 1/Picture23.png
+F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 1/Picture24.png
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,C,Johor Set 2/Picture23.png
+F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 2/Picture24.png
+F5 Chp 2,radio,Kedah_Q23,A,B,C,D,B,Kedah/Picture23.png
+F5 Chp 2,radio,Kedah_Q24,A,B,C,D,A,Kedah/Picture24.png
+F5 Chp 2,radio,Kelantan_Q23,A,B,C,D,A,Kelantan/Picture23.png
+F5 Chp 2,radio,Kelantan_Q24,A,B,C,D,B,Kelantan/Picture24.png
+F5 Chp 2,radio,Kl_Q23,A,B,C,D,A,KL/Picture23.png
+F5 Chp 2,radio,Kl_Q24,A,B,C,D,D,KL/Picture24.png
+F5 Chp 2,radio,Melaka_Q23,A,B,C,D,B,Melaka/Picture23.png
+F5 Chp 2,radio,Melaka_Q24,A,B,C,D,A,Melaka/Picture24.png
+F5 Chp 2,radio,Mrsm_Q23,A,B,C,D,C,MRSM/Picture23.png
+F5 Chp 2,radio,Mrsm_Q24,A,B,C,D,C,MRSM/Picture24.png
+F5 Chp 2,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png
+F5 Chp 2,radio,NegeriSembilan_Q24,A,B,C,D,D,Negeri Sembilan/Picture24.png
+F5 Chp 2,radio,Pahang_Q23,A,B,C,D,B,Pahang/Picture23.png
+F5 Chp 2,radio,Pahang_Q24,A,B,C,D,D,Pahang/Picture24.png
+F5 Chp 2,radio,PenangPpdBaratDaya_Q23,A,B,C,D,A,Penang PPD Barat Daya/Picture23.png
+F5 Chp 2,radio,PenangPpdBaratDaya_Q24,A,B,C,D,A,Penang PPD Barat Daya/Picture24.png
+F5 Chp 2,radio,Perak_Q23,A,B,C,D,D,Perak/Picture23.png
+F5 Chp 2,radio,Perak_Q24,A,B,C,D,B,Perak/Picture24.png
+F5 Chp 2,radio,Perlis_Q23,A,B,C,D,C,Perlis/Picture23.png
+F5 Chp 2,radio,Perlis_Q24,A,B,C,D,D,Perlis/Picture24.png
+F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,A,Selangor Set 1/Picture23.png
+F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,B,Selangor Set 1/Picture24.png
+F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,B,Selangor Set 2/Picture23.png
+F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,C,Selangor Set 2/Picture24.png
+F5 Chp 2,radio,Smka_Q23,A,B,C,D,B,SMKA/Picture23.png
+F5 Chp 2,radio,Smka_Q24,A,B,C,D,C,SMKA/Picture24.png
+F5 Chp 2,radio,Terengganu_Q23,A,B,C,D,C,Terengganu/Picture23.png
+F5 Chp 2,radio,Terengganu_Q24,A,B,C,D,B,Terengganu/Picture24.png
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,B,Johor Set 1/Picture25.png
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,C,Johor Set 1/Picture26.png
+F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,C,Johor Set 1/Picture27.png
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,A,Johor Set 2/Picture25.png
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,A,Johor Set 2/Picture26.png
+F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,D,Johor Set 2/Picture27.png
+F5 Chp 3,radio,Kedah_Q25,A,B,C,D,A,Kedah/Picture25.png
+F5 Chp 3,radio,Kedah_Q26,A,B,C,D,A,Kedah/Picture26.png
+F5 Chp 3,radio,Kedah_Q27,A,B,C,D,A,Kedah/Picture27.png
+F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,B,Kelantan/Picture25.png
+F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,C,Kelantan/Picture26.png
+F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,A,Kelantan/Picture27.png
+F5 Chp 3,radio,Kl_Q25,A,B,C,D,C,KL/Picture25.png
+F5 Chp 3,radio,Kl_Q26,A,B,C,D,D,KL/Picture26.png
+F5 Chp 3,radio,Kl_Q27,A,B,C,D,B,KL/Picture27.png
+F5 Chp 3,radio,Melaka_Q25,A,B,C,D,B,Melaka/Picture25.png
+F5 Chp 3,radio,Melaka_Q26,A,B,C,D,C,Melaka/Picture26.png
+F5 Chp 3,radio,Melaka_Q27,A,B,C,D,B,Melaka/Picture27.png
+F5 Chp 3,radio,Mrsm_Q25,A,B,C,D,B,MRSM/Picture25.png
+F5 Chp 3,radio,Mrsm_Q26,A,B,C,D,A,MRSM/Picture26.png
+F5 Chp 3,radio,Mrsm_Q27,A,B,C,D,D,MRSM/Picture27.png
+F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,C,Negeri Sembilan/Picture25.png
+F5 Chp 3,radio,NegeriSembilan_Q26,A,B,C,D,B,Negeri Sembilan/Picture26.png
+F5 Chp 3,radio,NegeriSembilan_Q27,A,B,C,D,B,Negeri Sembilan/Picture27.png
+F5 Chp 3,radio,Pahang_Q25,A,B,C,D,B,Pahang/Picture25.png
+F5 Chp 3,radio,Pahang_Q26,A,B,C,D,A,Pahang/Picture26.png
+F5 Chp 3,radio,Pahang_Q27,A,B,C,D,D,Pahang/Picture27.png
+F5 Chp 3,radio,PenangPpdBaratDaya_Q25,A,B,C,D,C,Penang PPD Barat Daya/Picture25.png
+F5 Chp 3,radio,PenangPpdBaratDaya_Q26,A,B,C,D,A,Penang PPD Barat Daya/Picture26.png
+F5 Chp 3,radio,PenangPpdBaratDaya_Q27,A,B,C,D,D,Penang PPD Barat Daya/Picture27.png
+F5 Chp 3,radio,Perak_Q25,A,B,C,D,B,Perak/Picture25.png
+F5 Chp 3,radio,Perak_Q26,A,B,C,D,C,Perak/Picture26.png
+F5 Chp 3,radio,Perak_Q27,A,B,C,D,D,Perak/Picture27.png
+F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png
+F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png
+F5 Chp 3,radio,Perlis_Q27,A,B,C,D,C,Perlis/Picture27.png
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 1/Picture25.png
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor Set 1/Picture26.png
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,D,Selangor Set 1/Picture27.png
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 2/Picture25.png
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,A,Selangor Set 2/Picture26.png
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,A,Selangor Set 2/Picture27.png
+F5 Chp 3,radio,Smka_Q25,A,B,C,D,B,SMKA/Picture25.png
+F5 Chp 3,radio,Smka_Q26,A,B,C,D,A,SMKA/Picture26.png
+F5 Chp 3,radio,Smka_Q27,A,B,C,D,A,SMKA/Picture27.png
+F5 Chp 3,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png
+F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,A,Terengganu/Picture26.png
+F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,D,Terengganu/Picture27.png
+F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,A,Johor Set 1/Picture28.png
+F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,B,Johor Set 1/Picture29.png
+F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,D,Johor Set 1/Picture30.png
+F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,C,Johor Set 1/Picture31.png
+F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,D,Johor Set 1/Picture32.png
+F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,D,Johor Set 2/Picture28.png
+F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,A,Johor Set 2/Picture29.png
+F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,B,Johor Set 2/Picture30.png
+F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,B,Johor Set 2/Picture31.png
+F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,A,Johor Set 2/Picture32.png
+F5 Chp 4,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png
+F5 Chp 4,radio,Kedah_Q29,A,B,C,D,B,Kedah/Picture29.png
+F5 Chp 4,radio,Kedah_Q30,A,B,C,D,D,Kedah/Picture30.png
+F5 Chp 4,radio,Kedah_Q31,A,B,C,D,C,Kedah/Picture31.png
+F5 Chp 4,radio,Kedah_Q32,A,B,C,D,C,Kedah/Picture32.png
+F5 Chp 4,radio,Kelantan_Q28,A,B,C,D,B,Kelantan/Picture28.png
+F5 Chp 4,radio,Kelantan_Q29,A,B,C,D,D,Kelantan/Picture29.png
+F5 Chp 4,radio,Kelantan_Q30,A,B,C,D,A,Kelantan/Picture30.png
+F5 Chp 4,radio,Kelantan_Q31,A,B,C,D,C,Kelantan/Picture31.png
+F5 Chp 4,radio,Kelantan_Q32,A,B,C,D,C,Kelantan/Picture32.png
+F5 Chp 4,radio,Kl_Q28,A,B,C,D,B,KL/Picture28.png
+F5 Chp 4,radio,Kl_Q29,A,B,C,D,A,KL/Picture29.png
+F5 Chp 4,radio,Kl_Q30,A,B,C,D,C,KL/Picture30.png
+F5 Chp 4,radio,Kl_Q31,A,B,C,D,A,KL/Picture31.png
+F5 Chp 4,radio,Kl_Q32,A,B,C,D,C,KL/Picture32.png
+F5 Chp 4,radio,Melaka_Q28,A,B,C,D,D,Melaka/Picture28.png
+F5 Chp 4,radio,Melaka_Q29,A,B,C,D,C,Melaka/Picture29.png
+F5 Chp 4,radio,Melaka_Q30,A,B,C,D,B,Melaka/Picture30.png
+F5 Chp 4,radio,Melaka_Q31,A,B,C,D,D,Melaka/Picture31.png
+F5 Chp 4,radio,Melaka_Q32,A,B,C,D,D,Melaka/Picture32.png
+F5 Chp 4,radio,Mrsm_Q28,A,B,C,D,D,MRSM/Picture28.png
+F5 Chp 4,radio,Mrsm_Q29,A,B,C,D,A,MRSM/Picture29.png
+F5 Chp 4,radio,Mrsm_Q30,A,B,C,D,C,MRSM/Picture30.png
+F5 Chp 4,radio,Mrsm_Q31,A,B,C,D,B,MRSM/Picture31.png
+F5 Chp 4,radio,Mrsm_Q32,A,B,C,D,B,MRSM/Picture32.png
+F5 Chp 4,radio,NegeriSembilan_Q28,A,B,C,D,A,Negeri Sembilan/Picture28.png
+F5 Chp 4,radio,NegeriSembilan_Q29,A,B,C,D,C,Negeri Sembilan/Picture29.png
+F5 Chp 4,radio,NegeriSembilan_Q30,A,B,C,D,A,Negeri Sembilan/Picture30.png
+F5 Chp 4,radio,NegeriSembilan_Q31,A,B,C,D,C,Negeri Sembilan/Picture31.png
+F5 Chp 4,radio,NegeriSembilan_Q32,A,B,C,D,D,Negeri Sembilan/Picture32.png
+F5 Chp 4,radio,Pahang_Q28,A,B,C,D,B,Pahang/Picture28.png
+F5 Chp 4,radio,Pahang_Q29,A,B,C,D,A,Pahang/Picture29.png
+F5 Chp 4,radio,Pahang_Q30,A,B,C,D,D,Pahang/Picture30.png
+F5 Chp 4,radio,Pahang_Q31,A,B,C,D,D,Pahang/Picture31.png
+F5 Chp 4,radio,Pahang_Q32,A,B,C,D,D,Pahang/Picture32.png
+F5 Chp 4,radio,PenangPpdBaratDaya_Q28,A,B,C,D,B,Penang PPD Barat Daya/Picture28.png
+F5 Chp 4,radio,PenangPpdBaratDaya_Q29,A,B,C,D,D,Penang PPD Barat Daya/Picture29.png
+F5 Chp 4,radio,PenangPpdBaratDaya_Q30,A,B,C,D,B,Penang PPD Barat Daya/Picture30.png
+F5 Chp 4,radio,PenangPpdBaratDaya_Q31,A,B,C,D,A,Penang PPD Barat Daya/Picture31.png
+F5 Chp 4,radio,PenangPpdBaratDaya_Q32,A,B,C,D,B,Penang PPD Barat Daya/Picture32.png
+F5 Chp 4,radio,Perak_Q28,A,B,C,D,C,Perak/Picture28.png
+F5 Chp 4,radio,Perak_Q29,A,B,C,D,C,Perak/Picture29.png
+F5 Chp 4,radio,Perak_Q30,A,B,C,D,A,Perak/Picture30.png
+F5 Chp 4,radio,Perak_Q31,A,B,C,D,C,Perak/Picture31.png
+F5 Chp 4,radio,Perak_Q32,A,B,C,D,A,Perak/Picture32.png
+F5 Chp 4,radio,Perlis_Q28,A,B,C,D,D,Perlis/Picture28.png
+F5 Chp 4,radio,Perlis_Q29,A,B,C,D,D,Perlis/Picture29.png
+F5 Chp 4,radio,Perlis_Q30,A,B,C,D,A,Perlis/Picture30.png
+F5 Chp 4,radio,Perlis_Q31,A,B,C,D,D,Perlis/Picture31.png
+F5 Chp 4,radio,Perlis_Q32,A,B,C,D,D,Perlis/Picture32.png
+F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,C,Selangor Set 1/Picture28.png
+F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 1/Picture29.png
+F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,B,Selangor Set 1/Picture30.png
+F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,A,Selangor Set 1/Picture31.png
+F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,D,Selangor Set 1/Picture32.png
+F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,B,Selangor Set 2/Picture28.png
+F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 2/Picture29.png
+F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,D,Selangor Set 2/Picture30.png
+F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,D,Selangor Set 2/Picture31.png
+F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,C,Selangor Set 2/Picture32.png
+F5 Chp 4,radio,Smka_Q28,A,B,C,D,A,SMKA/Picture28.png
+F5 Chp 4,radio,Smka_Q29,A,B,C,D,C,SMKA/Picture29.png
+F5 Chp 4,radio,Smka_Q30,A,B,C,D,B,SMKA/Picture30.png
+F5 Chp 4,radio,Smka_Q31,A,B,C,D,A,SMKA/Picture31.png
+F5 Chp 4,radio,Smka_Q32,A,B,C,D,C,SMKA/Picture32.png
+F5 Chp 4,radio,Terengganu_Q28,A,B,C,D,A,Terengganu/Picture28.png
+F5 Chp 4,radio,Terengganu_Q29,A,B,C,D,B,Terengganu/Picture29.png
+F5 Chp 4,radio,Terengganu_Q30,A,B,C,D,B,Terengganu/Picture30.png
+F5 Chp 4,radio,Terengganu_Q31,A,B,C,D,D,Terengganu/Picture31.png
+F5 Chp 4,radio,Terengganu_Q32,A,B,C,D,D,Terengganu/Picture32.png
+F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,B,Johor Set 1/Picture33.png
+F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,D,Johor Set 1/Picture34.png
+F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,C,Johor Set 2/Picture33.png
+F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,C,Johor Set 2/Picture34.png
+F5 Chp 5,radio,Kedah_Q33,A,B,C,D,C,Kedah/Picture33.png
+F5 Chp 5,radio,Kedah_Q34,A,B,C,D,D,Kedah/Picture34.png
+F5 Chp 5,radio,Kelantan_Q33,A,B,C,D,A,Kelantan/Picture33.png
+F5 Chp 5,radio,Kelantan_Q34,A,B,C,D,C,Kelantan/Picture34.png
+F5 Chp 5,radio,Kl_Q33,A,B,C,D,A,KL/Picture33.png
+F5 Chp 5,radio,Kl_Q34,A,B,C,D,B,KL/Picture34.png
+F5 Chp 5,radio,Melaka_Q33,A,B,C,D,A,Melaka/Picture33.png
+F5 Chp 5,radio,Melaka_Q34,A,B,C,D,D,Melaka/Picture34.png
+F5 Chp 5,radio,Mrsm_Q33,A,B,C,D,D,MRSM/Picture33.png
+F5 Chp 5,radio,Mrsm_Q34,A,B,C,D,D,MRSM/Picture34.png
+F5 Chp 5,radio,NegeriSembilan_Q33,A,B,C,D,C,Negeri Sembilan/Picture33.png
+F5 Chp 5,radio,NegeriSembilan_Q34,A,B,C,D,A,Negeri Sembilan/Picture34.png
+F5 Chp 5,radio,Pahang_Q33,A,B,C,D,A,Pahang/Picture33.png
+F5 Chp 5,radio,Pahang_Q34,A,B,C,D,B,Pahang/Picture34.png
+F5 Chp 5,radio,PenangPpdBaratDaya_Q33,A,B,C,D,C,Penang PPD Barat Daya/Picture33.png
+F5 Chp 5,radio,PenangPpdBaratDaya_Q34,A,B,C,D,C,Penang PPD Barat Daya/Picture34.png
+F5 Chp 5,radio,Perak_Q33,A,B,C,D,D,Perak/Picture33.png
+F5 Chp 5,radio,Perak_Q34,A,B,C,D,A,Perak/Picture34.png
+F5 Chp 5,radio,Perlis_Q33,A,B,C,D,D,Perlis/Picture33.png
+F5 Chp 5,radio,Perlis_Q34,A,B,C,D,B,Perlis/Picture34.png
+F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,C,Selangor Set 1/Picture33.png
+F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,A,Selangor Set 1/Picture34.png
+F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,D,Selangor Set 2/Picture33.png
+F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,D,Selangor Set 2/Picture34.png
+F5 Chp 5,radio,Smka_Q33,A,B,C,D,A,SMKA/Picture33.png
+F5 Chp 5,radio,Smka_Q34,A,B,C,D,A,SMKA/Picture34.png
+F5 Chp 5,radio,Terengganu_Q33,A,B,C,D,B,Terengganu/Picture33.png
+F5 Chp 5,radio,Terengganu_Q34,A,B,C,D,C,Terengganu/Picture34.png
+F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,B,Johor Set 1/Picture35.png
+F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,A,Johor Set 1/Picture36.png
+F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,C,Johor Set 1/Picture37.png
+F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,D,Johor Set 2/Picture35.png
+F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,C,Johor Set 2/Picture36.png
+F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,D,Johor Set 2/Picture37.png
+F5 Chp 6,radio,Kedah_Q35,A,B,C,D,C,Kedah/Picture35.png
+F5 Chp 6,radio,Kedah_Q36,A,B,C,D,B,Kedah/Picture36.png
+F5 Chp 6,radio,Kedah_Q37,A,B,C,D,A,Kedah/Picture37.png
+F5 Chp 6,radio,Kelantan_Q35,A,B,C,D,A,Kelantan/Picture35.png
+F5 Chp 6,radio,Kelantan_Q36,A,B,C,D,C,Kelantan/Picture36.png
+F5 Chp 6,radio,Kelantan_Q37,A,B,C,D,B,Kelantan/Picture37.png
+F5 Chp 6,radio,Kl_Q35,A,B,C,D,B,KL/Picture35.png
+F5 Chp 6,radio,Kl_Q36,A,B,C,D,A,KL/Picture36.png
+F5 Chp 6,radio,Kl_Q37,A,B,C,D,C,KL/Picture37.png
+F5 Chp 6,radio,Melaka_Q35,A,B,C,D,B,Melaka/Picture35.png
+F5 Chp 6,radio,Melaka_Q36,A,B,C,D,D,Melaka/Picture36.png
+F5 Chp 6,radio,Melaka_Q37,A,B,C,D,B,Melaka/Picture37.png
+F5 Chp 6,radio,Mrsm_Q35,A,B,C,D,A,MRSM/Picture35.png
+F5 Chp 6,radio,Mrsm_Q36,A,B,C,D,D,MRSM/Picture36.png
+F5 Chp 6,radio,Mrsm_Q37,A,B,C,D,A,MRSM/Picture37.png
+F5 Chp 6,radio,NegeriSembilan_Q35,A,B,C,D,C,Negeri Sembilan/Picture35.png
+F5 Chp 6,radio,NegeriSembilan_Q36,A,B,C,D,B,Negeri Sembilan/Picture36.png
+F5 Chp 6,radio,NegeriSembilan_Q37,A,B,C,D,A,Negeri Sembilan/Picture37.png
+F5 Chp 6,radio,Pahang_Q35,A,B,C,D,B,Pahang/Picture35.png
+F5 Chp 6,radio,Pahang_Q36,A,B,C,D,C,Pahang/Picture36.png
+F5 Chp 6,radio,Pahang_Q37,A,B,C,D,C,Pahang/Picture37.png
+F5 Chp 6,radio,PenangPpdBaratDaya_Q35,A,B,C,D,D,Penang PPD Barat Daya/Picture35.png
+F5 Chp 6,radio,PenangPpdBaratDaya_Q36,A,B,C,D,C,Penang PPD Barat Daya/Picture36.png
+F5 Chp 6,radio,PenangPpdBaratDaya_Q37,A,B,C,D,C,Penang PPD Barat Daya/Picture37.png
+F5 Chp 6,radio,Perak_Q35,A,B,C,D,D,Perak/Picture35.png
+F5 Chp 6,radio,Perak_Q36,A,B,C,D,D,Perak/Picture36.png
+F5 Chp 6,radio,Perak_Q37,A,B,C,D,C,Perak/Picture37.png
+F5 Chp 6,radio,Perlis_Q35,A,B,C,D,B,Perlis/Picture35.png
+F5 Chp 6,radio,Perlis_Q36,A,B,C,D,B,Perlis/Picture36.png
+F5 Chp 6,radio,Perlis_Q37,A,B,C,D,B,Perlis/Picture37.png
+F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 1/Picture35.png
+F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,D,Selangor Set 1/Picture36.png
+F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,A,Selangor Set 1/Picture37.png
+F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 2/Picture35.png
+F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,B,Selangor Set 2/Picture36.png
+F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,C,Selangor Set 2/Picture37.png
+F5 Chp 6,radio,Smka_Q35,A,B,C,D,A,SMKA/Picture35.png
+F5 Chp 6,radio,Smka_Q36,A,B,C,D,C,SMKA/Picture36.png
+F5 Chp 6,radio,Smka_Q37,A,B,C,D,C,SMKA/Picture37.png
+F5 Chp 6,radio,Terengganu_Q35,A,B,C,D,A,Terengganu/Picture35.png
+F5 Chp 6,radio,Terengganu_Q36,A,B,C,D,D,Terengganu/Picture36.png
+F5 Chp 6,radio,Terengganu_Q37,A,B,C,D,C,Terengganu/Picture37.png
+F5 Chp 7,radio,JohorSet_Q38,A,B,C,D,D,Johor Set 1/Picture38.png
+F5 Chp 7,radio,JohorSet_Q39,A,B,C,D,C,Johor Set 1/Picture39.png
+F5 Chp 7,radio,JohorSet_Q40,A,B,C,D,A,Johor Set 1/Picture40.png
+F5 Chp 7,radio,JohorSet_Q38,A,B,C,D,C,Johor Set 2/Picture38.png
+F5 Chp 7,radio,JohorSet_Q39,A,B,C,D,B,Johor Set 2/Picture39.png
+F5 Chp 7,radio,JohorSet_Q40,A,B,C,D,D,Johor Set 2/Picture40.png
+F5 Chp 7,radio,Kedah_Q38,A,B,C,D,C,Kedah/Picture38.png
+F5 Chp 7,radio,Kedah_Q39,A,B,C,D,D,Kedah/Picture39.png
+F5 Chp 7,radio,Kedah_Q40,A,B,C,D,C,Kedah/Picture40.png
+F5 Chp 7,radio,Kelantan_Q38,A,B,C,D,D,Kelantan/Picture38.png
+F5 Chp 7,radio,Kelantan_Q39,A,B,C,D,D,Kelantan/Picture39.png
+F5 Chp 7,radio,Kelantan_Q40,A,B,C,D,B,Kelantan/Picture40.png
+F5 Chp 7,radio,Kl_Q38,A,B,C,D,D,KL/Picture38.png
+F5 Chp 7,radio,Kl_Q39,A,B,C,D,C,KL/Picture39.png
+F5 Chp 7,radio,Kl_Q40,A,B,C,D,B,KL/Picture40.png
+F5 Chp 7,radio,Melaka_Q38,A,B,C,D,C,Melaka/Picture38.png
+F5 Chp 7,radio,Melaka_Q39,A,B,C,D,C,Melaka/Picture39.png
+F5 Chp 7,radio,Melaka_Q40,A,B,C,D,A,Melaka/Picture40.png
+F5 Chp 7,radio,Mrsm_Q38,A,B,C,D,C,MRSM/Picture38.png
+F5 Chp 7,radio,Mrsm_Q39,A,B,C,D,A,MRSM/Picture39.png
+F5 Chp 7,radio,Mrsm_Q40,A,B,C,D,D,MRSM/Picture40.png
+F5 Chp 7,radio,NegeriSembilan_Q38,A,B,C,D,D,Negeri Sembilan/Picture38.png
+F5 Chp 7,radio,NegeriSembilan_Q39,A,B,C,D,D,Negeri Sembilan/Picture39.png
+F5 Chp 7,radio,NegeriSembilan_Q40,A,B,C,D,A,Negeri Sembilan/Picture40.png
+F5 Chp 7,radio,Pahang_Q38,A,B,C,D,A,Pahang/Picture38.png
+F5 Chp 7,radio,Pahang_Q39,A,B,C,D,C,Pahang/Picture39.png
+F5 Chp 7,radio,Pahang_Q40,A,B,C,D,D,Pahang/Picture40.png
+F5 Chp 7,radio,PenangPpdBaratDaya_Q38,A,B,C,D,B,Penang PPD Barat Daya/Picture38.png
+F5 Chp 7,radio,PenangPpdBaratDaya_Q39,A,B,C,D,D,Penang PPD Barat Daya/Picture39.png
+F5 Chp 7,radio,PenangPpdBaratDaya_Q40,A,B,C,D,A,Penang PPD Barat Daya/Picture40.png
+F5 Chp 7,radio,Perak_Q38,A,B,C,D,B,Perak/Picture38.png
+F5 Chp 7,radio,Perak_Q39,A,B,C,D,D,Perak/Picture39.png
+F5 Chp 7,radio,Perak_Q40,A,B,C,D,A,Perak/Picture40.png
+F5 Chp 7,radio,Perlis_Q38,A,B,C,D,B,Perlis/Picture38.png
+F5 Chp 7,radio,Perlis_Q39,A,B,C,D,D,Perlis/Picture39.png
+F5 Chp 7,radio,Perlis_Q40,A,B,C,D,D,Perlis/Picture40.png
+F5 Chp 7,radio,SelangorSet_Q38,A,B,C,D,C,Selangor Set 1/Picture38.png
+F5 Chp 7,radio,SelangorSet_Q39,A,B,C,D,C,Selangor Set 1/Picture39.png
+F5 Chp 7,radio,SelangorSet_Q40,A,B,C,D,A,Selangor Set 1/Picture40.png
+F5 Chp 7,radio,SelangorSet_Q38,A,B,C,D,A,Selangor Set 2/Picture38.png
+F5 Chp 7,radio,SelangorSet_Q39,A,B,C,D,C,Selangor Set 2/Picture39.png
+F5 Chp 7,radio,SelangorSet_Q40,A,B,C,D,A,Selangor Set 2/Picture40.png
+F5 Chp 7,radio,Smka_Q38,A,B,C,D,D,SMKA/Picture38.png
+F5 Chp 7,radio,Smka_Q39,A,B,C,D,D,SMKA/Picture39.png
+F5 Chp 7,radio,Smka_Q40,A,B,C,D,D,SMKA/Picture40.png
+F5 Chp 7,radio,Terengganu_Q38,A,B,C,D,B,Terengganu/Picture38.png
+F5 Chp 7,radio,Terengganu_Q39,A,B,C,D,A,Terengganu/Picture39.png
+F5 Chp 7,radio,Terengganu_Q40,A,B,C,D,D,Terengganu/Picture40.png

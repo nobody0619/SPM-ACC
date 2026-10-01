@@ -1,0 +1,401 @@
+﻿state,q,chapter,answer
+Kedah,1,F4 Bab 1,C
+Kedah,2,F4 Bab 1,B
+Kedah,3,F4 Bab 2,A
+Kedah,4,F4 Bab 2,C
+Kedah,5,F4 Bab 2,D
+Kedah,6,F4 Bab 3,A
+Kedah,7,F4 Bab 3,B
+Kedah,8,F4 Bab 4,D
+Kedah,9,F4 Bab 4,A
+Kedah,10,F4 Bab 4,A
+Kedah,11,F4 Bab 5,A
+Kedah,12,F4 Bab 5,C
+Kedah,13,F4 Bab 6,D
+Kedah,14,F4 Bab 7,C
+Kedah,15,F4 Bab 7,D
+Kedah,16,F4 Bab 8,B
+Kedah,17,F4 Bab 8,B
+Kedah,18,F4 Bab 8,B
+Kedah,19,F4 Bab 9,C
+Kedah,20,F4 Bab 8,A
+Kedah,21,F5 Bab 1,A
+Kedah,22,F5 Bab 1,B
+Kedah,23,F5 Bab 2,D
+Kedah,24,F5 Bab 2,C
+Kedah,25,F5 Bab 2,B
+Kedah,26,F5 Bab 3,C
+Kedah,27,F5 Bab 3,A
+Kedah,28,F5 Bab 3,C
+Kedah,29,F5 Bab 4,D
+Kedah,30,F5 Bab 4,D
+Kedah,31,F5 Bab 4,A
+Kedah,32,F5 Bab 4,C
+Kedah,33,F5 Bab 5,D
+Kedah,34,F5 Bab 5,C
+Kedah,35,F5 Bab 6,C
+Kedah,36,F5 Bab 6,B
+Kedah,37,F5 Bab 6,B
+Kedah,38,F5 Bab 7,B
+Kedah,39,F5 Bab 7,D
+Kedah,40,F5 Bab 7,C
+Kelantan,1,F4 Bab 1,B
+Kelantan,2,F4 Bab 1,C
+Kelantan,3,F4 Bab 2,C
+Kelantan,4,F4 Bab 3,A
+Kelantan,5,F4 Bab 3,D
+Kelantan,6,F4 Bab 4,B
+Kelantan,7,F4 Bab 5,A
+Kelantan,8,F4 Bab 5,C
+Kelantan,9,F4 Bab 6,D
+Kelantan,10,F4 Bab 6,B
+Kelantan,11,F4 Bab 7,A
+Kelantan,12,F4 Bab 7,C
+Kelantan,13,F4 Bab 8,C
+Kelantan,14,F4 Bab 8,A
+Kelantan,15,F4 Bab 8,B
+Kelantan,16,F4 Bab 8,C
+Kelantan,17,F4 Bab 8,A
+Kelantan,18,F4 Bab 8,A
+Kelantan,19,F4 Bab 8,A
+Kelantan,20,F4 Bab 8,B
+Kelantan,21,F4 Bab 6,D
+Kelantan,22,F4 Bab 9,C
+Kelantan,23,F5 Bab 2,B
+Kelantan,24,F5 Bab 3,D
+Kelantan,25,F5 Bab 2,B
+Kelantan,26,F5 Bab 3,D
+Kelantan,27,F5 Bab 3,C
+Kelantan,28,F5 Bab 4,C
+Kelantan,29,F5 Bab 4,B
+Kelantan,30,F5 Bab 5,C
+Kelantan,31,F5 Bab 4,A
+Kelantan,32,F5 Bab 4,C
+Kelantan,33,F5 Bab 5,D
+Kelantan,34,F5 Bab 6,C
+Kelantan,35,F5 Bab 7,B
+Kelantan,36,F5 Bab 6,B
+Kelantan,37,F5 Bab 6,A
+Kelantan,38,F5 Bab 7,D
+Kelantan,39,F5 Bab 7,B
+Kelantan,40,F5 Bab 7,D
+Melaka,1,F4 Bab 1,D
+Melaka,2,F4 Bab 1,B
+Melaka,3,F4 Bab 2,A
+Melaka,4,F4 Bab 2,C
+Melaka,5,F4 Bab 2,B
+Melaka,6,F4 Bab 3,C
+Melaka,7,F4 Bab 4,A
+Melaka,8,F4 Bab 4,B
+Melaka,9,F4 Bab 5,D
+Melaka,10,F4 Bab 5,C
+Melaka,11,F4 Bab 5,A
+Melaka,12,F4 Bab 6,B
+Melaka,13,F4 Bab 7,D
+Melaka,14,F4 Bab 7,B
+Melaka,15,F4 Bab 8,A
+Melaka,16,F4 Bab 8,A
+Melaka,17,F4 Bab 8,D
+Melaka,18,F4 Bab 8,C
+Melaka,19,F4 Bab 8,C
+Melaka,20,F4 Bab 9,D
+Melaka,21,F4 Bab 9,A
+Melaka,22,F5 Bab 1,A
+Melaka,23,F5 Bab 2,D
+Melaka,24,F5 Bab 2,C
+Melaka,25,F5 Bab 3,C
+Melaka,26,F5 Bab 3,B
+Melaka,27,F5 Bab 3,C
+Melaka,28,F5 Bab 4,B
+Melaka,29,F5 Bab 4,A
+Melaka,30,F5 Bab 4,B
+Melaka,31,F5 Bab 4,C
+Melaka,32,F5 Bab 5,D
+Melaka,33,F5 Bab 5,B
+Melaka,34,F5 Bab 5,C
+Melaka,35,F5 Bab 6,D
+Melaka,36,F5 Bab 6,C
+Melaka,37,F5 Bab 6,D
+Melaka,38,F5 Bab 7,A
+Melaka,39,F5 Bab 7,B
+Melaka,40,F5 Bab 7,D
+Negeri Sembilan,1,F4 Bab 1,D
+Negeri Sembilan,2,F4 Bab 1,C
+Negeri Sembilan,3,F5 Bab 4,C
+Negeri Sembilan,4,F4 Bab 3,C
+Negeri Sembilan,5,F4 Bab 2,D
+Negeri Sembilan,6,F4 Bab 3,B
+Negeri Sembilan,7,F4 Bab 3,A
+Negeri Sembilan,8,F4 Bab 4,B
+Negeri Sembilan,9,F4 Bab 8,A
+Negeri Sembilan,10,F4 Bab 5,C
+Negeri Sembilan,11,F4 Bab 6,C
+Negeri Sembilan,12,F4 Bab 5,D
+Negeri Sembilan,13,F4 Bab 5,C
+Negeri Sembilan,14,F4 Bab 8,C
+Negeri Sembilan,15,F4 Bab 6,D
+Negeri Sembilan,16,F4 Bab 7,A
+Negeri Sembilan,17,F4 Bab 8,C
+Negeri Sembilan,18,F4 Bab 9,A
+Negeri Sembilan,19,F5 Bab 1,B
+Negeri Sembilan,20,F5 Bab 1,C
+Negeri Sembilan,21,F5 Bab 2,A
+Negeri Sembilan,22,F5 Bab 2,D
+Negeri Sembilan,23,F5 Bab 3,A
+Negeri Sembilan,24,F5 Bab 3,D
+Negeri Sembilan,25,F5 Bab 3,D
+Negeri Sembilan,26,F5 Bab 5,B
+Negeri Sembilan,27,F5 Bab 4,D
+Negeri Sembilan,28,F5 Bab 4,D
+Negeri Sembilan,29,F5 Bab 6,B
+Negeri Sembilan,30,F5 Bab 4,A
+Negeri Sembilan,31,F5 Bab 4,B
+Negeri Sembilan,32,F5 Bab 7,B
+Negeri Sembilan,33,F5 Bab 4,C
+Negeri Sembilan,34,F5 Bab 5,D
+Negeri Sembilan,35,F5 Bab 6,A
+Negeri Sembilan,36,F5 Bab 6,A
+Negeri Sembilan,37,F5 Bab 7,A
+Negeri Sembilan,38,F5 Bab 7,B
+Negeri Sembilan,39,F5 Bab 7,C
+Negeri Sembilan,40,F5 Bab 7,D
+Pahang,1,F4 Bab 1,B
+Pahang,2,F4 Bab 1,D
+Pahang,3,F4 Bab 1,A
+Pahang,4,F5 Bab 5,C
+Pahang,5,F4 Bab 2,D
+Pahang,6,F4 Bab 2,B
+Pahang,7,F4 Bab 2,B
+Pahang,8,F4 Bab 3,C
+Pahang,9,F4 Bab 4,C
+Pahang,10,F4 Bab 4,B
+Pahang,11,F4 Bab 4,C
+Pahang,12,F4 Bab 4,D
+Pahang,13,F4 Bab 5,D
+Pahang,14,F4 Bab 5,C
+Pahang,15,F4 Bab 5,C
+Pahang,16,F4 Bab 6,A
+Pahang,17,F4 Bab 6,A
+Pahang,18,F4 Bab 7,B
+Pahang,19,F4 Bab 7,D
+Pahang,20,F4 Bab 8,A
+Pahang,21,F4 Bab 8,B
+Pahang,22,F4 Bab 8,C
+Pahang,23,F4 Bab 8,B
+Pahang,24,F4 Bab 9,B
+Pahang,25,F5 Bab 1,C
+Pahang,26,F5 Bab 2,D
+Pahang,27,F5 Bab 2,B
+Pahang,28,F5 Bab 3,C
+Pahang,29,F5 Bab 3,A
+Pahang,30,F5 Bab 3,C
+Pahang,31,F5 Bab 4,C
+Pahang,32,F5 Bab 4,D
+Pahang,33,F5 Bab 4,D
+Pahang,34,F5 Bab 5,C
+Pahang,35,F5 Bab 5,B
+Pahang,36,F5 Bab 6,D
+Pahang,37,F5 Bab 6,B
+Pahang,38,F5 Bab 7,B
+Pahang,39,F5 Bab 7,C
+Pahang,40,F5 Bab 7,D
+Penang,1,F4 Bab 1,C
+Penang,2,F4 Bab 1,D
+Penang,3,F4 Bab 2,C
+Penang,4,F4 Bab 3,A
+Penang,5,F4 Bab 4,A
+Penang,6,F4 Bab 3,B
+Penang,7,F4 Bab 4,C
+Penang,8,F4 Bab 4,B
+Penang,9,F4 Bab 5,C
+Penang,10,F4 Bab 5,B
+Penang,11,F4 Bab 5,A
+Penang,12,F4 Bab 6,B
+Penang,13,F4 Bab 7,A
+Penang,14,F4 Bab 7,D
+Penang,15,F4 Bab 8,A
+Penang,16,F4 Bab 8,D
+Penang,17,F4 Bab 8,C
+Penang,18,F4 Bab 8,B
+Penang,19,F4 Bab 8,A
+Penang,20,F4 Bab 9,D
+Penang,21,F4 Bab 9,A
+Penang,22,F5 Bab 1,C
+Penang,23,F5 Bab 2,A
+Penang,24,F5 Bab 2,B
+Penang,25,F5 Bab 3,D
+Penang,26,F5 Bab 3,B
+Penang,27,F5 Bab 3,C
+Penang,28,F5 Bab 4,D
+Penang,29,F5 Bab 4,A
+Penang,30,F5 Bab 4,C
+Penang,31,F5 Bab 4,D
+Penang,32,F5 Bab 5,B
+Penang,33,F5 Bab 5,B
+Penang,34,F5 Bab 5,A
+Penang,35,F5 Bab 6,D
+Penang,36,F5 Bab 6,B
+Penang,37,F5 Bab 6,A
+Penang,38,F5 Bab 7,D
+Penang,39,F5 Bab 7,C
+Penang,40,F5 Bab 7,A
+Perak,1,F4 Bab 1,D
+Perak,2,F4 Bab 1,A
+Perak,3,F4 Bab 1,C
+Perak,4,F4 Bab 1,B
+Perak,5,F4 Bab 1,B
+Perak,6,F4 Bab 3,A
+Perak,7,F4 Bab 4,A
+Perak,8,F4 Bab 4,D
+Perak,9,F4 Bab 4,D
+Perak,10,F4 Bab 5,B
+Perak,11,F4 Bab 5,C
+Perak,12,F4 Bab 6,B
+Perak,13,F4 Bab 6,A
+Perak,14,F4 Bab 7,A
+Perak,15,F4 Bab 8,D
+Perak,16,F4 Bab 8,D
+Perak,17,F4 Bab 8,C
+Perak,18,F4 Bab 8,B
+Perak,19,F4 Bab 8,D
+Perak,20,F4 Bab 9,A
+Perak,21,F4 Bab 9,D
+Perak,22,F5 Bab 1,A
+Perak,23,F5 Bab 1,C
+Perak,24,F5 Bab 2,B
+Perak,25,F5 Bab 2,A
+Perak,26,F5 Bab 2,C
+Perak,27,F5 Bab 3,B
+Perak,28,F5 Bab 3,C
+Perak,29,F5 Bab 4,C
+Perak,30,F5 Bab 4,B
+Perak,31,F5 Bab 4,B
+Perak,32,F5 Bab 4,D
+Perak,33,F5 Bab 5,A
+Perak,34,F5 Bab 5,C
+Perak,35,F5 Bab 6,B
+Perak,36,F5 Bab 6,A
+Perak,37,F5 Bab 6,B
+Perak,38,F5 Bab 7,D
+Perak,39,F5 Bab 7,C
+Perak,40,F5 Bab 7,A
+Perlis,1,F4 Bab 1,A
+Perlis,2,F4 Bab 1,A
+Perlis,3,F4 Bab 2,C
+Perlis,4,F4 Bab 2,D
+Perlis,5,F4 Bab 5,D
+Perlis,6,F4 Bab 5,B
+Perlis,7,F4 Bab 4,D
+Perlis,8,F4 Bab 5,C
+Perlis,9,F4 Bab 5,C
+Perlis,10,F4 Bab 5,C
+Perlis,11,F4 Bab 6,B
+Perlis,12,F4 Bab 8,C
+Perlis,13,F4 Bab 7,A
+Perlis,14,F4 Bab 8,B
+Perlis,15,F4 Bab 8,B
+Perlis,16,F4 Bab 8,D
+Perlis,17,F4 Bab 8,A
+Perlis,18,F4 Bab 8,A
+Perlis,19,F4 Bab 9,C
+Perlis,20,F4 Bab 9,B
+Perlis,21,F5 Bab 1,D
+Perlis,22,F5 Bab 1,D
+Perlis,23,F5 Bab 2,D
+Perlis,24,F5 Bab 2,B
+Perlis,25,F5 Bab 3,D
+Perlis,26,F5 Bab 3,C
+Perlis,27,F5 Bab 3,B
+Perlis,28,F5 Bab 4,C
+Perlis,29,F5 Bab 4,B
+Perlis,30,F5 Bab 4,C
+Perlis,31,F5 Bab 4,B
+Perlis,32,F5 Bab 4,D
+Perlis,33,F5 Bab 5,B
+Perlis,34,F5 Bab 5,A
+Perlis,35,F5 Bab 6,D
+Perlis,36,F5 Bab 6,D
+Perlis,37,F5 Bab 6,A
+Perlis,38,F5 Bab 7,A
+Perlis,39,F5 Bab 7,C
+Perlis,40,F5 Bab 7,B
+Selangor Set 1,1,F4 Bab 1,B
+Selangor Set 1,2,F4 Bab 1,A
+Selangor Set 1,3,F5 Bab 4,D
+Selangor Set 1,4,F4 Bab 2,C
+Selangor Set 1,5,F4 Bab 2,D
+Selangor Set 1,6,F4 Bab 3,B
+Selangor Set 1,7,F4 Bab 4,A
+Selangor Set 1,8,F4 Bab 4,D
+Selangor Set 1,9,F4 Bab 5,C
+Selangor Set 1,10,F4 Bab 5,B
+Selangor Set 1,11,F4 Bab 6,D
+Selangor Set 1,12,F4 Bab 7,D
+Selangor Set 1,13,F4 Bab 7,A
+Selangor Set 1,14,F4 Bab 8,A
+Selangor Set 1,15,F4 Bab 8,C
+Selangor Set 1,16,F4 Bab 8,D
+Selangor Set 1,17,F4 Bab 8,B
+Selangor Set 1,18,F4 Bab 8,A
+Selangor Set 1,19,F4 Bab 8,B
+Selangor Set 1,20,F4 Bab 9,D
+Selangor Set 1,21,F4 Bab 9,B
+Selangor Set 1,22,F5 Bab 1,B
+Selangor Set 1,23,F5 Bab 2,D
+Selangor Set 1,24,F5 Bab 2,C
+Selangor Set 1,25,F5 Bab 3,B
+Selangor Set 1,26,F5 Bab 3,B
+Selangor Set 1,27,F5 Bab 3,C
+Selangor Set 1,28,F5 Bab 4,A
+Selangor Set 1,29,F5 Bab 4,B
+Selangor Set 1,30,F5 Bab 4,C
+Selangor Set 1,31,F5 Bab 4,C
+Selangor Set 1,32,F5 Bab 5,C
+Selangor Set 1,33,F5 Bab 5,B
+Selangor Set 1,34,F5 Bab 5,C
+Selangor Set 1,35,F5 Bab 6,B
+Selangor Set 1,36,F5 Bab 6,A
+Selangor Set 1,37,F5 Bab 6,A
+Selangor Set 1,38,F5 Bab 6,C
+Selangor Set 1,39,F5 Bab 7,B
+Selangor Set 1,40,F5 Bab 7,D
+Terengganu,1,F4 Bab 1,D
+Terengganu,2,F4 Bab 1,C
+Terengganu,3,F4 Bab 1,B
+Terengganu,4,F4 Bab 1,D
+Terengganu,5,F4 Bab 2,C
+Terengganu,6,F4 Bab 3,B
+Terengganu,7,F4 Bab 4,C
+Terengganu,8,F4 Bab 5,C
+Terengganu,9,F4 Bab 5,A
+Terengganu,10,F4 Bab 5,B
+Terengganu,11,F4 Bab 5,B
+Terengganu,12,F4 Bab 6,D
+Terengganu,13,F4 Bab 7,A
+Terengganu,14,F4 Bab 7,D
+Terengganu,15,F4 Bab 7,D
+Terengganu,16,F4 Bab 8,A
+Terengganu,17,F4 Bab 8,B
+Terengganu,18,F4 Bab 8,D
+Terengganu,19,F4 Bab 8,C
+Terengganu,20,F4 Bab 9,C
+Terengganu,21,F4 Bab 9,D
+Terengganu,22,F5 Bab 1,B
+Terengganu,23,F5 Bab 2,B
+Terengganu,24,F5 Bab 2,A
+Terengganu,25,F5 Bab 2,D
+Terengganu,26,F5 Bab 3,C
+Terengganu,27,F5 Bab 3,B
+Terengganu,28,F5 Bab 4,A
+Terengganu,29,F5 Bab 4,B
+Terengganu,30,F5 Bab 4,D
+Terengganu,31,F5 Bab 4,C
+Terengganu,32,F5 Bab 4,D
+Terengganu,33,F5 Bab 4,C
+Terengganu,34,F5 Bab 5,B
+Terengganu,35,F5 Bab 5,B
+Terengganu,36,F5 Bab 6,B
+Terengganu,37,F5 Bab 6,A
+Terengganu,38,F5 Bab 7,C
+Terengganu,39,F5 Bab 7,C
+Terengganu,40,F5 Bab 7,D
