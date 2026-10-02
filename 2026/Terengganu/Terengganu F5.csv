@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu 2026 F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：年折旧 = (85,000 − 10,500)/10 = RM7,450。
+Bahasa Melayu: Susut nilai tahunan = (85,000 − 10,500)/10 = RM7,450."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：使用一年半，折旧 = 60,000 × 20% × 1.5 = RM18,000；净值 RM42,000，售价 RM45,000，盈利 RM3,000。
+Bahasa Melayu: Susut nilai 18 bulan RM18,000; nilai buku RM42,000. Untung pelupusan = RM3,000."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：购货金额记入另一供应商同类账户，属于 komisen 错误。
+Bahasa Melayu: Belian tersalah dalam akaun pembekal lain daripada pengelasan sama ialah kesilapan komisen."
+,radio,F5 Bab 2,A,B,C,D,D,Picture25.png,"中文：减少多记销售退回会增加收入 RM190；减少多记购货退回会增加成本 RM190，两者抵销，净利不变。
+Bahasa Melayu: Pembetulan pulangan jualan menambah hasil RM190, manakala pembetulan pulangan belian menambah kos RM190; untung bersih tidak berubah."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：速动资产 = 350 + 4,100 + 860 = RM5,310；除流动负债透支 RM2,820，得 1.88:1。
+Bahasa Melayu: Nisbah ujian asid = (350 + 4,100 + 860)/2,820 = 1.88:1; inventori dikecualikan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：期末总资产减期末总负债就是期末资本，适用于不完整记录。
+Bahasa Melayu: Jumlah aset akhir − jumlah liabiliti akhir = modal akhir."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：本年租金 = 已付 9,000 − 期初欠租 600 − 期末预付 1,200 = RM7,200。
+Bahasa Melayu: Sewa diiktiraf = 9,000 − 600 − 1,200 = RM7,200."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：现金簿少记支票付款 1,477 − 1,447 = RM30，银行栏贷记 RM30 减少余额。
+Bahasa Melayu: Bayaran terkurang catat RM30; kredit Buku Tunai RM30 untuk mengemas kini."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：本期支付现金超过收入现金，产生现金不足；不等于企业一定经营亏损。
+Bahasa Melayu: Kurangan tunai berlaku apabila jumlah pembayaran melebihi penerimaan, bukan semestinya kerugian perniagaan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：可分利润 = 47,250 + 900 − 5,000 = RM43,150；按 3:2 分，Aiy RM25,890、Reen RM17,260。
+Bahasa Melayu: Baki untung RM43,150; Aiy 3/5 = RM25,890 dan Reen 2/5 = RM17,260."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：大量提取会减少合伙人资本，可能使资本账户出现借方不足额。
+Bahasa Melayu: Ambilan terlalu banyak mengurangkan modal dan boleh menyebabkan kurangan dalam Akaun Modal."
+,radio,F5 Bab 4,A,B,C,D,C,Picture33.png,"中文：企业转换为有限公司时，原合伙实体结束，是解散原因之一。
+Bahasa Melayu: Pertukaran entiti kepada syarikat berhad menyebabkan perkongsian asal dibubarkan."
+,radio,F5 Bab 5,A,B,C,D,B,Picture34.png,"中文：普通股股息随利润及董事会决定变化，没有固定保证股息率。
+Bahasa Melayu: Kadar dividen syer biasa bergantung pada keuntungan dan keputusan syarikat, bukannya kadar tetap."
+,radio,F5 Bab 5,A,B,C,D,B,Picture35.png,"中文：普通股年终股息 = 普通股资本 400,000 × 10% = RM40,000，不包括优先股息。
+Bahasa Melayu: Dividen akhir syer biasa = RM400,000 × 10% = RM40,000."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：期末现金 = 期初 1,500 + 会费 300 + 入会费 4,000 − 税费 150 − 清洗工资 200 = RM5,450。
+Bahasa Melayu: Baki akhir = 1,500 + 300 + 4,000 − 150 − 200 = RM5,450."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：会费收入 = 2,000 − 期初应收 150 + 期末应收 250 − 期末预收 180 = RM1,920。
+Bahasa Melayu: Yuran tahun semasa = 2,000 − 150 + 250 − 180 = RM1,920."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：生产用小型设备折旧是间接生产费用，列为制造费用；设备本身是资产，不是费用。
+Bahasa Melayu: Susut nilai alatan kecil kilang ialah kos overhed; loji dan alatan itu sendiri ialah aset."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：直接材料成本 = 208,650 + 545,800 − 19,740 − 186,430 = RM548,280。
+Bahasa Melayu: Kos bahan langsung = inventori awal + belian − pulangan − inventori akhir = RM548,280."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：盈亏平衡分析帮助规划足够销量，使总收入至少抵销总成本，避免亏损。
+Bahasa Melayu: Analisis TPM membantu merancang tahap pengeluaran supaya hasil menampung kos dan perniagaan tidak rugi."

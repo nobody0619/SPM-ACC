@@ -1,19 +1,51 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png
-F4 Chp 7,radio,Kedah_Q15,A,B,C,D,D,Kedah/Picture15.png
-F4 Chp 7,radio,Kelantan_Q11,A,B,C,D,A,Kelantan/Picture11.png
-F4 Chp 7,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png
-F4 Chp 7,radio,Melaka_Q13,A,B,C,D,D,Melaka/Picture13.png
-F4 Chp 7,radio,Melaka_Q14,A,B,C,D,B,Melaka/Picture14.png
-F4 Chp 7,radio,NegeriSembilan_Q16,A,B,C,D,A,Negeri Sembilan/Picture16.png
-F4 Chp 7,radio,Pahang_Q18,A,B,C,D,B,Pahang/Picture18.png
-F4 Chp 7,radio,Pahang_Q19,A,B,C,D,D,Pahang/Picture19.png
-F4 Chp 7,radio,Penang_Q13,A,B,C,D,A,Penang/Picture13.png
-F4 Chp 7,radio,Penang_Q14,A,B,C,D,D,Penang/Picture14.png
-F4 Chp 7,radio,Perak_Q14,A,B,C,D,A,Perak/Picture14.png
-F4 Chp 7,radio,Perlis_Q13,A,B,C,D,A,Perlis/Picture13.png
-F4 Chp 7,radio,SelangorSet_Q12,A,B,C,D,D,Selangor Set 1/Picture12.png
-F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,A,Selangor Set 1/Picture13.png
-F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,A,Terengganu/Picture13.png
-F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,D,Terengganu/Picture14.png
-F4 Chp 7,radio,Terengganu_Q15,A,B,C,D,D,Terengganu/Picture15.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 7,radio,Johor_Q15,A,B,C,D,B,Johor/Picture15.png,"中文：线存货数量 = 20 + 150 − 80 = 90 箱，价值 90 × 10 = RM900；纽扣 = 30 + 200 − 120 = 110 箱，价值 110 × 5 = RM550。总计 RM1,450。
+Bahasa Melayu: Benang: 20 + 150 − 80 = 90 kotak, bernilai RM900. Butang: 30 + 200 − 120 = 110 kotak, bernilai RM550. Harga kos lebih rendah daripada pasaran; inventori akhir RM1,450."
+F4 Chp 7,radio,Johor_Q16,A,B,C,D,B,Johor/Picture16.png,"中文：交易及损益账户列示销售净额、购货净额，并算出净利或净亏，所以 I、IV 正确。未付工资本身是负债，不能当作独立费用重复记录。
+Bahasa Melayu: Akaun Perdagangan dan Untung Rugi menunjukkan jualan dan belian bersih serta menentukan untung atau rugi bersih; I dan IV. Gaji belum bayar sendiri ialah liabiliti, bukan belanja berasingan untuk dikira dua kali."
+F4 Chp 7,radio,KL_Q11,A,B,C,D,A,KL/Picture11.png,"中文：存货逐项采用成本与市价较低者：4,320 + 5,150 + 3,400 = RM12,870。期末存货调整借记存货、贷记交易账户。
+Bahasa Melayu: Inventori dinilai pada harga kos atau pasaran yang lebih rendah bagi setiap jenis: RM4,320 + RM5,150 + RM3,400 = RM12,870. Debit Akaun Inventori dan kredit Akaun Perdagangan."
+F4 Chp 7,radio,KL_Q12,A,B,C,D,C,KL/Picture12.png,"中文：购货合计 RM12,000，扣除业主提取货品 RM10,000，剩余 RM2,000 转入交易账户。购货账户在贷方记录提取和交易账户，以完成结账。
+Bahasa Melayu: Jumlah belian RM12,000 ditolak ambilan barang RM10,000 meninggalkan RM2,000 untuk Akaun Perdagangan. Kredit Akaun Belian dengan Ambilan RM10,000 dan Akaun Perdagangan RM2,000 untuk menutup akaun."
+F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png,"中文：期末应收款 = 36,000 − 380 − 200 = RM35,420。收到折扣不属于应收款控制账户。
+Bahasa Melayu: Baki akhir ABT = 36,000 − 380 − 200 = RM35,420. Diskaun diterima berkaitan ABB, bukan ABT."
+F4 Chp 7,radio,Kedah_Q15,A,B,C,D,D,Kedah/Picture15.png,"中文：进口税使商品购入成本增加；购货退回减少成本，运出费属于销售费用。
+Bahasa Melayu: Duti import menambah kos belian. Pulangan belian mengurangkannya, manakala angkutan keluar ialah belanja menjual."
+F4 Chp 7,radio,Kelantan_Q11,A,B,C,D,A,Kelantan/Picture11.png,"中文：提取的正常余额为借方，抵减资本贷方余额，是资本的抵销账户。
+Bahasa Melayu: Ambilan berbaki debit dan mengurangkan modal berbaki kredit, maka merupakan akaun kontra modal."
+F4 Chp 7,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png,"中文：现金基础只记录已经支付的金额，未付部分不计入本期，所以租金为 RM4,500。
+Bahasa Melayu: Asas tunai mengiktiraf bayaran yang telah dibuat sahaja, maka sewa ialah RM4,500."
+F4 Chp 7,radio,MRSM_Q16,A,B,C,D,A,MRSM/Picture16.png,"中文：发给客户的贷项通知单表示销售退回，存货数量增加一套，按成本 RM150 记录在进货栏，不能用售价 RM260。
+Bahasa Melayu: Nota kredit kepada pelanggan menunjukkan pulangan jualan. Satu set syampu direkodkan pada ruangan masuk dengan harga kos RM150, bukan harga jualan RM260."
+F4 Chp 7,radio,MRSM_Q17,A,B,C,D,B,MRSM/Picture17.png,"中文：可供销售货品成本由期初存货与购货净成本构成，选 I 购货、IV 期初存货。期末存货用于下一步计算销货成本。
+Bahasa Melayu: Kos barang untuk dijual terdiri daripada inventori awal dan belian bersih. Pilih I dan IV; inventori akhir digunakan kemudian untuk menentukan kos jualan."
+F4 Chp 7,radio,MRSM_Q18,A,B,C,D,D,MRSM/Picture18.png,"中文：期末存货按成本与市价较低者 RM4,200 计量；借记存货 RM4,200，贷记交易账户 RM4,200。
+Bahasa Melayu: Inventori akhir dinilai pada harga lebih rendah, RM4,200. Debit Akaun Inventori dan kredit Akaun Perdagangan RM4,200; D."
+F4 Chp 7,radio,Melaka_Q13,A,B,C,D,D,Melaka/Picture13.png,"中文：财务状况表列出资产、负债和权益，也让使用者评估流动资金状况；净利由损益表计算。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti serta membantu menilai kecairan; untung bersih ditentukan melalui penyata pendapatan."
+F4 Chp 7,radio,Melaka_Q14,A,B,C,D,B,Melaka/Picture14.png,"中文：净销售结转交易账户；其他收入结转损益账户，因此 I、IV 正确。
+Bahasa Melayu: Jualan bersih dipindahkan ke Akaun Perdagangan dan hasil lain ke Akaun Untung Rugi; I dan IV betul."
+F4 Chp 7,radio,NegeriSembilan_Q16,A,B,C,D,A,Negeri Sembilan/Picture16.png,"中文：坏账是已核销的应收款，属于费用并减少盈利，因此 I、II 正确。
+Bahasa Melayu: Hutang lapuk ialah hutang dihapus kira yang mengurangkan untung; I dan II betul."
+F4 Chp 7,radio,Pahang_Q18,A,B,C,D,B,Pahang/Picture18.png,"中文：购货成本 = 28,200 − 购货退回 580 + 运入费 450 = RM28,070；期初存货及销售退回不计入购货成本。
+Bahasa Melayu: Kos belian = 28,200 − 580 + 450 = RM28,070; inventori awal dan pulangan masuk tidak termasuk."
+F4 Chp 7,radio,Pahang_Q19,A,B,C,D,D,Pahang/Picture19.png,"中文：营运资本是流动资产减流动负债；应付款属于流动负债，必须计入。
+Bahasa Melayu: Modal kerja = aset semasa − liabiliti semasa; ABB ialah liabiliti semasa yang perlu diambil kira."
+F4 Chp 7,radio,Penang_Q13,A,B,C,D,A,Penang/Picture13.png,"中文：营运资本 = 23,400 + 5,360 − 1,800 − 2,720 = RM24,240；设备不是流动资产。
+Bahasa Melayu: Modal kerja = 23,400 + 5,360 − 1,800 − 2,720 = RM24,240; lengkapan dikecualikan."
+F4 Chp 7,radio,Penang_Q14,A,B,C,D,D,Penang/Picture14.png,"中文：预收佣金是提前收到、属于下期的收入，当前列为流动负债。
+Bahasa Melayu: Komisen belum terperoleh ialah komisen diterima awal untuk tempoh akan datang dan merupakan liabiliti semasa."
+F4 Chp 7,radio,Perak_Q14,A,B,C,D,A,Perak/Picture14.png,"中文：收到支票 RM6,000、给予折扣 6,300 − 6,000 = RM300，均记现金簿借方对应栏。
+Bahasa Melayu: Debit Buku Tunai: bank RM6,000 dan diskaun diberi RM300 untuk menjelaskan hutang RM6,300."
+F4 Chp 7,radio,Perlis_Q13,A,B,C,D,A,Perlis/Picture13.png,"中文：佣金收入 = 2,200 − 240 + 400 + 360 − 620 = RM2,100，按期初期末应收及预收调整。
+Bahasa Melayu: Komisen tahun semasa = 2,200 − 240 + 400 + 360 − 620 = RM2,100."
+F4 Chp 7,radio,SelangorSet_Q12,A,B,C,D,D,Selangor Set 1/Picture12.png,"中文：运入费及购货工资直接增加商品购入成本；运出费用于销售活动。III、IV 正确。
+Bahasa Melayu: Angkutan masuk dan upah atas belian menambah kos belian; III dan IV betul."
+F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,A,Selangor Set 1/Picture13.png,"中文：账户收到银行款在贷方，年末借方转损益，是收入账户，故为存款利息。
+Bahasa Melayu: Penerimaan bank di sebelah kredit dan penutupan debit ke untung rugi menunjukkan akaun hasil, iaitu faedah simpanan."
+F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,A,Terengganu/Picture13.png,"中文：宣传及文具费用是名义账户，每期结转损益；应付款和预付保险保留余额。
+Bahasa Melayu: Promosi dan alat tulis ialah akaun nominal; ABB dan insurans prabayar ialah akaun nyata."
+F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,D,Terengganu/Picture14.png,"中文：企业捐赠商品：借记 Derma RM250、贷记 Belian RM250，不是业主私人提取。
+Bahasa Melayu: Barang niaga didermakan: debit Derma RM250 dan kredit Belian RM250."
+F4 Chp 7,radio,Terengganu_Q15,A,B,C,D,D,Terengganu/Picture15.png,"中文：销售退回减少应收款，取消给予折扣增加应收款，均记应收控制账户。II、IV 正确。
+Bahasa Melayu: Pulangan masuk dan diskaun diberi dibatalkan direkod dalam Akaun Kawalan ABT; II dan IV betul."

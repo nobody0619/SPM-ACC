@@ -1,0 +1,41 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor 2026 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：会计循环是一个期间内处理会计资料的步骤顺序，从原始凭证、日记账和分类账到试算表及财务报表。
+Bahasa Melayu: Kitaran perakaunan ialah turutan tatacara dalam satu tempoh perakaunan, daripada dokumen dan catatan awal hingga penyediaan Penyata Kewangan."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：能影响使用者经济决策的资料具有相关性 Kerelevanan，帮助使用者判断过去或预期未来表现。
+Bahasa Melayu: Maklumat yang dapat mempengaruhi keputusan ekonomi pengguna mempunyai ciri kerelevanan, kerana membantu penilaian dan keputusan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture3.png,"中文：资本小、只有一名业主，适合独资经营的 Hanida 面包店；合伙、有限公司及合作社不符合一人独资的特点。
+Bahasa Melayu: Modal kecil dan seorang pemilik sesuai dengan milikan tunggal, iaitu Kedai Bakeri Hanida. Bentuk perkongsian, syarikat dan koperasi tidak memenuhi ciri seorang pemilik ini."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：非流动资产列在财务状况表，不是交易及损益账户项目。后者记录销售、收入、销货成本和费用。
+Bahasa Melayu: Aset bukan semasa dilaporkan dalam Penyata Kedudukan Kewangan, bukan Akaun Perdagangan dan Untung Rugi yang mengandungi hasil dan belanja."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：资本 = 资产 − 负债 = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190。
+Bahasa Melayu: Modal = aset − liabiliti = RM30,000 + RM15,000 + RM8,590 − RM13,400 = RM40,190."
+,radio,F4 Bab 2,A,B,C,D,D,Picture6.png,"中文：水电费 Utiliti 属费用，按账户代码表应在 4000–4999 范围内，4321 符合。
+Bahasa Melayu: Utiliti ialah belanja. Kod akaun belanja berada dalam julat 4000–4999, maka kod 4321 sesuai."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：扣商业折扣后发票净额 RM1,120。19 日付款超过首五天，但仍在十四天内，享 5% 现金折扣：1,120 × 5% = RM56。
+Bahasa Melayu: Amaun invois selepas diskaun niaga ialah RM1,120. Bayaran pada 19 Mei melebihi lima hari tetapi masih dalam empat belas hari, maka diskaun tunai = RM1,120 × 5% = RM56."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：账目结单提醒客户仍欠供应商多少钱。本例 750 + 80 − 130 = RM700，是未清债务余额。
+Bahasa Melayu: Penyata Akaun memaklumkan baki hutang pelanggan yang masih tertunggak. Baki = RM750 + RM80 − RM130 = RM700."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：捐赠企业货品是非现金特殊交易，记录在普通日记账。其余分别是现金购货、销售退回及赊销，有相应专用记录。
+Bahasa Melayu: Derma barang niaga ialah urus niaga khas bukan tunai yang direkodkan dalam Jurnal Am. Belian tunai, pulangan jualan dan jualan kredit menggunakan buku catatan masing-masing."
+,radio,F4 Bab 4,A,B,C,D,B,Picture10.png,"中文：Vimala 经营家具销售，购入餐桌是购买转售货品；收到供应商发票表示赊购，应记购货日记账 RM980。
+Bahasa Melayu: Perniagaan Perabot Vimala membeli meja makan sebagai barang niaga untuk dijual semula. Invois pembekal menunjukkan belian kredit, maka direkodkan dalam Jurnal Belian RM980."
+,radio,F4 Bab 4,A,B,C,D,D,Picture11.png,"中文：每月备用金定额 = 期初剩余 RM65 + 出纳补回 RM185 = RM250。付款 RM160 影响月底余额，不改变定额。
+Bahasa Melayu: Panjar runcit = baki awal RM65 + penerimaan daripada ketua juruwang RM185 = RM250. Pembayaran tidak mengubah jumlah panjar yang ditetapkan."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：分类账 Lejar 把交易按账户系统整理，并使用双重记录 Sistem Catatan Bergu，让每项交易具有相应借方及贷方。
+Bahasa Melayu: Lejar merekod urus niaga secara sistematik mengikut akaun menggunakan Sistem Catatan Bergu, dengan catatan debit dan kredit yang sepadan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture13.png,"中文：业主用私人借款支付店铺租金，是业主替企业承担费用并投入资本；借记租金、贷记资本 RM2,600。私人债务不自动成为企业贷款。
+Bahasa Melayu: Pemilik membayar sewa menggunakan pinjaman peribadi, maka bayaran dianggap sumbangan modal. Debit Sewa dan kredit Modal RM2,600; pinjaman peribadi bukan pinjaman perniagaan."
+,radio,F4 Bab 6,A,B,C,D,A,Picture14.png,"中文：X 在试算表贷方，是贷方余额项目。银行透支属于流动负债，列贷方；给予折扣、销货运费及销售退回应列借方。
+Bahasa Melayu: X berbaki kredit dalam Imbangan Duga. Overdraf bank ialah liabiliti semasa berbaki kredit, manakala diskaun diberi, angkutan keluar dan pulangan jualan berbaki debit."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：线存货数量 = 20 + 150 − 80 = 90 箱，价值 90 × 10 = RM900；纽扣 = 30 + 200 − 120 = 110 箱，价值 110 × 5 = RM550。总计 RM1,450。
+Bahasa Melayu: Benang: 20 + 150 − 80 = 90 kotak, bernilai RM900. Butang: 30 + 200 − 120 = 110 kotak, bernilai RM550. Harga kos lebih rendah daripada pasaran; inventori akhir RM1,450."
+,radio,F4 Bab 7,A,B,C,D,B,Picture16.png,"中文：交易及损益账户列示销售净额、购货净额，并算出净利或净亏，所以 I、IV 正确。未付工资本身是负债，不能当作独立费用重复记录。
+Bahasa Melayu: Akaun Perdagangan dan Untung Rugi menunjukkan jualan dan belian bersih serta menentukan untung atau rugi bersih; I dan IV. Gaji belum bayar sendiri ialah liabiliti, bukan belanja berasingan untuk dikira dua kali."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：未赚取佣金是预先收到、但属于下一期的收入，调整余额在贷方。预付工资及未收租金属借方资产，未付保险属贷方负债。
+Bahasa Melayu: Komisen belum terperoleh ialah hasil diterima awal dan berbaki kredit. Gaji prabayar serta sewa belum terima berbaki debit, manakala insurans belum bayar berbaki kredit."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：可疑债务准备从 RM668 增至 RM740，增加 740 − 668 = RM72，列为损益账户费用。
+Bahasa Melayu: Peruntukan Hutang Ragu meningkat daripada RM668 kepada RM740. Pertambahan RM72 direkodkan sebagai belanja dalam Akaun Untung Rugi."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：旧家具账面值 = 60,000 − 12,000 − 5,600 = RM42,400，全年折旧 RM4,240；新家具用四个月，折旧 = 12,000 × 10% × 4/12 = RM400。合计 RM4,640。
+Bahasa Melayu: Nilai buku perabot lama = RM60,000 − RM12,000 − RM5,600 = RM42,400; susut nilai RM4,240. Perabot baharu digunakan empat bulan: RM12,000 × 10% × 4/12 = RM400. Jumlah RM4,640."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：漏记坏账收回是收入，增加利润 RM780；漏记宣传费减少利润 RM230。调整净利 = 12,540 + 780 − 230 = RM13,090。
+Bahasa Melayu: Hutang lapuk terpulih menambah hasil RM780 dan belanja promosi mengurangkan untung RM230. Untung bersih terselaras = RM12,540 + RM780 − RM230 = RM13,090."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis 2026 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：确定盈亏需要 I 收入及 II 费用：收入 − 费用 = 净利或净亏，所以选 A。业主提取不是费用，期初资本也不是收入。
+Bahasa Melayu: Maklumat yang diperlukan ialah I, hasil, dan II, belanja. Hasil − belanja menentukan untung bersih atau rugi bersih; jawapannya A. Ambilan bukan belanja dan modal awal bukan hasil."
+,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：赊销 = 收款 11,200 + 退回 450 + 期末应收 9,700 − 期初应收 3,400 = RM17,950。
+Bahasa Melayu: Jualan kredit = 11,200 + 450 + 9,700 − 3,400 = RM17,950."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：财务状况表列期末尚欠利息 RM320，不是全年利息费用或期初欠额。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan faedah belum bayar akhir RM320, bukannya belanja tahunan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：现金簿已付但结单未扣的支票 000100 RM5,000 及 000102 RM500，合计未兑现支票 RM5,500。
+Bahasa Melayu: Cek 000100 RM5,000 dan 000102 RM500 belum muncul dalam Penyata Bank; jumlah RM5,500."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：从结单透支 −RM2,000，加未入账存款 3,000，减未兑现支票 800，得现金簿借方 RM200。
+Bahasa Melayu: Baki debit Penyata Bank −RM2,000 + deposit RM3,000 − cek RM800 = baki debit Buku Tunai RM200."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：无合伙协议时参考课本所列《1961 年合伙法令》的默认规则。
+Bahasa Melayu: Tanpa perjanjian, rujuk Akta Perkongsian 1961 sebagaimana diterangkan dalam buku teks."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：可分利润 = 21,500 + 500 − 7,300 = RM14,700；Harith 得 2/3，即 RM9,800。
+Bahasa Melayu: Baki untung RM14,700; bahagian Harith = 14,700 × 2/3 = RM9,800."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：按本题把未付工资净额结转往来账户的格式，贷记 RM5,000；全年工资 RM8,000 用于利润分配账户，不能加成 RM13,000。
+Bahasa Melayu: Mengikut format pelarasan bersih soalan, gaji tertunggak RM5,000 dikreditkan ke Akaun Semasa; jumlah tahunan RM8,000 digunakan dalam akaun pengasingan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：合伙人死亡及企业转为有限公司均可结束原合伙关系，I、IV 正确。
+Bahasa Melayu: Kematian pekongsi dan pertukaran kepada syarikat berhad boleh membubarkan perkongsian; I dan IV betul."
+,radio,F5 Bab 4,A,B,C,D,C,Picture30.png,"中文：先结清资产，再变卖及付清算费用，然后清偿负债，最后归还合伙人资本：III、IV、II、I。
+Bahasa Melayu: Tutup akaun aset, realisasi aset dan belanja, bayar liabiliti, kemudian pulangkan modal: III, IV, II, I."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：发行资本 = 1,500,000 × RM1 + 1,500,000 × RM2 = RM4,500,000。
+Bahasa Melayu: Modal diterbitkan = 1,500,000 × RM1 + 1,500,000 × RM2 = RM4,500,000."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：权益栏已经列实际发行并缴足的股本，因此标题为“Modal Diterbitkan dan Berbayar Penuh”。
+Bahasa Melayu: Tajuk yang tepat ialah Modal Diterbitkan dan Berbayar Penuh kerana modal telah diterbit dan dibayar sepenuhnya."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：优先股息 = 200,000 × RM2 × 6% = RM24,000；普通股息 = 46,800 − 24,000 = RM22,800。
+Bahasa Melayu: Dividen biasa = 46,800 − (200,000 × RM2 × 6%) = RM22,800."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：俱乐部的主要宗旨是会员福利和服务，不是以盈利为目标。
+Bahasa Melayu: Kelab menjaga kepentingan ahli dan menyediakan perkhidmatan, bukan berorientasikan keuntungan."
+,radio,F5 Bab 6,A,B,C,D,D,Picture35.png,"中文：建球场专用捐款属于资本收入，增加长期设施及累计基金。
+Bahasa Melayu: Derma membina gelanggang ialah pendapatan modal kerana bertujuan mewujudkan kemudahan jangka panjang."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：直接用于生产产品的版权费用属于直接费用；监督员工资属间接人工，生产员工工资属直接人工。
+Bahasa Melayu: Hak cipta khusus pengeluaran ialah belanja langsung; gaji penyelia ialah overhed dan operator ialah buruh langsung."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：制造企业的生产成本从生产账户转入交易账户，作为完工产品的成本。
+Bahasa Melayu: Kos pengeluaran dipindahkan daripada Akaun Pengeluaran ke Akaun Perdagangan sebagai kos produk siap."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：盈亏平衡分析求收入等于总成本的最低销量，帮助规划不亏损的产量。
+Bahasa Melayu: Analisis TPM menentukan jualan apabila jumlah hasil menyamai jumlah kos, bagi merancang pengeluaran tanpa rugi."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：新单位变动成本 = 3 + 1 = RM4，贡献 = 8 − 4 = RM4；新回本量 = 2,400/4 = 600 单位。
+Bahasa Melayu: TPM baharu = 2,400/(8 − 4) = 600 unit."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：固定成本 RM4,000；单位变动成本 = (6,000 − 4,000)/1,000 = RM2；售价 RM5，目标产量 = (4,000 + 2,000)/(5 − 2) = 2,000。
+Bahasa Melayu: Kos tetap RM4,000, kos berubah seunit RM2 dan harga RM5. Unit sasaran = (4,000 + 2,000)/(5 − 2) = 2,000."

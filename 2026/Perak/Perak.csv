@@ -1,41 +1,81 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak 2026,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：管理会计向内部管理人员提供规划及决策资料，财务会计则侧重对外报表。
+Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat kepada pengguna dalaman untuk perancangan dan keputusan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：课本列出的职业伦理包括客观性、保密及专业行为；Kredibiliti 不是该五项基本原则之一。
+Bahasa Melayu: Objektiviti, kerahsiaan dan sifat profesional termasuk prinsip etika; kredibiliti bukan salah satu daripada lima prinsip asas yang disenaraikan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture3.png,"中文：私人提取与企业交易分开记录，体现业主和企业的独立实体关系。
+Bahasa Melayu: Ambilan direkod berasingan kerana pemilik dan perniagaan merupakan entiti berasingan."
+,radio,F4 Bab 1,A,B,C,D,B,Picture4.png,"中文：三月至八月共六个月，期间应是 1/3/2025 至 31/8/2025。
+Bahasa Melayu: Tempoh enam bulan dari Mac berakhir pada 31 Ogos, iaitu 1 Mac hingga 31 Ogos 2025."
+,radio,F4 Bab 1,A,B,C,D,B,Picture5.png,"中文：按取得时的 RM1,200 记录，不随市场价变动，体现成本原则。
+Bahasa Melayu: Aset direkod pada kos belian RM1,200 dan bukannya harga pasaran RM800, menepati prinsip kos."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：合作社及有限公司可有有限责任、大量资本和会员或股东大会，I、II 正确。
+Bahasa Melayu: Koperasi dan syarikat berhad mempunyai ciri liabiliti terhad serta mesyuarat agung; I dan II betul."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：企业现金用于孩子学费是提取，使资产和业主权益同时减少 RM300。
+Bahasa Melayu: Wang untuk yuran anak ialah ambilan yang mengurangkan aset dan ekuiti RM300."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：原资本 = 12,000 − 5,000 = RM7,000；投入 RM2,000 后资产 RM14,000、负债 RM5,000、权益 RM9,000。
+Bahasa Melayu: Modal asal RM7,000; tambahan tunai RM2,000 menjadikan aset RM14,000, liabiliti RM5,000 dan ekuiti RM9,000."
+,radio,F4 Bab 4,A,B,C,D,D,Picture9.png,"中文：账户表把账户按类别及编码排列，方便电脑系统一致记录和检索。
+Bahasa Melayu: Carta Akaun menyusun akaun secara sistematik dengan kod bagi memudahkan perekodan komputer."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：购货订单后收到发票，若有调整或退货收到贷项通知，再付款及收据，符合 B 的顺序。
+Bahasa Melayu: Urutan ialah pesanan belian, invois, nota kredit jika perlu, cek pembayaran dan resit."
+,radio,F4 Bab 5,A,B,C,D,C,Picture11.png,"中文：15 日是第一天，20 日是第六天，已超过首五天的 10% 折扣期限，但仍符合十天内的 5% 折扣条件。付款额 = RM1,800 × 95% = RM1,710，选 C。
+Bahasa Melayu: 15 haribulan ialah hari pertama dan 20 haribulan ialah hari keenam. Bayaran melebihi tempoh lima hari untuk diskaun 10%, tetapi masih dalam tempoh sepuluh hari untuk diskaun 5%. Bayaran = RM1,800 × 95% = RM1,710, iaitu C."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：老板投入车辆是非现金追加资本，用普通日记账；现金或支票交易主要用现金簿。
+Bahasa Melayu: Kenderaan dibawa masuk sebagai modal tambahan ialah urus niaga bukan tunai yang direkod dalam Jurnal Am."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：卖方发出借项通知单，追加原来少收的售价，增加赊销，记销售日记账 RM320。
+Bahasa Melayu: Nota debit salinan menambah jualan kredit kerana harga terkurang caj; RM320 direkod dalam Jurnal Jualan."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：收到支票 RM6,000、给予折扣 6,300 − 6,000 = RM300，均记现金簿借方对应栏。
+Bahasa Melayu: Debit Buku Tunai: bank RM6,000 dan diskaun diberi RM300 untuk menjelaskan hutang RM6,300."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：备用金 = 月初剩余 RM45 + 补款 RM100 = RM145，不是本月付款 RM90。
+Bahasa Melayu: Panjar = baki awal RM45 + penerimaan RM100 = RM145."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：发送发票代表赊销：借记应收账款、贷记销售 RM1,200。
+Bahasa Melayu: Invois dihantar menunjukkan jualan kredit: debit ABT dan kredit Jualan RM1,200."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：应收控制账户借方 Bank RM3,000 表示顾客支票退票，先前减少的欠款恢复增加。
+Bahasa Melayu: Bank di sebelah debit Akaun Kawalan ABT menunjukkan cek pelanggan tak laku, lalu hutang dikembalikan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：应付款控制账户期末余额是企业尚欠供应商的金额，不是本期总购货。
+Bahasa Melayu: Baki akhir Akaun Kawalan ABB ialah hutang yang masih perlu dibayar kepada pembekal."
+,radio,F4 Bab 8,A,B,C,D,D,Picture19.png,"中文：期末存货越高，销货成本越低，其他条件相同时毛利越高。
+Bahasa Melayu: Inventori akhir lebih tinggi mengurangkan kos jualan dan meningkatkan untung kasar, dengan faktor lain kekal."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：本题把应收与应付的互抵视为日常 contra 交易，区别于期末费用、折旧及坏账准备调整。
+Bahasa Melayu: Catatan kontra ABT dengan ABB ialah urus niaga biasa, berbeza daripada pelarasan nominal, susut nilai dan PHR pada tarikh imbangan."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：权责发生制包括尚未支付的本期费用：421 + 63 = RM484。
+Bahasa Melayu: Asas akruan mengiktiraf belanja belum bayar: 421 + 63 = RM484."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：四月起一年租金至翌年三月，年底预付三个月：5,400 × 3/12 = RM1,350。
+Bahasa Melayu: Sewa prabayar Januari hingga Mac = 5,400 × 3/12 = RM1,350."
+,radio,F5 Bab 1,A,B,C,D,C,Picture23.png,"中文：坏账属于费用，结转损益账户借方，并减少应收款及盈利。
+Bahasa Melayu: Hutang lapuk ialah belanja yang didebitkan ke Akaun Untung Rugi serta mengurangkan ABT dan untung."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：出售企业旧车属于非流动资产出售；出售家具店商品则是营业销售。
+Bahasa Melayu: Jualan kenderaan terpakai perniagaan ialah pelupusan aset bukan semasa; jualan almari sebagai barang niaga ialah jualan operasi."
+,radio,F5 Bab 2,A,B,C,D,A,Picture25.png,"中文：抵销错误及整宗遗漏可能不影响借贷相等；只遗漏一方则使试算表不平衡。I、II 正确。
+Bahasa Melayu: Kesilapan saling mengimbangi dan ketinggalan seluruh urus niaga tidak semestinya menjejaskan keseimbangan; I dan II betul."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：购货账户记 RM540 而实际 RM450，购货多记 RM90，现金簿没有错误。
+Bahasa Melayu: Akaun Belian terlebih catat 540 − 450 = RM90; Buku Tunai telah betul."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：原分录借贷完全颠倒，改正需原金额两倍：借记顾客、贷记销售 RM12,920。
+Bahasa Melayu: Kesilapan songsang dibetulkan pada dua kali amaun: debit pelanggan dan kredit Jualan RM12,920."
+,radio,F5 Bab 3,A,B,C,D,C,Picture28.png,"中文：流动比率 = 流动资产/流动负债；存货周转率的分子是销货成本，不是销售。
+Bahasa Melayu: Nisbah semasa = aset semasa/liabiliti semasa; kadar pusing ganti inventori menggunakan kos jualan, bukan jualan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：销货成本 = 8,400 + 17,340 − 12,160 = RM13,580；加价率 = 10,210/13,580 × 100% = 75.18%。
+Bahasa Melayu: Kos jualan RM13,580; tokokan = 10,210/13,580 × 100% = 75.18%."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：Wafi 收债期 35 天较短，收债更好；Sarah 存货周转 9 次较高，存货管理更快。I、IV 正确。
+Bahasa Melayu: Wafi mengutip hutang lebih cepat, manakala Sarah mempunyai pusing ganti inventori lebih tinggi; I dan IV betul."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：净亏损减少资本及业主权益；收入和追加资本通常增加权益。
+Bahasa Melayu: Rugi bersih mengurangkan ekuiti pemilik; hasil dan modal tambahan meningkatkan ekuiti."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：赊销 = 期末应收 8,800 + 收款 6,100 + 退回 300 − 期初应收 4,300 = RM10,900。
+Bahasa Melayu: Jualan kredit = 8,800 + 6,100 + 300 − 4,300 = RM10,900."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：银行直接代扣款项可能尚未记入企业现金簿，产生差额；需在现金簿补记。
+Bahasa Melayu: Pindahan debit dilakukan bank dan mungkin belum direkod dalam Buku Tunai, maka perlu dikemas kini."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：实际销售超过预算、实际原材料购入支出低于预算是有利差异，II、IV 正确。
+Bahasa Melayu: Jualan sebenar melebihi anggaran dan bayaran bahan mentah kurang daripada anggaran menunjukkan prestasi memuaskan; II dan IV betul."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：清算时收到供应商付款折扣，会增加清算收益：借记应付款、贷记清算账户 RM400。
+Bahasa Melayu: Diskaun diterima semasa menjelaskan ABB dikreditkan ke Akaun Realisasi dan didebitkan ke ABB RM400."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：优先股息 = 150,000 × 2 × 6% = RM18,000；普通股息率 = (46,800 − 18,000)/180,000 × 100% = 16%。
+Bahasa Melayu: Dividen keutamaan RM18,000; kadar dividen biasa = (46,800 − 18,000)/180,000 × 100% = 16%."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：会费收入 = 已收 12,000 + 应收 500 − 预收 800 = RM11,700。
+Bahasa Melayu: Yuran diiktiraf = 12,000 + 500 − 800 = RM11,700."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：盈余增加累计基金，累计基金相当于独资企业权益；其计算是资产减负债。II、IV 正确。
+Bahasa Melayu: Lebihan menambah dana terkumpul yang bersamaan ekuiti milikan tunggal; dana = aset − liabiliti. II dan IV betul."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：制造费用增加使总生产成本增加，不直接改变基本成本或原材料成本。
+Bahasa Melayu: Pertambahan kos overhed menaikkan kos pengeluaran tanpa mengubah kos prima atau bahan secara langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：盈亏平衡量 1,500 = 3,000/单位贡献，故单位贡献 RM2。卖 4,000 单位盈利 = (4,000 − 1,500) × 2 = RM5,000。
+Bahasa Melayu: Sumbangan seunit = 3,000/1,500 = RM2. Untung = (4,000 − 1,500) × RM2 = RM5,000."

@@ -1,14 +1,37 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 1,radio,Kedah_Q21,A,B,C,D,A,Kedah/Picture21.png
-F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png
-F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png
-F5 Chp 1,radio,NegeriSembilan_Q19,A,B,C,D,B,Negeri Sembilan/Picture19.png
-F5 Chp 1,radio,NegeriSembilan_Q20,A,B,C,D,C,Negeri Sembilan/Picture20.png
-F5 Chp 1,radio,Pahang_Q25,A,B,C,D,C,Pahang/Picture25.png
-F5 Chp 1,radio,Penang_Q22,A,B,C,D,C,Penang/Picture22.png
-F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png
-F5 Chp 1,radio,Perak_Q23,A,B,C,D,C,Perak/Picture23.png
-F5 Chp 1,radio,Perlis_Q21,A,B,C,D,D,Perlis/Picture21.png
-F5 Chp 1,radio,Perlis_Q22,A,B,C,D,D,Perlis/Picture22.png
-F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,B,Selangor Set 1/Picture22.png
-F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,B,Terengganu/Picture22.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 1,radio,Johor_Q21,A,B,C,D,D,Johor/Picture21.png,"中文：加价率 70% 的分母是销货成本，分子是毛利，表示每 RM1 销货成本赚取 RM0.70 毛利。
+Bahasa Melayu: Tokokan 70% bermaksud untung kasar RM0.70 bagi setiap RM1 kos jualan. Tokokan menggunakan untung kasar, bukannya untung bersih atau jualan bersih."
+F5 Chp 1,radio,Johor_Q22,A,B,C,D,C,Johor/Picture22.png,"中文：赊销占 3/10：120,000 × 3/10 = RM36,000。收款期 = 6,300 ÷ 36,000 × 365 = 63.875，约 64 天。
+Bahasa Melayu: Jualan kredit = RM120,000 × 3/10 = RM36,000. Tempoh kutipan hutang = RM6,300 ÷ RM36,000 × 365 = 63.875, dibundarkan kepada 64 hari."
+F5 Chp 1,radio,KL_Q20,A,B,C,D,A,KL/Picture20.png,"中文：财务报表分析主要用来评估表现及作出决策，即 I 和 II；分析本身不会直接保证利润最大化。
+Bahasa Melayu: Analisis Penyata Kewangan bertujuan menilai prestasi dan membantu membuat keputusan, iaitu I dan II. Analisis tidak dengan sendirinya menjamin keuntungan maksimum."
+F5 Chp 1,radio,Kedah_Q21,A,B,C,D,A,Kedah/Picture21.png,"中文：电脑是店里的商品，老板拿给孩子使用属于提取：借记 Ambilan RM1,000，贷记 Belian RM1,000。
+Bahasa Melayu: Komputer ialah barang niaga yang diambil untuk kegunaan peribadi: debit Ambilan RM1,000 dan kredit Belian RM1,000."
+F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png,"中文：平均存货 = (12,000 + 24,000)/2 = RM18,000。存货周转率 = 72,000/18,000 = 4 次。
+Bahasa Melayu: Inventori purata = (12,000 + 24,000)/2 = RM18,000. Kadar pusing ganti inventori = 72,000/18,000 = 4 kali."
+F5 Chp 1,radio,MRSM_Q24,A,B,C,D,C,MRSM/Picture24.png,"中文：加价率 Tokokan = 毛利 ÷ 销货成本 × 100%。若分母是销售净额，则属于毛利率。
+Bahasa Melayu: Tokokan = untung kasar ÷ kos jualan × 100%. Jika penyebut ialah jualan bersih, nisbah itu ialah margin untung kasar."
+F5 Chp 1,radio,MRSM_Q25,A,B,C,D,B,MRSM/Picture25.png,"中文：流动资产 = 7,650 + 5,850 = RM13,500；流动负债 = 3,750 + 4,550 = RM8,300。流动比率 = 13,500 ÷ 8,300 = 1.63 : 1；不用期初存货。
+Bahasa Melayu: Aset semasa = RM7,650 + inventori akhir RM5,850 = RM13,500. Liabiliti semasa = RM3,750 + RM4,550 = RM8,300. Nisbah semasa = 1.63 : 1; inventori awal tidak digunakan."
+F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png,"中文：退票及银行服务费会由银行先记入结单，企业尚未更新现金簿，形成差额；III、IV 是时间差项目。
+Bahasa Melayu: Cek tak laku dan caj bank muncul dalam Penyata Bank sebelum Buku Tunai dikemas kini; III dan IV ialah perbezaan masa."
+F5 Chp 1,radio,NegeriSembilan_Q19,A,B,C,D,B,Negeri Sembilan/Picture19.png,"中文：售价低于净值，亏损 = 4,850 − 3,450 = RM1,400；借记出售亏损，贷记机器出售账户。
+Bahasa Melayu: Rugi pelupusan = 4,850 − 3,450 = RM1,400; debit Rugi Pelupusan dan kredit Pelupusan Mesin."
+F5 Chp 1,radio,NegeriSembilan_Q20,A,B,C,D,C,Negeri Sembilan/Picture20.png,"中文：营运资本 = 22,500 + 5,900 + 750 − 2,100 − 250 = RM26,800；应收租金是流动资产，应付利息是流动负债。
+Bahasa Melayu: Modal kerja = 22,500 + 5,900 + 750 − 2,100 − 250 = RM26,800."
+F5 Chp 1,radio,Pahang_Q25,A,B,C,D,C,Pahang/Picture25.png,"中文：毛利率衡量每单位销售带来的毛利，属于盈利比率；流动比率是偿债指标。
+Bahasa Melayu: Margin untung kasar mengukur keberuntungan, manakala nisbah semasa dan ujian asid mengukur kecairan."
+F5 Chp 1,radio,Penang_Q22,A,B,C,D,C,Penang/Picture22.png,"中文：提高售价及减少营业费用可增加销售中的净利比例，因此 II、III 正确；贷款不直接改善净利率。
+Bahasa Melayu: Meningkatkan harga jualan dan mengurangkan belanja operasi boleh meningkatkan margin untung bersih; II dan III betul."
+F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png,"中文：四月起一年租金至翌年三月，年底预付三个月：5,400 × 3/12 = RM1,350。
+Bahasa Melayu: Sewa prabayar Januari hingga Mac = 5,400 × 3/12 = RM1,350."
+F5 Chp 1,radio,Perak_Q23,A,B,C,D,C,Perak/Picture23.png,"中文：坏账属于费用，结转损益账户借方，并减少应收款及盈利。
+Bahasa Melayu: Hutang lapuk ialah belanja yang didebitkan ke Akaun Untung Rugi serta mengurangkan ABT dan untung."
+F5 Chp 1,radio,Perlis_Q21,A,B,C,D,A,Perlis/Picture21.png,"中文：确定盈亏需要 I 收入及 II 费用：收入 − 费用 = 净利或净亏，所以选 A。业主提取不是费用，期初资本也不是收入。
+Bahasa Melayu: Maklumat yang diperlukan ialah I, hasil, dan II, belanja. Hasil − belanja menentukan untung bersih atau rugi bersih; jawapannya A. Ambilan bukan belanja dan modal awal bukan hasil."
+F5 Chp 1,radio,Perlis_Q22,A,B,C,D,D,Perlis/Picture22.png,"中文：赊销 = 收款 11,200 + 退回 450 + 期末应收 9,700 − 期初应收 3,400 = RM17,950。
+Bahasa Melayu: Jualan kredit = 11,200 + 450 + 9,700 − 3,400 = RM17,950."
+F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,B,Selangor Set 1/Picture22.png,"中文：平均存货 = (24,000 + 48,000)/2 = RM36,000；周转率 = 144,000/36,000 = 4 次。
+Bahasa Melayu: Inventori purata RM36,000; kadar pusing ganti inventori = 144,000/36,000 = 4 kali."
+F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,B,Terengganu/Picture22.png,"中文：年折旧 = (85,000 − 10,500)/10 = RM7,450。
+Bahasa Melayu: Susut nilai tahunan = (85,000 − 10,500)/10 = RM7,450."

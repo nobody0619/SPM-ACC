@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu 2026 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：按课本，MASB 负责制定马来西亚会计准则；MIA 等机构主要涉及专业会员及职业发展。
+Bahasa Melayu: MASB menggubal piawaian perakaunan Malaysia; MIA dan badan profesional lain mempunyai peranan profesion yang berbeza."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：国际委员会旨在推动共通会计准则，使不同地区报表更可比较。
+Bahasa Melayu: Jawatankuasa antarabangsa menggalakkan penggunaan piawaian perakaunan bagi meningkatkan keseragaman dan kebolehbandingan."
+,radio,F4 Bab 1,A,B,C,D,B,Picture3.png,"中文：私人使用商品须记提取，将企业记录与业主私人交易分开，体现独立实体。
+Bahasa Melayu: Ambilan peribadi direkod berasingan daripada kegiatan perniagaan, menepati entiti berasingan."
+,radio,F4 Bab 1,A,B,C,D,D,Picture4.png,"中文：合作社资本来源包括会员入会费及会员购买股份。
+Bahasa Melayu: Koperasi memperoleh modal melalui fi masuk dan jualan saham kepada anggota."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：交易账户包括销货成本，以净销售减销货成本求毛利。本题把毛利视为计算结果而非费用或成本项目。
+Bahasa Melayu: Kos jualan ialah komponen Akaun Perdagangan; untung kasar merupakan hasil pengiraan jualan bersih ditolak kos jualan."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：抵押贷款及超过一年的债务通常是非流动负债；透支及一年内欠款属于流动负债。I、IV 正确。
+Bahasa Melayu: Gadai janji dan hutang melebihi setahun ialah liabiliti bukan semasa; I dan IV betul."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：付供应商 RM4,500 清偿 RM5,000，收到折扣 RM500；资产减 4,500、负债减 5,000、权益加 500。
+Bahasa Melayu: Bayaran RM4,500 dan diskaun diterima RM500 menjelaskan hutang RM5,000; ekuiti meningkat RM500."
+,radio,F4 Bab 5,A,B,C,D,C,Picture8.png,"中文：车辆的抵销账户是累计折旧，不是本年折旧费用，故 C 的配对错误。
+Bahasa Melayu: Akaun kontra kenderaan ialah susut nilai terkumpul, bukannya belanja susut nilai semasa; C tidak tepat."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：银行借项通知表示客户存款被扣减，例如代付款、银行费用或透支利息。
+Bahasa Melayu: Makluman debit memberitahu pelanggan bahawa bank telah mengurangkan baki akaunnya."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：退票后撤销给予折扣：借记 Haifa 增加欠款，贷记 Diskaun Diberi 减少折扣费用。
+Bahasa Melayu: Diskaun dibatalkan: debit Haifa dan kredit Diskaun Diberi untuk memulihkan hutang pelanggan."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：顾客退货记销售退回日记账，赊销记销售日记账，均为特别日记账，I、III 正确。
+Bahasa Melayu: Pulangan pelanggan dan jualan kredit direkod dalam jurnal khas; I dan III betul."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：现金簿借方记录收款，正式收据证明收回应收款，适合作来源文件。
+Bahasa Melayu: Resit menjadi dokumen sumber penerimaan wang yang direkod di sebelah debit Buku Tunai."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：宣传及文具费用是名义账户，每期结转损益；应付款和预付保险保留余额。
+Bahasa Melayu: Promosi dan alat tulis ialah akaun nominal; ABB dan insurans prabayar ialah akaun nyata."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：企业捐赠商品：借记 Derma RM250、贷记 Belian RM250，不是业主私人提取。
+Bahasa Melayu: Barang niaga didermakan: debit Derma RM250 dan kredit Belian RM250."
+,radio,F4 Bab 7,A,B,C,D,D,Picture15.png,"中文：销售退回减少应收款，取消给予折扣增加应收款，均记应收控制账户。II、IV 正确。
+Bahasa Melayu: Pulangan masuk dan diskaun diberi dibatalkan direkod dalam Akaun Kawalan ABT; II dan IV betul."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：广告费在借方、应付款在贷方，符合名义费用及负债的正常余额，选 A。
+Bahasa Melayu: Iklan berbaki debit dan ABB berbaki kredit, sepadan dengan belanja serta liabiliti; A betul."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：净销售 = 42,350 − 1,490 = RM40,860；购货成本 = 28,670 − 1,180 + 540 = RM28,030。
+Bahasa Melayu: Jualan bersih RM40,860; kos belian = 28,670 − 1,180 + 540 = RM28,030."
+,radio,F4 Bab 8,A,B,C,D,D,Picture18.png,"中文：净利是本期收入减全部费用后的盈利，结转资本后增加权益。
+Bahasa Melayu: Untung bersih dipindahkan ke Akaun Modal dan menambah ekuiti pemilik."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：净销售结转交易账户，用于计算毛利，而不是直接结转损益账户。
+Bahasa Melayu: Jualan bersih dipindahkan ke Akaun Perdagangan untuk menentukan untung kasar."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：收到租赁押金将来可能须归还，所以属于负债；已付押金和预付款则是资产。
+Bahasa Melayu: Deposit sewa diterima perlu dipulangkan apabila berkenaan, maka ialah liabiliti."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：财务状况表列新坏账准备总额 = 8,000 × 5% = RM400，不是增加额 RM200。题列坏账为已记账余额，不重复减应收款。
+Bahasa Melayu: PHR akhir = 8,000 × 5% = RM400; penyata kedudukan kewangan melaporkan jumlah akhir, bukan pertambahan RM200."

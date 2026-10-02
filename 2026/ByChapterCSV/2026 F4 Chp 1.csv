@@ -1,27 +1,69 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 1,radio,Kedah_Q01,A,B,C,D,C,Kedah/Picture1.png
-F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png
-F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png
-F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png
-F4 Chp 1,radio,Melaka_Q01,A,B,C,D,D,Melaka/Picture1.png
-F4 Chp 1,radio,Melaka_Q02,A,B,C,D,B,Melaka/Picture2.png
-F4 Chp 1,radio,NegeriSembilan_Q01,A,B,C,D,D,Negeri Sembilan/Picture1.png
-F4 Chp 1,radio,NegeriSembilan_Q02,A,B,C,D,C,Negeri Sembilan/Picture2.png
-F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png
-F4 Chp 1,radio,Pahang_Q02,A,B,C,D,D,Pahang/Picture2.png
-F4 Chp 1,radio,Pahang_Q03,A,B,C,D,A,Pahang/Picture3.png
-F4 Chp 1,radio,Penang_Q01,A,B,C,D,C,Penang/Picture1.png
-F4 Chp 1,radio,Penang_Q02,A,B,C,D,D,Penang/Picture2.png
-F4 Chp 1,radio,Perak_Q01,A,B,C,D,D,Perak/Picture1.png
-F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png
-F4 Chp 1,radio,Perak_Q03,A,B,C,D,C,Perak/Picture3.png
-F4 Chp 1,radio,Perak_Q04,A,B,C,D,B,Perak/Picture4.png
-F4 Chp 1,radio,Perak_Q05,A,B,C,D,B,Perak/Picture5.png
-F4 Chp 1,radio,Perlis_Q01,A,B,C,D,A,Perlis/Picture1.png
-F4 Chp 1,radio,Perlis_Q02,A,B,C,D,A,Perlis/Picture2.png
-F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,B,Selangor Set 1/Picture1.png
-F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,A,Selangor Set 1/Picture2.png
-F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,D,Terengganu/Picture1.png
-F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,C,Terengganu/Picture2.png
-F4 Chp 1,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png
-F4 Chp 1,radio,Terengganu_Q04,A,B,C,D,D,Terengganu/Picture4.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 1,radio,Johor_Q01,A,B,C,D,C,Johor/Picture1.png,"中文：会计循环是一个期间内处理会计资料的步骤顺序，从原始凭证、日记账和分类账到试算表及财务报表。
+Bahasa Melayu: Kitaran perakaunan ialah turutan tatacara dalam satu tempoh perakaunan, daripada dokumen dan catatan awal hingga penyediaan Penyata Kewangan."
+F4 Chp 1,radio,Johor_Q02,A,B,C,D,B,Johor/Picture2.png,"中文：能影响使用者经济决策的资料具有相关性 Kerelevanan，帮助使用者判断过去或预期未来表现。
+Bahasa Melayu: Maklumat yang dapat mempengaruhi keputusan ekonomi pengguna mempunyai ciri kerelevanan, kerana membantu penilaian dan keputusan."
+F4 Chp 1,radio,Johor_Q03,A,B,C,D,A,Johor/Picture3.png,"中文：资本小、只有一名业主，适合独资经营的 Hanida 面包店；合伙、有限公司及合作社不符合一人独资的特点。
+Bahasa Melayu: Modal kecil dan seorang pemilik sesuai dengan milikan tunggal, iaitu Kedai Bakeri Hanida. Bentuk perkongsian, syarikat dan koperasi tidak memenuhi ciri seorang pemilik ini."
+F4 Chp 1,radio,KL_Q01,A,B,C,D,A,KL/Picture1.png,"中文：十年来都使用直线法计提折旧，体现一致性原则，方便比较不同年份的财务资料。
+Bahasa Melayu: Kaedah garis lurus digunakan secara berterusan selama sepuluh tahun. Ini mematuhi prinsip ketekalan supaya maklumat kewangan antara tempoh boleh dibandingkan."
+F4 Chp 1,radio,KL_Q02,A,B,C,D,D,KL/Picture2.png,"中文：按本题课本的合作社组织特点，最少 50 名成员，最多人数不设上限，选 D。
+Bahasa Melayu: Mengikut ciri organisasi koperasi dalam konteks buku teks soalan ini, keanggotaan minimum ialah 50 orang dan maksimum tidak terhad; jawapan D."
+F4 Chp 1,radio,Kedah_Q01,A,B,C,D,C,Kedah/Picture1.png,"中文：董事会参与企业管理，是内部使用者；银行、审计师及税务局属于外部使用者。
+Bahasa Melayu: Ahli lembaga pengarah terlibat dalam pengurusan, maka ialah pengguna dalaman; bank, juruaudit dan LHDN ialah pengguna luaran."
+F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png,"中文：审计检查文件与账簿，确认会计记录正确、可靠。
+Bahasa Melayu: Pengauditan memeriksa dokumen dan rekod bagi mengesahkan ketepatan serta kebolehpercayaan maklumat perakaunan."
+F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png,"中文：审计检查文件和账簿，确认会计记录准确。
+Bahasa Melayu: Pengauditan memeriksa dokumen dan rekod bagi mengesahkan ketepatan catatan perakaunan."
+F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png,"中文：办公设备长期使用，不容易转换成现金，属于非流动资产。
+Bahasa Melayu: Alatan pejabat mempunyai hayat penggunaan panjang dan kecairan rendah, maka ialah aset bukan semasa."
+F4 Chp 1,radio,MRSM_Q01,A,B,C,D,D,MRSM/Picture1.png,"中文：一个会计期间内，按步骤处理交易、过账、试算及编制报表的流程称为会计循环 Kitaran Perakaunan。
+Bahasa Melayu: Kitaran Perakaunan ialah tatacara mengolah urus niaga, membuat catatan dan menyediakan laporan sepanjang satu tempoh kewangan."
+F4 Chp 1,radio,MRSM_Q02,A,B,C,D,C,MRSM/Picture2.png,"中文：租金以 RM 表示，体现货币计量；本期尚未支付的租金也确认为费用，体现收入与费用确认原则，因此选 II、III。
+Bahasa Melayu: Amaun sewa dinyatakan dalam RM, memenuhi andaian wang sebagai ukuran. Sewa belum dibayar turut diiktiraf sebagai belanja, memenuhi prinsip pengiktirafan hasil dan belanja; II dan III."
+F4 Chp 1,radio,MRSM_Q03,A,B,C,D,A,MRSM/Picture3.png,"中文：按题目把私人诊所视为独资企业，业主承担无限责任，企业债务可能涉及业主私人财产。
+Bahasa Melayu: Klinik persendirian dalam soalan dianggap milikan tunggal. Pemilik menanggung liabiliti tidak terhad, termasuk penggunaan harta peribadi untuk menjelaskan hutang perniagaan."
+F4 Chp 1,radio,Melaka_Q01,A,B,C,D,D,Melaka/Picture1.png,"中文：管理会计协助内部规划产量、控制原材料和管理员工，用来改善经营决策。
+Bahasa Melayu: Perakaunan pengurusan membantu merancang pengeluaran, mengawal bahan mentah dan mengurus pekerja untuk keputusan dalaman."
+F4 Chp 1,radio,Melaka_Q02,A,B,C,D,B,Melaka/Picture2.png,"中文：答案纸 B 着重“在 30/6/2026 编制报表”的会计期间假设。另须分清：资产按原价记录体现成本原则，题目没有把成本原则列作选项。
+Bahasa Melayu: Skema B menekankan andaian tempoh perakaunan melalui penyediaan penyata pada 30/6/2026. Perekodan aset pada kos pula menepati prinsip kos, yang tidak disenaraikan sebagai pilihan."
+F4 Chp 1,radio,NegeriSembilan_Q01,A,B,C,D,D,Negeri Sembilan/Picture1.png,"中文：古巴比伦用泥板记录交易，泥土刻写后可保存会计资料。
+Bahasa Melayu: Rekod awal di Babylonia dibuat pada kepingan tanah liat untuk menyimpan catatan urus niaga."
+F4 Chp 1,radio,NegeriSembilan_Q02,A,B,C,D,C,Negeri Sembilan/Picture2.png,"中文：四项假设包括会计期间、货币计量、持续经营和独立实体，因此 X 是独立实体。
+Bahasa Melayu: Empat andaian ialah tempoh perakaunan, wang sebagai ukuran, usaha berterusan dan entiti berasingan; X ialah entiti berasingan."
+F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png,"中文：会计循环按一个期间的次序完成记录、过账、试算、调整和报表编制。
+Bahasa Melayu: Kitaran perakaunan menunjukkan turutan merekod, mengepos, menyediakan Imbangan Duga, membuat pelarasan dan menyediakan penyata kewangan."
+F4 Chp 1,radio,Pahang_Q02,A,B,C,D,D,Pahang/Picture2.png,"中文：Pacioli 把复式记账方法系统地写成著作，因此被称为会计之父。
+Bahasa Melayu: Luca Pacioli memperkenalkan penerangan bertulis tentang catatan bergu secara tersusun, lalu dikenali sebagai Bapa Perakaunan."
+F4 Chp 1,radio,Pahang_Q03,A,B,C,D,A,Pahang/Picture3.png,"中文：每年沿用同一种折旧方法体现一致性，方便跨期比较。
+Bahasa Melayu: Penggunaan kaedah susut nilai yang sama setiap tahun menepati prinsip ketekalan."
+F4 Chp 1,radio,Penang_Q01,A,B,C,D,C,Penang/Picture1.png,"中文：业主和企业是独立实体，业主取商品私用须记为提取，不能当成企业销售或费用。
+Bahasa Melayu: Entiti berasingan memisahkan pemilik daripada perniagaan; barang diambil untuk peribadi direkod sebagai ambilan."
+F4 Chp 1,radio,Penang_Q02,A,B,C,D,D,Penang/Picture2.png,"中文：应收款、现金及应收收入都是流动资产；透支及预收收入是流动负债。
+Bahasa Melayu: ABT, tunai dan hasil belum terima ialah aset semasa; overdraf dan hasil belum terperoleh ialah liabiliti semasa."
+F4 Chp 1,radio,Perak_Q01,A,B,C,D,D,Perak/Picture1.png,"中文：管理会计向内部管理人员提供规划及决策资料，财务会计则侧重对外报表。
+Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat kepada pengguna dalaman untuk perancangan dan keputusan."
+F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png,"中文：课本列出的职业伦理包括客观性、保密及专业行为；Kredibiliti 不是该五项基本原则之一。
+Bahasa Melayu: Objektiviti, kerahsiaan dan sifat profesional termasuk prinsip etika; kredibiliti bukan salah satu daripada lima prinsip asas yang disenaraikan."
+F4 Chp 1,radio,Perak_Q03,A,B,C,D,C,Perak/Picture3.png,"中文：私人提取与企业交易分开记录，体现业主和企业的独立实体关系。
+Bahasa Melayu: Ambilan direkod berasingan kerana pemilik dan perniagaan merupakan entiti berasingan."
+F4 Chp 1,radio,Perak_Q04,A,B,C,D,B,Perak/Picture4.png,"中文：三月至八月共六个月，期间应是 1/3/2025 至 31/8/2025。
+Bahasa Melayu: Tempoh enam bulan dari Mac berakhir pada 31 Ogos, iaitu 1 Mac hingga 31 Ogos 2025."
+F4 Chp 1,radio,Perak_Q05,A,B,C,D,B,Perak/Picture5.png,"中文：按取得时的 RM1,200 记录，不随市场价变动，体现成本原则。
+Bahasa Melayu: Aset direkod pada kos belian RM1,200 dan bukannya harga pasaran RM800, menepati prinsip kos."
+F4 Chp 1,radio,Perlis_Q01,A,B,C,D,A,Perlis/Picture1.png,"中文：连续五年采用相同折旧方法，体现一致性，方便比较不同年度。
+Bahasa Melayu: Kaedah susut nilai yang sama selama lima tahun menepati prinsip ketekalan."
+F4 Chp 1,radio,Perlis_Q02,A,B,C,D,A,Perlis/Picture2.png,"中文：Ani Taylor 是独资企业，由单一业主经营并承担无限责任。
+Bahasa Melayu: Ani Taylor ialah milikan tunggal dengan seorang pemilik dan liabiliti tidak terhad."
+F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,B,Selangor Set 1/Picture1.png,"中文：试算表之后进行期末调整，再编制调整后试算表和财务报表。
+Bahasa Melayu: Selepas Imbangan Duga, pelarasan dibuat sebelum Imbangan Duga Terselaras dan penyata kewangan."
+F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,A,Selangor Set 1/Picture2.png,"中文：随意改变折旧方法会影响跨期比较，违反一致性原则。
+Bahasa Melayu: Pertukaran kaedah susut nilai menjejaskan perbandingan antara tempoh dan berkaitan prinsip ketekalan."
+F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,D,Terengganu/Picture1.png,"中文：按课本，MASB 负责制定马来西亚会计准则；MIA 等机构主要涉及专业会员及职业发展。
+Bahasa Melayu: MASB menggubal piawaian perakaunan Malaysia; MIA dan badan profesional lain mempunyai peranan profesion yang berbeza."
+F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,C,Terengganu/Picture2.png,"中文：国际委员会旨在推动共通会计准则，使不同地区报表更可比较。
+Bahasa Melayu: Jawatankuasa antarabangsa menggalakkan penggunaan piawaian perakaunan bagi meningkatkan keseragaman dan kebolehbandingan."
+F4 Chp 1,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png,"中文：私人使用商品须记提取，将企业记录与业主私人交易分开，体现独立实体。
+Bahasa Melayu: Ambilan peribadi direkod berasingan daripada kegiatan perniagaan, menepati entiti berasingan."
+F4 Chp 1,radio,Terengganu_Q04,A,B,C,D,D,Terengganu/Picture4.png,"中文：合作社资本来源包括会员入会费及会员购买股份。
+Bahasa Melayu: Koperasi memperoleh modal melalui fi masuk dan jualan saham kepada anggota."

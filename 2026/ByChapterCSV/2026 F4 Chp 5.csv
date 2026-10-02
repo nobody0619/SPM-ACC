@@ -1,30 +1,73 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 5,radio,Kedah_Q11,A,B,C,D,A,Kedah/Picture11.png
-F4 Chp 5,radio,Kedah_Q12,A,B,C,D,C,Kedah/Picture12.png
-F4 Chp 5,radio,Kelantan_Q07,A,B,C,D,A,Kelantan/Picture7.png
-F4 Chp 5,radio,Kelantan_Q08,A,B,C,D,C,Kelantan/Picture8.png
-F4 Chp 5,radio,Melaka_Q09,A,B,C,D,D,Melaka/Picture9.png
-F4 Chp 5,radio,Melaka_Q10,A,B,C,D,C,Melaka/Picture10.png
-F4 Chp 5,radio,Melaka_Q11,A,B,C,D,A,Melaka/Picture11.png
-F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,C,Negeri Sembilan/Picture10.png
-F4 Chp 5,radio,NegeriSembilan_Q12,A,B,C,D,D,Negeri Sembilan/Picture12.png
-F4 Chp 5,radio,NegeriSembilan_Q13,A,B,C,D,C,Negeri Sembilan/Picture13.png
-F4 Chp 5,radio,Pahang_Q13,A,B,C,D,D,Pahang/Picture13.png
-F4 Chp 5,radio,Pahang_Q14,A,B,C,D,C,Pahang/Picture14.png
-F4 Chp 5,radio,Pahang_Q15,A,B,C,D,C,Pahang/Picture15.png
-F4 Chp 5,radio,Penang_Q09,A,B,C,D,C,Penang/Picture9.png
-F4 Chp 5,radio,Penang_Q10,A,B,C,D,B,Penang/Picture10.png
-F4 Chp 5,radio,Penang_Q11,A,B,C,D,A,Penang/Picture11.png
-F4 Chp 5,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png
-F4 Chp 5,radio,Perak_Q11,A,B,C,D,C,Perak/Picture11.png
-F4 Chp 5,radio,Perlis_Q05,A,B,C,D,D,Perlis/Picture5.png
-F4 Chp 5,radio,Perlis_Q06,A,B,C,D,B,Perlis/Picture6.png
-F4 Chp 5,radio,Perlis_Q08,A,B,C,D,C,Perlis/Picture8.png
-F4 Chp 5,radio,Perlis_Q09,A,B,C,D,C,Perlis/Picture9.png
-F4 Chp 5,radio,Perlis_Q10,A,B,C,D,C,Perlis/Picture10.png
-F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,C,Selangor Set 1/Picture9.png
-F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 1/Picture10.png
-F4 Chp 5,radio,Terengganu_Q08,A,B,C,D,C,Terengganu/Picture8.png
-F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,A,Terengganu/Picture9.png
-F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,B,Terengganu/Picture10.png
-F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 5,radio,Johor_Q12,A,B,C,D,A,Johor/Picture12.png,"中文：分类账 Lejar 把交易按账户系统整理，并使用双重记录 Sistem Catatan Bergu，让每项交易具有相应借方及贷方。
+Bahasa Melayu: Lejar merekod urus niaga secara sistematik mengikut akaun menggunakan Sistem Catatan Bergu, dengan catatan debit dan kredit yang sepadan."
+F4 Chp 5,radio,Johor_Q13,A,B,C,D,C,Johor/Picture13.png,"中文：业主用私人借款支付店铺租金，是业主替企业承担费用并投入资本；借记租金、贷记资本 RM2,600。私人债务不自动成为企业贷款。
+Bahasa Melayu: Pemilik membayar sewa menggunakan pinjaman peribadi, maka bayaran dianggap sumbangan modal. Debit Sewa dan kredit Modal RM2,600; pinjaman peribadi bukan pinjaman perniagaan."
+F4 Chp 5,radio,KL_Q09,A,B,C,D,C,KL/Picture9.png,"中文：业主将私人货车投入企业，增加车辆资产和业主资本：借记 Kenderaan，贷记 Modal，各 RM100,000。
+Bahasa Melayu: Van peribadi dibawa masuk sebagai modal. Debit Akaun Kenderaan dan kredit Akaun Modal RM100,000 kerana aset dan modal bertambah."
+F4 Chp 5,radio,KL_Q10,A,B,C,D,A,KL/Picture10.png,"中文：应收账款期末余额 = 销售 − 客户付款 − 销售退回 − 给予折扣 = 23,850 − 14,156 − 270 − 684 = RM8,740。
+Bahasa Melayu: Baki akhir Akaun Kawalan Belum Terima = jualan − penerimaan pelanggan − pulangan masuk − diskaun diberi = RM23,850 − RM14,156 − RM270 − RM684 = RM8,740."
+F4 Chp 5,radio,Kedah_Q11,A,B,C,D,A,Kedah/Picture11.png,"中文：销售退回减少顾客欠款，因此减少销售分类账余额。
+Bahasa Melayu: Pulangan masuk mengurangkan hutang pelanggan, maka mengurangkan baki dalam Lejar Jualan."
+F4 Chp 5,radio,Kedah_Q12,A,B,C,D,C,Kedah/Picture12.png,"中文：住宅租金是老板私人开支。使用企业支票支付，应借记 Ambilan、贷记 Bank RM1,500。
+Bahasa Melayu: Sewa kediaman ialah belanja peribadi pemilik: debit Ambilan dan kredit Bank RM1,500."
+F4 Chp 5,radio,Kelantan_Q07,A,B,C,D,A,Kelantan/Picture7.png,"中文：现金购买设备：借记 Alatan Pejabat，贷记 Tunai，表示设备增加、现金减少。
+Bahasa Melayu: Belian alatan pejabat secara tunai: debit Alatan Pejabat dan kredit Tunai."
+F4 Chp 5,radio,Kelantan_Q08,A,B,C,D,C,Kelantan/Picture8.png,"中文：赊销汇总由销售日记账过账到销售账户，因此 RM17,820 来源是 Jurnal Jualan。
+Bahasa Melayu: Jumlah jualan kredit RM17,820 dipindahkan daripada Jurnal Jualan ke Akaun Jualan."
+F4 Chp 5,radio,MRSM_Q12,A,B,C,D,D,MRSM/Picture12.png,"中文：分类账分为普通分类账及特殊分类账；特殊分类账包括应收账款与应付账款，所以 P、Q 对应这两类账户。
+Bahasa Melayu: Lejar khas terdiri daripada lejar Akaun Belum Terima dan Akaun Belum Bayar. Oleh itu P dan Q ialah ABT dan ABB; D."
+F4 Chp 5,radio,MRSM_Q13,A,B,C,D,B,MRSM/Picture13.png,"中文：业主用私人支票为企业购买机器，属于投入资本：借记机器、贷记资本 RM8,400，不减少企业银行余额。
+Bahasa Melayu: Mesin dibeli menggunakan cek peribadi pemilik, maka merupakan tambahan modal. Debit Akaun Mesin dan kredit Akaun Modal RM8,400; bank perniagaan tidak berkurang."
+F4 Chp 5,radio,MRSM_Q14,A,B,C,D,C,MRSM/Picture14.png,"中文：应付账款余额 = 12,450 + 3,850 − 210 − 4,500 = RM11,590。销售退回 Pulangan Masuk 不涉及供应商欠款。
+Bahasa Melayu: Baki ABB = RM12,450 + belian kredit RM3,850 − diskaun diterima RM210 − bayaran RM4,500 = RM11,590. Pulangan masuk tidak melibatkan hutang pembekal."
+F4 Chp 5,radio,Melaka_Q09,A,B,C,D,D,Melaka/Picture9.png,"中文：零用现金簿使用备用金制度，补回已支付金额后恢复固定备用金。
+Bahasa Melayu: Buku Tunai Runcit menggunakan sistem panjar dengan bayaran balik berdasarkan jumlah yang telah dibelanjakan."
+F4 Chp 5,radio,Melaka_Q10,A,B,C,D,C,Melaka/Picture10.png,"中文：家具是非流动资产，不是本店商品：借记 Perabot，贷记供应商 Perabot Mega。
+Bahasa Melayu: Perabot ialah aset bukan semasa: debit Perabot dan kredit Perabot Mega bagi belian secara kredit."
+F4 Chp 5,radio,Melaka_Q11,A,B,C,D,A,Melaka/Picture11.png,"中文：应付款余额 = 2,100 + 2,250 + 250 − 1,200 = RM3,400；本题相关运入费也增加应付供应商金额。
+Bahasa Melayu: Baki ABB = 2,100 + 2,250 + 250 − 1,200 = RM3,400; angkutan masuk dalam maklumat soalan turut menambah jumlah hutang."
+F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,C,Negeri Sembilan/Picture10.png,"中文：维修费结转损益账户，进口税增加商品成本并结转交易账户，因此 II、III 正确。
+Bahasa Melayu: Belanja membaiki dipindahkan ke Akaun Untung Rugi dan duti import ke Akaun Perdagangan; II dan III betul."
+F4 Chp 5,radio,NegeriSembilan_Q12,A,B,C,D,D,Negeri Sembilan/Picture12.png,"中文：捐款支出正常记借方；抵押贷款是负债，正常记贷方。因此 X 是 Derma，Y 是 Gadai janji。
+Bahasa Melayu: Derma sebagai belanja berbaki debit, manakala gadai janji ialah liabiliti berbaki kredit; X Derma dan Y Gadai janji."
+F4 Chp 5,radio,NegeriSembilan_Q13,A,B,C,D,C,Negeri Sembilan/Picture13.png,"中文：现金基础在实际付款时承认工资费用，不按欠付或应计时间记录。
+Bahasa Melayu: Asas tunai mengiktiraf gaji sebagai belanja apabila pembayaran dibuat."
+F4 Chp 5,radio,Pahang_Q13,A,B,C,D,D,Pahang/Picture13.png,"中文：分类账分为总分类账和辅助分类账；辅助分类账再包括销售及购货分类账。
+Bahasa Melayu: Lejar dibahagikan kepada Lejar Am dan Lejar Subsidiari; lejar subsidiari termasuk lejar jualan dan belian."
+F4 Chp 5,radio,Pahang_Q14,A,B,C,D,C,Pahang/Picture14.png,"中文：老板用私人钱支付店租，相当于投入资本并支付费用：借记 Sewa，贷记 Modal。
+Bahasa Melayu: Belanja perniagaan dibayar dengan wang pemilik: debit Sewa dan kredit Modal."
+F4 Chp 5,radio,Pahang_Q15,A,B,C,D,C,Pahang/Picture15.png,"中文：购货退回减少应付款，记应付款控制账户借方；给予折扣则涉及应收款。
+Bahasa Melayu: Pulangan keluar mengurangkan ABB dan direkod di sebelah debit Akaun Kawalan Belum Bayar."
+F4 Chp 5,radio,Penang_Q09,A,B,C,D,C,Penang/Picture9.png,"中文：应收款控制账户借方的折扣是撤销之前给予的折扣，使顾客欠款恢复增加。
+Bahasa Melayu: Diskaun di sebelah debit Akaun Kawalan ABT ialah diskaun diberi yang dibatalkan, lalu menambah hutang pelanggan."
+F4 Chp 5,radio,Penang_Q10,A,B,C,D,B,Penang/Picture10.png,"中文：赊购 = 26,100 + 1,450 + 16,660 − 180 − 4,800 − 330 = RM38,900，须扣除期末借方应付款及另加运输收费。
+Bahasa Melayu: Belian kredit = 26,100 + 1,450 + 16,660 − 180 − 4,800 − 330 = RM38,900, selepas melaraskan baki debit dan angkutan."
+F4 Chp 5,radio,Penang_Q11,A,B,C,D,A,Penang/Picture11.png,"中文：运出费属于费用，正常在试算表借方；购货退回及收入在贷方。
+Bahasa Melayu: Angkutan keluar ialah belanja berbaki debit; pulangan belian dan hasil berbaki kredit."
+F4 Chp 5,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png,"中文：购货订单后收到发票，若有调整或退货收到贷项通知，再付款及收据，符合 B 的顺序。
+Bahasa Melayu: Urutan ialah pesanan belian, invois, nota kredit jika perlu, cek pembayaran dan resit."
+F4 Chp 5,radio,Perak_Q11,A,B,C,D,C,Perak/Picture11.png,"中文：15 日是第一天，20 日是第六天，已超过首五天的 10% 折扣期限，但仍符合十天内的 5% 折扣条件。付款额 = RM1,800 × 95% = RM1,710，选 C。
+Bahasa Melayu: 15 haribulan ialah hari pertama dan 20 haribulan ialah hari keenam. Bayaran melebihi tempoh lima hari untuk diskaun 10%, tetapi masih dalam tempoh sepuluh hari untuk diskaun 5%. Bayaran = RM1,800 × 95% = RM1,710, iaitu C."
+F4 Chp 5,radio,Perlis_Q05,A,B,C,D,D,Perlis/Picture5.png,"中文：已付税费押金可收回，属于资产，代码应在 1000–1999，选 1020。
+Bahasa Melayu: Deposit kadar bayaran ialah aset yang boleh diperoleh semula; kod 1020 berada dalam julat aset."
+F4 Chp 5,radio,Perlis_Q06,A,B,C,D,B,Perlis/Picture6.png,"中文：发票证明商品赊购；贷项通知是减少欠款，支票存根证明支票付款。
+Bahasa Melayu: Invois menunjukkan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan bayaran cek."
+F4 Chp 5,radio,Perlis_Q08,A,B,C,D,C,Perlis/Picture8.png,"中文：顾客收到原始发票买商品，记购货日记账，金额为扣商业折扣后的 RM21,600。
+Bahasa Melayu: Invois asal belian barang niaga direkod dalam Jurnal Belian pada RM21,600 selepas diskaun niaga."
+F4 Chp 5,radio,Perlis_Q09,A,B,C,D,C,Perlis/Picture9.png,"中文：老板提取现金：借记 Ambilan RM500、贷记 Tunai RM500。
+Bahasa Melayu: Ambilan tunai RM500: debit Ambilan dan kredit Tunai."
+F4 Chp 5,radio,Perlis_Q10,A,B,C,D,C,Perlis/Picture10.png,"中文：顾客饮料 RM20 和邮费 RM15 是小额日常支出，可用零用现金簿；家具和工资通常不用。
+Bahasa Melayu: Minuman pelanggan dan bungkusan pos ialah bayaran kecil dalam Buku Tunai Runcit; II dan III betul."
+F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,C,Selangor Set 1/Picture9.png,"中文：住宅水电属私人费用：借记提取、贷记现金，不能列企业水电费用。
+Bahasa Melayu: Utiliti kediaman ialah belanja peribadi: debit Ambilan dan kredit Tunai."
+F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 1/Picture10.png,"中文：应收款控制账户贷方表示欠款减少；销售退回符合，给予供应商的折扣不适用。
+Bahasa Melayu: Pulangan masuk mengurangkan ABT dan dicatat di sebelah kredit akaun kawalan."
+F4 Chp 5,radio,Terengganu_Q08,A,B,C,D,C,Terengganu/Picture8.png,"中文：车辆的抵销账户是累计折旧，不是本年折旧费用，故 C 的配对错误。
+Bahasa Melayu: Akaun kontra kenderaan ialah susut nilai terkumpul, bukannya belanja susut nilai semasa; C tidak tepat."
+F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,A,Terengganu/Picture9.png,"中文：银行借项通知表示客户存款被扣减，例如代付款、银行费用或透支利息。
+Bahasa Melayu: Makluman debit memberitahu pelanggan bahawa bank telah mengurangkan baki akaunnya."
+F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,B,Terengganu/Picture10.png,"中文：退票后撤销给予折扣：借记 Haifa 增加欠款，贷记 Diskaun Diberi 减少折扣费用。
+Bahasa Melayu: Diskaun dibatalkan: debit Haifa dan kredit Diskaun Diberi untuk memulihkan hutang pelanggan."
+F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png,"中文：顾客退货记销售退回日记账，赊销记销售日记账，均为特别日记账，I、III 正确。
+Bahasa Melayu: Pulangan pelanggan dan jualan kredit direkod dalam jurnal khas; I dan III betul."

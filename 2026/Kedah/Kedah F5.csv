@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah 2026 F5,radio,F5 Bab 1,A,B,C,D,A,Picture21.png,"中文：电脑是店里的商品，老板拿给孩子使用属于提取：借记 Ambilan RM1,000，贷记 Belian RM1,000。
+Bahasa Melayu: Komputer ialah barang niaga yang diambil untuk kegunaan peribadi: debit Ambilan RM1,000 dan kredit Belian RM1,000."
+,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：平均存货 = (12,000 + 24,000)/2 = RM18,000。存货周转率 = 72,000/18,000 = 4 次。
+Bahasa Melayu: Inventori purata = (12,000 + 24,000)/2 = RM18,000. Kadar pusing ganti inventori = 72,000/18,000 = 4 kali."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：加价率以销货成本为基础：30% 表示每 RM1 销货成本赚取 RM0.30 毛利，不是净利。
+Bahasa Melayu: Tokokan = untung kasar/kos jualan × 100%. Tokokan 30% bermaksud untung kasar RM0.30 bagi setiap RM1 kos jualan."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：收债天数越少，越快收到款项，收债管理越有效率。因此 II、III 正确。
+Bahasa Melayu: Tempoh kutipan hutang yang lebih pendek menunjukkan bayaran diterima lebih cepat dan kutipan lebih cekap; II dan III betul."
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：不完整记录可用比较法或分析法计算盈亏；定期和连续制度是存货记录方法。
+Bahasa Melayu: Untung daripada rekod tidak lengkap ditentukan melalui kaedah perbandingan atau analisis, iaitu I dan IV."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：复式记账记录借贷，可编制试算表；单式记录缺少完整借贷账户，不能编制完整试算表。
+Bahasa Melayu: Catatan bergu membolehkan Imbangan Duga disediakan; catatan tunggal tidak mempunyai rekod debit dan kredit yang lengkap."
+,radio,F5 Bab 3,A,B,C,D,A,Picture27.png,"中文：净利 = 期末资本 − 期初资本 − 追加资本 + 提取 = 8,000 − 10,000 − 600 + 7,800 = RM5,200。
+Bahasa Melayu: Untung bersih = modal akhir − modal awal − modal tambahan + ambilan = 8,000 − 10,000 − 600 + 7,800 = RM5,200."
+,radio,F5 Bab 3,A,B,C,D,C,Picture28.png,"中文：现金盈余和实际收入高于预算可表示良好现金表现；现金不足不一定等于亏损。II、III 正确。
+Bahasa Melayu: Lebihan tunai dan penerimaan sebenar melebihi anggaran menunjukkan prestasi tunai yang baik. Kurangan tunai tidak semestinya rugi; II dan III betul."
+,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：从银行透支余额 RM4,000 开始，加未入账存款 RM5,000，减未兑现支票 RM600，得到现金簿借方余额 RM400。
+Bahasa Melayu: Mulakan dengan baki debit Penyata Bank RM4,000: −4,000 + 5,000 − 600 = RM400, iaitu baki debit Buku Tunai."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：四月首付 = 20,000 × 40% = RM8,000；五月起每期 = 20,000 × 60%/5 = RM2,400。老板提供的部分另记资本收入。
+Bahasa Melayu: Pendahuluan April = 20,000 × 40% = RM8,000. Ansuran Mei = 20,000 × 60%/5 = RM2,400; wang pemilik direkod sebagai penerimaan modal."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：清算亏损分摊后会减少合伙人资本；亏损超过原有资本便形成借方余额。
+Bahasa Melayu: Rugi realisasi mengurangkan modal pekongsi; jika melebihi modal sedia ada, Akaun Modal berbaki debit."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：权益 = 两人资本及往来账户净额 = 40,000 + 30,000 + 15,500 − 6,420 = RM79,080。
+Bahasa Melayu: Ekuiti pemilik = modal + baki bersih akaun semasa = 40,000 + 30,000 + 15,500 − 6,420 = RM79,080."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：普通股股东有股东大会投票权；固定股息和优先分红是优先股特点。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi dalam mesyuarat agung; dividen tetap dan keutamaan bayaran ialah ciri syer keutamaan."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：优先股息 = 300,000 × 6% = RM18,000；普通股息余额 = 46,800 − 18,000 = RM28,800；股息率 = 28,800/90,000 × 100% = 32%。
+Bahasa Melayu: Dividen keutamaan = RM18,000. Baki untuk syer biasa = 46,800 − 18,000 = RM28,800; kadar = 28,800/90,000 × 100% = 32%."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：获捐电脑是非流动资产，属于资本性收入；比赛费、利息及销售收入属于收益性收入。
+Bahasa Melayu: Derma komputer ialah pendapatan modal kerana melibatkan aset bukan semasa; yuran pertandingan, faedah dan jualan ialah pendapatan hasil."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：会费收入 = 4,500 − 期初应收 200 + 期末应收 120 + 期初预收 60 = RM4,480。
+Bahasa Melayu: Yuran tahun semasa = 4,500 − 200 + 120 + 60 = RM4,480; laraskan yuran belum terima dan belum terperoleh."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：累计基金 = 资产 − 负债 = 5,300 + 4,700 + 2,100 + 150 − 900 = RM11,350。
+Bahasa Melayu: Dana terkumpul = aset − liabiliti = 5,300 + 4,700 + 2,100 + 150 − 900 = RM11,350."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：厂长不直接加工每件产品，其工资属于间接人工，列为制造费用。
+Bahasa Melayu: Gaji pengurus kilang ialah buruh tidak langsung, maka termasuk dalam kos overhed."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：总收入线从原点向上，表示销售收入随销量增加。它与总成本线交点是盈亏平衡点。
+Bahasa Melayu: Garis jumlah hasil bermula pada titik asal dan meningkat mengikut jualan; persilangannya dengan jumlah kos ialah titik pulang modal."
+,radio,F5 Bab 7,A,B,C,D,C,Picture40.png,"中文：总生产成本 = (3.50 + 4.00) × 30,000 + 10,890 + 35,100 = RM270,990；营销经理工资不是生产成本。
+Bahasa Melayu: Jumlah kos pengeluaran = (3.50 + 4.00) × 30,000 + 10,890 + 35,100 = RM270,990. Gaji pengurus pemasaran tidak dimasukkan."

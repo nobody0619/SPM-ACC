@@ -1,18 +1,35 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F5,radio,F5 Bab 5,A,B,C,D,C,Picture4.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang 2026 F5,radio,F5 Bab 5,A,B,C,D,C,Picture4.png,"中文：有限公司由董事会管理，股东通过持股提供资本，并承担有限责任。
+Bahasa Melayu: Syarikat berhad diuruskan oleh Ahli Lembaga Pengarah dan dimiliki oleh pemegang syer dengan liabiliti terhad."
+,radio,F5 Bab 1,A,B,C,D,C,Picture25.png,"中文：毛利率衡量每单位销售带来的毛利，属于盈利比率；流动比率是偿债指标。
+Bahasa Melayu: Margin untung kasar mengukur keberuntungan, manakala nisbah semasa dan ujian asid mengukur kecairan."
+,radio,F5 Bab 2,A,B,C,D,D,Picture26.png,"中文：全年提取 = 400 × 12 = RM4,800；净利 = 93,300 − 70,000 − 10,000 + 4,800 = RM18,100。
+Bahasa Melayu: Ambilan setahun RM4,800. Untung bersih = 93,300 − 70,000 − 10,000 + 4,800 = RM18,100."
+,radio,F5 Bab 2,A,B,C,D,B,Picture27.png,"中文：赊销 = 收回应收款 2,000 + 期末应收 1,900 − 期初应收 2,550 = RM1,350；现销 RM600 不计入。
+Bahasa Melayu: Jualan kredit = 2,000 + 1,900 − 2,550 = RM1,350; jualan tunai RM600 tidak termasuk."
+,radio,F5 Bab 3,A,B,C,D,C,Picture28.png,"中文：预计现金收支使用现金预算；调整现金簿与银行结单余额使用银行调节表。
+Bahasa Melayu: Anggaran penerimaan dan pembayaran ialah Belanjawan Tunai; penyelarasan Buku Tunai dan Penyata Bank ialah Penyata Penyesuaian Bank."
+,radio,F5 Bab 3,A,B,C,D,A,Picture29.png,"中文：现金簿透支 −RM700，加未兑现支票 RM4,550，减未入账存款 RM2,520，得到银行结单贷方 RM1,330。
+Bahasa Melayu: Baki bank = −700 + 4,550 − 2,520 = RM1,330, iaitu baki kredit Penyata Bank."
+,radio,F5 Bab 3,A,B,C,D,C,Picture30.png,"中文：二月销售 = 20,000 × 110% = RM22,000；收入 = 二月现销 22,000 × 60% + 一月赊销 20,000 × 40% = RM21,200。
+Bahasa Melayu: Penerimaan Februari = 22,000 × 60% + 20,000 × 40% = RM21,200."
+,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：没有合伙协议时，按课本规则合伙人贷款利息为 8%，利润均分，并不按资本比例分配。
+Bahasa Melayu: Tanpa ikatan, buku teks menetapkan faedah pinjaman pekongsi 8% dan pembahagian untung sama rata."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：全年应得工资 RM8,000，已领 RM5,000，未领 RM3,000；按本题净额格式贷记 Umi 往来账户薪金 RM3,000。
+Bahasa Melayu: Gaji tertunggak = 8,000 − 5,000 = RM3,000; dikreditkan sebagai gaji dalam Akaun Semasa Umi mengikut format soalan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture33.png,"中文：清算亏损 = 资产账面额 58,320 + 清算费用 800 − 变卖收入 51,500 = RM7,620；原负债金额本身不是亏损。
+Bahasa Melayu: Rugi realisasi = 58,320 + 800 − 51,500 = RM7,620; liabiliti asal bukan kerugian dengan sendirinya."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：附固定 8% 股息的股类为优先股，普通股通常没有固定股息率。
+Bahasa Melayu: Syer dengan kadar dividen tetap 8% ialah syer keutamaan."
+,radio,F5 Bab 5,A,B,C,D,B,Picture35.png,"中文：普通股资本 = 200,000 × RM1 = RM200,000；股息率 = 30,000/200,000 × 100% = 15%。
+Bahasa Melayu: Kadar dividen biasa = 30,000/(200,000 × RM1) × 100% = 15%."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：俱乐部用收入与支出账户计算盈余或亏额，而不是企业的利润分配账户。
+Bahasa Melayu: Kelab menyediakan Akaun Pendapatan dan Perbelanjaan untuk menentukan lebihan atau kurangan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：改善会所带来长期效益，属于资本支出；报刊和一般津贴是收益性支出。
+Bahasa Melayu: Kos ubah suai premis memberi manfaat jangka panjang, maka ialah perbelanjaan modal."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：生产监督员的工资是间接人工，归入制造费用。
+Bahasa Melayu: Gaji penyelia kilang ialah buruh tidak langsung dan termasuk kos overhed."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：基本成本由直接材料、直接人工和直接费用组成；本题 M 是材料、N 是人工。
+Bahasa Melayu: Kos prima terdiri daripada bahan langsung, buruh langsung dan belanja langsung; M ialah bahan langsung dan N buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,C,Picture40.png,"中文：目标产量 =（固定成本 + 目标利润）÷ 单位贡献 =（RM3,000 + RM2,000）÷ RM5 = 1,000 单位，所以选 C。RM5 是单位贡献，不是单位变动成本；答案纸的 D 已更正。
+Bahasa Melayu: Kuantiti sasaran = (kos tetap + untung sasaran) ÷ margin caruman seunit = (RM3,000 + RM2,000) ÷ RM5 = 1,000 unit, iaitu C. RM5 ialah margin caruman seunit, bukan kos berubah seunit. Jawapan D dalam skema dibetulkan kepada C."

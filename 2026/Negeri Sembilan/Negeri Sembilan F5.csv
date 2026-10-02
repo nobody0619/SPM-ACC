@@ -1,24 +1,47 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F5,radio,F5 Bab 4,A,B,C,D,C,Picture3.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture19.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture20.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan 2026 F5,radio,F5 Bab 4,A,B,C,D,C,Picture3.png,"中文：两位业主共同经营体现合伙企业。本题 C 指课本所列的合伙企业法律框架。
+Bahasa Melayu: Dua pemilik yang menjalankan perniagaan bersama menunjukkan perkongsian; C merujuk kerangka perkongsian dalam buku teks."
+,radio,F5 Bab 1,A,B,C,D,B,Picture19.png,"中文：售价低于净值，亏损 = 4,850 − 3,450 = RM1,400；借记出售亏损，贷记机器出售账户。
+Bahasa Melayu: Rugi pelupusan = 4,850 − 3,450 = RM1,400; debit Rugi Pelupusan dan kredit Pelupusan Mesin."
+,radio,F5 Bab 1,A,B,C,D,C,Picture20.png,"中文：营运资本 = 22,500 + 5,900 + 750 − 2,100 − 250 = RM26,800；应收租金是流动资产，应付利息是流动负债。
+Bahasa Melayu: Modal kerja = 22,500 + 5,900 + 750 − 2,100 − 250 = RM26,800."
+,radio,F5 Bab 2,A,B,C,D,A,Picture21.png,"中文：流动比率及速动比率衡量偿还短期债务能力，因此 I、II 正确。
+Bahasa Melayu: Nisbah semasa dan nisbah ujian asid mengukur kemampuan membayar hutang jangka pendek; I dan II betul."
+,radio,F5 Bab 2,A,B,C,D,D,Picture22.png,"中文：提取 = 期初资本 + 追加资本 + 净利 − 期末资本 = 14,000 + 1,200 + 2,500 − 11,000 = RM6,700。
+Bahasa Melayu: Ambilan = modal awal + modal tambahan + untung − modal akhir = 14,000 + 1,200 + 2,500 − 11,000 = RM6,700."
+,radio,F5 Bab 3,A,B,C,D,A,Picture23.png,"中文：维修费误计资产，需从机器成本减 RM1,800，并加到费用。机器 = RM63,200；维修费 = RM4,800。
+Bahasa Melayu: Kurangkan mesin RM1,800 dan tambah belanja membaiki: mesin RM63,200, belanja RM4,800."
+,radio,F5 Bab 3,A,B,C,D,D,Picture24.png,"中文：赊销 = 15,000 + 11,600 − 6,400 + 800 = RM21,000；加现销 RM8,500，总销售 RM29,500，退回另列扣减。
+Bahasa Melayu: Jualan kredit = 15,000 + 11,600 − 6,400 + 800 = RM21,000; tambah jualan tunai RM8,500 menghasilkan jualan RM29,500 sebelum pulangan."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：现金控制确保收付款安排有足够现金，避免到期无法付款。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk memenuhi pembayaran."
+,radio,F5 Bab 5,A,B,C,D,B,Picture26.png,"中文：现金簿把收款多记 3,420 − 3,240 = RM180；在银行栏贷记 RM180，减少多记银行余额。
+Bahasa Melayu: Penerimaan terlebih RM180; kredit Buku Tunai RM180 untuk mengurangkan baki bank."
+,radio,F5 Bab 4,A,B,C,D,D,Picture27.png,"中文：十一月付十月赊购 25,000 × 40% 加十一月现购 30,000 × 60% = RM28,000。
+Bahasa Melayu: Bayaran November = 25,000 × 40% + 30,000 × 60% = RM28,000."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：课本的默认规则要求合伙账簿存放在营业场所，合伙人可查阅；未约定时不付资本利息及薪金。
+Bahasa Melayu: Buku akaun perkongsian disimpan di premis perniagaan dan boleh diperiksa pekongsi; tiada gaji atau faedah modal tanpa persetujuan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture29.png,"中文：约定期限届满，或合伙人破产，可导致合伙解散；普通经营亏损不自动导致解散。I、IV 正确。
+Bahasa Melayu: Tamat tempoh dan kebankrapan pekongsi boleh membubarkan perkongsian; I dan IV betul."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：提取利息 = 1,500 × 10% × 8/12 = RM100；可分利润 = 40,000 + 100 − 1,500 − 2,000 = RM36,600，Azanie 得一半 RM18,300。
+Bahasa Melayu: Faedah ambilan RM100. Baki untung = 40,000 + 100 − 1,500 − 2,000 = RM36,600; bahagian Azanie RM18,300."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：Syamilah 本年贷款利息 RM4,020，已记 RM1,230，未付差额 = RM2,790，贷记她的往来账户。银行贷款利息不属于合伙人往来账户。
+Bahasa Melayu: Faedah pinjaman Syamilah tertunggak = 4,020 − 1,230 = RM2,790, dikreditkan ke Akaun Semasa beliau."
+,radio,F5 Bab 7,A,B,C,D,B,Picture32.png,"中文：优先股资本 RM6,000,000，自二月至六月计五个月股息：6,000,000 × 6% × 5/12 = RM150,000；普通股中期股息 4,000,000 × 3% = RM120,000，合计 RM270,000。
+Bahasa Melayu: Dividen keutamaan lima bulan RM150,000 + dividen interim biasa RM120,000 = RM270,000, mengikut tempoh langganan dalam soalan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture33.png,"中文：每股发行价 = 优先股资本 RM300,000/200,000 股 = RM1.50。
+Bahasa Melayu: Harga sesyer keutamaan = RM300,000/200,000 unit = RM1.50."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：缴足资本 = 300,000 × 1.50 + 100,000 × 2.00 = RM650,000，股息率不计入资本。
+Bahasa Melayu: Modal berbayar penuh = 300,000 × 1.50 + 100,000 × 2.00 = RM650,000."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：俱乐部目的是会员福利及社会、休闲、体育服务，主要目标不是分配利润。I、II 正确。
+Bahasa Melayu: Kelab menjaga kebajikan serta menyediakan perkhidmatan sosial, rekreasi dan sukan; I dan II betul."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：本年会费 = 20,000 − 上年应收 2,500 + 上年预收 1,050 − 下年预收 800 = RM17,750。
+Bahasa Melayu: Yuran tahun semasa = 20,000 − 2,500 + 1,050 − 800 = RM17,750."
+,radio,F5 Bab 7,A,B,C,D,A,Picture37.png,"中文：本年租金费用 = 已付 1,500 + 期初预付 420 − 期末预付 610 = RM1,310。
+Bahasa Melayu: Sewa tahun semasa = 1,500 + 420 − 610 = RM1,310."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：累计基金 = 40,000 + 15,000 + 1,120 − 2,000 − 900 − 1,200 = RM52,020；预收会费和银行透支是负债。
+Bahasa Melayu: Dana terkumpul = 40,000 + 15,000 + 1,120 − 2,000 − 900 − 1,200 = RM52,020."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：厂长工资是间接人工，不直接追溯到每件产品，列为制造费用。
+Bahasa Melayu: Gaji pengurus kilang ialah buruh tidak langsung dan termasuk kos overhed."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位贡献 = 15 − 10 = RM5；目标产量 = (18,000 + 3,500)/5 = 4,300 个蛋糕。
+Bahasa Melayu: Unit sasaran = (kos tetap + untung sasaran)/sumbangan seunit = (18,000 + 3,500)/(15 − 10) = 4,300 unit."

@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis 2026 F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：连续五年采用相同折旧方法，体现一致性，方便比较不同年度。
+Bahasa Melayu: Kaedah susut nilai yang sama selama lima tahun menepati prinsip ketekalan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：Ani Taylor 是独资企业，由单一业主经营并承担无限责任。
+Bahasa Melayu: Ani Taylor ialah milikan tunggal dengan seorang pemilik dan liabiliti tidak terhad."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：资产 = 负债 + 资本；C 满足 6,000 = 3,000 + 3,000。
+Bahasa Melayu: C menepati persamaan aset = liabiliti + modal: 6,000 = 3,000 + 3,000."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：非营业收入来自与主要业务无关的活动：II 收到的租金及 IV 银行存款利息，因此选 C。销售及法律服务费属于相应主营业务的营业收入。
+Bahasa Melayu: Hasil bukan operasi diperoleh daripada aktiviti yang tidak berkaitan dengan aktiviti utama perniagaan: II, sewa diterima, dan IV, faedah atas simpanan bank. Oleh itu jawapannya C. Jualan dan yuran khidmat guaman merupakan hasil operasi bagi perniagaan berkenaan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture5.png,"中文：已付税费押金可收回，属于资产，代码应在 1000–1999，选 1020。
+Bahasa Melayu: Deposit kadar bayaran ialah aset yang boleh diperoleh semula; kod 1020 berada dalam julat aset."
+,radio,F4 Bab 5,A,B,C,D,B,Picture6.png,"中文：发票证明商品赊购；贷项通知是减少欠款，支票存根证明支票付款。
+Bahasa Melayu: Invois menunjukkan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan bayaran cek."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：报价单仅提供价格，不证明交易已发生，是非来源文件。
+Bahasa Melayu: Sebut harga hanya menyatakan tawaran harga dan merupakan dokumen bukan sumber."
+,radio,F4 Bab 5,A,B,C,D,C,Picture8.png,"中文：顾客收到原始发票买商品，记购货日记账，金额为扣商业折扣后的 RM21,600。
+Bahasa Melayu: Invois asal belian barang niaga direkod dalam Jurnal Belian pada RM21,600 selepas diskaun niaga."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：老板提取现金：借记 Ambilan RM500、贷记 Tunai RM500。
+Bahasa Melayu: Ambilan tunai RM500: debit Ambilan dan kredit Tunai."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：顾客饮料 RM20 和邮费 RM15 是小额日常支出，可用零用现金簿；家具和工资通常不用。
+Bahasa Melayu: Minuman pelanggan dan bungkusan pos ialah bayaran kecil dalam Buku Tunai Runcit; II dan III betul."
+,radio,F4 Bab 6,A,B,C,D,B,Picture11.png,"中文：购货退回减少欠供应商金额，因此进入应付款控制账户。
+Bahasa Melayu: Pulangan keluar mengurangkan hutang pembekal dan direkod dalam Akaun Kawalan ABB."
+,radio,F4 Bab 8,A,B,C,D,C,Picture12.png,"中文：期末存货增加使销货成本下降、毛利上升，其他条件不变时如此。
+Bahasa Melayu: Inventori akhir meningkat mengurangkan kos jualan dan meningkatkan untung kasar."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：佣金收入 = 2,200 − 240 + 400 + 360 − 620 = RM2,100，按期初期末应收及预收调整。
+Bahasa Melayu: Komisen tahun semasa = 2,200 − 240 + 400 + 360 − 620 = RM2,100."
+,radio,F4 Bab 8,A,B,C,D,B,Picture14.png,"中文：期末欠水电 = 期初欠额 1,720 + 本年费用 7,800 − 已付 8,100 = RM1,420。
+Bahasa Melayu: Utiliti belum bayar akhir = 1,720 + 7,800 − 8,100 = RM1,420."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：核销坏账：借记 Hutang Lapuk、贷记应收款，确认费用并减少顾客欠款。
+Bahasa Melayu: Hutang dihapus kira: debit Hutang Lapuk dan kredit ABT."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：一月设备计全年、五月底购入计七个月：2,300 × 10% + 4,200 × 10% × 7/12 = RM475；年底购入不计本年折旧。
+Bahasa Melayu: Susut nilai = 2,300 × 10% + 4,200 × 10% × 7/12 = RM475; pembelian akhir Disember belum digunakan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：两年折旧 = 26,000 × 15% × 2 = RM7,800；净值 RM18,200 减售价 RM17,000，亏损 RM1,200。
+Bahasa Melayu: Susut nilai dua tahun RM7,800; nilai buku RM18,200. Rugi pelupusan = RM1,200."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：将欠款由错记 Hafiz 转到 Hariz：借记 Hariz、贷记 Hafiz RM2,200，不再重复记销售。
+Bahasa Melayu: Debit Hariz dan kredit Hafiz RM2,200 untuk memindahkan hutang tanpa mengubah Jualan."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：财务报表分析帮助管理层评估盈利、流动性及效率，从而作经营决策。
+Bahasa Melayu: Analisis penyata kewangan membantu pengurusan menilai prestasi dan membuat keputusan kewangan."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：流动负债 = 22,000 − 6,300 = RM15,700；速动比率 = (22,000 − 2,100)/15,700 = 1.27:1。
+Bahasa Melayu: Liabiliti semasa RM15,700. Nisbah ujian asid = (22,000 − 2,100)/15,700 = 1.27:1."

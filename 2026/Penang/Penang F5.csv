@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Penang 2026 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：提高售价及减少营业费用可增加销售中的净利比例，因此 II、III 正确；贷款不直接改善净利率。
+Bahasa Melayu: Meningkatkan harga jualan dan mengurangkan belanja operasi boleh meningkatkan margin untung bersih; II dan III betul."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：不完整记录没有全面遵循借贷复式记账，通常无法编制完整试算表。
+Bahasa Melayu: Rekod tidak lengkap tidak mematuhi Sistem Catatan Bergu sepenuhnya."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：本年税费 = 16,200 + 期初预付 1,800 − 期末预付 3,600 = RM14,400。
+Bahasa Melayu: Kadar bayaran tahun semasa = 16,200 + 1,800 − 3,600 = RM14,400."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：把保管现金、记录及批准支付交给不同人员，是职责分离，减少一人操作和掩盖错误的风险。
+Bahasa Melayu: Pengasingan tugas memisahkan penjagaan tunai, perekodan dan kelulusan bayaran antara pekerja berbeza."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：银行代收股息增加客户存款；银行费用及透支利息属于扣款。
+Bahasa Melayu: Dividen diterima ialah penerimaan bank bagi pihak pelanggan; caj bank dan faedah overdraf ialah pembayaran."
+,radio,F5 Bab 3,A,B,C,D,"B,C",Picture27.png,"中文：B（业主投入现金资本）和 C（收回应收账款）都是现金预算的现金收入。A 是业主私人提取现金，属于现金支出；D 的折旧不涉及现金流动。这题单选 B 或 C 都接受。
+Bahasa Melayu: B, tunai pemilik yang dilaburkan sebagai modal, dan C, kutipan akaun belum terima, kedua-duanya ialah penerimaan dalam belanjawan tunai. A ialah pembayaran untuk ambilan peribadi, manakala D ialah susut nilai yang tidak melibatkan aliran tunai. Pilih B atau C; kedua-duanya diterima sebagai jawapan tunggal."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：九月销售 = 30,000 × 1.10 = RM33,000；十月再增 10%：33,000 × 1.10 = RM36,300。
+Bahasa Melayu: Jualan Oktober = 30,000 × 1.10 × 1.10 = RM36,300."
+,radio,F5 Bab 4,A,B,C,D,A,Picture29.png,"中文：无合伙协议时按课本默认规则均分盈亏，而不是按出资比例分配。
+Bahasa Melayu: Tanpa ikatan, untung dan rugi dibahagi sama rata mengikut peraturan dalam buku teks."
+,radio,F5 Bab 4,A,B,C,D,C,Picture30.png,"中文：可分利润 = 24,000 + 240 − 6,000 − 12,000 = RM6,240；按 2:1 分，Dayah RM4,160，Arifah RM2,080。
+Bahasa Melayu: Baki untung RM6,240; Dayah mendapat 2/3 = RM4,160 dan Arifah 1/3 = RM2,080."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：提取利息是向合伙人收取的金额，记其往来账户借方；工资、奖金及资本利息记贷方。
+Bahasa Melayu: Faedah atas ambilan didebitkan ke Akaun Semasa; gaji, bonus dan faedah modal dikreditkan."
+,radio,F5 Bab 5,A,B,C,D,B,Picture32.png,"中文：合伙人死亡或合伙企业转换为有限公司，均可导致原合伙解散。I、IV 正确。
+Bahasa Melayu: Kematian pekongsi atau pertukaran kepada syarikat berhad boleh membubarkan perkongsian; I dan IV betul."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：清算亏损 = 56,000 + 500 − 50,000 = RM6,500；正常偿还原负债不另造成清算亏损。
+Bahasa Melayu: Rugi realisasi = 56,000 + 500 − 50,000 = RM6,500; pembayaran liabiliti asal tidak ditambah sebagai rugi."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：普通股股东可在股东大会投票，其股息不保证固定。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi dalam mesyuarat agung; kadar dividennya tidak tetap."
+,radio,F5 Bab 6,A,B,C,D,D,Picture35.png,"中文：资本 = 800,000 × RM4 + 2,000,000 × RM2 = RM7,200,000，即 RM7.20 百万。
+Bahasa Melayu: Modal berbayar penuh = 800,000 × RM4 + 2,000,000 × RM2 = RM7.20 juta."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：会员定期缴交的会员会费是俱乐部主要收入，入会费和比赛费通常非主要经常收入。
+Bahasa Melayu: Yuran keahlian ialah sumber pendapatan utama kelab kerana dikutip secara berkala."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：上期欠缴、现已无法收回的会费称坏会费，作为费用处理。
+Bahasa Melayu: Yuran tahun lalu yang dihapus kira ialah yuran lapuk dan direkod sebagai belanja."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：会费账户的本年收入结转收入与支出账户，收到现金则记银行，所以 R 是收入与支出，S 是银行。
+Bahasa Melayu: Yuran tahun semasa dipindahkan ke Akaun Pendapatan dan Perbelanjaan; penerimaan tunai dicatat melalui Bank."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：生产操作员直接制作产品，其工资属于直接人工；监督员及保安属于间接人工。
+Bahasa Melayu: Upah operator pengeluaran ialah buruh langsung; penyelia dan pengawal keselamatan ialah buruh tidak langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：基本成本包括直接人工及直接材料；厂税及机器折旧属于制造费用。I、II 正确。
+Bahasa Melayu: Kos prima termasuk upah langsung dan bahan langsung; kadar bayaran kilang serta susut nilai ialah kos overhed. I dan II betul."

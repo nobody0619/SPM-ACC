@@ -1,29 +1,75 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 3,radio,Kedah_Q26,A,B,C,D,C,Kedah/Picture26.png
-F5 Chp 3,radio,Kedah_Q27,A,B,C,D,A,Kedah/Picture27.png
-F5 Chp 3,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png
-F5 Chp 3,radio,Kelantan_Q24,A,B,C,D,D,Kelantan/Picture24.png
-F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,D,Kelantan/Picture26.png
-F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,C,Kelantan/Picture27.png
-F5 Chp 3,radio,Melaka_Q25,A,B,C,D,C,Melaka/Picture25.png
-F5 Chp 3,radio,Melaka_Q26,A,B,C,D,B,Melaka/Picture26.png
-F5 Chp 3,radio,Melaka_Q27,A,B,C,D,C,Melaka/Picture27.png
-F5 Chp 3,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png
-F5 Chp 3,radio,NegeriSembilan_Q24,A,B,C,D,D,Negeri Sembilan/Picture24.png
-F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,D,Negeri Sembilan/Picture25.png
-F5 Chp 3,radio,Pahang_Q28,A,B,C,D,C,Pahang/Picture28.png
-F5 Chp 3,radio,Pahang_Q29,A,B,C,D,A,Pahang/Picture29.png
-F5 Chp 3,radio,Pahang_Q30,A,B,C,D,C,Pahang/Picture30.png
-F5 Chp 3,radio,Penang_Q25,A,B,C,D,D,Penang/Picture25.png
-F5 Chp 3,radio,Penang_Q26,A,B,C,D,B,Penang/Picture26.png
-F5 Chp 3,radio,Penang_Q27,A,B,C,D,C,Penang/Picture27.png
-F5 Chp 3,radio,Perak_Q27,A,B,C,D,B,Perak/Picture27.png
-F5 Chp 3,radio,Perak_Q28,A,B,C,D,C,Perak/Picture28.png
-F5 Chp 3,radio,Perlis_Q25,A,B,C,D,D,Perlis/Picture25.png
-F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png
-F5 Chp 3,radio,Perlis_Q27,A,B,C,D,B,Perlis/Picture27.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,B,Selangor Set 1/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor Set 1/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,C,Selangor Set 1/Picture27.png
-F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,C,Terengganu/Picture26.png
-F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,B,Terengganu/Picture27.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 3,radio,Johor_Q26,A,B,C,D,D,Johor/Picture26.png,"中文：现金控制是保护及监管现金收入、现金支付的一系列措施，以减少错误、损失和舞弊。
+Bahasa Melayu: Kawalan tunai ialah langkah menjaga serta mengawal penerimaan dan pembayaran tunai untuk mengurangkan kesilapan, kehilangan dan penyelewengan."
+F5 Chp 3,radio,Johor_Q27,A,B,C,D,B,Johor/Picture27.png,"中文：先扣未记银行费用：10,400 − 200 = RM10,200。推算银行结单余额时，加未兑付支票 RM2,600，减未入账存款 RM1,800，得 RM11,000，选 B。
+Bahasa Melayu: Baki Buku Tunai dikemas kini = RM10,400 − caj bank RM200 = RM10,200. Baki penyata bank = RM10,200 + cek belum dikemukakan RM2,600 − deposit belum dikreditkan RM1,800 = RM11,000; B."
+F5 Chp 3,radio,Johor_Q28,A,B,C,D,D,Johor/Picture28.png,"中文：收回应收账款会增加现金，是现金预算收入；购买资产及工资是支出，注销坏账不涉及现金收入。
+Bahasa Melayu: Kutipan Akaun Belum Terima menambah tunai dan merupakan penerimaan. Pembelian aset serta gaji ialah pembayaran; hutang lapuk tidak menghasilkan penerimaan tunai."
+F5 Chp 3,radio,KL_Q24,A,B,C,D,D,KL/Picture24.png,"中文：批准付款与实际付款由不同人员负责，属于职责分离，减少舞弊及自行批准付款的风险。
+Bahasa Melayu: Kelulusan dan pembayaran dilakukan oleh individu berlainan. Ini ialah pengasingan tugas untuk mengurangkan risiko penyelewengan."
+F5 Chp 3,radio,KL_Q25,A,B,C,D,C,KL/Picture25.png,"中文：从银行结单的贷方余额推回未调整现金簿时，减去银行代收而现金簿尚未记的股息，以及尚未兑付的支票，即 II、III。未入账存款应加回。
+Bahasa Melayu: Apabila bermula dengan baki kredit penyata bank untuk mendapatkan baki Buku Tunai yang belum dikemas kini, tolak dividen yang dikreditkan bank dan cek belum dikemukakan, iaitu II dan III. Deposit belum dikreditkan ditambah."
+F5 Chp 3,radio,KL_Q26,A,B,C,D,C,KL/Picture26.png,"中文：原四月期末余额 = 110,000 + 60,000 − 20,000 = RM150,000。三月及四月各漏记佣金收入 RM1,000，合计加 RM2,000，修正余额 RM152,000。
+Bahasa Melayu: Baki April asal = RM110,000 + RM60,000 − RM20,000 = RM150,000. Komisen RM1,000 bagi Mac dan April menambah RM2,000, menjadikan baki akhir RM152,000."
+F5 Chp 3,radio,Kedah_Q26,A,B,C,D,C,Kedah/Picture26.png,"中文：复式记账记录借贷，可编制试算表；单式记录缺少完整借贷账户，不能编制完整试算表。
+Bahasa Melayu: Catatan bergu membolehkan Imbangan Duga disediakan; catatan tunggal tidak mempunyai rekod debit dan kredit yang lengkap."
+F5 Chp 3,radio,Kedah_Q27,A,B,C,D,A,Kedah/Picture27.png,"中文：净利 = 期末资本 − 期初资本 − 追加资本 + 提取 = 8,000 − 10,000 − 600 + 7,800 = RM5,200。
+Bahasa Melayu: Untung bersih = modal akhir − modal awal − modal tambahan + ambilan = 8,000 − 10,000 − 600 + 7,800 = RM5,200."
+F5 Chp 3,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png,"中文：现金盈余和实际收入高于预算可表示良好现金表现；现金不足不一定等于亏损。II、III 正确。
+Bahasa Melayu: Lebihan tunai dan penerimaan sebenar melebihi anggaran menunjukkan prestasi tunai yang baik. Kurangan tunai tidak semestinya rugi; II dan III betul."
+F5 Chp 3,radio,Kelantan_Q24,A,B,C,D,D,Kelantan/Picture24.png,"中文：现金控制确保有足够现金支付到期款项，并防止流动资金不足。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk menjelaskan pembayaran apabila tiba masanya."
+F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,D,Kelantan/Picture26.png,"中文：银行结单借方 RM620 表示透支。现金簿余额 = −620 − 4,920 + 3,830 = −RM1,710，即贷方余额。
+Bahasa Melayu: Baki debit Penyata Bank menunjukkan overdraf. Baki Buku Tunai = −620 − 4,920 + 3,830 = −RM1,710, iaitu baki kredit."
+F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,C,Kelantan/Picture27.png,"中文：六月支付五月赊购 23,400 × 40%，加六月现购 28,560 × 60%：9,360 + 17,136 = RM26,496。
+Bahasa Melayu: Bayaran Jun = belian kredit Mei + belian tunai Jun = 23,400 × 40% + 28,560 × 60% = RM26,496."
+F5 Chp 3,radio,MRSM_Q29,A,B,C,D,B,MRSM/Picture29.png,"中文：付款与记录付款由不同员工负责，形成职责分离及相互检查，减少舞弊。
+Bahasa Melayu: Pembayaran dan perekodan pembayaran diasingkan kepada pekerja berbeza untuk mengelakkan penyelewengan melalui pengasingan tugas."
+F5 Chp 3,radio,MRSM_Q30,A,B,C,D,C,MRSM/Picture30.png,"中文：银行结单把 RM30 扣入借方，使透支从 RM850 增至 RM880，因此是购买支票簿的银行收费，不是存款或股息收入。
+Bahasa Melayu: Debit RM30 menambah overdraf daripada RM850 kepada RM880. Ini menunjukkan caj buku cek, bukannya deposit, dividen atau faedah simpanan."
+F5 Chp 3,radio,MRSM_Q31,A,B,C,D,A,MRSM/Picture31.png,"中文：三月收款 = 二月赊销收款 30,000 × 60% + 三月现金销售 40,000 × 40% = 18,000 + 16,000 = RM34,000。
+Bahasa Melayu: Penerimaan Mac = jualan kredit Februari RM30,000 × 60% + jualan tunai Mac RM40,000 × 40% = RM18,000 + RM16,000 = RM34,000."
+F5 Chp 3,radio,Melaka_Q25,A,B,C,D,C,Melaka/Picture25.png,"中文：本年合伙人薪金 = 2,000 × 12 = RM24,000，包括未支付部分；不能把欠薪再加一次。
+Bahasa Melayu: Gaji pekongsi setahun = 2,000 × 12 = RM24,000; tunggakan sudah termasuk dalam jumlah ini."
+F5 Chp 3,radio,Melaka_Q26,A,B,C,D,B,Melaka/Picture26.png,"中文：可分配盈亏 = 8,000 − 1,000 − 2,000 − 10,000 = −RM5,000；均分后 Dania 承担亏损 RM2,500。
+Bahasa Melayu: Baki rugi = 8,000 − 1,000 − 2,000 − 10,000 = −RM5,000; bahagian Dania = RM2,500 rugi."
+F5 Chp 3,radio,Melaka_Q27,A,B,C,D,C,Melaka/Picture27.png,"中文：合伙人接收家具：借记该合伙人资本，贷记清算账户，以减少其应领资本。
+Bahasa Melayu: Perabot diambil alih pekongsi: debit Akaun Modal Pekongsi dan kredit Akaun Realisasi."
+F5 Chp 3,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png,"中文：维修费误计资产，需从机器成本减 RM1,800，并加到费用。机器 = RM63,200；维修费 = RM4,800。
+Bahasa Melayu: Kurangkan mesin RM1,800 dan tambah belanja membaiki: mesin RM63,200, belanja RM4,800."
+F5 Chp 3,radio,NegeriSembilan_Q24,A,B,C,D,D,Negeri Sembilan/Picture24.png,"中文：赊销 = 15,000 + 11,600 − 6,400 + 800 = RM21,000；加现销 RM8,500，总销售 RM29,500，退回另列扣减。
+Bahasa Melayu: Jualan kredit = 15,000 + 11,600 − 6,400 + 800 = RM21,000; tambah jualan tunai RM8,500 menghasilkan jualan RM29,500 sebelum pulangan."
+F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,D,Negeri Sembilan/Picture25.png,"中文：现金控制确保收付款安排有足够现金，避免到期无法付款。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk memenuhi pembayaran."
+F5 Chp 3,radio,Pahang_Q28,A,B,C,D,C,Pahang/Picture28.png,"中文：预计现金收支使用现金预算；调整现金簿与银行结单余额使用银行调节表。
+Bahasa Melayu: Anggaran penerimaan dan pembayaran ialah Belanjawan Tunai; penyelarasan Buku Tunai dan Penyata Bank ialah Penyata Penyesuaian Bank."
+F5 Chp 3,radio,Pahang_Q29,A,B,C,D,A,Pahang/Picture29.png,"中文：现金簿透支 −RM700，加未兑现支票 RM4,550，减未入账存款 RM2,520，得到银行结单贷方 RM1,330。
+Bahasa Melayu: Baki bank = −700 + 4,550 − 2,520 = RM1,330, iaitu baki kredit Penyata Bank."
+F5 Chp 3,radio,Pahang_Q30,A,B,C,D,C,Pahang/Picture30.png,"中文：二月销售 = 20,000 × 110% = RM22,000；收入 = 二月现销 22,000 × 60% + 一月赊销 20,000 × 40% = RM21,200。
+Bahasa Melayu: Penerimaan Februari = 22,000 × 60% + 20,000 × 40% = RM21,200."
+F5 Chp 3,radio,Penang_Q25,A,B,C,D,D,Penang/Picture25.png,"中文：把保管现金、记录及批准支付交给不同人员，是职责分离，减少一人操作和掩盖错误的风险。
+Bahasa Melayu: Pengasingan tugas memisahkan penjagaan tunai, perekodan dan kelulusan bayaran antara pekerja berbeza."
+F5 Chp 3,radio,Penang_Q26,A,B,C,D,B,Penang/Picture26.png,"中文：银行代收股息增加客户存款；银行费用及透支利息属于扣款。
+Bahasa Melayu: Dividen diterima ialah penerimaan bank bagi pihak pelanggan; caj bank dan faedah overdraf ialah pembayaran."
+F5 Chp 3,radio,Penang_Q27,A,B,C,D,"B,C",Penang/Picture27.png,"中文：B（业主投入现金资本）和 C（收回应收账款）都是现金预算的现金收入。A 是业主私人提取现金，属于现金支出；D 的折旧不涉及现金流动。这题单选 B 或 C 都接受。
+Bahasa Melayu: B, tunai pemilik yang dilaburkan sebagai modal, dan C, kutipan akaun belum terima, kedua-duanya ialah penerimaan dalam belanjawan tunai. A ialah pembayaran untuk ambilan peribadi, manakala D ialah susut nilai yang tidak melibatkan aliran tunai. Pilih B atau C; kedua-duanya diterima sebagai jawapan tunggal."
+F5 Chp 3,radio,Perak_Q27,A,B,C,D,B,Perak/Picture27.png,"中文：原分录借贷完全颠倒，改正需原金额两倍：借记顾客、贷记销售 RM12,920。
+Bahasa Melayu: Kesilapan songsang dibetulkan pada dua kali amaun: debit pelanggan dan kredit Jualan RM12,920."
+F5 Chp 3,radio,Perak_Q28,A,B,C,D,C,Perak/Picture28.png,"中文：流动比率 = 流动资产/流动负债；存货周转率的分子是销货成本，不是销售。
+Bahasa Melayu: Nisbah semasa = aset semasa/liabiliti semasa; kadar pusing ganti inventori menggunakan kos jualan, bukan jualan."
+F5 Chp 3,radio,Perlis_Q25,A,B,C,D,D,Perlis/Picture25.png,"中文：从结单透支 −RM2,000，加未入账存款 3,000，减未兑现支票 800，得现金簿借方 RM200。
+Bahasa Melayu: Baki debit Penyata Bank −RM2,000 + deposit RM3,000 − cek RM800 = baki debit Buku Tunai RM200."
+F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png,"中文：无合伙协议时参考课本所列《1961 年合伙法令》的默认规则。
+Bahasa Melayu: Tanpa perjanjian, rujuk Akta Perkongsian 1961 sebagaimana diterangkan dalam buku teks."
+F5 Chp 3,radio,Perlis_Q27,A,B,C,D,B,Perlis/Picture27.png,"中文：可分利润 = 21,500 + 500 − 7,300 = RM14,700；Harith 得 2/3，即 RM9,800。
+Bahasa Melayu: Baki untung RM14,700; bahagian Harith = 14,700 × 2/3 = RM9,800."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,B,Selangor Set 1/Picture25.png,"中文：现金控制透过职责分离、核对及审批减少现金挪用及舞弊。
+Bahasa Melayu: Sistem kawalan tunai mengelakkan penyelewengan melalui pengasingan tugas, semakan dan kelulusan."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor Set 1/Picture26.png,"中文：银行贷记转入款增加客户存款，企业须在现金簿借方补记。
+Bahasa Melayu: Pindahan kredit menambah baki pelanggan di bank dan perlu didebitkan dalam Buku Tunai."
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,C,Selangor Set 1/Picture27.png,"中文：七月收入 = 七月现销 2,000 × 40% + 六月赊销 1,800 × 60% = RM1,880。
+Bahasa Melayu: Penerimaan Julai = 2,000 × 40% + 1,800 × 60% = RM1,880."
+F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,C,Terengganu/Picture26.png,"中文：速动资产 = 350 + 4,100 + 860 = RM5,310；除流动负债透支 RM2,820，得 1.88:1。
+Bahasa Melayu: Nisbah ujian asid = (350 + 4,100 + 860)/2,820 = 1.88:1; inventori dikecualikan."
+F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,B,Terengganu/Picture27.png,"中文：期末总资产减期末总负债就是期末资本，适用于不完整记录。
+Bahasa Melayu: Jumlah aset akhir − jumlah liabiliti akhir = modal akhir."

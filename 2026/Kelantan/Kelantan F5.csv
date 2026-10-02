@@ -1,19 +1,37 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan 2026 F5,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：P 是期末资本，Q 是期初资本。没有额外投入资本或提取时，净利 = 78,360 − 29,400 = RM48,960。原题标题有笔误，已改为 Penyata Mengira Untung Bersih（计算净利表）。
+Bahasa Melayu: P ialah modal akhir dan Q ialah modal awal. Tanpa modal tambahan atau ambilan, untung bersih = RM78,360 − RM29,400 = RM48,960. Tajuk asal tersalah cetak dan telah dibetulkan kepada Penyata Mengira Untung Bersih."
+,radio,F5 Bab 3,A,B,C,D,D,Picture24.png,"中文：现金控制确保有足够现金支付到期款项，并防止流动资金不足。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk menjelaskan pembayaran apabila tiba masanya."
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：本年租金 = 已付 5,350 − 期初欠租 1,450 + 期末欠租 1,200 = RM5,100。
+Bahasa Melayu: Sewa tahun semasa = bayaran − sewa belum bayar awal + sewa belum bayar akhir = 5,350 − 1,450 + 1,200 = RM5,100."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：银行结单借方 RM620 表示透支。现金簿余额 = −620 − 4,920 + 3,830 = −RM1,710，即贷方余额。
+Bahasa Melayu: Baki debit Penyata Bank menunjukkan overdraf. Baki Buku Tunai = −620 − 4,920 + 3,830 = −RM1,710, iaitu baki kredit."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：六月支付五月赊购 23,400 × 40%，加六月现购 28,560 × 60%：9,360 + 17,136 = RM26,496。
+Bahasa Melayu: Bayaran Jun = belian kredit Mei + belian tunai Jun = 23,400 × 40% + 28,560 × 60% = RM26,496."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：按课本列出的无协议默认规则，合伙人不获薪金；盈利均分，合伙人贷款利息为 8%。
+Bahasa Melayu: Tanpa ikatan, pekongsi tidak menerima gaji; untung dibahagi sama rata dan faedah pinjaman pekongsi ialah 8% mengikut kandungan buku teks."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：固定资本制度下，权益由资本账户和往来账户组成，利润分配已计入往来账户，不能重复相加。
+Bahasa Melayu: Ekuiti perkongsian terdiri daripada Akaun Modal dan Akaun Semasa; bahagian untung sudah dimasukkan dalam Akaun Semasa."
+,radio,F5 Bab 5,A,B,C,D,C,Picture30.png,"中文：普通股股东拥有股东大会投票权；固定或优先股息是优先股权利。
+Bahasa Melayu: Pemegang syer biasa mempunyai hak mengundi dalam mesyuarat agung, berbeza daripada hak dividen tetap syer keutamaan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：利润分配账户记录全年的合伙人工资：RM1,300 × 12 = RM15,600；往来账户记录尚未领取的工资：RM1,300 × 2 = RM2,600。这是两个账户各自应记录的金额，因此选 A。
+Bahasa Melayu: Akaun Pengasingan Untung Rugi merekodkan gaji pekongsi setahun, RM1,300 × 12 = RM15,600. Akaun Semasa merekodkan gaji yang belum diambil, RM1,300 × 2 = RM2,600. Kedua-dua amaun menunjukkan catatan dalam akaun masing-masing; jawapan A betul."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：清算时合伙人接收资产，会减少应领资本：借记合伙人资本，贷记清算账户。
+Bahasa Melayu: Aset diambil alih pekongsi semasa pembubaran: debit Akaun Modal dan kredit Akaun Realisasi."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：优先股息 = 4,000,000 × 6% = RM240,000；普通股息 = 1,000,000 × RM0.50 = RM500,000；合计 RM740,000。
+Bahasa Melayu: Dividen keutamaan RM240,000 + dividen biasa RM500,000 = RM740,000. RM0.50 dibaca sebagai 50 sen sesyer."
+,radio,F5 Bab 6,A,B,C,D,C,Picture34.png,"中文：获捐电脑是资本性收入，增加非流动资产；会费、活动盈利和利息是收益性收入。
+Bahasa Melayu: Derma komputer ialah pendapatan modal; yuran pertandingan, untung aktiviti dan faedah ialah pendapatan hasil."
+,radio,F5 Bab 7,A,B,C,D,B,Picture35.png,"中文：本题把用于产品的商标费用列为直接费用；原材料是直接材料，生产工人工资是直接人工，厂租是间接费用。
+Bahasa Melayu: Cap dagangan bagi produk ialah belanja langsung dalam konteks soalan; bahan mentah ialah bahan langsung, gaji operator buruh langsung dan sewa kilang kos overhed."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：期初欠费 RM700，收回上年会费 RM520，剩余坏会费 = 700 − 520 = RM180。
+Bahasa Melayu: Yuran lapuk = yuran tertunggak awal − kutipan bagi tahun lalu = 700 − 520 = RM180."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：本年会费 = 2,350 − 120 + 50 − 75 = RM2,205；扣上年应收及下年预收，加上年已预收的本年会费。
+Bahasa Melayu: Yuran tahun semasa = 2,350 − 120 + 50 − 75 = RM2,205, selepas pelarasan yuran awal dan akhir."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：期末累计基金 = 120,000 − 4,800 + 70,000 = RM185,200。资本捐款直接增加基金，修缮费用不能再次重复扣减本期亏额。
+Bahasa Melayu: Dana terkumpul akhir = 120,000 − 4,800 + 70,000 = RM185,200. Derma modal ditambah; belanja hasil tidak ditolak sekali lagi daripada kurangan."
+,radio,F5 Bab 7,A,B,C,D,B,Picture39.png,"中文：制造费用 = 设备折旧 75,000 × 10% + 厂租 6,300 + 欠租 1,700 = RM15,500；直接人工不计入。
+Bahasa Melayu: Kos overhed = susut nilai 7,500 + sewa 6,300 + sewa belum bayar 1,700 = RM15,500; buruh langsung dikecualikan."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位贡献 = 5.00 − 2.60 = RM2.40；目标产量 = (固定成本 15,000 + 目标利润 9,000)/2.40 = 10,000 瓶。
+Bahasa Melayu: Sumbangan seunit = RM2.40. Unit untuk untung sasaran = (15,000 + 9,000)/2.40 = 10,000 botol."

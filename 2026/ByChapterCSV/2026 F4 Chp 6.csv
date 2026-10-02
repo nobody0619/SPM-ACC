@@ -1,16 +1,35 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 6,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png
-F4 Chp 6,radio,Kelantan_Q09,A,B,C,D,D,Kelantan/Picture9.png
-F4 Chp 6,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png
-F4 Chp 6,radio,Kelantan_Q21,A,B,C,D,D,Kelantan/Picture21.png
-F4 Chp 6,radio,Melaka_Q12,A,B,C,D,B,Melaka/Picture12.png
-F4 Chp 6,radio,NegeriSembilan_Q11,A,B,C,D,C,Negeri Sembilan/Picture11.png
-F4 Chp 6,radio,NegeriSembilan_Q15,A,B,C,D,D,Negeri Sembilan/Picture15.png
-F4 Chp 6,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png
-F4 Chp 6,radio,Pahang_Q17,A,B,C,D,A,Pahang/Picture17.png
-F4 Chp 6,radio,Penang_Q12,A,B,C,D,B,Penang/Picture12.png
-F4 Chp 6,radio,Perak_Q12,A,B,C,D,B,Perak/Picture12.png
-F4 Chp 6,radio,Perak_Q13,A,B,C,D,A,Perak/Picture13.png
-F4 Chp 6,radio,Perlis_Q11,A,B,C,D,B,Perlis/Picture11.png
-F4 Chp 6,radio,SelangorSet_Q11,A,B,C,D,D,Selangor Set 1/Picture11.png
-F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 6,radio,Johor_Q14,A,B,C,D,A,Johor/Picture14.png,"中文：X 在试算表贷方，是贷方余额项目。银行透支属于流动负债，列贷方；给予折扣、销货运费及销售退回应列借方。
+Bahasa Melayu: X berbaki kredit dalam Imbangan Duga. Overdraf bank ialah liabiliti semasa berbaki kredit, manakala diskaun diberi, angkutan keluar dan pulangan jualan berbaki debit."
+F4 Chp 6,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png,"中文：股息是收入，正常余额在贷方；利息费用、运出费和提取则在借方。
+Bahasa Melayu: Dividen ialah hasil dan berbaki kredit; faedah pinjaman, angkutan keluar dan ambilan berbaki debit."
+F4 Chp 6,radio,Kelantan_Q09,A,B,C,D,D,Kelantan/Picture9.png,"中文：原余额 = 1,200 + 6,400 − 300 − 4,230 − 550 = RM2,520；退票及取消折扣恢复欠款 800 + 90，得到 RM3,410。
+Bahasa Melayu: Baki asal = RM2,520. Cek tak laku RM800 dan diskaun ditarik balik RM90 menambah hutang: 2,520 + 800 + 90 = RM3,410."
+F4 Chp 6,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png,"中文：试算表汇总分类账借贷余额，用来检查复式记账的算术准确性，但平衡不代表毫无错误。
+Bahasa Melayu: Imbangan Duga menyemak ketepatan aritmetik catatan bergu; keseimbangan tidak membuktikan semua catatan bebas kesilapan."
+F4 Chp 6,radio,Kelantan_Q21,A,B,C,D,D,Kelantan/Picture21.png,"中文：净利除以期初资本再乘 100%，衡量资本获利能力，是资本回报率。
+Bahasa Melayu: Untung bersih/modal awal × 100% ialah pulangan atas modal, yang mengukur keupayaan modal menjana keuntungan."
+F4 Chp 6,radio,MRSM_Q15,A,B,C,D,D,MRSM/Picture15.png,"中文：未付杂费 Kadar Bayaran Belum Bayar 属流动负债，在试算表列贷方。贷款利息费用应借记，存款利息及未赚取佣金应贷记。
+Bahasa Melayu: Kadar Bayaran Belum Bayar ialah liabiliti semasa dan berbaki kredit dalam Imbangan Duga. Faedah pinjaman berbaki debit, manakala faedah simpanan dan komisen belum terperoleh berbaki kredit."
+F4 Chp 6,radio,Melaka_Q12,A,B,C,D,B,Melaka/Picture12.png,"中文：试算表贷方总额 = 资本 20,000 + 透支 1,150 + 销售 23,000 = RM44,150；借方总额也为 22,422 + 21,623 + 105。
+Bahasa Melayu: Jumlah kredit = 20,000 + 1,150 + 23,000 = RM44,150, sama dengan jumlah debit 22,422 + 21,623 + 105."
+F4 Chp 6,radio,NegeriSembilan_Q11,A,B,C,D,C,Negeri Sembilan/Picture11.png,"中文：赊购 = 期末应付 5,870 + 付款 2,250 − 期初应付 3,460 = RM4,660；给予折扣不影响应付款。
+Bahasa Melayu: Belian kredit = ABB akhir + bayaran − ABB awal = 5,870 + 2,250 − 3,460 = RM4,660; diskaun diberi tidak berkaitan ABB."
+F4 Chp 6,radio,NegeriSembilan_Q15,A,B,C,D,D,Negeri Sembilan/Picture15.png,"中文：本年佣金收入 = 已收 750 + 应收 150 = RM900，结转损益账户；未收部分为资产，不是预收收入。
+Bahasa Melayu: Komisen tahun semasa = 750 + 150 = RM900 dan dipindah ke Akaun Untung Rugi; komisen belum terima ialah aset."
+F4 Chp 6,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png,"中文：定存利息是收入，正常余额为贷方；贷款利息、运出费为费用，定存为资产。
+Bahasa Melayu: Faedah simpanan tetap ialah hasil berbaki kredit; faedah pinjaman dan angkutan keluar ialah belanja, simpanan tetap ialah aset."
+F4 Chp 6,radio,Pahang_Q17,A,B,C,D,A,Pahang/Picture17.png,"中文：逐项选成本与市场价较低者：177 + 700 + 120 + 162 = RM1,159，不是先比较两个总额。
+Bahasa Melayu: Nilai setiap barang pada harga lebih rendah antara kos dan pasaran: 177 + 700 + 120 + 162 = RM1,159."
+F4 Chp 6,radio,Penang_Q12,A,B,C,D,B,Penang/Picture12.png,"中文：销售和运入费都结转交易账户，用来计算毛利，因此 I、IV 正确。
+Bahasa Melayu: Jualan dan angkutan masuk dipindahkan ke Akaun Perdagangan untuk menentukan untung kasar; I dan IV betul."
+F4 Chp 6,radio,Perak_Q12,A,B,C,D,B,Perak/Picture12.png,"中文：老板投入车辆是非现金追加资本，用普通日记账；现金或支票交易主要用现金簿。
+Bahasa Melayu: Kenderaan dibawa masuk sebagai modal tambahan ialah urus niaga bukan tunai yang direkod dalam Jurnal Am."
+F4 Chp 6,radio,Perak_Q13,A,B,C,D,A,Perak/Picture13.png,"中文：卖方发出借项通知单，追加原来少收的售价，增加赊销，记销售日记账 RM320。
+Bahasa Melayu: Nota debit salinan menambah jualan kredit kerana harga terkurang caj; RM320 direkod dalam Jurnal Jualan."
+F4 Chp 6,radio,Perlis_Q11,A,B,C,D,B,Perlis/Picture11.png,"中文：购货退回减少欠供应商金额，因此进入应付款控制账户。
+Bahasa Melayu: Pulangan keluar mengurangkan hutang pembekal dan direkod dalam Akaun Kawalan ABB."
+F4 Chp 6,radio,SelangorSet_Q11,A,B,C,D,D,Selangor Set 1/Picture11.png,"中文：支付租金属于费用，在借方；收到佣金属于收入，在贷方，因此选 D。
+Bahasa Melayu: Sewa dibayar ialah belanja debit dan komisen diterima ialah hasil kredit; D betul."
+F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png,"中文：现金簿借方记录收款，正式收据证明收回应收款，适合作来源文件。
+Bahasa Melayu: Resit menjadi dokumen sumber penerimaan wang yang direkod di sebelah debit Buku Tunai."

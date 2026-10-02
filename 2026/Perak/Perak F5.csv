@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak 2026 F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：四月起一年租金至翌年三月，年底预付三个月：5,400 × 3/12 = RM1,350。
+Bahasa Melayu: Sewa prabayar Januari hingga Mac = 5,400 × 3/12 = RM1,350."
+,radio,F5 Bab 1,A,B,C,D,C,Picture23.png,"中文：坏账属于费用，结转损益账户借方，并减少应收款及盈利。
+Bahasa Melayu: Hutang lapuk ialah belanja yang didebitkan ke Akaun Untung Rugi serta mengurangkan ABT dan untung."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：出售企业旧车属于非流动资产出售；出售家具店商品则是营业销售。
+Bahasa Melayu: Jualan kenderaan terpakai perniagaan ialah pelupusan aset bukan semasa; jualan almari sebagai barang niaga ialah jualan operasi."
+,radio,F5 Bab 2,A,B,C,D,A,Picture25.png,"中文：抵销错误及整宗遗漏可能不影响借贷相等；只遗漏一方则使试算表不平衡。I、II 正确。
+Bahasa Melayu: Kesilapan saling mengimbangi dan ketinggalan seluruh urus niaga tidak semestinya menjejaskan keseimbangan; I dan II betul."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：购货账户记 RM540 而实际 RM450，购货多记 RM90，现金簿没有错误。
+Bahasa Melayu: Akaun Belian terlebih catat 540 − 450 = RM90; Buku Tunai telah betul."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：原分录借贷完全颠倒，改正需原金额两倍：借记顾客、贷记销售 RM12,920。
+Bahasa Melayu: Kesilapan songsang dibetulkan pada dua kali amaun: debit pelanggan dan kredit Jualan RM12,920."
+,radio,F5 Bab 3,A,B,C,D,C,Picture28.png,"中文：流动比率 = 流动资产/流动负债；存货周转率的分子是销货成本，不是销售。
+Bahasa Melayu: Nisbah semasa = aset semasa/liabiliti semasa; kadar pusing ganti inventori menggunakan kos jualan, bukan jualan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：销货成本 = 8,400 + 17,340 − 12,160 = RM13,580；加价率 = 10,210/13,580 × 100% = 75.18%。
+Bahasa Melayu: Kos jualan RM13,580; tokokan = 10,210/13,580 × 100% = 75.18%."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：Wafi 收债期 35 天较短，收债更好；Sarah 存货周转 9 次较高，存货管理更快。I、IV 正确。
+Bahasa Melayu: Wafi mengutip hutang lebih cepat, manakala Sarah mempunyai pusing ganti inventori lebih tinggi; I dan IV betul."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：净亏损减少资本及业主权益；收入和追加资本通常增加权益。
+Bahasa Melayu: Rugi bersih mengurangkan ekuiti pemilik; hasil dan modal tambahan meningkatkan ekuiti."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：赊销 = 期末应收 8,800 + 收款 6,100 + 退回 300 − 期初应收 4,300 = RM10,900。
+Bahasa Melayu: Jualan kredit = 8,800 + 6,100 + 300 − 4,300 = RM10,900."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：银行直接代扣款项可能尚未记入企业现金簿，产生差额；需在现金簿补记。
+Bahasa Melayu: Pindahan debit dilakukan bank dan mungkin belum direkod dalam Buku Tunai, maka perlu dikemas kini."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：实际销售超过预算、实际原材料购入支出低于预算是有利差异，II、IV 正确。
+Bahasa Melayu: Jualan sebenar melebihi anggaran dan bayaran bahan mentah kurang daripada anggaran menunjukkan prestasi memuaskan; II dan IV betul."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：清算时收到供应商付款折扣，会增加清算收益：借记应付款、贷记清算账户 RM400。
+Bahasa Melayu: Diskaun diterima semasa menjelaskan ABB dikreditkan ke Akaun Realisasi dan didebitkan ke ABB RM400."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：优先股息 = 150,000 × 2 × 6% = RM18,000；普通股息率 = (46,800 − 18,000)/180,000 × 100% = 16%。
+Bahasa Melayu: Dividen keutamaan RM18,000; kadar dividen biasa = (46,800 − 18,000)/180,000 × 100% = 16%."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：会费收入 = 已收 12,000 + 应收 500 − 预收 800 = RM11,700。
+Bahasa Melayu: Yuran diiktiraf = 12,000 + 500 − 800 = RM11,700."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：盈余增加累计基金，累计基金相当于独资企业权益；其计算是资产减负债。II、IV 正确。
+Bahasa Melayu: Lebihan menambah dana terkumpul yang bersamaan ekuiti milikan tunggal; dana = aset − liabiliti. II dan IV betul."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：制造费用增加使总生产成本增加，不直接改变基本成本或原材料成本。
+Bahasa Melayu: Pertambahan kos overhed menaikkan kos pengeluaran tanpa mengubah kos prima atau bahan secara langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：盈亏平衡量 1,500 = 3,000/单位贡献，故单位贡献 RM2。卖 4,000 单位盈利 = (4,000 − 1,500) × 2 = RM5,000。
+Bahasa Melayu: Sumbangan seunit = 3,000/1,500 = RM2. Untung = (4,000 − 1,500) × RM2 = RM5,000."

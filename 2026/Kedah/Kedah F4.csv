@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture20.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah 2026 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：董事会参与企业管理，是内部使用者；银行、审计师及税务局属于外部使用者。
+Bahasa Melayu: Ahli lembaga pengarah terlibat dalam pengurusan, maka ialah pengguna dalaman; bank, juruaudit dan LHDN ialah pengguna luaran."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：审计检查文件与账簿，确认会计记录正确、可靠。
+Bahasa Melayu: Pengauditan memeriksa dokumen dan rekod bagi mengesahkan ketepatan serta kebolehpercayaan maklumat perakaunan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：运入费直接与购入商品有关，属营业活动的支出；住宅保险是私人支出，贷款利息及出售资产亏损属非营业项目。
+Bahasa Melayu: Angkutan masuk berkaitan aktiviti membeli barang niaga. Insurans kediaman ialah belanja peribadi; faedah pinjaman dan rugi pelupusan ialah belanja bukan operasi."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：售价 RM3,900 减成本 RM3,600，盈利 RM300 使权益增加；款项用于还债使负债减少，售出存货使资产净减少。
+Bahasa Melayu: Untung jualan = RM3,900 − RM3,600 = RM300, menambah ekuiti. Bayaran hutang mengurangkan liabiliti, manakala inventori yang dijual mengurangkan aset bersih."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：期末资本 = 48,000 − 17,500 = RM30,500。发生亏损后资本减少，所以期初资本 = 30,500 + 4,600 = RM35,100。
+Bahasa Melayu: Modal akhir = 48,000 − 17,500 = RM30,500. Modal awal = modal akhir + rugi = 30,500 + 4,600 = RM35,100."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：商业折扣鼓励顾客大量购买；鼓励提早还款的是现金折扣。
+Bahasa Melayu: Diskaun niaga menggalakkan pembelian pukal; diskaun tunai menggalakkan pembayaran hutang dengan segera."
+,radio,F4 Bab 3,A,B,C,D,B,Picture7.png,"中文：赊销以发票副本记录；追加应收款的借项通知单也增加销售日记账金额，所以 I 与 IV 正确。
+Bahasa Melayu: Jualan kredit direkod melalui invois salinan; nota debit menambah amaun yang dituntut. Oleh itu, I dan IV betul."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：备用金制度用于零用现金簿，每期补回已支付金额，恢复规定的备用金。
+Bahasa Melayu: Sistem panjar digunakan dalam Buku Tunai Runcit; bayaran balik mengembalikan wang kepada jumlah panjar yang ditetapkan."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：欠款 RM4,000，收到支票 RM3,600，差额 RM400 为给予折扣。现金簿借方记银行 RM3,600、折扣 RM400。
+Bahasa Melayu: Diskaun diberi = 4,000 − 3,600 = RM400. Catat di sebelah debit Buku Tunai: bank RM3,600 dan diskaun RM400."
+,radio,F4 Bab 4,A,B,C,D,A,Picture10.png,"中文：老板取走商品是非现金提取，记入普通日记账：借记 Ambilan，贷记 Belian。
+Bahasa Melayu: Ambilan barang niaga ialah urus niaga bukan tunai: debit Ambilan dan kredit Belian dalam Jurnal Am."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：销售退回减少顾客欠款，因此减少销售分类账余额。
+Bahasa Melayu: Pulangan masuk mengurangkan hutang pelanggan, maka mengurangkan baki dalam Lejar Jualan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture12.png,"中文：住宅租金是老板私人开支。使用企业支票支付，应借记 Ambilan、贷记 Bank RM1,500。
+Bahasa Melayu: Sewa kediaman ialah belanja peribadi pemilik: debit Ambilan dan kredit Bank RM1,500."
+,radio,F4 Bab 6,A,B,C,D,D,Picture13.png,"中文：股息是收入，正常余额在贷方；利息费用、运出费和提取则在借方。
+Bahasa Melayu: Dividen ialah hasil dan berbaki kredit; faedah pinjaman, angkutan keluar dan ambilan berbaki debit."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：期末应收款 = 36,000 − 380 − 200 = RM35,420。收到折扣不属于应收款控制账户。
+Bahasa Melayu: Baki akhir ABT = 36,000 − 380 − 200 = RM35,420. Diskaun diterima berkaitan ABB, bukan ABT."
+,radio,F4 Bab 7,A,B,C,D,D,Picture15.png,"中文：进口税使商品购入成本增加；购货退回减少成本，运出费属于销售费用。
+Bahasa Melayu: Duti import menambah kos belian. Pulangan belian mengurangkannya, manakala angkutan keluar ialah belanja menjual."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：净利 = 14,500 + 1,700 − 1,200 − 800 = RM14,200。运入费已在毛利计算中处理，不能重复扣除。
+Bahasa Melayu: Untung bersih = 14,500 + 1,700 − 1,200 − 800 = RM14,200. Angkutan masuk sudah diambil kira sebelum untung kasar."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：收到折扣是名义收入账户，年末结转损益账户；资本、预付保险和预收租金保留余额。
+Bahasa Melayu: Diskaun diterima ialah akaun hasil yang ditutup ke Akaun Untung Rugi; modal, insurans prabayar dan sewa belum terperoleh dibawa ke tempoh berikutnya."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：保险覆盖五月至翌年四月。年底尚未使用四个月，所以预付保险 = 3,600 × 4/12 = RM1,200。
+Bahasa Melayu: Baki perlindungan Januari hingga April ialah empat bulan. Insurans prabayar = 3,600 × 4/12 = RM1,200."
+,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：金额正确但记入同一类别中的错误账户，属于 komisen 错误；试算表仍可能平衡。
+Bahasa Melayu: Kesilapan komisen berlaku apabila amaun betul dicatat dalam akaun yang salah tetapi daripada pengelasan yang sama."
+,radio,F4 Bab 8,A,B,C,D,A,Picture20.png,"中文：运出费误记为运入费，两者都记借方，相同金额不改变借贷总额，所以试算表仍平衡。
+Bahasa Melayu: Angkutan keluar tersalah dicatat sebagai angkutan masuk masih berada di sebelah debit; jumlah debit dan kredit kekal seimbang."

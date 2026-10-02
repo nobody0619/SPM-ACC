@@ -1,18 +1,49 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png
-F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png
-F4 Chp 2,radio,Kedah_Q05,A,B,C,D,D,Kedah/Picture5.png
-F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,C,Kelantan/Picture3.png
-F4 Chp 2,radio,Melaka_Q03,A,B,C,D,A,Melaka/Picture3.png
-F4 Chp 2,radio,Melaka_Q04,A,B,C,D,C,Melaka/Picture4.png
-F4 Chp 2,radio,Melaka_Q05,A,B,C,D,B,Melaka/Picture5.png
-F4 Chp 2,radio,NegeriSembilan_Q05,A,B,C,D,D,Negeri Sembilan/Picture5.png
-F4 Chp 2,radio,Pahang_Q05,A,B,C,D,D,Pahang/Picture5.png
-F4 Chp 2,radio,Pahang_Q06,A,B,C,D,B,Pahang/Picture6.png
-F4 Chp 2,radio,Pahang_Q07,A,B,C,D,B,Pahang/Picture7.png
-F4 Chp 2,radio,Penang_Q03,A,B,C,D,C,Penang/Picture3.png
-F4 Chp 2,radio,Perlis_Q03,A,B,C,D,C,Perlis/Picture3.png
-F4 Chp 2,radio,Perlis_Q04,A,B,C,D,D,Perlis/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,C,Selangor Set 1/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,D,Selangor Set 1/Picture5.png
-F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 2,radio,Johor_Q04,A,B,C,D,D,Johor/Picture4.png,"中文：非流动资产列在财务状况表，不是交易及损益账户项目。后者记录销售、收入、销货成本和费用。
+Bahasa Melayu: Aset bukan semasa dilaporkan dalam Penyata Kedudukan Kewangan, bukan Akaun Perdagangan dan Untung Rugi yang mengandungi hasil dan belanja."
+F4 Chp 2,radio,Johor_Q05,A,B,C,D,C,Johor/Picture5.png,"中文：资本 = 资产 − 负债 = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190。
+Bahasa Melayu: Modal = aset − liabiliti = RM30,000 + RM15,000 + RM8,590 − RM13,400 = RM40,190."
+F4 Chp 2,radio,Johor_Q06,A,B,C,D,D,Johor/Picture6.png,"中文：水电费 Utiliti 属费用，按账户代码表应在 4000–4999 范围内，4321 符合。
+Bahasa Melayu: Utiliti ialah belanja. Kod akaun belanja berada dalam julat 4000–4999, maka kod 4321 sesuai."
+F4 Chp 2,radio,KL_Q03,A,B,C,D,B,KL/Picture3.png,"中文：未付贷款利息是企业尚欠的费用，属于流动负债；未收利息及预付保险、预付水电费都是流动资产。
+Bahasa Melayu: Faedah atas pinjaman belum bayar ialah belanja terakru, maka liabiliti semasa. Faedah belum terima serta insurans dan utiliti prabayar ialah aset semasa."
+F4 Chp 2,radio,KL_Q04,A,B,C,D,D,KL/Picture4.png,"中文：会计等式是资产 = 负债 + 资本。D 符合 RM32,000 = RM8,000 + RM24,000。
+Bahasa Melayu: Persamaan perakaunan ialah aset = liabiliti + modal. D memenuhi RM32,000 = RM8,000 + RM24,000."
+F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png,"中文：运入费直接与购入商品有关，属营业活动的支出；住宅保险是私人支出，贷款利息及出售资产亏损属非营业项目。
+Bahasa Melayu: Angkutan masuk berkaitan aktiviti membeli barang niaga. Insurans kediaman ialah belanja peribadi; faedah pinjaman dan rugi pelupusan ialah belanja bukan operasi."
+F4 Chp 2,radio,Kedah_Q04,A,B,C,D,C,Kedah/Picture4.png,"中文：售价 RM3,900 减成本 RM3,600，盈利 RM300 使权益增加；款项用于还债使负债减少，售出存货使资产净减少。
+Bahasa Melayu: Untung jualan = RM3,900 − RM3,600 = RM300, menambah ekuiti. Bayaran hutang mengurangkan liabiliti, manakala inventori yang dijual mengurangkan aset bersih."
+F4 Chp 2,radio,Kedah_Q05,A,B,C,D,D,Kedah/Picture5.png,"中文：期末资本 = 48,000 − 17,500 = RM30,500。发生亏损后资本减少，所以期初资本 = 30,500 + 4,600 = RM35,100。
+Bahasa Melayu: Modal akhir = 48,000 − 17,500 = RM30,500. Modal awal = modal akhir + rugi = 30,500 + 4,600 = RM35,100."
+F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,C,Kelantan/Picture3.png,"中文：老板投入车辆使资本增加；提取商品供自己使用则减少权益。
+Bahasa Melayu: Kenderaan yang dibawa masuk menambah modal; ambilan barang niaga mengurangkan ekuiti pemilik."
+F4 Chp 2,radio,MRSM_Q04,A,B,C,D,C,MRSM/Picture4.png,"中文：饭店的主要业务是售卖食物，因此食物销售是营业收入；存款利息、投资股息及资产出售收益不是主营收入。
+Bahasa Melayu: Aktiviti utama kedai makanan ialah menjual makanan. Jualan makanan merupakan hasil operasi, manakala faedah, dividen dan untung pelupusan ialah hasil bukan operasi."
+F4 Chp 2,radio,MRSM_Q05,A,B,C,D,C,MRSM/Picture5.png,"中文：售出存货成本 = 2,000 × 50% = RM1,000；赊销增加应收账款 RM1,500，利润增加 1,500 − 1,000 = RM500。
+Bahasa Melayu: Kos inventori dijual = RM2,000 × 50% = RM1,000. Jualan kredit menambah ABT RM1,500 dan untung RM1,500 − RM1,000 = RM500; jawapan C."
+F4 Chp 2,radio,Melaka_Q03,A,B,C,D,A,Melaka/Picture3.png,"中文：预付保险、存货和应收款预期在正常经营周期内使用或变现，属于流动资产。
+Bahasa Melayu: Insurans prabayar, inventori dan ABT digunakan atau direalisasikan dalam kitaran operasi, maka ialah aset semasa."
+F4 Chp 2,radio,Melaka_Q04,A,B,C,D,C,Melaka/Picture4.png,"中文：电脑店出售打印机是主要营业活动，因此该销售属于营业收入。
+Bahasa Melayu: Jualan mesin pencetak merupakan aktiviti utama kedai komputer, maka ialah hasil operasi."
+F4 Chp 2,radio,Melaka_Q05,A,B,C,D,B,Melaka/Picture5.png,"中文：期末资本 = 50,000 + 3,500 − 1,500 = RM52,000；总资产 RM80,000，所以负债 = 80,000 − 52,000 = RM28,000。
+Bahasa Melayu: Modal akhir = 50,000 + 3,500 − 1,500 = RM52,000. Liabiliti = 80,000 − 52,000 = RM28,000."
+F4 Chp 2,radio,NegeriSembilan_Q05,A,B,C,D,D,Negeri Sembilan/Picture5.png,"中文：企业钱款支付私人费用及老板拿走企业电脑，都减少业主权益，属于提取。III、IV 正确。
+Bahasa Melayu: Belanja peribadi dibayar dengan tunai perniagaan dan komputer diambil untuk peribadi ialah ambilan; III dan IV betul."
+F4 Chp 2,radio,Pahang_Q05,A,B,C,D,D,Pahang/Picture5.png,"中文：出售缝纫机亏损不是裁缝店日常主营活动，列为非营业费用。
+Bahasa Melayu: Rugi pelupusan mesin jahit bukan aktiviti utama kedai jahit, maka ialah belanja bukan operasi."
+F4 Chp 2,radio,Pahang_Q06,A,B,C,D,B,Pahang/Picture6.png,"中文：从银行提款供企业使用，是资产间转移：现金加、银行减，资本不变。
+Bahasa Melayu: Pengeluaran wang bank untuk perniagaan menambah tunai dan mengurangkan bank tanpa mengubah modal."
+F4 Chp 2,radio,Pahang_Q07,A,B,C,D,B,Pahang/Picture7.png,"中文：捐款属于费用，按题中费用编码范围 2000–2999，应选 2404。
+Bahasa Melayu: Derma ialah belanja; julat kod belanja 2000–2999 menjadikan 2404 sesuai."
+F4 Chp 2,radio,Penang_Q03,A,B,C,D,C,Penang/Picture3.png,"中文：运入费及购货保险增加采购成本，退货减少成本，因此 II、IV 正确。
+Bahasa Melayu: Angkutan masuk dan insurans atas belian menambah kos belian; II dan IV betul."
+F4 Chp 2,radio,Perlis_Q03,A,B,C,D,C,Perlis/Picture3.png,"中文：资产 = 负债 + 资本；C 满足 6,000 = 3,000 + 3,000。
+Bahasa Melayu: C menepati persamaan aset = liabiliti + modal: 6,000 = 3,000 + 3,000."
+F4 Chp 2,radio,Perlis_Q04,A,B,C,D,C,Perlis/Picture4.png,"中文：非营业收入来自与主要业务无关的活动：II 收到的租金及 IV 银行存款利息，因此选 C。销售及法律服务费属于相应主营业务的营业收入。
+Bahasa Melayu: Hasil bukan operasi diperoleh daripada aktiviti yang tidak berkaitan dengan aktiviti utama perniagaan: II, sewa diterima, dan IV, faedah atas simpanan bank. Oleh itu jawapannya C. Jualan dan yuran khidmat guaman merupakan hasil operasi bagi perniagaan berkenaan."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,C,Selangor Set 1/Picture4.png,"中文：应收租金是流动资产，列财务状况表；预付保险也为资产而不是负债。
+Bahasa Melayu: Sewa belum terima ialah aset semasa dalam Penyata Kedudukan Kewangan; insurans prabayar juga aset."
+F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,D,Selangor Set 1/Picture5.png,"中文：老板私人车辆分期由企业支付，属于提取，使银行资产和业主权益减少，企业负债不变。
+Bahasa Melayu: Ansuran kenderaan peribadi menggunakan cek perniagaan ialah ambilan yang mengurangkan aset dan ekuiti."
+F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png,"中文：交易账户包括销货成本，以净销售减销货成本求毛利。本题把毛利视为计算结果而非费用或成本项目。
+Bahasa Melayu: Kos jualan ialah komponen Akaun Perdagangan; untung kasar merupakan hasil pengiraan jualan bersih ditolak kos jualan."

@@ -1,18 +1,35 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture18.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan 2026 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：古巴比伦用泥板记录交易，泥土刻写后可保存会计资料。
+Bahasa Melayu: Rekod awal di Babylonia dibuat pada kepingan tanah liat untuk menyimpan catatan urus niaga."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：四项假设包括会计期间、货币计量、持续经营和独立实体，因此 X 是独立实体。
+Bahasa Melayu: Empat andaian ialah tempoh perakaunan, wang sebagai ukuran, usaha berterusan dan entiti berasingan; X ialah entiti berasingan."
+,radio,F4 Bab 3,A,B,C,D,C,Picture4.png,"中文：正式收据证明已经收到现金，属于现金交易文件；发票主要用于赊账交易。
+Bahasa Melayu: Resit rasmi membuktikan penerimaan wang bagi urus niaga tunai; invois lazimnya untuk urus niaga kredit."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：企业钱款支付私人费用及老板拿走企业电脑，都减少业主权益，属于提取。III、IV 正确。
+Bahasa Melayu: Belanja peribadi dibayar dengan tunai perniagaan dan komputer diambil untuk peribadi ialah ambilan; III dan IV betul."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：付款 RM550 清偿 RM700 债务：资产减 RM550、负债减 RM700，收到折扣 RM150 增加盈利及权益。
+Bahasa Melayu: Bayaran RM550 menjelaskan hutang RM700; aset turun RM550, liabiliti turun RM700 dan diskaun diterima RM150 menambah ekuiti."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：工资是费用，销售是收入，都是每期结清的名义账户；设备及存货是实账户。
+Bahasa Melayu: Gaji dan jualan ialah akaun nominal belanja dan hasil; lekapan serta inventori ialah akaun nyata."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：电器公司向家具供应商赊购沙发：借记 Perabot RM2,500，贷记 Mewah Furniture Bhd RM2,500。
+Bahasa Melayu: Debit Perabot RM2,500 dan kredit Mewah Furniture Bhd RM2,500 bagi belian aset secara kredit."
+,radio,F4 Bab 8,A,B,C,D,A,Picture9.png,"中文：收到支票 RM2,000 清偿 RM2,250，给予折扣 RM250。现金簿借方分别记录银行及折扣。
+Bahasa Melayu: Diskaun diberi = 2,250 − 2,000 = RM250; debit Buku Tunai pada ruangan bank RM2,000 dan diskaun RM250."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：维修费结转损益账户，进口税增加商品成本并结转交易账户，因此 II、III 正确。
+Bahasa Melayu: Belanja membaiki dipindahkan ke Akaun Untung Rugi dan duti import ke Akaun Perdagangan; II dan III betul."
+,radio,F4 Bab 6,A,B,C,D,C,Picture11.png,"中文：赊购 = 期末应付 5,870 + 付款 2,250 − 期初应付 3,460 = RM4,660；给予折扣不影响应付款。
+Bahasa Melayu: Belian kredit = ABB akhir + bayaran − ABB awal = 5,870 + 2,250 − 3,460 = RM4,660; diskaun diberi tidak berkaitan ABB."
+,radio,F4 Bab 5,A,B,C,D,D,Picture12.png,"中文：捐款支出正常记借方；抵押贷款是负债，正常记贷方。因此 X 是 Derma，Y 是 Gadai janji。
+Bahasa Melayu: Derma sebagai belanja berbaki debit, manakala gadai janji ialah liabiliti berbaki kredit; X Derma dan Y Gadai janji."
+,radio,F4 Bab 5,A,B,C,D,C,Picture13.png,"中文：现金基础在实际付款时承认工资费用，不按欠付或应计时间记录。
+Bahasa Melayu: Asas tunai mengiktiraf gaji sebagai belanja apabila pembayaran dibuat."
+,radio,F4 Bab 8,A,B,C,D,C,Picture14.png,"中文：净利 = 30,608 + 9,600 − 12,000 − 1,260 − 1,080 = RM25,868；期末存货已用于毛利计算。
+Bahasa Melayu: Untung bersih = 30,608 + 9,600 − 12,000 − 1,260 − 1,080 = RM25,868; inventori akhir tidak ditambah semula."
+,radio,F4 Bab 6,A,B,C,D,D,Picture15.png,"中文：本年佣金收入 = 已收 750 + 应收 150 = RM900，结转损益账户；未收部分为资产，不是预收收入。
+Bahasa Melayu: Komisen tahun semasa = 750 + 150 = RM900 dan dipindah ke Akaun Untung Rugi; komisen belum terima ialah aset."
+,radio,F4 Bab 7,A,B,C,D,A,Picture16.png,"中文：坏账是已核销的应收款，属于费用并减少盈利，因此 I、II 正确。
+Bahasa Melayu: Hutang lapuk ialah hutang dihapus kira yang mengurangkan untung; I dan II betul."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：递减余额法以净值计算：折旧 = (15,000 − 2,250) × 10% = RM1,275。
+Bahasa Melayu: Susut nilai baki berkurangan = (15,000 − 2,250) × 10% = RM1,275."
+,radio,F4 Bab 9,A,B,C,D,A,Picture18.png,"中文：运入费误记运出费，两项都在借方，金额没有改变，所以试算表仍平衡。
+Bahasa Melayu: Angkutan masuk tersalah menjadi angkutan keluar tidak mengubah jumlah debit, maka Imbangan Duga kekal seimbang."

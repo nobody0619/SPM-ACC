@@ -1,25 +1,63 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 5,radio,Kedah_Q33,A,B,C,D,D,Kedah/Picture33.png
-F5 Chp 5,radio,Kedah_Q34,A,B,C,D,C,Kedah/Picture34.png
-F5 Chp 5,radio,Kelantan_Q30,A,B,C,D,C,Kelantan/Picture30.png
-F5 Chp 5,radio,Kelantan_Q33,A,B,C,D,D,Kelantan/Picture33.png
-F5 Chp 5,radio,Melaka_Q32,A,B,C,D,D,Melaka/Picture32.png
-F5 Chp 5,radio,Melaka_Q33,A,B,C,D,B,Melaka/Picture33.png
-F5 Chp 5,radio,Melaka_Q34,A,B,C,D,C,Melaka/Picture34.png
-F5 Chp 5,radio,NegeriSembilan_Q26,A,B,C,D,B,Negeri Sembilan/Picture26.png
-F5 Chp 5,radio,NegeriSembilan_Q34,A,B,C,D,D,Negeri Sembilan/Picture34.png
-F5 Chp 5,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png
-F5 Chp 5,radio,Pahang_Q34,A,B,C,D,C,Pahang/Picture34.png
-F5 Chp 5,radio,Pahang_Q35,A,B,C,D,B,Pahang/Picture35.png
-F5 Chp 5,radio,Penang_Q32,A,B,C,D,B,Penang/Picture32.png
-F5 Chp 5,radio,Penang_Q33,A,B,C,D,B,Penang/Picture33.png
-F5 Chp 5,radio,Penang_Q34,A,B,C,D,A,Penang/Picture34.png
-F5 Chp 5,radio,Perak_Q33,A,B,C,D,A,Perak/Picture33.png
-F5 Chp 5,radio,Perak_Q34,A,B,C,D,C,Perak/Picture34.png
-F5 Chp 5,radio,Perlis_Q33,A,B,C,D,B,Perlis/Picture33.png
-F5 Chp 5,radio,Perlis_Q34,A,B,C,D,A,Perlis/Picture34.png
-F5 Chp 5,radio,SelangorSet_Q32,A,B,C,D,C,Selangor Set 1/Picture32.png
-F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,B,Selangor Set 1/Picture33.png
-F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,C,Selangor Set 1/Picture34.png
-F5 Chp 5,radio,Terengganu_Q34,A,B,C,D,B,Terengganu/Picture34.png
-F5 Chp 5,radio,Terengganu_Q35,A,B,C,D,B,Terengganu/Picture35.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 5,radio,Johor_Q32,A,B,C,D,C,Johor/Picture32.png,"中文：普通股股东有权在股东大会投票。普通股股息不固定，也不会优先于优先股支付。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi dalam mesyuarat agung. Dividennya tidak tetap dan dibayar selepas hak dividen syer keutamaan dipenuhi."
+F5 Chp 5,radio,Johor_Q33,A,B,C,D,D,Johor/Picture33.png,"中文：有限公司的股东权益列示已发行并缴足的股本 Modal Diterbitkan dan Berbayar，而不是独资企业的期初或期末资本称呼。
+Bahasa Melayu: Ekuiti syarikat berhad menunjukkan modal syer diterbitkan dan berbayar, iaitu modal yang diterbitkan kepada pemegang saham dan telah dibayar."
+F5 Chp 5,radio,KL_Q31,A,B,C,D,A,KL/Picture31.png,"中文：按本题课本范围，公司章程说明公司的成立目的及股息支付方式，即 I、II。
+Bahasa Melayu: Dalam konteks buku teks soalan ini, Perlembagaan Syarikat menyatakan tujuan penubuhan syarikat dan cara pembayaran dividen, iaitu I dan II."
+F5 Chp 5,radio,KL_Q32,A,B,C,D,C,KL/Picture32.png,"中文：普通股资本 = 60,000 股 × RM1 = RM60,000。发行股份时把认购款转为股本：借记 Permohonan Syer Biasa，贷记 Modal Syer Biasa。
+Bahasa Melayu: Modal syer biasa = 60,000 unit × RM1 = RM60,000. Semasa penerbitan, debit Permohonan Syer Biasa dan kredit Modal Syer Biasa untuk memindahkan wang permohonan kepada modal."
+F5 Chp 5,radio,KL_Q33,A,B,C,D,B,KL/Picture33.png,"中文：全年优先股股息 = 300,000 × RM1 × 7% = RM21,000。按题目的半年中期股息安排，年终股息为余下半年：21,000 × 6/12 = RM10,500。
+Bahasa Melayu: Dividen syer keutamaan setahun = 300,000 × RM1 × 7% = RM21,000. Selepas dividen interim bagi separuh tahun, dividen akhir untuk baki enam bulan ialah RM21,000 × 6/12 = RM10,500."
+F5 Chp 5,radio,Kedah_Q33,A,B,C,D,D,Kedah/Picture33.png,"中文：普通股股东有股东大会投票权；固定股息和优先分红是优先股特点。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi dalam mesyuarat agung; dividen tetap dan keutamaan bayaran ialah ciri syer keutamaan."
+F5 Chp 5,radio,Kedah_Q34,A,B,C,D,C,Kedah/Picture34.png,"中文：优先股息 = 300,000 × 6% = RM18,000；普通股息余额 = 46,800 − 18,000 = RM28,800；股息率 = 28,800/90,000 × 100% = 32%。
+Bahasa Melayu: Dividen keutamaan = RM18,000. Baki untuk syer biasa = 46,800 − 18,000 = RM28,800; kadar = 28,800/90,000 × 100% = 32%."
+F5 Chp 5,radio,Kelantan_Q30,A,B,C,D,C,Kelantan/Picture30.png,"中文：普通股股东拥有股东大会投票权；固定或优先股息是优先股权利。
+Bahasa Melayu: Pemegang syer biasa mempunyai hak mengundi dalam mesyuarat agung, berbeza daripada hak dividen tetap syer keutamaan."
+F5 Chp 5,radio,Kelantan_Q33,A,B,C,D,D,Kelantan/Picture33.png,"中文：优先股息 = 4,000,000 × 6% = RM240,000；普通股息 = 1,000,000 × RM0.50 = RM500,000；合计 RM740,000。
+Bahasa Melayu: Dividen keutamaan RM240,000 + dividen biasa RM500,000 = RM740,000. RM0.50 dibaca sebagai 50 sen sesyer."
+F5 Chp 5,radio,MRSM_Q34,A,B,C,D,B,MRSM/Picture34.png,"中文：需筹股款 = 2,000,000 × RM1.50 = RM3,000,000；已收 RM2,300,000，承销商补足 RM700,000。借记银行，贷记普通股申请账户 RM700,000。
+Bahasa Melayu: Nilai terbitan = 2,000,000 × RM1.50 = RM3,000,000. Kurangan langganan = RM3,000,000 − RM2,300,000 = RM700,000. Debit Bank dan kredit Permohonan Syer Biasa RM700,000."
+F5 Chp 5,radio,MRSM_Q35,A,B,C,D,D,MRSM/Picture35.png,"中文：优先股股息 = 400,000 × RM1 × 8% = RM32,000；普通股股息按每股 4 sen 算：150,000 × RM0.04 = RM6,000。共 RM38,000。
+Bahasa Melayu: Dividen keutamaan = 400,000 × RM1 × 8% = RM32,000. Dividen biasa = 150,000 × RM0.04 = RM6,000. Jumlah dividen = RM38,000."
+F5 Chp 5,radio,Melaka_Q32,A,B,C,D,D,Melaka/Picture32.png,"中文：出租球场收到款项是俱乐部现金收入；报刊、保险和文具是付款项目。
+Bahasa Melayu: Sewaan gelanggang ialah penerimaan tunai kelab; surat khabar, insurans dan alat tulis ialah pembayaran."
+F5 Chp 5,radio,Melaka_Q33,A,B,C,D,B,Melaka/Picture33.png,"中文：会费收入 = 9,950 − 350 + 250 + 100 − 150 + 100 = RM9,900；坏会费另列费用，所以不能把它当成本年现金收入减少。
+Bahasa Melayu: Yuran = 9,950 − 350 + 250 + 100 − 150 + 100 = RM9,900. Yuran lapuk diasingkan sebagai belanja."
+F5 Chp 5,radio,Melaka_Q34,A,B,C,D,C,Melaka/Picture34.png,"中文：售货成本 = 43,500 − 12,200 = RM31,300；咖啡厅盈利 = 78,500 − 31,300 − 4,500 = RM42,700。
+Bahasa Melayu: Kos jualan = 43,500 − 12,200 = RM31,300. Untung kafeteria = 78,500 − 31,300 − 4,500 = RM42,700."
+F5 Chp 5,radio,NegeriSembilan_Q26,A,B,C,D,B,Negeri Sembilan/Picture26.png,"中文：现金簿把收款多记 3,420 − 3,240 = RM180；在银行栏贷记 RM180，减少多记银行余额。
+Bahasa Melayu: Penerimaan terlebih RM180; kredit Buku Tunai RM180 untuk mengurangkan baki bank."
+F5 Chp 5,radio,NegeriSembilan_Q34,A,B,C,D,D,Negeri Sembilan/Picture34.png,"中文：缴足资本 = 300,000 × 1.50 + 100,000 × 2.00 = RM650,000，股息率不计入资本。
+Bahasa Melayu: Modal berbayar penuh = 300,000 × 1.50 + 100,000 × 2.00 = RM650,000."
+F5 Chp 5,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png,"中文：有限公司由董事会管理，股东通过持股提供资本，并承担有限责任。
+Bahasa Melayu: Syarikat berhad diuruskan oleh Ahli Lembaga Pengarah dan dimiliki oleh pemegang syer dengan liabiliti terhad."
+F5 Chp 5,radio,Pahang_Q34,A,B,C,D,C,Pahang/Picture34.png,"中文：附固定 8% 股息的股类为优先股，普通股通常没有固定股息率。
+Bahasa Melayu: Syer dengan kadar dividen tetap 8% ialah syer keutamaan."
+F5 Chp 5,radio,Pahang_Q35,A,B,C,D,B,Pahang/Picture35.png,"中文：普通股资本 = 200,000 × RM1 = RM200,000；股息率 = 30,000/200,000 × 100% = 15%。
+Bahasa Melayu: Kadar dividen biasa = 30,000/(200,000 × RM1) × 100% = 15%."
+F5 Chp 5,radio,Penang_Q32,A,B,C,D,B,Penang/Picture32.png,"中文：合伙人死亡或合伙企业转换为有限公司，均可导致原合伙解散。I、IV 正确。
+Bahasa Melayu: Kematian pekongsi atau pertukaran kepada syarikat berhad boleh membubarkan perkongsian; I dan IV betul."
+F5 Chp 5,radio,Penang_Q33,A,B,C,D,B,Penang/Picture33.png,"中文：清算亏损 = 56,000 + 500 − 50,000 = RM6,500；正常偿还原负债不另造成清算亏损。
+Bahasa Melayu: Rugi realisasi = 56,000 + 500 − 50,000 = RM6,500; pembayaran liabiliti asal tidak ditambah sebagai rugi."
+F5 Chp 5,radio,Penang_Q34,A,B,C,D,A,Penang/Picture34.png,"中文：普通股股东可在股东大会投票，其股息不保证固定。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi dalam mesyuarat agung; kadar dividennya tidak tetap."
+F5 Chp 5,radio,Perak_Q33,A,B,C,D,A,Perak/Picture33.png,"中文：银行直接代扣款项可能尚未记入企业现金簿，产生差额；需在现金簿补记。
+Bahasa Melayu: Pindahan debit dilakukan bank dan mungkin belum direkod dalam Buku Tunai, maka perlu dikemas kini."
+F5 Chp 5,radio,Perak_Q34,A,B,C,D,C,Perak/Picture34.png,"中文：实际销售超过预算、实际原材料购入支出低于预算是有利差异，II、IV 正确。
+Bahasa Melayu: Jualan sebenar melebihi anggaran dan bayaran bahan mentah kurang daripada anggaran menunjukkan prestasi memuaskan; II dan IV betul."
+F5 Chp 5,radio,Perlis_Q33,A,B,C,D,B,Perlis/Picture33.png,"中文：优先股息 = 200,000 × RM2 × 6% = RM24,000；普通股息 = 46,800 − 24,000 = RM22,800。
+Bahasa Melayu: Dividen biasa = 46,800 − (200,000 × RM2 × 6%) = RM22,800."
+F5 Chp 5,radio,Perlis_Q34,A,B,C,D,A,Perlis/Picture34.png,"中文：俱乐部的主要宗旨是会员福利和服务，不是以盈利为目标。
+Bahasa Melayu: Kelab menjaga kepentingan ahli dan menyediakan perkhidmatan, bukan berorientasikan keuntungan."
+F5 Chp 5,radio,SelangorSet_Q32,A,B,C,D,C,Selangor Set 1/Picture32.png,"中文：普通股拥有股东大会投票权，其股息率不固定，也不优先支付。
+Bahasa Melayu: Syer biasa memberi hak mengundi dalam mesyuarat agung tanpa kadar dividen tetap."
+F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,B,Selangor Set 1/Picture33.png,"中文：优先股数量 = 资本 RM1,200,000/每股 RM1.50 = 800,000 股。
+Bahasa Melayu: Bilangan syer keutamaan = 1,200,000/1.50 = 800,000 unit."
+F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,C,Selangor Set 1/Picture34.png,"中文：优先股息 = 1,000,000 × 8% = RM80,000；普通股息 = 960,000 × 10% = RM96,000，总额 RM176,000。
+Bahasa Melayu: Jumlah dividen = 1,000,000 × 8% + 960,000 × 10% = RM176,000."
+F5 Chp 5,radio,Terengganu_Q34,A,B,C,D,B,Terengganu/Picture34.png,"中文：普通股股息随利润及董事会决定变化，没有固定保证股息率。
+Bahasa Melayu: Kadar dividen syer biasa bergantung pada keuntungan dan keputusan syarikat, bukannya kadar tetap."
+F5 Chp 5,radio,Terengganu_Q35,A,B,C,D,B,Terengganu/Picture35.png,"中文：普通股年终股息 = 普通股资本 400,000 × 10% = RM40,000，不包括优先股息。
+Bahasa Melayu: Dividen akhir syer biasa = RM400,000 × 10% = RM40,000."
