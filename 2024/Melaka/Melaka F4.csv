@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：管理会计为内部管理层提供计划、控制及生产决策资料。
+Bahasa Melayu: Perakaunan pengurusan membekalkan maklumat untuk perancangan, kawalan dan pengurusan pengeluaran dalaman."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：尚未付的本期工资也确认为费用，符合收入与费用确认原则。
+Bahasa Melayu: Gaji belum bayar turut diiktiraf sebagai belanja semasa mengikut prinsip pengiktirafan hasil dan belanja."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：专业合伙如诊所有2–50人，承担无限责任，按协议分配利润。
+Bahasa Melayu: Perkongsian profesional seperti klinik boleh mempunyai 2–50 pekongsi, liabiliti tidak terhad dan pembahagian untung menurut perjanjian."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：出售自用家具的利润不是鞋店主要销售活动收入，属于非营业收入。
+Bahasa Melayu: Untung jualan perabot bukan hasil aktiviti utama jualan kasut, maka merupakan hasil bukan operasi."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：银行减少350、债务减少400；获得折扣50增加利润及权益。
+Bahasa Melayu: Bank berkurang 350, hutang berkurang 400; diskaun diterima 50 menambah keuntungan dan ekuiti."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：额外运输费增加客户欠款，发借项通知单；卖方留存副本入账。
+Bahasa Melayu: Caj pengangkutan menambah hutang pelanggan; penjual mengeluarkan Nota Debit dan menyimpan salinan untuk rekod."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：发票表示赊购或赊销，尚无现金流，不能直接记现金簿。
+Bahasa Melayu: Invois merekod urus niaga kredit tanpa aliran tunai, maka tidak direkod terus dalam Buku Tunai."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：现金收入日记簿记录实际收到的现金，包括商品现金销售。
+Bahasa Melayu: Jurnal Penerimaan Tunai merekod penerimaan tunai, termasuk jualan barang niaga secara tunai."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：题目把商品捐赠视为企业费用，借记捐款450、贷记购货450。
+Bahasa Melayu: Barang niaga didermakan sebagai belanja perniagaan: debit Derma 450 dan kredit Belian 450."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：Sarah 的支票退票，须取消原收款，现金簿银行栏贷记并恢复客户欠款。
+Bahasa Melayu: Cek Sarah dibatalkan; kredit bank untuk membatalkan penerimaan dan pulihkan hutang pelanggan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：购买邮票是小额日常支出，可由零用现金支付。
+Bahasa Melayu: Pembelian setem ialah pembayaran kecil harian yang sesuai direkod dalam Buku Tunai Runcit."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：净利增加企业资本；毛利尚未扣除其他费用，不能直接当资本增加。
+Bahasa Melayu: Untung bersih menambah modal; untung kasar belum mengambil kira semua belanja."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：用于促销的商品是企业推广费用：借记促销、贷记购货。
+Bahasa Melayu: Barang niaga untuk promosi direkod debit Promosi dan kredit Belian, bukan ambilan peribadi."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：向客户征收利息增加欠款，记应收账款控制账户借方。
+Bahasa Melayu: Faedah dikenakan kepada pelanggan menambah hutangnya dan didebitkan dalam Akaun Kawalan Belum Terima."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：试算表借方可列销售退回，贷方可列坏账收回收入，对应 C。
+Bahasa Melayu: Pulangan jualan berbaki debit dan hutang lapuk terpulih berbaki kredit, seperti pilihan C."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：购货退回期末转入交易账户，用来减少净购货。
+Bahasa Melayu: Pulangan belian dipindahkan ke Akaun Perdagangan pada akhir tempoh untuk mengurangkan belian bersih."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：应计制把已赚取但尚未收款的收入计入本期收益。
+Bahasa Melayu: Asas akruan mengiktiraf hasil belum terima sebagai hasil tempoh semasa."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：应计费用是本期已发生但未支付的费用，须在本期确认，并列为流动负债。
+Bahasa Melayu: Belanja belum bayar ialah belanja semasa yang masih belum dibayar; diiktiraf pada tempoh semasa sebagai liabiliti semasa."
+,radio,F4 Bab 8,A,B,C,D,D,Picture19.png,"中文：坏账估计费用只计准备增加额：276 − 172 = RM104。
+Bahasa Melayu: Hutang ragu dalam untung rugi ialah pertambahan PHR: 276 − 172 = RM104."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：已收支票尚未存入银行是时间差，只作银行调节；不用再次更新收款。
+Bahasa Melayu: Cek diterima belum didepositkan ialah perbezaan masa untuk penyesuaian bank, bukan catatan baharu Buku Tunai."
+,radio,F4 Bab 9,A,B,C,D,C,Picture21.png,"中文：出售资产亏损是费用记损益借方，盈利是收入记贷方。
+Bahasa Melayu: Rugi pelupusan didebitkan dan untung pelupusan dikreditkan dalam Akaun Untung Rugi."

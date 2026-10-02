@@ -1,81 +1,161 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 1/Picture15.png
-F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,A,Johor Set 1/Picture16.png
-F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,A,Johor Set 1/Picture17.png
-F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,B,Johor Set 1/Picture18.png
-F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,A,Johor Set 1/Picture19.png
-F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 2/Picture15.png
-F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,D,Johor Set 2/Picture16.png
-F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,B,Johor Set 2/Picture17.png
-F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,A,Johor Set 2/Picture18.png
-F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 2/Picture19.png
-F4 Chp 8,radio,Kedah_Q15,A,B,C,D,B,Kedah/Picture15.png
-F4 Chp 8,radio,Kedah_Q16,A,B,C,D,D,Kedah/Picture16.png
-F4 Chp 8,radio,Kedah_Q17,A,B,C,D,A,Kedah/Picture17.png
-F4 Chp 8,radio,Kedah_Q18,A,B,C,D,C,Kedah/Picture18.png
-F4 Chp 8,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png
-F4 Chp 8,radio,Kelantan_Q15,A,B,C,D,D,Kelantan/Picture15.png
-F4 Chp 8,radio,Kelantan_Q16,A,B,C,D,A,Kelantan/Picture16.png
-F4 Chp 8,radio,Kelantan_Q17,A,B,C,D,B,Kelantan/Picture17.png
-F4 Chp 8,radio,Kelantan_Q18,A,B,C,D,B,Kelantan/Picture18.png
-F4 Chp 8,radio,Kelantan_Q19,A,B,C,D,D,Kelantan/Picture19.png
-F4 Chp 8,radio,Kl_Q15,A,B,C,D,D,KL/Picture15.png
-F4 Chp 8,radio,Kl_Q16,A,B,C,D,B,KL/Picture16.png
-F4 Chp 8,radio,Kl_Q17,A,B,C,D,A,KL/Picture17.png
-F4 Chp 8,radio,Kl_Q18,A,B,C,D,C,KL/Picture18.png
-F4 Chp 8,radio,Kl_Q19,A,B,C,D,A,KL/Picture19.png
-F4 Chp 8,radio,Melaka_Q15,A,B,C,D,C,Melaka/Picture15.png
-F4 Chp 8,radio,Melaka_Q16,A,B,C,D,B,Melaka/Picture16.png
-F4 Chp 8,radio,Melaka_Q17,A,B,C,D,B,Melaka/Picture17.png
-F4 Chp 8,radio,Melaka_Q18,A,B,C,D,C,Melaka/Picture18.png
-F4 Chp 8,radio,Melaka_Q19,A,B,C,D,D,Melaka/Picture19.png
-F4 Chp 8,radio,Mrsm_Q15,A,B,C,D,D,MRSM/Picture15.png
-F4 Chp 8,radio,Mrsm_Q16,A,B,C,D,C,MRSM/Picture16.png
-F4 Chp 8,radio,Mrsm_Q17,A,B,C,D,B,MRSM/Picture17.png
-F4 Chp 8,radio,Mrsm_Q18,A,B,C,D,C,MRSM/Picture18.png
-F4 Chp 8,radio,Mrsm_Q19,A,B,C,D,B,MRSM/Picture19.png
-F4 Chp 8,radio,NegeriSembilan_Q15,A,B,C,D,B,Negeri Sembilan/Picture15.png
-F4 Chp 8,radio,NegeriSembilan_Q16,A,B,C,D,D,Negeri Sembilan/Picture16.png
-F4 Chp 8,radio,NegeriSembilan_Q17,A,B,C,D,B,Negeri Sembilan/Picture17.png
-F4 Chp 8,radio,NegeriSembilan_Q18,A,B,C,D,C,Negeri Sembilan/Picture18.png
-F4 Chp 8,radio,NegeriSembilan_Q19,A,B,C,D,C,Negeri Sembilan/Picture19.png
-F4 Chp 8,radio,Pahang_Q15,A,B,C,D,C,Pahang/Picture15.png
-F4 Chp 8,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png
-F4 Chp 8,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png
-F4 Chp 8,radio,Pahang_Q18,A,B,C,D,A,Pahang/Picture18.png
-F4 Chp 8,radio,Pahang_Q19,A,B,C,D,B,Pahang/Picture19.png
-F4 Chp 8,radio,PenangPpdBaratDaya_Q15,A,B,C,D,B,Penang PPD Barat Daya/Picture15.png
-F4 Chp 8,radio,PenangPpdBaratDaya_Q16,A,B,C,D,D,Penang PPD Barat Daya/Picture16.png
-F4 Chp 8,radio,PenangPpdBaratDaya_Q17,A,B,C,D,A,Penang PPD Barat Daya/Picture17.png
-F4 Chp 8,radio,PenangPpdBaratDaya_Q18,A,B,C,D,A,Penang PPD Barat Daya/Picture18.png
-F4 Chp 8,radio,PenangPpdBaratDaya_Q19,A,B,C,D,B,Penang PPD Barat Daya/Picture19.png
-F4 Chp 8,radio,Perak_Q15,A,B,C,D,C,Perak/Picture15.png
-F4 Chp 8,radio,Perak_Q16,A,B,C,D,C,Perak/Picture16.png
-F4 Chp 8,radio,Perak_Q17,A,B,C,D,B,Perak/Picture17.png
-F4 Chp 8,radio,Perak_Q18,A,B,C,D,D,Perak/Picture18.png
-F4 Chp 8,radio,Perak_Q19,A,B,C,D,A,Perak/Picture19.png
-F4 Chp 8,radio,Perlis_Q15,A,B,C,D,A,Perlis/Picture15.png
-F4 Chp 8,radio,Perlis_Q16,A,B,C,D,C,Perlis/Picture16.png
-F4 Chp 8,radio,Perlis_Q17,A,B,C,D,C,Perlis/Picture17.png
-F4 Chp 8,radio,Perlis_Q18,A,B,C,D,A,Perlis/Picture18.png
-F4 Chp 8,radio,Perlis_Q19,A,B,C,D,C,Perlis/Picture19.png
-F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,A,Selangor Set 1/Picture15.png
-F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 1/Picture16.png
-F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,D,Selangor Set 1/Picture17.png
-F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,C,Selangor Set 1/Picture18.png
-F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,C,Selangor Set 1/Picture19.png
-F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,B,Selangor Set 2/Picture15.png
-F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 2/Picture16.png
-F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,A,Selangor Set 2/Picture17.png
-F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,B,Selangor Set 2/Picture18.png
-F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,D,Selangor Set 2/Picture19.png
-F4 Chp 8,radio,Smka_Q15,A,B,C,D,B,SMKA/Picture15.png
-F4 Chp 8,radio,Smka_Q16,A,B,C,D,A,SMKA/Picture16.png
-F4 Chp 8,radio,Smka_Q17,A,B,C,D,A,SMKA/Picture17.png
-F4 Chp 8,radio,Smka_Q18,A,B,C,D,C,SMKA/Picture18.png
-F4 Chp 8,radio,Smka_Q19,A,B,C,D,A,SMKA/Picture19.png
-F4 Chp 8,radio,Terengganu_Q15,A,B,C,D,C,Terengganu/Picture15.png
-F4 Chp 8,radio,Terengganu_Q16,A,B,C,D,B,Terengganu/Picture16.png
-F4 Chp 8,radio,Terengganu_Q17,A,B,C,D,D,Terengganu/Picture17.png
-F4 Chp 8,radio,Terengganu_Q18,A,B,C,D,D,Terengganu/Picture18.png
-F4 Chp 8,radio,Terengganu_Q19,A,B,C,D,C,Terengganu/Picture19.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 1/Picture15.png,"中文：现金备用金列借方；购货退回属于贷方余额，符合 C 的 P、Q 配对。
+Bahasa Melayu: Tunai runcit berbaki debit dan pulangan keluar berbaki kredit; padanan C betul."
+F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,A,Johor Set 1/Picture16.png,"中文：期末存货越低，销货成本越高，毛利越低。
+Bahasa Melayu: Inventori akhir rendah meningkatkan kos jualan dan mengurangkan untung kasar."
+F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,A,Johor Set 1/Picture17.png,"中文：交易账户用销售净额减销货成本，确定毛利或毛亏。
+Bahasa Melayu: Akaun Perdagangan menentukan untung atau rugi kasar daripada jualan bersih ditolak kos jualan."
+F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,B,Johor Set 1/Picture18.png,"中文：非营业收入转入损益账户，销售净额转入交易账户，I、IV 正确。
+Bahasa Melayu: Hasil dipindahkan ke Untung Rugi dan jualan bersih ke Perdagangan, iaitu I dan IV."
+F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,A,Johor Set 1/Picture19.png,"中文：漏记保险支票付款需补记：借记保险、贷记银行 RM2,760。
+Bahasa Melayu: Debit Insurans dan kredit Bank RM2,760 untuk merekod pembayaran yang tertinggal."
+F4 Chp 8,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 2/Picture15.png,"中文：试算表测试借贷总额是否相等，帮助检查双重记录；仍可能存在不影响平衡的错误。
+Bahasa Melayu: Imbangan Duga menguji keseimbangan catatan bergu, tetapi tidak mengesan semua kesilapan tidak ketara."
+F4 Chp 8,radio,JohorSet_Q16,A,B,C,D,D,Johor Set 2/Picture16.png,"中文：期末存货结账：借记存货、贷记交易账户，降低本期销货成本。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir, mengurangkan kos jualan."
+F4 Chp 8,radio,JohorSet_Q17,A,B,C,D,B,Johor Set 2/Picture17.png,"中文：可供销售货品成本包括期初存货、购货及购货附加费用，如进口税和购货保险，即 I、IV。
+Bahasa Melayu: Kos barang untuk dijual merangkumi inventori awal, belian dan kos belian seperti duti import atau insurans; I dan IV."
+F4 Chp 8,radio,JohorSet_Q18,A,B,C,D,A,Johor Set 2/Picture18.png,"中文：销售贷方余额 RM12,200 以借记销售、贷记交易账户的方式结转。
+Bahasa Melayu: Debit Akaun Jualan dan kredit Perdagangan RM12,200 untuk menutup baki jualan."
+F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 2/Picture19.png,"中文：未收利息是应计收入及流动资产，属借方余额。
+Bahasa Melayu: Faedah belum terima ialah hasil terakru dan aset semasa berbaki debit."
+F4 Chp 8,radio,Kedah_Q15,A,B,C,D,B,Kedah/Picture15.png,"中文：毛利 = (45,000 − 1,500) − (27,500 − 1,890) = RM17,890；保险属于净利计算。
+Bahasa Melayu: Untung kasar = (45,000 − 1,500) − (27,500 − 1,890) = RM17,890. Insurans ialah belanja untung rugi."
+F4 Chp 8,radio,Kedah_Q16,A,B,C,D,D,Kedah/Picture16.png,"中文：坏账准备是预计无法收回的欠款，尚未确认必须注销。
+Bahasa Melayu: Peruntukan hutang ragu ialah anggaran hutang yang mungkin tidak dapat dikutip, bukan hutang yang telah dihapus kira."
+F4 Chp 8,radio,Kedah_Q17,A,B,C,D,A,Kedah/Picture17.png,"中文：客户破产或失踪无法追踪，会令债款无法收回；旅行本身不构成坏账。
+Bahasa Melayu: Pelanggan muflis atau hilang tanpa dapat dikesan boleh menyebabkan hutang lapuk; melancong sahaja bukan sebab hutang lapuk."
+F4 Chp 8,radio,Kedah_Q18,A,B,C,D,C,Kedah/Picture18.png,"中文：本期水电费 = 已付2,500 + 期初预付600 − 期末预付400 = RM2,700。
+Bahasa Melayu: Belanja utiliti = bayaran 2,500 + prabayar awal 600 − prabayar akhir 400 = RM2,700."
+F4 Chp 8,radio,Kedah_Q19,A,B,C,D,B,Kedah/Picture19.png,"中文：2023折旧6,700；2024半年折旧60,300 × 10% × 6/12 = 3,015；累计折旧 = RM9,715。
+Bahasa Melayu: Susut nilai 2023 ialah 6,700; enam bulan 2024 ialah 60,300 × 10% × 6/12 = 3,015. Jumlah terkumpul RM9,715."
+F4 Chp 8,radio,Kelantan_Q15,A,B,C,D,D,Kelantan/Picture15.png,"中文：期末坏账准备 = 15,600 × 2% = RM312；题内坏账已入试算表，不再次扣除。
+Bahasa Melayu: PHR akhir = 15,600 × 2% = RM312. Hutang lapuk dalam Imbangan Duga telah direkod dan tidak ditolak semula."
+F4 Chp 8,radio,Kelantan_Q16,A,B,C,D,A,Kelantan/Picture16.png,"中文：直线折旧 = (85,000 − 残值5,000) ÷ 10年 = RM8,000。
+Bahasa Melayu: Susut nilai tahunan = (85,000 − nilai skrap 5,000) ÷ 10 tahun = RM8,000."
+F4 Chp 8,radio,Kelantan_Q17,A,B,C,D,B,Kelantan/Picture17.png,"中文：本期折旧 = (12,500 − 2,500) × 20% = 2,000；账面净值8,000，售价8,700，盈利RM700。
+Bahasa Melayu: Susut nilai semasa = (12,500 − 2,500) × 20% = 2,000; nilai buku 8,000. Jualan 8,700 memberi untung RM700."
+F4 Chp 8,radio,Kelantan_Q18,A,B,C,D,B,Kelantan/Picture18.png,"中文：新设坏账准备时，借记坏账估计费用，贷记坏账准备减项账户。
+Bahasa Melayu: PHR diwujudkan dengan debit Hutang Ragu sebagai belanja dan kredit Peruntukan Hutang Ragu."
+F4 Chp 8,radio,Kelantan_Q19,A,B,C,D,D,Kelantan/Picture19.png,"中文：收租5,850超过本年赚取5,400，差额RM450属于预收租金负债。
+Bahasa Melayu: Sewa diterima 5,850 melebihi hasil tahunan 5,400; RM450 ialah sewa belum terperoleh, suatu liabiliti."
+F4 Chp 8,radio,Kl_Q15,A,B,C,D,D,KL/Picture15.png,"中文：收租收入的正常余额在贷方，符合试算表的 F 位置。
+Bahasa Melayu: Sewa diterima mempunyai baki kredit dan sesuai dengan kedudukan F dalam Imbangan Duga."
+F4 Chp 8,radio,Kl_Q16,A,B,C,D,B,KL/Picture16.png,"中文：客户以银行付款，借记银行700，贷记 Sabrina 账户700以减少欠款。
+Bahasa Melayu: Penerimaan bank daripada pelanggan: debit Bank 700, kredit Sabrina 700 untuk mengurangkan hutangnya."
+F4 Chp 8,radio,Kl_Q17,A,B,C,D,A,KL/Picture17.png,"中文：赊销 = 12,630 + 730 + 5,280 − 5,210 = 13,430；预计收回60%为RM8,058。
+Bahasa Melayu: Jualan kredit = 12,630 + 730 + 5,280 − 5,210 = 13,430; kutipan 60% ialah RM8,058."
+F4 Chp 8,radio,Kl_Q18,A,B,C,D,C,KL/Picture18.png,"中文：原卷说明4月1日支付全年保险RM4,800，到12月31日用了9个月；本期费用 = 4,800 × 9/12 = RM3,600，余1,200预付。
+Bahasa Melayu: Kertas asal menyatakan insurans tahunan RM4,800 dibayar pada 1 April; belanja sembilan bulan = 4,800 × 9/12 = RM3,600, baki prabayar RM1,200."
+F4 Chp 8,radio,Kl_Q19,A,B,C,D,A,KL/Picture19.png,"中文：赊销增加客户欠款与销售收入：借记 Toh Trading，贷记 Jualan。
+Bahasa Melayu: Jualan kredit direkod debit Toh Trading dan kredit Jualan."
+F4 Chp 8,radio,Melaka_Q15,A,B,C,D,C,Melaka/Picture15.png,"中文：试算表借方可列销售退回，贷方可列坏账收回收入，对应 C。
+Bahasa Melayu: Pulangan jualan berbaki debit dan hutang lapuk terpulih berbaki kredit, seperti pilihan C."
+F4 Chp 8,radio,Melaka_Q16,A,B,C,D,B,Melaka/Picture16.png,"中文：购货退回期末转入交易账户，用来减少净购货。
+Bahasa Melayu: Pulangan belian dipindahkan ke Akaun Perdagangan pada akhir tempoh untuk mengurangkan belian bersih."
+F4 Chp 8,radio,Melaka_Q17,A,B,C,D,B,Melaka/Picture17.png,"中文：应计制把已赚取但尚未收款的收入计入本期收益。
+Bahasa Melayu: Asas akruan mengiktiraf hasil belum terima sebagai hasil tempoh semasa."
+F4 Chp 8,radio,Melaka_Q18,A,B,C,D,C,Melaka/Picture18.png,"中文：应计费用是本期已发生但未支付的费用，须在本期确认，并列为流动负债。
+Bahasa Melayu: Belanja belum bayar ialah belanja semasa yang masih belum dibayar; diiktiraf pada tempoh semasa sebagai liabiliti semasa."
+F4 Chp 8,radio,Melaka_Q19,A,B,C,D,D,Melaka/Picture19.png,"中文：坏账估计费用只计准备增加额：276 − 172 = RM104。
+Bahasa Melayu: Hutang ragu dalam untung rugi ialah pertambahan PHR: 276 − 172 = RM104."
+F4 Chp 8,radio,Mrsm_Q15,A,B,C,D,D,MRSM/Picture15.png,"中文：期末预收佣金 = 期初730 + 本年实收5,400 − 本年收入5,000 = RM1,130，列流动负债。
+Bahasa Melayu: Komisen belum terperoleh akhir = 730 + 5,400 − 5,000 = RM1,130, liabiliti semasa."
+F4 Chp 8,radio,Mrsm_Q16,A,B,C,D,C,MRSM/Picture16.png,"中文：门牌税费用 = 已付200 + 期末欠150 − 期初欠50 = RM300。
+Bahasa Melayu: Belanja cukai pintu = bayaran 200 + belum bayar akhir 150 − awal 50 = RM300."
+F4 Chp 8,radio,Mrsm_Q17,A,B,C,D,B,MRSM/Picture17.png,"中文：坏账是已确定无法收回的债务；预计不能收回则称坏账估计。
+Bahasa Melayu: Hutang lapuk ialah hutang yang pasti tidak dapat dikutip, berbeza daripada anggaran hutang ragu."
+F4 Chp 8,radio,Mrsm_Q18,A,B,C,D,C,MRSM/Picture18.png,"中文：期末准备 = (60,000 − 800) × 5% = 2,960；增加额 = 2,960 − 1,900 = RM1,060。
+Bahasa Melayu: PHR akhir = (60,000 − 800) × 5% = 2,960; pertambahan = 2,960 − 1,900 = RM1,060."
+F4 Chp 8,radio,Mrsm_Q19,A,B,C,D,B,MRSM/Picture19.png,"中文：展示架A全年折旧1,200；B五个月6,000 × 10% × 5/12 = 250；共RM1,450。
+Bahasa Melayu: Rak A disusut nilai 1,200 setahun; rak B 6,000 × 10% × 5/12 = 250; jumlah RM1,450."
+F4 Chp 8,radio,NegeriSembilan_Q15,A,B,C,D,B,Negeri Sembilan/Picture15.png,"中文：递减余额折旧 = (20,000 − 1,600) × 10% = RM1,840。
+Bahasa Melayu: Susut nilai baki berkurangan = (20,000 − 1,600) × 10% = RM1,840."
+F4 Chp 8,radio,NegeriSembilan_Q16,A,B,C,D,D,Negeri Sembilan/Picture16.png,"中文：已用文具费用420 − 100 = 320；未用100列存货资产。
+Bahasa Melayu: Belanja alat tulis = 420 − 100 = 320; baki belum digunakan RM100 ialah inventori aset."
+F4 Chp 8,radio,NegeriSembilan_Q17,A,B,C,D,B,Negeri Sembilan/Picture17.png,"中文：期末欠薪 = 期初1,500 + 本期费用6,000 − 已付4,500 = RM3,000。
+Bahasa Melayu: Gaji belum bayar akhir = 1,500 + 6,000 − 4,500 = RM3,000."
+F4 Chp 8,radio,NegeriSembilan_Q18,A,B,C,D,C,Negeri Sembilan/Picture18.png,"中文：家具与现金各多记2,700，补借记现金、贷记家具各RM2,700。
+Bahasa Melayu: Amaun terlebih catat 2,700 dibetulkan dengan debit Tunai dan kredit Perabot RM2,700."
+F4 Chp 8,radio,NegeriSembilan_Q19,A,B,C,D,C,Negeri Sembilan/Picture19.png,"中文：企业自用设备误记购货费用，混淆资本与收益支出，属于原则错误。
+Bahasa Melayu: Lengkapan tersalah direkod sebagai Belian ialah kesilapan prinsip antara perbelanjaan modal dan hasil."
+F4 Chp 8,radio,Pahang_Q15,A,B,C,D,C,Pahang/Picture15.png,"中文：企业自用家具增加资产，借记家具；由私人款支付则贷记资本。
+Bahasa Melayu: Perabot kegunaan perniagaan didebitkan; wang peribadi pemilik menyebabkan Modal dikreditkan."
+F4 Chp 8,radio,Pahang_Q16,A,B,C,D,A,Pahang/Picture16.png,"中文：赊销 = 期末5,580 + 收款8,500 + 对销500 − 期初7,070 − 退票2,350 = RM5,160。
+Bahasa Melayu: Jualan kredit = 5,580 + 8,500 + kontra 500 − 7,070 − cek tak layan 2,350 = RM5,160."
+F4 Chp 8,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png,"中文：购货退回是贷方RM380；折扣给予是借方费用RM170。
+Bahasa Melayu: Pulangan belian berbaki kredit RM380; diskaun diberi berbaki debit RM170."
+F4 Chp 8,radio,Pahang_Q18,A,B,C,D,A,Pahang/Picture18.png,"中文：逐项取成本和市价较低值：4,500 + 2,980 + 5,210 + 8,200 = RM20,890。
+Bahasa Melayu: Inventori pada nilai terendah setiap item: 4,500 + 2,980 + 5,210 + 8,200 = RM20,890."
+F4 Chp 8,radio,Pahang_Q19,A,B,C,D,B,Pahang/Picture19.png,"中文：工资与贷款利息都是费用，列损益借方；租金及坏账收回是收入。
+Bahasa Melayu: Gaji dan faedah pinjaman ialah belanja debit; sewa diterima dan hutang lapuk terpulih ialah hasil kredit."
+F4 Chp 8,radio,PenangPpdBaratDaya_Q15,A,B,C,D,B,Penang PPD Barat Daya/Picture15.png,"中文：赊销 = 期末应收 + 收款 − 期初应收 = 5,364 + 2,480 − 3,680 = RM4,164；坏账准备不直接代入。
+Bahasa Melayu: Jualan kredit = ABT akhir + kutipan − ABT awal = 5,364 + 2,480 − 3,680 = RM4,164; peruntukan hutang ragu tidak dimasukkan."
+F4 Chp 8,radio,PenangPpdBaratDaya_Q16,A,B,C,D,D,Penang PPD Barat Daya/Picture16.png,"中文：遗漏交易的其中一边分录，使借方与贷方总额不同，试算表能发现；佣金、整笔倒置及两边相同的原始记录错误仍可平衡。
+Bahasa Melayu: Ketinggalan satu catatan menyebabkan jumlah debit dan kredit tidak sama. Kesilapan komisen, catatan terbalik lengkap dan kesilapan catatan asal yang sama pada kedua-dua akaun tidak menjejaskan imbangan."
+F4 Chp 8,radio,PenangPpdBaratDaya_Q17,A,B,C,D,A,Penang PPD Barat Daya/Picture17.png,"中文：定期存款利息是收入，正常余额在贷方；贷款利息及运出费是费用，存款本金是资产。
+Bahasa Melayu: Faedah simpanan tetap ialah hasil berbaki kredit; faedah pinjaman dan angkutan keluar ialah belanja, manakala simpanan tetap ialah aset."
+F4 Chp 8,radio,PenangPpdBaratDaya_Q18,A,B,C,D,A,Penang PPD Barat Daya/Picture18.png,"中文：各项存货按成本与市价较低者计量：177 + 700 + 120 + 162 = RM1,159。
+Bahasa Melayu: Inventori dinilai pada kos atau harga pasaran yang lebih rendah bagi setiap barang: 177 + 700 + 120 + 162 = RM1,159."
+F4 Chp 8,radio,PenangPpdBaratDaya_Q19,A,B,C,D,B,Penang PPD Barat Daya/Picture19.png,"中文：销货成本 = 4,640 + 19,440 − 880 + 720 − 5,560 = RM18,360；销货退回不会直接改变此算式。
+Bahasa Melayu: Kos jualan = 4,640 + 19,440 − 880 + 720 − 5,560 = RM18,360; pulangan masuk tidak dimasukkan dalam rumus ini."
+F4 Chp 8,radio,Perak_Q15,A,B,C,D,C,Perak/Picture15.png,"中文：业主权益 = 总资产 − 总负债 = 20,000 + 13,960 − 12,000 − 1,160 = RM20,800。
+Bahasa Melayu: Ekuiti pemilik = jumlah aset − jumlah liabiliti = 20,000 + 13,960 − 12,000 − 1,160 = RM20,800."
+F4 Chp 8,radio,Perak_Q16,A,B,C,D,C,Perak/Picture16.png,"中文：本年费率费用 = 付款 4,350 − 上年应付 700 + 年末应付 540 = RM4,190。
+Bahasa Melayu: Kadar bayaran tahun semasa = 4,350 − 700 + 540 = RM4,190."
+F4 Chp 8,radio,Perak_Q17,A,B,C,D,B,Perak/Picture17.png,"中文：坏账是本期费用，期末借记损益账户，以减少净利。
+Bahasa Melayu: Hutang lapuk merupakan belanja dan dipindahkan ke sebelah debit Akaun Untung Rugi untuk mengurangkan untung."
+F4 Chp 8,radio,Perak_Q18,A,B,C,D,D,Perak/Picture18.png,"中文：直线折旧 =（原价 − 残值）÷ 使用年限，把可折旧金额平均分配至各年。
+Bahasa Melayu: Susut nilai garis lurus = (kos asal − nilai skrap) ÷ usia guna, iaitu susut nilai sama setiap tahun."
+F4 Chp 8,radio,Perak_Q19,A,B,C,D,A,Perak/Picture19.png,"中文：使用两年累计折旧 = 8,000 × 10% × 2 = 1,600；账面值 6,400，卖价 4,000，所以处置损失 RM2,400。
+Bahasa Melayu: Susut nilai dua tahun = 8,000 × 10% × 2 = 1,600; nilai buku 6,400 ditolak harga jualan 4,000 menghasilkan rugi RM2,400."
+F4 Chp 8,radio,Perlis_Q15,A,B,C,D,A,Perlis/Picture15.png,"中文：新准备 = (30,500 − 800) × 5% = RM1,485；损益只记增加额 1,485 − 540 = RM945。
+Bahasa Melayu: Peruntukan baharu = (30,500 − 800) × 5% = RM1,485; pertambahan dicaj kepada untung rugi = 1,485 − 540 = RM945."
+F4 Chp 8,radio,Perlis_Q16,A,B,C,D,C,Perlis/Picture16.png,"中文：旧累计折旧 = 72,800 − 58,240 = 14,560；本年折旧 = 58,240 × 20% = 11,648；累计 RM26,208。
+Bahasa Melayu: Susut nilai terkumpul awal = 14,560; susut nilai semasa = 58,240 × 20% = 11,648; jumlah terkumpul RM26,208."
+F4 Chp 8,radio,Perlis_Q17,A,B,C,D,C,Perlis/Picture17.png,"中文：处置收益从处置账户转出：借记非流动资产处置账户，贷记处置收益账户。
+Bahasa Melayu: Debit Pelupusan Aset Bukan Semasa dan kredit Untung atas Pelupusan untuk memindahkan keuntungan pelupusan."
+F4 Chp 8,radio,Perlis_Q18,A,B,C,D,A,Perlis/Picture18.png,"中文：A 表示金额在其中一边记错，导致借贷不平衡；B、C 两边同样记错及 D 整笔遗漏仍保持平衡。
+Bahasa Melayu: A merujuk amaun tersalah pada satu catatan yang menjejaskan imbangan; kesilapan sama pada kedua-dua akaun atau ketinggalan lengkap tidak menjejaskannya."
+F4 Chp 8,radio,Perlis_Q19,A,B,C,D,C,Perlis/Picture19.png,"中文：把客户 Harith 的交易记入另一个客户 Hadith 的账户，是相同类别账户的佣金错误。
+Bahasa Melayu: Kesilapan komisen berlaku apabila jualan kepada Harith direkod dalam akaun Hadith, iaitu akaun daripada kelas yang sama."
+F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,A,Selangor Set 1/Picture15.png,"中文：坏账准备减少额按课程列为收入，使本期利润增加。
+Bahasa Melayu: Pengurangan peruntukan hutang ragu dianggap hasil yang menambah untung tahun semasa."
+F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 1/Picture16.png,"中文：重估法折旧 = 期初家具 4,800 + 购入 1,900 − 卖出 1,800 − 期末 4,650 = RM250。
+Bahasa Melayu: Susut nilai penilaian semula = 4,800 + 1,900 − 1,800 − 4,650 = RM250."
+F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,D,Selangor Set 1/Picture17.png,"中文：打印机两年折旧 = 800 × 20% × 2 = 320；账面值 RM480，卖 RM350，损失 RM130。
+Bahasa Melayu: Susut nilai dua tahun = 800 × 20% × 2 = RM320; nilai buku RM480 ditolak harga jualan RM350 menghasilkan rugi RM130."
+F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,C,Selangor Set 1/Picture18.png,"中文：本期租金收入按 3 月至 12 月共 10 个月确认：10 × RM500 = RM5,000；未收 12 月租金也是本期收入。
+Bahasa Melayu: Hasil sewa Mac hingga Disember ialah 10 × RM500 = RM5,000, termasuk sewa Disember yang belum diterima."
+F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,C,Selangor Set 1/Picture19.png,"中文：营运资本 = (10,000 + 2,800 + 1,000) − (1,650 + 2,700) = RM9,450；2030 年到期贷款属非流动负债。
+Bahasa Melayu: Modal kerja = (10,000 + 2,800 + 1,000) − (1,650 + 2,700) = RM9,450; pinjaman matang 2030 ialah liabiliti bukan semasa."
+F4 Chp 8,radio,SelangorSet_Q15,A,B,C,D,B,Selangor Set 2/Picture15.png,"中文：客户破产导致款项无法收回，可确认为坏账费用，减少净利。
+Bahasa Melayu: Pelanggan muflis boleh menyebabkan hutangnya tidak dapat dipungut dan dihapuskan sebagai hutang lapuk."
+F4 Chp 8,radio,SelangorSet_Q16,A,B,C,D,D,Selangor Set 2/Picture16.png,"中文：第一年折旧 7,000 × 10% = 700；第二年按账面值 6,300 × 10% = RM630，显示采用余额递减法。
+Bahasa Melayu: Susut nilai tahun pertama RM700; tahun kedua (7,000 − 700) × 10% = RM630, menunjukkan kaedah baki berkurangan."
+F4 Chp 8,radio,SelangorSet_Q17,A,B,C,D,A,Selangor Set 2/Picture17.png,"中文：账面值 = 85,000 − 12,750 = RM72,250；卖 RM75,000，处置收益 RM2,750。
+Bahasa Melayu: Nilai buku = 85,000 − 12,750 = RM72,250; untung pelupusan = 75,000 − 72,250 = RM2,750."
+F4 Chp 8,radio,SelangorSet_Q18,A,B,C,D,B,Selangor Set 2/Picture18.png,"中文：已使用文具 = 970 − 320 = RM650，是费用；未使用 RM320 是文具存货资产，两者在借方。
+Bahasa Melayu: Alat tulis digunakan = 970 − 320 = RM650; baki inventori alat tulis RM320 ialah aset, kedua-duanya berbaki debit."
+F4 Chp 8,radio,SelangorSet_Q19,A,B,C,D,D,Selangor Set 2/Picture19.png,"中文：净利 = 17,500 + 320 + 165 − (770 − 120) = RM17,335；预付工资从本期费用扣除。
+Bahasa Melayu: Untung bersih = 17,500 + 320 + 165 − (770 − 120) = RM17,335."
+F4 Chp 8,radio,Smka_Q15,A,B,C,D,B,SMKA/Picture15.png,"中文：销货与运入费都参与毛利计算，结转到营业账户；促销及一般费用结转损益账户。
+Bahasa Melayu: Jualan dan angkutan masuk ditutup ke Akaun Perdagangan; promosi dan belanja am ditutup ke Akaun Untung Rugi."
+F4 Chp 8,radio,Smka_Q16,A,B,C,D,A,SMKA/Picture16.png,"中文：应付费用是本期已经发生但尚未付款的费用，期末通常列流动负债。
+Bahasa Melayu: Belanja belum bayar ialah belanja tempoh semasa yang belum dijelaskan dan merupakan liabiliti semasa."
+F4 Chp 8,radio,Smka_Q17,A,B,C,D,A,SMKA/Picture17.png,"中文：本期租金收入 = 已收 5,000 − 期初应收 500 − 期末预收 300 = RM4,200。
+Bahasa Melayu: Hasil sewa semasa = 5,000 − belum terima awal 500 − belum terperoleh akhir 300 = RM4,200."
+F4 Chp 8,radio,Smka_Q18,A,B,C,D,C,SMKA/Picture18.png,"中文：新坏账准备 = 22,500 × 3% = RM675；比原准备 RM450 增加 RM225，形成费用。
+Bahasa Melayu: Peruntukan baharu = 22,500 × 3% = RM675; pertambahan 675 − 450 = RM225 menambah belanja."
+F4 Chp 8,radio,Smka_Q19,A,B,C,D,A,SMKA/Picture19.png,"中文：把资产与费用弄错类别，是原则错误；借贷金额仍可相等。
+Bahasa Melayu: Kesilapan prinsip berlaku apabila aset direkod sebagai belanja atau sebaliknya, walaupun debit dan kredit masih seimbang."
+F4 Chp 8,radio,Terengganu_Q15,A,B,C,D,C,Terengganu/Picture15.png,"中文：赊销 = 5,200 + 320 + 2,200 − 2,600 = RM5,120。
+Bahasa Melayu: Jualan kredit = kutipan 5,200 + hutang lapuk 320 + baki akhir 2,200 − baki awal 2,600 = RM5,120."
+F4 Chp 8,radio,Terengganu_Q16,A,B,C,D,B,Terengganu/Picture16.png,"中文：试算表核对借方与贷方总额是否相等，以检查复式记录的算术准确性；平衡不保证完全无错。
+Bahasa Melayu: Imbangan Duga menyemak persamaan jumlah debit dan kredit untuk menguji ketepatan catatan bergu, tetapi tidak mengesan semua kesilapan."
+F4 Chp 8,radio,Terengganu_Q17,A,B,C,D,D,Terengganu/Picture17.png,"中文：净利 = 52,450 + 收回坏账 1,320 − 费率 (960 + 200) = RM52,610。
+Bahasa Melayu: Untung bersih = 52,450 + 1,320 − (960 + 200) = RM52,610."
+F4 Chp 8,radio,Terengganu_Q18,A,B,C,D,D,Terengganu/Picture18.png,"中文：坏账准备抵减应收账款净值，直接影响流动资产总额和营运资本。
+Bahasa Melayu: Peruntukan hutang ragu mengurangkan nilai bersih Akaun Belum Terima serta jumlah aset semasa dan modal kerja."
+F4 Chp 8,radio,Terengganu_Q19,A,B,C,D,C,Terengganu/Picture19.png,"中文：折扣取得是收入，结账时借记折扣取得 RM460、贷记损益 RM460。
+Bahasa Melayu: Diskaun diterima ditutup dengan debit Diskaun Diterima RM460 dan kredit Untung Rugi RM460."

@@ -1,23 +1,45 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,D,Picture19.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,D,Picture19.png,"中文：付款期限 = 应付账款 10,000 ÷ 赊购 40,000 × 365 = 91.25 天；本题以整天向上取为 92 天。
+Bahasa Melayu: Tempoh pembayaran hutang = 10,000 ÷ 40,000 × 365 = 91.25 hari, dibundarkan ke atas kepada 92 hari dalam pilihan."
+,radio,F5 Bab 1,A,B,C,D,B,Picture20.png,"中文：资本回报率反映资本投入取得净利的能力，适合比较两公司的投资回报。
+Bahasa Melayu: Pulangan atas modal mengukur keuntungan daripada modal yang dilaburkan dan membantu keputusan pelaburan."
+,radio,F5 Bab 2,A,B,C,D,A,Picture21.png,"中文：每项交易只作单项记录而不完整记录借贷两面，是不完整记录或单式记账的做法。
+Bahasa Melayu: Merekod urus niaga dalam satu catatan sahaja ialah amalan rekod tak lengkap, bukannya sistem catatan bergu."
+,radio,F5 Bab 2,A,B,C,D,C,Picture22.png,"中文：提款 = 净利 8,200 − 期末资本 33,700 + 期初资本 27,400 + 追加资本 5,000 = RM6,900。
+Bahasa Melayu: Ambilan = 8,200 − 33,700 + 27,400 + 5,000 = RM6,900."
+,radio,F5 Bab 3,A,B,C,D,D,Picture23.png,"中文：未兑现支票已在现金簿扣除，但银行尚未扣款，因此银行结单余额较大。
+Bahasa Melayu: Cek belum dikemukakan sudah mengurangkan Buku Tunai tetapi belum ditolak oleh bank, menyebabkan baki Penyata Bank lebih besar."
+,radio,F5 Bab 3,A,B,C,D,B,Picture24.png,"中文：银行显示收到 RM2,500，却在现金簿贷方误记付款；借方须补 RM5,000，先撤销误记 2,500 再记录收款 2,500。
+Bahasa Melayu: Penerimaan RM2,500 tersalah dicatat sebagai pembayaran; debit RM5,000 diperlukan untuk membatalkan kredit RM2,500 dan merekod debit sebenar RM2,500."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：11 月销售 = 80,000 × 110% = RM88,000；12 月收回上月赊销 = 88,000 × 30% = RM26,400。
+Bahasa Melayu: Jualan November = 80,000 × 110% = RM88,000; kutipan kredit Disember = 88,000 × 30% = RM26,400."
+,radio,F5 Bab 5,A,B,C,D,B,Picture26.png,"中文：将普通股申请款转为已发行股本时，借记普通股申请账户、贷记普通股资本 RM1,500,000。
+Bahasa Melayu: Penerbitan syer memindahkan permohonan kepada modal: debit Permohonan Syer Biasa dan kredit Modal Syer Biasa RM1,500,000."
+,radio,F5 Bab 4,A,B,C,D,C,Picture27.png,"中文：提款利息 = 1,800 × 5% × 12/12 + 1,800 × 5% × 6/12 = RM135，记合伙人往来账户借方。
+Bahasa Melayu: Faedah ambilan = 1,800 × 5% + 1,800 × 5% × 6/12 = RM135, didebitkan dalam Akaun Semasa."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：本月现金盈余 = 收款 20,900 − 付款 13,520 = RM7,380；期初透支只影响期末余额，不改变本月盈余。
+Bahasa Melayu: Lebihan tunai bulan semasa = 20,900 − 13,520 = RM7,380; baki awal mempengaruhi baki akhir, bukan lebihan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture29.png,"中文：向俱乐部委员会成员支付的感谢性酬金称为 Honorarium，属于收益性支出。
+Bahasa Melayu: Bayaran sagu hati kepada ahli jawatankuasa atas sumbangannya dikenali sebagai honorarium."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：可分利润 = 20,800 − 1,200 − 2,200 = RM17,400；Zoe 按 3/4 分得 17,400 × 3/4 = RM13,050。
+Bahasa Melayu: Untung boleh agih RM17,400; kongsi untung Zoe = 17,400 × 3/4 = RM13,050."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：变现亏损 = 资产差额 (85,000 − 67,000) + 新发现电费 2,200 − 债务折扣 500 = RM19,700。
+Bahasa Melayu: Rugi realisasi = (85,000 − 67,000) + 2,200 − 500 = RM19,700."
+,radio,F5 Bab 7,A,B,C,D,D,Picture32.png,"中文：生产账户汇总材料、人工和间接费用等，以显示制造产品的生产成本。
+Bahasa Melayu: Akaun Pengeluaran menunjukkan kos bahan, buruh dan overhed yang terlibat dalam pengeluaran."
+,radio,F5 Bab 4,A,B,C,D,B,Picture33.png,"中文：Liza 用私人资金代付供应商欠款，借记应付账款 RM8,000、贷记 Liza 资本 RM8,000。
+Bahasa Melayu: Pekongsi menjelaskan liabiliti dengan wang sendiri: debit ABB RM8,000 dan kredit Akaun Modal Liza RM8,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：7 月末已付期中股息后，余下 8 至 12 月为五个月；期末股息 = 25,000 × 2 × 6% × 5/12 = RM1,250。
+Bahasa Melayu: Dividen akhir bagi lima bulan Ogos hingga Disember = 25,000 × 2 × 6% × 5/12 = RM1,250."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：累积基金 = 设备 2,530 + 现金 1,130 + 存货 840 − 预收会费 130 = RM4,370。
+Bahasa Melayu: Dana terkumpul = 2,530 + 1,130 + 840 − 130 = RM4,370."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：借方结平项 RM360 表示期末贷方余额，即尚未赚取的预收会费 Yuran Belum Terperoleh。图中坏会费写在贷方不合常规，但不影响 R 的选项判别。
+Bahasa Melayu: R RM360 di debit menjadi baki kredit akhir, iaitu Yuran Belum Terperoleh. Catatan yuran lapuk di kredit dalam rajah tidak mengikut kebiasaan."
+,radio,F5 Bab 7,A,B,C,D,A,Picture37.png,"中文：生产成本 = 期初在制品 9,800 + 原料 173,925 + 工厂租金 3,050 + 直接人工 29,200 − 期末在制品 11,300 = RM204,675。
+Bahasa Melayu: Kos pengeluaran = 9,800 + 173,925 + 3,050 + 29,200 − 11,300 = RM204,675."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：成本、销量与利润分析帮助确定达到损益平衡或目标利润所需销售量。
+Bahasa Melayu: Analisis kos volum untung menentukan jumlah jualan yang perlu dicapai untuk mendapat keuntungan."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：损益平衡产量 = 固定成本 10,200 ÷ 单位贡献毛益 30 = 340 单位。
+Bahasa Melayu: Titik pulang modal = kos tetap 10,200 ÷ margin caruman seunit 30 = 340 unit."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：目标利润 = 8,000 × (6 − 2.50) − 12,000 = RM16,000。
+Bahasa Melayu: Untung sasaran = 8,000 × (6 − 2.50) − 12,000 = RM16,000."

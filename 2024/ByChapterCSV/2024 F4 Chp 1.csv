@@ -1,33 +1,65 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,B,Johor Set 1/Picture1.png
-F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,B,Johor Set 1/Picture2.png
-F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,C,Johor Set 2/Picture1.png
-F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,C,Johor Set 2/Picture2.png
-F4 Chp 1,radio,Kedah_Q01,A,B,C,D,D,Kedah/Picture1.png
-F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png
-F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png
-F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png
-F4 Chp 1,radio,Kl_Q01,A,B,C,D,C,KL/Picture1.png
-F4 Chp 1,radio,Kl_Q02,A,B,C,D,A,KL/Picture2.png
-F4 Chp 1,radio,Melaka_Q01,A,B,C,D,D,Melaka/Picture1.png
-F4 Chp 1,radio,Melaka_Q02,A,B,C,D,A,Melaka/Picture2.png
-F4 Chp 1,radio,Mrsm_Q01,A,B,C,D,D,MRSM/Picture1.png
-F4 Chp 1,radio,Mrsm_Q02,A,B,C,D,B,MRSM/Picture2.png
-F4 Chp 1,radio,NegeriSembilan_Q01,A,B,C,D,D,Negeri Sembilan/Picture1.png
-F4 Chp 1,radio,NegeriSembilan_Q02,A,B,C,D,B,Negeri Sembilan/Picture2.png
-F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png
-F4 Chp 1,radio,Pahang_Q02,A,B,C,D,C,Pahang/Picture2.png
-F4 Chp 1,radio,PenangPpdBaratDaya_Q01,A,B,C,D,A,Penang PPD Barat Daya/Picture1.png
-F4 Chp 1,radio,PenangPpdBaratDaya_Q02,A,B,C,D,A,Penang PPD Barat Daya/Picture2.png
-F4 Chp 1,radio,Perak_Q01,A,B,C,D,C,Perak/Picture1.png
-F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png
-F4 Chp 1,radio,Perlis_Q01,A,B,C,D,D,Perlis/Picture1.png
-F4 Chp 1,radio,Perlis_Q02,A,B,C,D,B,Perlis/Picture2.png
-F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 1/Picture1.png
-F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,A,Selangor Set 1/Picture2.png
-F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 2/Picture1.png
-F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,B,Selangor Set 2/Picture2.png
-F4 Chp 1,radio,Smka_Q01,A,B,C,D,D,SMKA/Picture1.png
-F4 Chp 1,radio,Smka_Q02,A,B,C,D,D,SMKA/Picture2.png
-F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,B,Terengganu/Picture1.png
-F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,D,Terengganu/Picture2.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,B,Johor Set 1/Picture1.png,"中文：双重记录系统在十四世纪开始发展，属于课本所列的会计发展阶段。
+Bahasa Melayu: Sistem catatan bergu mula berkembang pada abad ke-14 dalam sejarah perakaunan."
+F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,B,Johor Set 1/Picture2.png,"中文：从 3 月 1 日开始的六个月期间在 8 月 31 日结束。
+Bahasa Melayu: Enam bulan bermula 1 Mac berakhir pada 31 Ogos 2023."
+F4 Chp 1,radio,JohorSet_Q01,A,B,C,D,C,Johor Set 2/Picture1.png,"中文：Luca Pacioli 著作中介绍双重记录规则，被课本称为会计之父。
+Bahasa Melayu: Luca Pacioli menerangkan peraturan catatan bergu dalam bukunya dan dikenali sebagai Bapa Perakaunan."
+F4 Chp 1,radio,JohorSet_Q02,A,B,C,D,C,Johor Set 2/Picture2.png,"中文：调查成本 RM500 超过可追回的 RM250，体现成本效益概念。
+Bahasa Melayu: Kos siasatan RM500 melebihi manfaat RM250; konsep kos manfaat digunakan."
+F4 Chp 1,radio,Kedah_Q01,A,B,C,D,D,Kedah/Picture1.png,"中文：尚未收到的租金仍按本期已赚取的收入入账，符合收入与费用确认原则。
+Bahasa Melayu: Sewa belum terima tetap diiktiraf sebagai hasil tempoh semasa mengikut prinsip pengiktirafan hasil dan belanja."
+F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png,"中文：Sarah Enterprise 属独资企业，业主自行决策并承担无限责任。
+Bahasa Melayu: Sarah Enterprise ialah milikan tunggal; pemilik membuat keputusan sendiri dan menanggung liabiliti tidak terhad."
+F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png,"中文：复式记账起源于意大利，应选 A。现有答案 B（埃及）与课本概念不符，待确认。
+Bahasa Melayu: Sistem catatan bergu bermula di Itali, pilihan A. Jawapan sedia ada B (Mesir) tidak selaras dengan konsep buku teks dan perlu disahkan."
+F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png,"中文：购买机器的预期收益超过成本，体现成本效益限制。
+Bahasa Melayu: Manfaat mesin dijangka melebihi kosnya, menepati batasan kos manfaat."
+F4 Chp 1,radio,Kl_Q01,A,B,C,D,C,KL/Picture1.png,"中文：私人取用商品记录为提款，体现企业与业主分开的独立主体假设。
+Bahasa Melayu: Barang niaga untuk keluarga direkod sebagai ambilan mengikut andaian entiti berasingan."
+F4 Chp 1,radio,Kl_Q02,A,B,C,D,A,KL/Picture2.png,"中文：工资属于费用账户，即名义账户；存货、家具和银行属于实质账户。
+Bahasa Melayu: Gaji ialah akaun belanja, iaitu akaun nominal; inventori, perabot dan bank ialah akaun nyata."
+F4 Chp 1,radio,Melaka_Q01,A,B,C,D,D,Melaka/Picture1.png,"中文：管理会计为内部管理层提供计划、控制及生产决策资料。
+Bahasa Melayu: Perakaunan pengurusan membekalkan maklumat untuk perancangan, kawalan dan pengurusan pengeluaran dalaman."
+F4 Chp 1,radio,Melaka_Q02,A,B,C,D,A,Melaka/Picture2.png,"中文：尚未付的本期工资也确认为费用，符合收入与费用确认原则。
+Bahasa Melayu: Gaji belum bayar turut diiktiraf sebagai belanja semasa mengikut prinsip pengiktirafan hasil dan belanja."
+F4 Chp 1,radio,Mrsm_Q01,A,B,C,D,D,MRSM/Picture1.png,"中文：CIMA 专注培养管理会计人才，涉及企业管理、计划与经营环境变化。
+Bahasa Melayu: CIMA melahirkan akauntan pengurusan dan menangani perubahan dalam pengurusan serta pentadbiran perniagaan."
+F4 Chp 1,radio,Mrsm_Q02,A,B,C,D,B,MRSM/Picture2.png,"中文：按原购入价RM5,000记账，不改用市场价，体现历史成本原则。
+Bahasa Melayu: Perabot direkod pada kos belian RM5,000, bukannya harga pasaran, mengikut prinsip kos."
+F4 Chp 1,radio,NegeriSembilan_Q01,A,B,C,D,D,Negeri Sembilan/Picture1.png,"中文：本期未付租金也列本期费用，符合收入与费用确认原则。
+Bahasa Melayu: Sewa belum bayar diiktiraf sebagai belanja semasa mengikut prinsip pengiktirafan hasil dan belanja."
+F4 Chp 1,radio,NegeriSembilan_Q02,A,B,C,D,B,Negeri Sembilan/Picture2.png,"中文：独资诊所业主承担无限责任，企业债务可追及私人资产。
+Bahasa Melayu: Pemilik klinik milikan tunggal menanggung liabiliti tidak terhad, termasuk melalui aset peribadinya."
+F4 Chp 1,radio,Pahang_Q01,A,B,C,D,B,Pahang/Picture1.png,"中文：不偏袒、不受利益方影响，体现客观性职业道德。
+Bahasa Melayu: Tidak berat sebelah atau dipengaruhi pihak berkepentingan menepati etika objektiviti."
+F4 Chp 1,radio,Pahang_Q02,A,B,C,D,C,Pahang/Picture2.png,"中文：机器按购入成本10,000记录，不改用市价8,000，体现成本原则。
+Bahasa Melayu: Mesin direkod pada kos belian 10,000, bukan harga pasaran 8,000, mengikut prinsip kos."
+F4 Chp 1,radio,PenangPpdBaratDaya_Q01,A,B,C,D,A,Penang PPD Barat Daya/Picture1.png,"中文：供应商和银行是外部使用者；管理层及业主属于内部使用者。
+Bahasa Melayu: Pembekal dan pihak bank ialah pengguna luaran; pengurusan dan pemilik ialah pengguna dalaman."
+F4 Chp 1,radio,PenangPpdBaratDaya_Q02,A,B,C,D,A,Penang PPD Barat Daya/Picture2.png,"中文：顾问服务以每月 RM10,000 的货币金额入账，体现货币计量假设。
+Bahasa Melayu: Khidmat penasihat dinyatakan dalam nilai wang RM10,000 sebulan, selaras dengan andaian wang sebagai ukuran."
+F4 Chp 1,radio,Perak_Q01,A,B,C,D,C,Perak/Picture1.png,"中文：财务会计编制财务资料，供内部和外部使用者作决策。
+Bahasa Melayu: Perakaunan kewangan menyediakan maklumat kewangan kepada pengguna dalaman dan luaran untuk membuat keputusan."
+F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png,"中文：普通合伙人的责任不以投入资本为限，必要时须用私人财产偿债。
+Bahasa Melayu: Pekongsi biasa mempunyai liabiliti tidak terhad dan boleh menggunakan harta peribadi untuk menjelaskan hutang."
+F4 Chp 1,radio,Perlis_Q01,A,B,C,D,D,Perlis/Picture1.png,"中文：会计循环先根据商业单据记入原始分录簿，再过账至分类账。
+Bahasa Melayu: Dokumen perniagaan direkod dalam Buku Catatan Pertama sebelum diposkan ke lejar."
+F4 Chp 1,radio,Perlis_Q02,A,B,C,D,B,Perlis/Picture2.png,"中文：成本原则要求车辆按购入价 RM25,000 记录，不以目前市价 RM10,000 替代原始成本。
+Bahasa Melayu: Prinsip kos merekod van pada kos belian RM25,000, bukannya harga pasaran RM10,000."
+F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 1/Picture1.png,"中文：CIMA 专注管理会计，培养擅长企业管理与经营决策的专业会计师。
+Bahasa Melayu: CIMA menumpukan perakaunan pengurusan dan melahirkan akauntan mahir dalam pengurusan serta pentadbiran perniagaan."
+F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,A,Selangor Set 1/Picture2.png,"中文：业主投入电脑增加资本；以个人名义捐出商品属提款，减少业主权益。
+Bahasa Melayu: Komputer dibawa masuk menambah modal; derma barang atas nama sendiri ialah ambilan yang mengurangkan ekuiti pemilik."
+F4 Chp 1,radio,SelangorSet_Q01,A,B,C,D,C,Selangor Set 2/Picture1.png,"中文：管理会计提供资料给管理层，帮助规划、控制及作经营决策。
+Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat untuk membantu pihak pengurusan merancang, mengawal dan membuat keputusan."
+F4 Chp 1,radio,SelangorSet_Q02,A,B,C,D,B,Selangor Set 2/Picture2.png,"中文：获得银行贷款同时增加银行存款资产和贷款负债。
+Bahasa Melayu: Pinjaman bank menambah aset bank serta liabiliti pinjaman pada masa yang sama."
+F4 Chp 1,radio,Smka_Q01,A,B,C,D,D,SMKA/Picture1.png,"中文：按课本，Luca Pacioli 介绍复式记账法，因此被称为会计之父。
+Bahasa Melayu: Menurut buku teks, Luca Pacioli memperkenalkan sistem catatan bergu dan dikenali sebagai Bapa Perakaunan."
+F4 Chp 1,radio,Smka_Q02,A,B,C,D,D,SMKA/Picture2.png,"中文：把私人取货记为提款，区分业主和企业的交易，符合独立个体假设。
+Bahasa Melayu: Ambilan barang direkod berasingan daripada belian perniagaan, selaras dengan andaian entiti berasingan."
+F4 Chp 1,radio,Terengganu_Q01,A,B,C,D,B,Terengganu/Picture1.png,"中文：结账分录把本期收入和费用余额转入营业及损益账户，使这些暂时账户归零。
+Bahasa Melayu: Catatan penutupan memindahkan baki hasil dan belanja ke Akaun Perdagangan serta Untung Rugi."
+F4 Chp 1,radio,Terengganu_Q02,A,B,C,D,D,Terengganu/Picture2.png,"中文：可验证性、可理解性及可比性属于增强性质量特征；相关性则是基本质量特征。
+Bahasa Melayu: Kebolehsahan, kebolehfahaman dan kebolehbandingan ialah ciri kualitatif tertingkat; kerelevanan ialah ciri asas."

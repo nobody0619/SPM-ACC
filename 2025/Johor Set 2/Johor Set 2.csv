@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Johor Set 2 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 2 2025,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：审计员核查商业凭证与会计记录，并确认记录及报表是否准确。
+Bahasa Melayu: Juruaudit menyemak dokumen perniagaan dan mengesahkan ketepatan rekod perakaunan."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：真实表述要求财务资料忠实、准确反映实际情况，而不仅是及时或相关。
+Bahasa Melayu: Perwakilan benar bermaksud maklumat mencerminkan keadaan sebenar dengan jujur dan tepat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture3.png,"中文：私人车辆转入企业须作为追加资本，体现业主与企业是分开的会计主体。
+Bahasa Melayu: Entiti berasingan memisahkan pemilik daripada perniagaan; kenderaan peribadi yang dimasukkan direkod sebagai modal tambahan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：进货运费和购货工资为取得商品的成本；销货运费属销售费用，购货退回则减少购货。
+Bahasa Melayu: Angkutan masuk dan upah atas belian menambah kos belian. Angkutan keluar ialah belanja jualan, manakala pulangan belian mengurangkan belian."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：银行增加 RM5,050，应收账款减少 RM5,500，差额 RM450 为折扣费用，降低净利和权益。
+Bahasa Melayu: Bank bertambah RM5,050, ABT berkurang RM5,500 dan diskaun diberi RM450 mengurangkan untung bersih."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：客户退回空瓶使其欠款减少，企业发出贷项通知单 Nota Kredit。
+Bahasa Melayu: Nota Kredit dihantar kepada pelanggan untuk mengurangkan hutangnya apabila botol kosong dipulangkan."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：答案 B 对应商品提款及注销坏账，均记普通日记簿。题目 III 若确为业主用私人钱代付租金，也应记普通日记簿，故选项组合存在歧义。
+Bahasa Melayu: Jawapan B meliputi ambilan barang dan hutang lapuk dalam Jurnal Am. Jika III benar-benar dibayar dengan wang peribadi pemilik, catatannya juga dalam Jurnal Am; gabungan pilihan kurang jelas."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：补款按已支付金额计算：15 + 100 = RM115，使备用金恢复 RM200。
+Bahasa Melayu: Rekupmen = jumlah pembayaran = 15 + 100 = RM115, untuk memulihkan panjar kepada RM200."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：真实账户记录企业资产，例如现金、设备和车辆；收入与费用属于名义账户。
+Bahasa Melayu: Akaun nyata merekod aset perniagaan seperti tunai, peralatan dan kenderaan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：家具店把待售桌子改作办公室家具，属于资产自用，借记家具、贷记购货；不是私人提款。
+Bahasa Melayu: Meja barang niaga digunakan di pejabat, maka debit Akaun Perabot dan kredit Belian; bukan ambilan peribadi."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：期末应付账款 = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470。
+Bahasa Melayu: Baki akhir ABB = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：P 在借方，可为家具资产；Q 在贷方，可为购货退回，因此 D 的配对正确。
+Bahasa Melayu: P berbaki debit seperti Perabot, manakala Q berbaki kredit seperti Pulangan Belian. Padanan D betul."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：财务状况表显示某一日期企业的资产、负债与业主权益，利润由损益表呈现。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pada suatu tarikh; untung ditentukan dalam penyata pendapatan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：销售转入交易账户，租金转入损益账户，所以 II 和 III 正确；购货不转入损益账户。
+Bahasa Melayu: Jualan ditutup ke Akaun Perdagangan dan sewa ke Akaun Untung Rugi. II dan III betul."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：收到已注销的坏账，银行资产增加，借记银行；坏账收回是收入，贷记坏账收回。
+Bahasa Melayu: Hutang lapuk terpulih diterima dengan mendebit Bank dan mengkredit Hutang Lapuk Terpulih."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首年折旧 = 12,000 × 10% = 1,200；第二年 = (12,000 − 1,200) × 10% = RM1,080。
+Bahasa Melayu: Susut nilai tahun pertama RM1,200; tahun kedua = (12,000 − 1,200) × 10% = RM1,080."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：期初账面值 = 12,500 − 4,500 = 8,000；本年折旧 1,600，出售时账面值 6,400，售价 6,000，亏损 RM400。
+Bahasa Melayu: Nilai buku awal RM8,000; susut nilai RM1,600 menjadikan nilai buku RM6,400. Harga jualan RM6,000 menghasilkan rugi RM400."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：应记 Shaza 却误记同类供应商 Shazi，属于同类账户之间的佣金错误 Kesilapan Komisen。
+Bahasa Melayu: Catatan kepada Shazi menggantikan Shaza melibatkan akaun sejenis, maka ialah kesilapan komisen."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：维修费 RM800 误记资产，导致费用少记、净利高估；新净利 = 10,200 − 800 = RM9,400。
+Bahasa Melayu: Belanja pembaikan RM800 tersalah menjadi aset, menyebabkan untung terlebih. Untung baharu = 10,200 − 800 = RM9,400."
+,radio,F5 Bab 1,A,B,C,D,B,Picture20.png,"中文：净利 = 11,500 − 5,100 = 6,400；净利率 25%，所以净销售 = 6,400 ÷ 25% = RM25,600。
+Bahasa Melayu: Untung bersih = 11,500 − 5,100 = RM6,400; jualan bersih = 6,400 ÷ 25% = RM25,600."
+,radio,F5 Bab 2,A,B,C,D,A,Picture21.png,"中文：佣金收入是非主要营业收入，结账转入损益账户的收入部分。
+Bahasa Melayu: Komisen diterima ialah hasil bukan operasi yang dipindahkan ke bahagian hasil Akaun Untung Rugi."
+,radio,F5 Bab 2,A,B,C,D,B,Picture22.png,"中文：资本比较法：净利 = 期末资本 + 提款 − 追加资本 − 期初资本，因此应加回提款。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal tambahan − modal awal; ambilan perlu ditambah kepada modal akhir."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：净购货 = 32,680 − 960 − 600 = RM31,120；期初存货不属于净购货。
+Bahasa Melayu: Belian bersih = 32,680 − 960 − 600 = RM31,120; inventori awal tidak dimasukkan dalam belian bersih."
+,radio,F5 Bab 3,A,B,C,D,C,Picture24.png,"中文：银行调节表比较现金簿与银行结单，找出时间差与记录错误，是现金控制工具。
+Bahasa Melayu: Penyata Penyesuaian Bank mengenal pasti perbezaan masa dan kesilapan antara Buku Tunai dengan Penyata Bank."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：银行结单余额 = −25,600 + 2,480 − 1,670 = −RM24,790，仍为透支。
+Bahasa Melayu: Baki Penyata Bank = −25,600 + 2,480 − 1,670 = −RM24,790, iaitu overdraf."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：增加销售可增加现金收入，改善现金预算短缺；购买更多资产或付款会增加现金流出。
+Bahasa Melayu: Meningkatkan jualan membantu menambah penerimaan tunai dan mengatasi kurangan Belanjawan Tunai."
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：往来账户贷方记录合伙人应得的利息、薪金及利润，表示合伙人对企业的权益。
+Bahasa Melayu: Kredit Akaun Semasa merekod hak pekongsi seperti faedah modal, gaji dan kongsi untung, iaitu tuntutan pekongsi terhadap perkongsian."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：可分利润总额 = 18,000 + 2,800 − 4,500 = RM16,300；贷款利息已在计算净利时扣除，不重复扣。
+Bahasa Melayu: Jumlah untung boleh agih = 18,000 + 2,800 − 4,500 = RM16,300. Faedah pinjaman sudah diambil kira dalam untung bersih dan tidak ditolak sekali lagi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：按本题答案的处理，权益 = 50,000 + 30,000 − 7,850 + 3,330 + 80,000 × 10% = RM83,480；往来账户借方须扣除。
+Bahasa Melayu: Mengikut pengiraan yang dimaksudkan soalan, ekuiti = 50,000 + 30,000 − 7,850 + 3,330 + (80,000 × 10%) = RM83,480; baki debit Akaun Semasa ditolak."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：变现亏损 = 30,800 − 25,500 + 850 = RM6,150；按账面全额偿还负债不影响变现损益。
+Bahasa Melayu: Rugi realisasi = 30,800 − 25,500 + 850 = RM6,150; liabiliti dijelaskan pada nilai buku."
+,radio,F5 Bab 5,A,B,C,D,B,Picture31.png,"中文：普通股股息率取决于公司利润，因此不固定；普通股股东通常有投票权。
+Bahasa Melayu: Kadar dividen syer biasa bergantung pada keuntungan syarikat dan tidak tetap; pemegangnya lazimnya mempunyai hak mengundi."
+,radio,F5 Bab 5,A,B,C,D,A,Picture32.png,"中文：公司权益部分列出已发行且缴足的优先股和普通股资本，即 I 和 II。
+Bahasa Melayu: Ekuiti pemilik memaparkan modal diterbitkan dan berbayar penuh bagi syer keutamaan serta syer biasa, iaitu I dan II."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：全年优先股股息 = 500,000 × 8% = RM40,000；半年期中股息 RM20,000，期末补付 RM20,000。
+Bahasa Melayu: Dividen tahunan syer keutamaan = 500,000 × 8% = RM40,000; dividen interim enam bulan RM20,000 dan dividen akhir RM20,000."
+,radio,F5 Bab 6,A,B,C,D,A,Picture34.png,"中文：X 属现金收入，可为泳池租金收入；Y 属现金支付，可为酬金 Honorarium，所以 A 正确。
+Bahasa Melayu: X ialah penerimaan seperti sewa kolam, manakala Y ialah pembayaran seperti honorarium. Padanan A betul."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：折旧 = (12,500 − 2,500) × 20% = 2,000；账面值 8,000，售价 8,700，出售利润 RM700。
+Bahasa Melayu: Susut nilai = (12,500 − 2,500) × 20% = RM2,000; nilai buku RM8,000 dan harga jualan RM8,700 memberikan untung RM700."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：当年会费收入 = 已收 2024 会费 1,370 + 当年未收 25 = RM1,395；其他年度会费不计入。
+Bahasa Melayu: Hasil yuran 2024 = 1,370 + 25 = RM1,395; kutipan yuran 2023 dan 2025 tidak termasuk hasil tahun semasa."
+,radio,F5 Bab 6,A,B,C,D,D,Picture37.png,"中文：指定用于兴建球场的捐款属于资本性收款，列入俱乐部财务状况表的基金项目。
+Bahasa Melayu: Derma khas membina gelanggang ialah penerimaan modal yang ditunjukkan dalam bahagian dana Penyata Kedudukan Kewangan kelab."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：小工具折旧是间接生产费用，属于制造间接费用；生产工人工资为直接人工。
+Bahasa Melayu: Susut nilai alatan kecil ialah kos overhed; gaji operator pengeluaran ialah kos buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture39.png,"中文：生产成本 = 19,500 + 183,625 + 65,000 + 12,750 + 38,900 − 21,000 = RM298,775。
+Bahasa Melayu: Kos pengeluaran = 19,500 + 183,625 + 65,000 + 12,750 + 38,900 − 21,000 = RM298,775."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：所需产量 = (固定成本 24,000 + 目标利润 3,000) ÷ (18 − 12) = 4,500 双。
+Bahasa Melayu: Kuantiti diperlukan = (24,000 + 3,000) ÷ (18 − 12) = 4,500 unit."

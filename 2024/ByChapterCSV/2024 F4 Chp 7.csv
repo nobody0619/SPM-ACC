@@ -1,33 +1,65 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,D,Johor Set 1/Picture13.png
-F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 1/Picture14.png
-F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,B,Johor Set 2/Picture13.png
-F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 2/Picture14.png
-F4 Chp 7,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png
-F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png
-F4 Chp 7,radio,Kelantan_Q13,A,B,C,D,B,Kelantan/Picture13.png
-F4 Chp 7,radio,Kelantan_Q14,A,B,C,D,B,Kelantan/Picture14.png
-F4 Chp 7,radio,Kl_Q13,A,B,C,D,B,KL/Picture13.png
-F4 Chp 7,radio,Kl_Q14,A,B,C,D,C,KL/Picture14.png
-F4 Chp 7,radio,Melaka_Q13,A,B,C,D,C,Melaka/Picture13.png
-F4 Chp 7,radio,Melaka_Q14,A,B,C,D,A,Melaka/Picture14.png
-F4 Chp 7,radio,Mrsm_Q13,A,B,C,D,C,MRSM/Picture13.png
-F4 Chp 7,radio,Mrsm_Q14,A,B,C,D,D,MRSM/Picture14.png
-F4 Chp 7,radio,NegeriSembilan_Q13,A,B,C,D,D,Negeri Sembilan/Picture13.png
-F4 Chp 7,radio,NegeriSembilan_Q14,A,B,C,D,B,Negeri Sembilan/Picture14.png
-F4 Chp 7,radio,Pahang_Q13,A,B,C,D,D,Pahang/Picture13.png
-F4 Chp 7,radio,Pahang_Q14,A,B,C,D,D,Pahang/Picture14.png
-F4 Chp 7,radio,PenangPpdBaratDaya_Q13,A,B,C,D,B,Penang PPD Barat Daya/Picture13.png
-F4 Chp 7,radio,PenangPpdBaratDaya_Q14,A,B,C,D,C,Penang PPD Barat Daya/Picture14.png
-F4 Chp 7,radio,Perak_Q13,A,B,C,D,B,Perak/Picture13.png
-F4 Chp 7,radio,Perak_Q14,A,B,C,D,B,Perak/Picture14.png
-F4 Chp 7,radio,Perlis_Q13,A,B,C,D,C,Perlis/Picture13.png
-F4 Chp 7,radio,Perlis_Q14,A,B,C,D,B,Perlis/Picture14.png
-F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,A,Selangor Set 1/Picture13.png
-F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 1/Picture14.png
-F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,B,Selangor Set 2/Picture13.png
-F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 2/Picture14.png
-F4 Chp 7,radio,Smka_Q13,A,B,C,D,C,SMKA/Picture13.png
-F4 Chp 7,radio,Smka_Q14,A,B,C,D,B,SMKA/Picture14.png
-F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,B,Terengganu/Picture13.png
-F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,A,Terengganu/Picture14.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,D,Johor Set 1/Picture13.png,"中文：销售退回减少客户欠款：借记销售退回，贷记应收账款。
+Bahasa Melayu: Debit Pulangan Jualan dan kredit ABT kerana hutang pelanggan berkurang."
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 1/Picture14.png,"中文：赊购 = 26,300 + 1,800 + 16,850 − 4,500 − 230 − 350 = RM39,870；按应付账款控制账户推算。
+Bahasa Melayu: Belian kredit = RM26,300 + RM1,800 + RM16,850 − RM4,500 − RM230 − RM350 = RM39,870 melalui Akaun Kawalan ABB."
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,B,Johor Set 2/Picture13.png,"中文：支付供应商减少欠款及银行余额：借记 Ikmal，贷记银行 RM700。
+Bahasa Melayu: Debit Syarikat Ikmal dan kredit Bank RM700 kerana hutang serta baki bank berkurang."
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,D,Johor Set 2/Picture14.png,"中文：赊销 = 81,020+3,720+7,750+2,020+14,810−15,250 = RM94,070。
+Bahasa Melayu: Jualan kredit melalui kawalan ABT = RM81,020+RM3,720+RM7,750+RM2,020+RM14,810−RM15,250 = RM94,070."
+F4 Chp 7,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png,"中文：坏账准备属于应收账款的减项，正常余额在贷方，不能放在试算表借方。
+Bahasa Melayu: Peruntukan hutang ragu mempunyai baki kredit sebagai pengurangan ABT, bukannya baki debit."
+F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png,"中文：预收佣金尚未赚取，企业仍负有提供服务的义务，因此属于流动负债。
+Bahasa Melayu: Komisen belum terperoleh ialah hasil yang diterima sebelum diperoleh dan dikelaskan sebagai liabiliti semasa."
+F4 Chp 7,radio,Kelantan_Q13,A,B,C,D,B,Kelantan/Picture13.png,"中文：现金制只确认实际支付租金，即RM5,000，不按应付全年7,200计算。
+Bahasa Melayu: Asas tunai mengiktiraf sewa yang benar-benar dibayar, RM5,000, bukan jumlah tahunan RM7,200."
+F4 Chp 7,radio,Kelantan_Q14,A,B,C,D,B,Kelantan/Picture14.png,"中文：保险至8月底，到5月底尚余3个月预付；费用 = 5,400 × 9/12 = RM4,050。
+Bahasa Melayu: Tiga bulan insurans masih prabayar; belanja hingga Mei = 5,400 × 9/12 = RM4,050."
+F4 Chp 7,radio,Kl_Q13,A,B,C,D,B,KL/Picture13.png,"中文：收到银行贷款：借记银行资产，贷记贷款负债。
+Bahasa Melayu: Pinjaman diterima direkod debit Bank dan kredit Pinjaman Bank."
+F4 Chp 7,radio,Kl_Q14,A,B,C,D,C,KL/Picture14.png,"中文：已付540、本期费用340，差额200是预付水电费资产。
+Bahasa Melayu: Bayaran 540 melebihi belanja semasa 340; RM200 ialah kadar bayaran prabayar."
+F4 Chp 7,radio,Melaka_Q13,A,B,C,D,C,Melaka/Picture13.png,"中文：用于促销的商品是企业推广费用：借记促销、贷记购货。
+Bahasa Melayu: Barang niaga untuk promosi direkod debit Promosi dan kredit Belian, bukan ambilan peribadi."
+F4 Chp 7,radio,Melaka_Q14,A,B,C,D,A,Melaka/Picture14.png,"中文：向客户征收利息增加欠款，记应收账款控制账户借方。
+Bahasa Melayu: Faedah dikenakan kepada pelanggan menambah hutangnya dan didebitkan dalam Akaun Kawalan Belum Terima."
+F4 Chp 7,radio,Mrsm_Q13,A,B,C,D,C,MRSM/Picture13.png,"中文：缴保险借记保险、对方银行；期末本期保险费用转入损益，预付部分保留作资产。
+Bahasa Melayu: Bayaran insurans berlawanan Bank; belanja semasa dipindahkan ke Untung Rugi dan prabayar dibawa sebagai aset."
+F4 Chp 7,radio,Mrsm_Q14,A,B,C,D,D,MRSM/Picture14.png,"中文：现金制在实际付款时记录费用，不按尚未付的应计金额确认。
+Bahasa Melayu: Asas tunai merekod belanja apabila pembayaran dilakukan."
+F4 Chp 7,radio,NegeriSembilan_Q13,A,B,C,D,D,Negeri Sembilan/Picture13.png,"中文：期末存货一方面减少销售成本，另一方面列流动资产，因此在两张报表出现。
+Bahasa Melayu: Inventori akhir mengurangkan kos jualan dan menjadi aset semasa, maka muncul dalam kedua-dua penyata."
+F4 Chp 7,radio,NegeriSembilan_Q14,A,B,C,D,B,Negeri Sembilan/Picture14.png,"中文：营运资本 = 13,280 + 10,460 − 6,680 − 500 = RM16,560；办公设备非流动资产。
+Bahasa Melayu: Modal kerja = 13,280 + 10,460 − 6,680 − 500 = RM16,560; alatan pejabat ialah aset bukan semasa."
+F4 Chp 7,radio,Pahang_Q13,A,B,C,D,D,Pahang/Picture13.png,"中文：速递费及办公室报刊是小额日常支付，适合零用现金簿。
+Bahasa Melayu: Pos laju serta akhbar dan majalah pejabat ialah pembayaran kecil dalam Buku Tunai Runcit."
+F4 Chp 7,radio,Pahang_Q14,A,B,C,D,D,Pahang/Picture14.png,"中文：客户及供应商个人账户分别在销售与购货辅助分类账。
+Bahasa Melayu: Akaun pelanggan dan pembekal direkod dalam Lejar Subsidiari Jualan dan Belian."
+F4 Chp 7,radio,PenangPpdBaratDaya_Q13,A,B,C,D,B,Penang PPD Barat Daya/Picture13.png,"中文：坏账使应收账款减少，所以列在应收账款控制账户贷方。
+Bahasa Melayu: Hutang lapuk mengurangkan Akaun Belum Terima, maka dicatat di sebelah kredit akaun kawalan."
+F4 Chp 7,radio,PenangPpdBaratDaya_Q14,A,B,C,D,C,Penang PPD Barat Daya/Picture14.png,"中文：客户账户贷方出现 Bank RM4,700，表示企业以支票收回 Garuda Bhd 的欠款。
+Bahasa Melayu: Catatan Bank RM4,700 di sebelah kredit akaun pelanggan menunjukkan Mustafa Enterprise menerima bayaran hutang melalui cek."
+F4 Chp 7,radio,Perak_Q13,A,B,C,D,B,Perak/Picture13.png,"中文：销货成本及可供销售商品成本列在营业账户借方；销货在贷方，毛利结转在借方。
+Bahasa Melayu: Kos jualan dan kos barang untuk dijual berada di sebelah debit Akaun Perdagangan; jualan di kredit dan untung kasar dipindahkan melalui debit."
+F4 Chp 7,radio,Perak_Q14,A,B,C,D,B,Perak/Picture14.png,"中文：产业、厂房是资产，仓库工资是费用，均在借方；抵押贷款及坏账准备减少额在贷方。
+Bahasa Melayu: Hartanah dan loji serta upah gudang berbaki debit; gadai janji dan pengurangan peruntukan hutang ragu berbaki kredit."
+F4 Chp 7,radio,Perlis_Q13,A,B,C,D,C,Perlis/Picture13.png,"中文：期末存货借记存货账户、贷记营业账户；结转后在下一期成为借方期初余额。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir; baki tersebut dibawa ke tempoh berikut sebagai baki debit."
+F4 Chp 7,radio,Perlis_Q14,A,B,C,D,B,Perlis/Picture14.png,"中文：预付保险是资产，借记预付保险、贷记保险，以减少本期保险费用。
+Bahasa Melayu: Debit Insurans Prabayar dan kredit Insurans untuk mengasingkan aset prabayar daripada belanja semasa."
+F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,A,Selangor Set 1/Picture13.png,"中文：现金制在收钱时确认收入；应计制在收入赚取时确认，与实际收款时间无关。
+Bahasa Melayu: Asas tunai mengiktiraf hasil apabila tunai diterima; asas akruan mengiktiraf hasil dalam tempoh diperoleh."
+F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 1/Picture14.png,"中文：4 月至 8 月使用 5 个月，剩余 7 个月预付；6,600 × 7/12 = RM3,850。
+Bahasa Melayu: Lima bulan telah digunakan hingga Ogos; baki tujuh bulan prabayar = 6,600 × 7/12 = RM3,850."
+F4 Chp 7,radio,SelangorSet_Q13,A,B,C,D,B,Selangor Set 2/Picture13.png,"中文：应计制确认本期已赚取但未收的收入；预付费用属于未来期间，不作为本期费用。
+Bahasa Melayu: Asas akruan mengiktiraf hasil belum terima, tetapi belanja prabayar bagi tempoh hadapan tidak diiktiraf sebagai belanja semasa."
+F4 Chp 7,radio,SelangorSet_Q14,A,B,C,D,C,Selangor Set 2/Picture14.png,"中文：本期保险费用 = 付款 6,900 + 期初预付 800 − 期末预付 700 = RM7,000。
+Bahasa Melayu: Belanja insurans semasa = 6,900 + prabayar awal 800 − prabayar akhir 700 = RM7,000."
+F4 Chp 7,radio,Smka_Q13,A,B,C,D,C,SMKA/Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
+Bahasa Melayu: Inventori ialah barang niaga yang dimiliki untuk dijual dan diklasifikasikan sebagai aset semasa."
+F4 Chp 7,radio,Smka_Q14,A,B,C,D,B,SMKA/Picture14.png,"中文：X = 流动资产 9,440 − 流动负债 5,560 = RM3,880，称为营运资本。
+Bahasa Melayu: X = aset semasa 9,440 − liabiliti semasa 5,560 = RM3,880, iaitu modal kerja."
+F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,B,Terengganu/Picture13.png,"中文：销货分类账记录赊销客户的应收账户；购货分类账记录赊购供应商的应付账户。
+Bahasa Melayu: Lejar Jualan mengandungi Akaun Belum Terima bagi jualan kredit; Lejar Belian mengandungi Akaun Belum Bayar bagi belian kredit."
+F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,A,Terengganu/Picture14.png,"中文：收支票及给予折扣：借记银行和折扣给予，贷记客户 Amira 的总欠款。
+Bahasa Melayu: Debit Bank dan Diskaun Diberi, kemudian kredit Perniagaan Amira dengan jumlah hutang yang dijelaskan."

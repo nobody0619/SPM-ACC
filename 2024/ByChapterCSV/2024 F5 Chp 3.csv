@@ -1,49 +1,97 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,B,Johor Set 1/Picture25.png
-F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,C,Johor Set 1/Picture26.png
-F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,C,Johor Set 1/Picture27.png
-F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,A,Johor Set 2/Picture25.png
-F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,A,Johor Set 2/Picture26.png
-F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,D,Johor Set 2/Picture27.png
-F5 Chp 3,radio,Kedah_Q25,A,B,C,D,A,Kedah/Picture25.png
-F5 Chp 3,radio,Kedah_Q26,A,B,C,D,A,Kedah/Picture26.png
-F5 Chp 3,radio,Kedah_Q27,A,B,C,D,A,Kedah/Picture27.png
-F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,B,Kelantan/Picture25.png
-F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,C,Kelantan/Picture26.png
-F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,A,Kelantan/Picture27.png
-F5 Chp 3,radio,Kl_Q25,A,B,C,D,C,KL/Picture25.png
-F5 Chp 3,radio,Kl_Q26,A,B,C,D,D,KL/Picture26.png
-F5 Chp 3,radio,Kl_Q27,A,B,C,D,B,KL/Picture27.png
-F5 Chp 3,radio,Melaka_Q25,A,B,C,D,B,Melaka/Picture25.png
-F5 Chp 3,radio,Melaka_Q26,A,B,C,D,C,Melaka/Picture26.png
-F5 Chp 3,radio,Melaka_Q27,A,B,C,D,B,Melaka/Picture27.png
-F5 Chp 3,radio,Mrsm_Q25,A,B,C,D,B,MRSM/Picture25.png
-F5 Chp 3,radio,Mrsm_Q26,A,B,C,D,A,MRSM/Picture26.png
-F5 Chp 3,radio,Mrsm_Q27,A,B,C,D,D,MRSM/Picture27.png
-F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,C,Negeri Sembilan/Picture25.png
-F5 Chp 3,radio,NegeriSembilan_Q26,A,B,C,D,B,Negeri Sembilan/Picture26.png
-F5 Chp 3,radio,NegeriSembilan_Q27,A,B,C,D,B,Negeri Sembilan/Picture27.png
-F5 Chp 3,radio,Pahang_Q25,A,B,C,D,B,Pahang/Picture25.png
-F5 Chp 3,radio,Pahang_Q26,A,B,C,D,A,Pahang/Picture26.png
-F5 Chp 3,radio,Pahang_Q27,A,B,C,D,D,Pahang/Picture27.png
-F5 Chp 3,radio,PenangPpdBaratDaya_Q25,A,B,C,D,C,Penang PPD Barat Daya/Picture25.png
-F5 Chp 3,radio,PenangPpdBaratDaya_Q26,A,B,C,D,A,Penang PPD Barat Daya/Picture26.png
-F5 Chp 3,radio,PenangPpdBaratDaya_Q27,A,B,C,D,D,Penang PPD Barat Daya/Picture27.png
-F5 Chp 3,radio,Perak_Q25,A,B,C,D,B,Perak/Picture25.png
-F5 Chp 3,radio,Perak_Q26,A,B,C,D,C,Perak/Picture26.png
-F5 Chp 3,radio,Perak_Q27,A,B,C,D,D,Perak/Picture27.png
-F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png
-F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png
-F5 Chp 3,radio,Perlis_Q27,A,B,C,D,C,Perlis/Picture27.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 1/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor Set 1/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,D,Selangor Set 1/Picture27.png
-F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 2/Picture25.png
-F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,A,Selangor Set 2/Picture26.png
-F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,A,Selangor Set 2/Picture27.png
-F5 Chp 3,radio,Smka_Q25,A,B,C,D,B,SMKA/Picture25.png
-F5 Chp 3,radio,Smka_Q26,A,B,C,D,A,SMKA/Picture26.png
-F5 Chp 3,radio,Smka_Q27,A,B,C,D,A,SMKA/Picture27.png
-F5 Chp 3,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png
-F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,A,Terengganu/Picture26.png
-F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,D,Terengganu/Picture27.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,B,Johor Set 1/Picture25.png,"中文：业主提取会减少资本，计算真实净利时应加回，所以 Q 是 Ambilan。
+Bahasa Melayu: Ambilan mengurangkan modal; ditambah semula dalam pengiraan untung bersih, maka Q ialah ambilan."
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,C,Johor Set 1/Picture26.png,"中文：盈亏 = 48,500 − 5,000 − 54,600 = −RM11,100，为净亏。
+Bahasa Melayu: Untung atau rugi = RM48,500 − RM5,000 − RM54,600 = −RM11,100, iaitu rugi bersih."
+F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,C,Johor Set 1/Picture27.png,"中文：赊销 = 28,500 + 1,400 + 39,500 − 43,400 = RM26,000；加现金销售19,500，总销售 RM45,500。
+Bahasa Melayu: Jualan kredit RM26,000 diperoleh melalui ABT; tambah jualan tunai RM19,500 untuk jumlah RM45,500. Diskaun diterima tidak digunakan."
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,A,Johor Set 2/Picture25.png,"中文：比较法净利 = 期末资本 + 提取 − 期初资本 − 新增资本。
+Bahasa Melayu: Untung kaedah perbandingan = modal akhir + ambilan − modal awal − modal tambahan."
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,A,Johor Set 2/Picture26.png,"中文：净利 = 42,000 + 600 − 12,750 − 10,850 = RM19,000；流动资产不直接代入资本比较式。
+Bahasa Melayu: Untung bersih = 42,000 + 600 − 12,750 − 10,850 = RM19,000; aset semasa tidak dimasukkan terus dalam rumus perbandingan modal."
+F5 Chp 3,radio,JohorSet_Q27,A,B,C,D,D,Johor Set 2/Picture27.png,"中文：赊购 = 9,800+450+1,180−1,430 = RM10,000；加现金购货4,520，总购货 RM14,520。
+Bahasa Melayu: Belian kredit RM10,000 melalui ABB; tambah belian tunai RM4,520 untuk jumlah RM14,520."
+F5 Chp 3,radio,Kedah_Q25,A,B,C,D,A,Kedah/Picture25.png,"中文：提款 = 期初资本22,000 + 新增资本7,700 − 净亏1,900 − 期末资本25,000 = RM2,800。
+Bahasa Melayu: Ambilan = modal awal 22,000 + modal tambahan 7,700 − rugi bersih 1,900 − modal akhir 25,000 = RM2,800."
+F5 Chp 3,radio,Kedah_Q26,A,B,C,D,A,Kedah/Picture26.png,"中文：现金簿贷方12,800表示透支；银行余额 = −12,800 + 1,240 − 835 = −12,395，即银行对账单借方RM12,395。
+Bahasa Melayu: Baki Buku Tunai kredit ialah overdraf. −12,800 + 1,240 − 835 = −12,395, iaitu baki debit Penyata Bank RM12,395."
+F5 Chp 3,radio,Kedah_Q27,A,B,C,D,A,Kedah/Picture27.png,"中文：租金支票已经记入现金簿，但尚未出现在银行对账单，因此是未兑现支票。
+Bahasa Melayu: Cek sewa telah direkod dalam Buku Tunai tetapi belum muncul dalam Penyata Bank, maka ialah cek belum dikemukakan."
+F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,B,Kelantan/Picture25.png,"中文：任务指定是明确由谁收现金，例如规定只有收银员可收款。
+Bahasa Melayu: Penetapan tugas menentukan pekerja yang bertanggungjawab, contohnya hanya juruwang menerima tunai."
+F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,C,Kelantan/Picture26.png,"中文：未记销售收款借记银行1,200；银行代付保险贷记银行370。
+Bahasa Melayu: Debit bank 1,200 bagi jualan belum direkod dan kredit bank 370 bagi insurans melalui perintah sedia ada."
+F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,A,Kelantan/Picture27.png,"中文：6月现金盈余 = 15,680 − 5,200 = RM10,480；不包含期初余额。
+Bahasa Melayu: Lebihan tunai Jun = 15,680 − 5,200 = RM10,480; baki awal tidak termasuk dalam lebihan."
+F5 Chp 3,radio,Kl_Q25,A,B,C,D,C,KL/Picture25.png,"中文：当月支付本月现金购货60%及上月赊购40%；若每月购货40,000，则合计仍RM40,000。
+Bahasa Melayu: Bayaran merangkumi 60% belian tunai bulan semasa dan 40% belian kredit bulan lalu; belian bulanan 40,000 menghasilkan bayaran RM40,000."
+F5 Chp 3,radio,Kl_Q26,A,B,C,D,D,KL/Picture26.png,"中文：银行贷款利息需要实际付款，是现金预算支出。
+Bahasa Melayu: Faedah pinjaman bank ialah aliran keluar tunai dalam Belanjawan Tunai."
+F5 Chp 3,radio,Kl_Q27,A,B,C,D,B,KL/Picture27.png,"中文：可分利润 = 4,000 + 60 − 1,500 = 2,560；两人平均各RM1,280。
+Bahasa Melayu: Untung boleh dibahagi = 4,000 + 60 − 1,500 = 2,560; setiap pekongsi RM1,280."
+F5 Chp 3,radio,Melaka_Q25,A,B,C,D,B,Melaka/Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
+Bahasa Melayu: Kos jualan = 120,000 − 59,520 = 60,480; inventori purata = 60,480 ÷ 8 = RM7,560."
+F5 Chp 3,radio,Melaka_Q26,A,B,C,D,C,Melaka/Picture26.png,"中文：资本 = 资产 − 负债；应收账款是资产，银行透支是负债。
+Bahasa Melayu: Modal = aset − liabiliti; Akaun Belum Terima ialah aset dan overdraf bank ialah liabiliti."
+F5 Chp 3,radio,Melaka_Q27,A,B,C,D,B,Melaka/Picture27.png,"中文：一般合伙具有无限责任，且向SSM注册。现有答案 B 的“无限至出资额”措辞矛盾，C 的注册特征正确，待核对。
+Bahasa Melayu: Perkongsian biasa mempunyai liabiliti tidak terhad dan didaftarkan dengan SSM. Ayat B bercanggah; ciri pendaftaran dalam C adalah betul dan perlu disemak."
+F5 Chp 3,radio,Mrsm_Q25,A,B,C,D,B,MRSM/Picture25.png,"中文：期末资本 = 20,500 + 23,100 + 47,000 − 13,800 − 1,350 = 75,450；净利75,450 + 2,500 − 61,650 = RM16,300。
+Bahasa Melayu: Modal akhir = 20,500 + 23,100 + 47,000 − 13,800 − 1,350 = 75,450; untung = 75,450 + 2,500 − 61,650 = RM16,300."
+F5 Chp 3,radio,Mrsm_Q26,A,B,C,D,A,MRSM/Picture26.png,"中文：赊购 = 17,000 + 23,540 + 1,870 + 2,540 − 8,500 = RM36,450。
+Bahasa Melayu: Belian kredit = 17,000 + 23,540 + 1,870 + 2,540 − 8,500 = RM36,450."
+F5 Chp 3,radio,Mrsm_Q27,A,B,C,D,D,MRSM/Picture27.png,"中文：银行调节表比较企业账簿与银行记录，查明差额，是现金内部控制工具。
+Bahasa Melayu: Penyata Penyesuaian Bank mengesan perbezaan antara Buku Tunai dengan Penyata Bank sebagai kawalan tunai."
+F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,C,Negeri Sembilan/Picture25.png,"中文：银行余额 = 3,600 + 1,600 − 6,800 = −1,600，负数表示银行对账单借方透支。
+Bahasa Melayu: Baki bank = 3,600 + 1,600 − 6,800 = −1,600; overdraf ialah baki debit Penyata Bank."
+F5 Chp 3,radio,NegeriSembilan_Q26,A,B,C,D,B,Negeri Sembilan/Picture26.png,"中文：12月收款 = 当月现金销售6,000 + 11月赊销收回7,000 = RM13,000。
+Bahasa Melayu: Penerimaan Disember = jualan tunai 6,000 + kutipan jualan kredit November 7,000 = RM13,000."
+F5 Chp 3,radio,NegeriSembilan_Q27,A,B,C,D,B,Negeri Sembilan/Picture27.png,"中文：银行贷款收到时增加现金，是融资现金流入；折扣和折旧没有现金收入。
+Bahasa Melayu: Pinjaman bank diterima ialah aliran masuk tunai; diskaun dan susut nilai tidak melibatkan penerimaan tunai."
+F5 Chp 3,radio,Pahang_Q25,A,B,C,D,B,Pahang/Picture25.png,"中文：把欠款从错误Amira转到正确Ainun：借记Ainun2,800、贷记Amira2,800。
+Bahasa Melayu: Betulkan pelanggan dengan debit Ainun 2,800 dan kredit Amira 2,800."
+F5 Chp 3,radio,Pahang_Q26,A,B,C,D,A,Pahang/Picture26.png,"中文：存货周转率衡量存货管理效率；资本回报率看净利，流动比率看短期偿债。
+Bahasa Melayu: Pusing ganti inventori mengukur kecekapan inventori; pulangan modal menggunakan untung bersih, nisbah semasa mengukur hutang jangka pendek."
+F5 Chp 3,radio,Pahang_Q27,A,B,C,D,D,Pahang/Picture27.png,"中文：流动比率 = (预付300 + 应收6,000) ÷ 银行透支1,500 = 4.20 : 1。
+Bahasa Melayu: Nisbah semasa = (prabayar 300 + ABT 6,000) ÷ overdraf 1,500 = 4.20 : 1."
+F5 Chp 3,radio,PenangPpdBaratDaya_Q25,A,B,C,D,C,Penang PPD Barat Daya/Picture25.png,"中文：把运入费记入运出费仍是同一借方金额，只是费用账户用错，所以试算表依然平衡。
+Bahasa Melayu: Angkutan masuk tersalah dicatat sebagai angkutan keluar masih melibatkan jumlah debit yang sama, maka Imbangan Duga tetap seimbang."
+F5 Chp 3,radio,PenangPpdBaratDaya_Q26,A,B,C,D,A,Penang PPD Barat Daya/Picture26.png,"中文：维修费误记车辆资产，应借记车辆维修费 RM5,500，贷记车辆 RM5,500，以转回正确费用账户。
+Bahasa Melayu: Debit Belanja Membaiki Kenderaan RM5,500 dan kredit Kenderaan RM5,500 untuk membetulkan belanja yang tersalah dipermodalkan."
+F5 Chp 3,radio,PenangPpdBaratDaya_Q27,A,B,C,D,D,Penang PPD Barat Daya/Picture27.png,"中文：净利 ÷ 期初资本 × 100% 是资本回报率，用来衡量每单位投入资本赚取的净利。
+Bahasa Melayu: Untung bersih ÷ modal awal × 100% ialah pulangan atas modal, iaitu keuntungan berbanding modal yang dilaburkan."
+F5 Chp 3,radio,Perak_Q25,A,B,C,D,B,Perak/Picture25.png,"中文：收款 = 82,400 − 1,200 − 600 − 12,600 = RM68,000；折扣取得属于应付账款，不影响这里的应收计算。
+Bahasa Melayu: Kutipan penghutang = 82,400 − 1,200 − 600 − 12,600 = RM68,000; diskaun diterima berkaitan pemiutang, bukan penghutang."
+F5 Chp 3,radio,Perak_Q26,A,B,C,D,C,Perak/Picture26.png,"中文：赊购 = 80,200 + 400 + 16,600 − 12,500 = 84,700；现金购货 = 12,600 + 44,200 = 56,800；总购货 RM141,500。
+Bahasa Melayu: Belian kredit = 80,200 + 400 + 16,600 − 12,500 = 84,700; belian tunai = 12,600 + 44,200 = 56,800; jumlah belian RM141,500."
+F5 Chp 3,radio,Perak_Q27,A,B,C,D,D,Perak/Picture27.png,"中文：把收款、保管、记录和批准付款等职能分配给不同人员，是现金内部控制的职责分工。
+Bahasa Melayu: Pengasingan tugas membahagikan penerimaan, penjagaan, pencatatan dan kelulusan tunai kepada staf berlainan."
+F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png,"中文：赊购 = 1,200 + 5,500 + 300 − 3,900 = 3,100；加现金购货 RM2,700，总购货 RM5,800。
+Bahasa Melayu: Belian kredit = 1,200 + 5,500 + 300 − 3,900 = 3,100; jumlah belian = 3,100 + 2,700 = RM5,800."
+F5 Chp 3,radio,Perlis_Q26,A,B,C,D,C,Perlis/Picture26.png,"中文：之前月份发出的支票已在现金簿记录，不需要再次更新；退票、银行代付及金额错误才须更新现金簿。
+Bahasa Melayu: Cek bulan sebelumnya telah dicatat dalam Buku Tunai dan tidak dicatat semula; cek tak laku, perintah sedia ada dan kesilapan amaun perlu dikemas kini."
+F5 Chp 3,radio,Perlis_Q27,A,B,C,D,C,Perlis/Picture27.png,"中文：银行账单借方余额代表透支：现金簿 = −350 + 3,000 − 2,500 = RM150，属借方余额。
+Bahasa Melayu: Baki debit Penyata Bank ialah overdraf; baki Buku Tunai = −350 + 3,000 − 2,500 = RM150 debit."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 1/Picture25.png,"中文：现金控制确保企业有足够现金支付到期费用和债务，维持正常营运。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila perlu."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,B,Selangor Set 1/Picture26.png,"中文：股息代收与贷项转账增加客户存款，银行账单记贷方；支票簿费用及银行收费记借方。
+Bahasa Melayu: Dividen dan pindahan kredit menambah baki pelanggan serta dicatat kredit Penyata Bank; buku cek dan caj bank dicatat debit."
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,D,Selangor Set 1/Picture27.png,"中文：二月销货 = 5,000 × 1.1 = 5,500；三月 = 6,050；三月收款 = 6,050 × 70% + 5,500 × 30% = RM5,885。
+Bahasa Melayu: Jualan Februari RM5,500 dan Mac RM6,050; penerimaan Mac = 6,050 × 70% + 5,500 × 30% = RM5,885."
+F5 Chp 3,radio,SelangorSet_Q25,A,B,C,D,C,Selangor Set 2/Picture25.png,"中文：现金内部控制通过监督、职责分工及核对，减少现金被挪用的风险。
+Bahasa Melayu: Kawalan tunai mengurangkan risiko penyelewengan melalui pengawasan, pengasingan tugas dan semakan."
+F5 Chp 3,radio,SelangorSet_Q26,A,B,C,D,A,Selangor Set 2/Picture26.png,"中文：贷项转账由银行直接入账，企业尚未记录前会导致账单和现金簿余额不同，需更新现金簿。
+Bahasa Melayu: Pindahan kredit dicatat oleh bank terlebih dahulu dan perlu direkod dalam Buku Tunai untuk menyelaraskan baki."
+F5 Chp 3,radio,SelangorSet_Q27,A,B,C,D,A,Selangor Set 2/Picture27.png,"中文：期末现金 = 3,000 + 92,000 + 75,000 − 80,000 = RM90,000；设备不是现金余额。
+Bahasa Melayu: Baki akhir = tunai 3,000 + bank 92,000 + penerimaan 75,000 − pembayaran 80,000 = RM90,000; peralatan bukan tunai."
+F5 Chp 3,radio,Smka_Q25,A,B,C,D,B,SMKA/Picture25.png,"中文：本年租金费用 = 付款 1,080 − 期初应付 560 + 期末应付 320 = RM840。
+Bahasa Melayu: Belanja sewa = 1,080 − 560 + 320 = RM840."
+F5 Chp 3,radio,Smka_Q26,A,B,C,D,A,SMKA/Picture26.png,"中文：现金控制通过保管、分工和核对防止现金遗失或被挪用。
+Bahasa Melayu: Sistem kawalan tunai mencegah kehilangan dan penyalahgunaan tunai melalui penjagaan serta semakan."
+F5 Chp 3,radio,Smka_Q27,A,B,C,D,A,SMKA/Picture27.png,"中文：实际付款 RM950 却只记 RM905，现金簿少减 RM45，余额便比银行账单多 RM45。
+Bahasa Melayu: Bayaran terkurang catat sebanyak 950 − 905 = RM45 menyebabkan baki Buku Tunai terlebih nyata RM45."
+F5 Chp 3,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png,"中文：把还债记入另一个供应商账户是佣金错误，只影响客户别的债务记录，不改变毛利或净利。
+Bahasa Melayu: Pembayaran hutang tersalah ke akaun pemiutang lain ialah kesilapan komisen dan tidak mengubah untung kasar atau untung bersih."
+F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,A,Terengganu/Picture26.png,"中文：Liyani 周转率 6 次高于 Mimmy 3 次，存货卖出更快，管理效率较高。
+Bahasa Melayu: Kadar pusing ganti Liyani 6 kali melebihi Mimmy 3 kali, menunjukkan inventori lebih laris dan pengurusan lebih cekap."
+F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,D,Terengganu/Picture27.png,"中文：净利 = 10,300 + 500 − 9,000 − 700 = RM1,100。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 10,300 + 500 − 9,000 − 700 = RM1,100."

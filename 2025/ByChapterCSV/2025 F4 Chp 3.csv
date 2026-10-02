@@ -1,0 +1,37 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 3,radio,Kelantan_Q04,A,B,C,D,A,Kelantan/Picture4.png,"中文：账户结单汇总客户一段期间交易与欠款，是非原始凭证；本身不用于首次记账。
+Bahasa Melayu: Penyata Akaun ialah dokumen bukan sumber yang merumuskan urus niaga dan baki hutang pelanggan."
+F4 Chp 3,radio,Perlis_Q04,A,B,C,D,C,Perlis/Picture4.png,"中文：账户结单列出客户交易及欠款余额，提醒客户清还债务。
+Bahasa Melayu: Penyata akaun menyenaraikan urus niaga pelanggan dan mengingatkan baki hutang yang perlu dijelaskan."
+F4 Chp 3,radio,Kedah_Q05,A,B,C,D,D,Kedah/Picture5.png,"中文：非原始凭证作为交易参考与支持资料，不直接用来记账。
+Bahasa Melayu: Dokumen bukan sumber menjadi dokumen sokongan dan rujukan, bukan asas langsung catatan perakaunan."
+F4 Chp 3,radio,Perak_Q05,A,B,C,D,C,Perak/Picture5.png,"中文：购货通知属于非原始凭证，用于协助采购流程，不能直接作为交易入账依据。
+Bahasa Melayu: Nota belian ialah dokumen bukan sumber yang menyokong urusan pembelian, bukan bukti utama untuk merekod urus niaga."
+F4 Chp 3,radio,Perlis_Q05,A,B,C,D,A,Perlis/Picture5.png,"中文：收到供应商发票可作为赊购货品的入账凭证。
+Bahasa Melayu: Invois yang diterima daripada pembekal menjadi dokumen sumber untuk belian secara kredit."
+F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,C,Johor Set 1/Picture6.png,"中文：Memo 和付款凭单是企业内部使用的文件，通常只准备一份；收据和现金单需交给交易另一方。
+Bahasa Melayu: Memo dan baucer pembayaran disediakan dalam satu salinan untuk kegunaan dalaman; resit dan bil tunai memerlukan salinan untuk pihak urus niaga."
+F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,B,Johor Set 2/Picture6.png,"中文：客户退回空瓶使其欠款减少，企业发出贷项通知单 Nota Kredit。
+Bahasa Melayu: Nota Kredit dihantar kepada pelanggan untuk mengurangkan hutangnya apabila botol kosong dipulangkan."
+F4 Chp 3,radio,Kedah_Q06,A,B,C,D,A,Kedah/Picture6.png,"中文：本题答案为发票，它通知客户该笔赊购应付的金额；账户结单则汇总一段期间的交易与余额。
+Bahasa Melayu: Invois memaklumkan amaun perlu dibayar bagi sesuatu jualan kredit; Penyata Akaun merumuskan urus niaga dan baki bagi suatu tempoh."
+F4 Chp 3,radio,KelantanYik_Q06,A,B,C,D,C,Kelantan YIK/Picture6.png,"中文：发票少计金额或漏记收费时，发出借项通知单增加客户欠款，故 II 和 III 正确。
+Bahasa Melayu: Nota debit dikeluarkan apabila invois terkurang nyata atau butiran tertinggal, untuk menambah hutang pelanggan; II dan III betul."
+F4 Chp 3,radio,NegeriSembilan_Q06,A,B,C,D,A,Negeri Sembilan/Picture6.png,"中文：商业折扣用于鼓励大量或批量购货；催促客户尽快清偿债务的是现金折扣。
+Bahasa Melayu: Diskaun niaga menggalakkan pembelian secara pukal; diskaun tunai menggalakkan pembayaran hutang segera."
+F4 Chp 3,radio,Perak_Q06,A,B,C,D,C,Perak/Picture6.png,"中文：银行存款利息增加企业银行余额，银行以贷项通知告知企业。
+Bahasa Melayu: Faedah simpanan menambah baki bank perniagaan; bank mengeluarkan makluman kredit."
+F4 Chp 3,radio,Selangor_Q06,A,B,C,D,B,Selangor/Picture6.png,"中文：发票是赊购或赊销的原始凭证，列出货品及应付金额。
+Bahasa Melayu: Invois ialah dokumen sumber bagi urus niaga secara kredit dan menyatakan barang serta amaun perlu dibayar."
+F4 Chp 3,radio,Terengganu_Q06,A,B,C,D,B,Terengganu/Picture6.png,"中文：银行贷项通知告知客户银行已增加其账户余额，例如收到利息或转账。
+Bahasa Melayu: Makluman kredit memberitahu pemilik bahawa bank telah menambahkan baki akaunnya."
+F4 Chp 3,radio,Kedah_Q07,A,B,C,D,D,Kedah/Picture7.png,"中文：现金簿记录本张支票付款 RM5,000；存款、结余及可用金额不是这笔交易金额。
+Bahasa Melayu: Amaun cek yang dibayar ialah RM5,000 dan itulah catatan Buku Tunai bagi urus niaga ini."
+F4 Chp 3,radio,KelantanYik_Q07,A,B,C,D,D,Kelantan YIK/Picture7.png,"中文：发票是原始凭证，银行结单在课本分类中是非原始凭证，所以 D 配对正确。
+Bahasa Melayu: Invois ialah dokumen sumber dan Penyata Bank ialah dokumen bukan sumber mengikut pengelasan buku teks; padanan D betul."
+F4 Chp 3,radio,NegeriSembilan_Q07,A,B,C,D,A,Negeri Sembilan/Picture7.png,"中文：卖方在赊销时准备发票，说明商品、金额和付款条件，供买方确认应付金额。
+Bahasa Melayu: Penjual menyediakan invois bagi jualan kredit untuk menyatakan barang, harga dan amaun perlu dibayar."
+F4 Chp 3,radio,KelantanYik_Q08,A,B,C,D,C,Kelantan YIK/Picture8.png,"中文：赊购交易由卖方开出发票，列明货品、价格和客户应付款。
+Bahasa Melayu: Invois dikeluarkan bagi jual beli secara kredit dan menyatakan barang serta amaun perlu dibayar."
+F4 Chp 3,radio,Pahang_Q08,A,B,C,D,C,Pahang/Picture8.png,"中文：贷项通知单通知买方，其欠卖方的金额已经减少。
+Bahasa Melayu: Nota kredit memaklumkan pembeli bahawa baki hutangnya kepada penjual telah berkurang."

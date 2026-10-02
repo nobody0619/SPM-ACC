@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：管理会计为企业内部人员提供规划、控制及生产管理资料。
+Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat perancangan, kawalan dan pengurusan pengeluaran untuk pengguna dalaman."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：业主住宅租金是私人开支，企业替他支付须记提款，符合独立个体假设。
+Bahasa Melayu: Sewa kediaman pemilik ialah belanja peribadi dan dicatat sebagai ambilan, mematuhi andaian entiti berasingan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture3.png,"中文：按本题课本列示，合作社成员至少50人、责任有限，并以股息分配盈余。
+Bahasa Melayu: Mengikut ciri yang digunakan dalam soalan, koperasi mempunyai sekurang-kurangnya 50 anggota, liabiliti terhad dan agihan keuntungan sebagai dividen."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：家具店售卖餐桌属于日常主营业务，因此是营业收入。
+Bahasa Melayu: Jualan meja makan ialah aktiviti utama perniagaan perabot dan merupakan hasil operasi."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：付银行 RM5,000 清还 RM5,150 债务，资产减少5,000、负债减少5,150；所获折扣 RM150 增加利润及权益。
+Bahasa Melayu: Bank berkurang RM5,000, liabiliti berkurang RM5,150 dan diskaun diterima RM150 menambah untung serta ekuiti pemilik."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：发票是赊购或赊销的原始凭证，列出货品及应付金额。
+Bahasa Melayu: Invois ialah dokumen sumber bagi urus niaga secara kredit dan menyatakan barang serta amaun perlu dibayar."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：电脑由待售货品转为办公室设备，借记办公设备、贷记购货 RM3,600。
+Bahasa Melayu: Komputer dijadikan aset untuk pejabat: debit Alatan Pejabat dan kredit Belian RM3,600."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：现金簿贷方的银行付款表示清还 Hero Trading 欠款；折扣 RM50 为收到的折扣。
+Bahasa Melayu: Catatan kredit bank menunjukkan hutang kepada Hero Trading dibayar dengan cek; RM50 ialah diskaun diterima."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：分类账分为总账及辅助账；应收分类账属于辅助账。
+Bahasa Melayu: Lejar dibahagi kepada Lejar Am dan Lejar Subsidiari; Lejar Belum Terima ialah sebahagian Lejar Subsidiari."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：赊销 = 收款8,320 + 所给折扣180 + 期末应收2,730 − 期初应收3,190 = RM8,040。
+Bahasa Melayu: Jualan kredit = bank 8,320 + diskaun diberi 180 + baki akhir 2,730 − baki awal 3,190 = RM8,040."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：运入费是费用，正常借方余额；存款利息是收入，正常贷方余额。
+Bahasa Melayu: Angkutan masuk ialah belanja berbaki debit; faedah atas simpanan ialah hasil berbaki kredit."
+,radio,F4 Bab 7,A,B,C,D,C,Picture12.png,"中文：净利 = 8,900 + 750 − 1,600 − 1,500 = RM6,550；运入费已在毛利计算中处理，不能重复扣。
+Bahasa Melayu: Untung bersih = 8,900 + 750 − 1,600 − 1,500 = RM6,550. Angkutan masuk telah diambil kira dalam untung kasar dan tidak ditolak semula."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：购货账户年末结转到交易账户，用于计算销货成本及毛利。
+Bahasa Melayu: Akaun Belian ditutup ke Akaun Perdagangan untuk pengiraan kos jualan dan untung kasar."
+,radio,F4 Bab 8,A,B,C,D,D,Picture14.png,"中文：权责发生制下，已经赚取但未收款的收入仍确认本期收入；预收收入尚未赚取。
+Bahasa Melayu: Asas akruan mengiktiraf hasil belum terima sebagai hasil semasa kerana telah diperoleh; hasil belum terperoleh belum diiktiraf."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：租金支付至翌年3月，年末尚有3个月预付：3,600 ÷ 12 × 3 = RM900，列流动资产。
+Bahasa Melayu: Sewa meliputi hingga Mac tahun berikutnya. Prabayar tiga bulan = 3,600 ÷ 12 × 3 = RM900, dicatat sebagai aset semasa."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：新准备 = (40,600 − 300) × 2% = RM806；比原有650增加 RM156，列损益费用。
+Bahasa Melayu: Peruntukan baharu = (40,600 − 300) × 2% = RM806. Pertambahan = 806 − 650 = RM156, dicatat sebagai belanja."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：直线折旧 = (成本60,000 − 残值2,000) ÷ 8年 = RM7,250。
+Bahasa Melayu: Susut nilai garis lurus = (kos 60,000 − nilai skrap 2,000) ÷ 8 tahun = RM7,250."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：本期折旧 = (90,000 − 32,400) × 20% = RM11,520；更新后净值 RM46,080，售价47,000，处置盈利 RM920。
+Bahasa Melayu: Susut nilai semasa = (90,000 − 32,400) × 20% = RM11,520. Nilai buku selepas susut nilai RM46,080; untung pelupusan = 47,000 − 46,080 = RM920."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：3月至12月保险费用 = 7,200 × 10/12 = RM6,000；翌年两个月 RM1,200 为预付保险资产。
+Bahasa Melayu: Belanja insurans Mac hingga Disember = 7,200 × 10/12 = RM6,000. Baki dua bulan RM1,200 ialah insurans prabayar dalam Penyata Kedudukan Kewangan."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：维修费属于收益支出，却记入车辆资产，混淆费用及资产，属于原则错误。
+Bahasa Melayu: Belanja membaiki kenderaan ialah perbelanjaan hasil tetapi direkod sebagai aset; ini ialah kesilapan prinsip."
+,radio,F4 Bab 9,A,B,C,D,A,Picture21.png,"中文：待售家具是货品，应记购货；借记购货、贷记家具账户，取消错误资产记录。
+Bahasa Melayu: Perabot untuk dijual ialah barang niaga. Debit Belian dan kredit Perabot untuk memindahkan catatan daripada aset kepada belian."

@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Set 1 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 1 F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：双重记录系统在十四世纪开始发展，属于课本所列的会计发展阶段。
+Bahasa Melayu: Sistem catatan bergu mula berkembang pada abad ke-14 dalam sejarah perakaunan."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：从 3 月 1 日开始的六个月期间在 8 月 31 日结束。
+Bahasa Melayu: Enam bulan bermula 1 Mac berakhir pada 31 Ogos 2023."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：股东人数无上限、董事会管理及有限责任，是上市公众有限公司的特点。
+Bahasa Melayu: Pemegang syer tidak terhad, pengurusan Lembaga Pengarah dan liabiliti terhad menunjukkan syarikat awam berhad."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：现金、存货与定期存款在本题分类中属流动资产；土地及车辆是非流动资产。
+Bahasa Melayu: Tunai, inventori dan simpanan tetap dikategorikan sebagai aset semasa dalam soalan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：家具净成本 = 5,000 − 500 = RM4,500；银行减少 RM1,500，尚欠 RM3,000。
+Bahasa Melayu: Perabot RM4,500 selepas diskaun niaga; bank berkurang RM1,500 dan ABB bertambah RM3,000."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：4101 位于收入代码 4000–4999，收到佣金属于收入。
+Bahasa Melayu: Kod 4101 dalam julat hasil 4000–4999; komisen diterima ialah hasil."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：7 月 10 日已超过七天档，仍在十四天内：现金折扣 = 3,060 × 5% = RM153。
+Bahasa Melayu: Bayaran melebihi tujuh hari tetapi dalam empat belas hari; diskaun = RM3,060 × 5% = RM153."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：银行结单列银行交易；账目结单由供应商发出以提醒未清欠款，即 I、IV。
+Bahasa Melayu: Penyata Bank menyenaraikan urus niaga bank; Penyata Akaun mengingatkan hutang pelanggan, iaitu I dan IV."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：先在原始记录簿按日期记录交易，可减少漏记及记录错误。
+Bahasa Melayu: Buku Catatan Pertama merekod urus niaga mengikut tarikh untuk meminimumkan kesilapan dan ketinggalan."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：供应商发来的贷项通知单表示购货退回，应记购货退回日记账。
+Bahasa Melayu: Nota kredit daripada pembekal menunjukkan pulangan belian, direkod dalam Jurnal Pulangan Belian."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：定额 RM200，余额 RM75，补回 200 − 75 = RM125，等于本月支出。
+Bahasa Melayu: Rekupmen = panjar RM200 − baki RM75 = RM125, sama dengan perbelanjaan runcit."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：转入损益账户的租金是 RM280；余下 RM200 为预付租金，不是本期费用。
+Bahasa Melayu: Sewa dipindahkan ke Untung Rugi ialah RM280; baki RM200 merupakan sewa prabayar."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：销售退回减少客户欠款：借记销售退回，贷记应收账款。
+Bahasa Melayu: Debit Pulangan Jualan dan kredit ABT kerana hutang pelanggan berkurang."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：赊购 = 26,300 + 1,800 + 16,850 − 4,500 − 230 − 350 = RM39,870；按应付账款控制账户推算。
+Bahasa Melayu: Belian kredit = RM26,300 + RM1,800 + RM16,850 − RM4,500 − RM230 − RM350 = RM39,870 melalui Akaun Kawalan ABB."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：现金备用金列借方；购货退回属于贷方余额，符合 C 的 P、Q 配对。
+Bahasa Melayu: Tunai runcit berbaki debit dan pulangan keluar berbaki kredit; padanan C betul."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：期末存货越低，销货成本越高，毛利越低。
+Bahasa Melayu: Inventori akhir rendah meningkatkan kos jualan dan mengurangkan untung kasar."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：交易账户用销售净额减销货成本，确定毛利或毛亏。
+Bahasa Melayu: Akaun Perdagangan menentukan untung atau rugi kasar daripada jualan bersih ditolak kos jualan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：非营业收入转入损益账户，销售净额转入交易账户，I、IV 正确。
+Bahasa Melayu: Hasil dipindahkan ke Untung Rugi dan jualan bersih ke Perdagangan, iaitu I dan IV."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：漏记保险支票付款需补记：借记保险、贷记银行 RM2,760。
+Bahasa Melayu: Debit Insurans dan kredit Bank RM2,760 untuk merekod pembayaran yang tertinggal."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：1 月购入计全年，4 月底购入计八个月，12 月最后一天购入不计本年月份：1,800×20% + 3,600×20%×8/12 = RM840。
+Bahasa Melayu: Susut nilai = RM1,800×20% + RM3,600×20%×8/12 = RM840. Pembelian pada hari terakhir Disember tidak dikenakan susut nilai bulanan tahun ini."
+,radio,F4 Bab 9,A,B,C,D,A,Picture21.png,"中文：2022 折旧 = 120,000×20%×9/12 = RM18,000；2023 折旧 RM20,400，账面值 RM81,600。加出售利润 RM10,000，售价 RM91,600。
+Bahasa Melayu: Nilai buku = RM120,000 − RM18,000 − RM20,400 = RM81,600. Harga pelupusan = nilai buku + untung RM10,000 = RM91,600."

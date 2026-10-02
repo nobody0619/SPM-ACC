@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-MRSM F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+MRSM F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：CIMA 专注培养管理会计人才，涉及企业管理、计划与经营环境变化。
+Bahasa Melayu: CIMA melahirkan akauntan pengurusan dan menangani perubahan dalam pengurusan serta pentadbiran perniagaan."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：按原购入价RM5,000记账，不改用市场价，体现历史成本原则。
+Bahasa Melayu: Perabot direkod pada kos belian RM5,000, bukannya harga pasaran, mengikut prinsip kos."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：展开的等式为资产 = 负债 + 资本 + 收入 − 费用，所以 X 是收入。
+Bahasa Melayu: Persamaan diperluas ialah Aset = Liabiliti + Modal + Hasil − Belanja; X ialah Hasil."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：提款是资本的减项，对应资本账户；它减少业主权益。
+Bahasa Melayu: Ambilan ialah akaun kontra kepada Modal kerana mengurangkan ekuiti pemilik."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：先扣商业折扣后发票9,000，7日内再享现金折扣5%：9,000 × 5% = RM450。
+Bahasa Melayu: Diskaun tunai atas invois selepas diskaun niaga: 9,000 × 5% = RM450 kerana dibayar dalam 7 hari."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：银行借项通知表示客户银行余额减少，与银行贷项通知相反。
+Bahasa Melayu: Makluman Debit daripada bank memberitahu baki akaun pelanggan telah berkurang."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：商品赊购及供应商借项通知增加购货，记入购货日记簿。
+Bahasa Melayu: Belian barang niaga secara kredit dan nota debit pembekal direkod dalam Jurnal Belian."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：邮票和办公室香氛是小额日常支出，可用零用现金；家具及商品不属此类。
+Bahasa Melayu: Setem dan pewangi pejabat ialah pembayaran kecil sesuai untuk Buku Tunai Runcit."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：商品捐赠视为企业捐款费用，借记 Derma，贷记 Belian。
+Bahasa Melayu: Barang niaga untuk derma direkod debit Derma dan kredit Belian."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：给予客户折扣减少应收账款，列应收账款控制账户贷方。
+Bahasa Melayu: Diskaun diberi mengurangkan hutang pelanggan dan dikreditkan dalam Akaun Kawalan Belum Terima."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：存货按成本与市价孰低：100 × 150 + 90 × 100 = RM24,000。
+Bahasa Melayu: Inventori pada kos atau pasaran terendah: 100 × 150 + 90 × 100 = RM24,000."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：损益账户费用超过收入，会产生净亏损。
+Bahasa Melayu: Belanja melebihi hasil dalam Akaun Untung Rugi menghasilkan rugi bersih."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：缴保险借记保险、对方银行；期末本期保险费用转入损益，预付部分保留作资产。
+Bahasa Melayu: Bayaran insurans berlawanan Bank; belanja semasa dipindahkan ke Untung Rugi dan prabayar dibawa sebagai aset."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：现金制在实际付款时记录费用，不按尚未付的应计金额确认。
+Bahasa Melayu: Asas tunai merekod belanja apabila pembayaran dilakukan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：期末预收佣金 = 期初730 + 本年实收5,400 − 本年收入5,000 = RM1,130，列流动负债。
+Bahasa Melayu: Komisen belum terperoleh akhir = 730 + 5,400 − 5,000 = RM1,130, liabiliti semasa."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：门牌税费用 = 已付200 + 期末欠150 − 期初欠50 = RM300。
+Bahasa Melayu: Belanja cukai pintu = bayaran 200 + belum bayar akhir 150 − awal 50 = RM300."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：坏账是已确定无法收回的债务；预计不能收回则称坏账估计。
+Bahasa Melayu: Hutang lapuk ialah hutang yang pasti tidak dapat dikutip, berbeza daripada anggaran hutang ragu."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：期末准备 = (60,000 − 800) × 5% = 2,960；增加额 = 2,960 − 1,900 = RM1,060。
+Bahasa Melayu: PHR akhir = (60,000 − 800) × 5% = 2,960; pertambahan = 2,960 − 1,900 = RM1,060."
+,radio,F4 Bab 8,A,B,C,D,B,Picture19.png,"中文：展示架A全年折旧1,200；B五个月6,000 × 10% × 5/12 = 250；共RM1,450。
+Bahasa Melayu: Rak A disusut nilai 1,200 setahun; rak B 6,000 × 10% × 5/12 = 250; jumlah RM1,450."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：两年递减折旧后净值120,000 × 80% × 80% = 76,800；售价80,000，利润RM3,200。
+Bahasa Melayu: Nilai buku selepas dua tahun = 120,000 × 80% × 80% = 76,800; harga jualan 80,000 memberi untung RM3,200."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：整笔资产投入未记入任何账簿，是遗漏错误。
+Bahasa Melayu: Urus niaga membawa masuk komputer tidak direkod langsung ialah kesilapan ketinggalan."

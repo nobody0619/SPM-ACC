@@ -1,49 +1,97 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,D,Johor Set 1/Picture9.png
-F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 1/Picture10.png
-F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 1/Picture11.png
-F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,B,Johor Set 2/Picture9.png
-F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 2/Picture10.png
-F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 2/Picture11.png
-F4 Chp 5,radio,Kedah_Q09,A,B,C,D,D,Kedah/Picture9.png
-F4 Chp 5,radio,Kedah_Q10,A,B,C,D,C,Kedah/Picture10.png
-F4 Chp 5,radio,Kedah_Q11,A,B,C,D,D,Kedah/Picture11.png
-F4 Chp 5,radio,Kelantan_Q09,A,B,C,D,C,Kelantan/Picture9.png
-F4 Chp 5,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png
-F4 Chp 5,radio,Kelantan_Q11,A,B,C,D,D,Kelantan/Picture11.png
-F4 Chp 5,radio,Kl_Q09,A,B,C,D,D,KL/Picture9.png
-F4 Chp 5,radio,Kl_Q10,A,B,C,D,A,KL/Picture10.png
-F4 Chp 5,radio,Kl_Q11,A,B,C,D,C,KL/Picture11.png
-F4 Chp 5,radio,Melaka_Q09,A,B,C,D,A,Melaka/Picture9.png
-F4 Chp 5,radio,Melaka_Q10,A,B,C,D,B,Melaka/Picture10.png
-F4 Chp 5,radio,Melaka_Q11,A,B,C,D,D,Melaka/Picture11.png
-F4 Chp 5,radio,Mrsm_Q09,A,B,C,D,A,MRSM/Picture9.png
-F4 Chp 5,radio,Mrsm_Q10,A,B,C,D,A,MRSM/Picture10.png
-F4 Chp 5,radio,Mrsm_Q11,A,B,C,D,D,MRSM/Picture11.png
-F4 Chp 5,radio,NegeriSembilan_Q09,A,B,C,D,D,Negeri Sembilan/Picture9.png
-F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,A,Negeri Sembilan/Picture10.png
-F4 Chp 5,radio,NegeriSembilan_Q11,A,B,C,D,B,Negeri Sembilan/Picture11.png
-F4 Chp 5,radio,Pahang_Q09,A,B,C,D,A,Pahang/Picture9.png
-F4 Chp 5,radio,Pahang_Q10,A,B,C,D,A,Pahang/Picture10.png
-F4 Chp 5,radio,Pahang_Q11,A,B,C,D,C,Pahang/Picture11.png
-F4 Chp 5,radio,PenangPpdBaratDaya_Q09,A,B,C,D,B,Penang PPD Barat Daya/Picture9.png
-F4 Chp 5,radio,PenangPpdBaratDaya_Q10,A,B,C,D,D,Penang PPD Barat Daya/Picture10.png
-F4 Chp 5,radio,PenangPpdBaratDaya_Q11,A,B,C,D,D,Penang PPD Barat Daya/Picture11.png
-F4 Chp 5,radio,Perak_Q09,A,B,C,D,A,Perak/Picture9.png
-F4 Chp 5,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png
-F4 Chp 5,radio,Perak_Q11,A,B,C,D,A,Perak/Picture11.png
-F4 Chp 5,radio,Perlis_Q09,A,B,C,D,D,Perlis/Picture9.png
-F4 Chp 5,radio,Perlis_Q10,A,B,C,D,A,Perlis/Picture10.png
-F4 Chp 5,radio,Perlis_Q11,A,B,C,D,A,Perlis/Picture11.png
-F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,D,Selangor Set 1/Picture9.png
-F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,A,Selangor Set 1/Picture10.png
-F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 1/Picture11.png
-F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,B,Selangor Set 2/Picture9.png
-F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 2/Picture10.png
-F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 2/Picture11.png
-F4 Chp 5,radio,Smka_Q09,A,B,C,D,B,SMKA/Picture9.png
-F4 Chp 5,radio,Smka_Q10,A,B,C,D,B,SMKA/Picture10.png
-F4 Chp 5,radio,Smka_Q11,A,B,C,D,D,SMKA/Picture11.png
-F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,C,Terengganu/Picture9.png
-F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,A,Terengganu/Picture10.png
-F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,D,Johor Set 1/Picture9.png,"中文：先在原始记录簿按日期记录交易，可减少漏记及记录错误。
+Bahasa Melayu: Buku Catatan Pertama merekod urus niaga mengikut tarikh untuk meminimumkan kesilapan dan ketinggalan."
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 1/Picture10.png,"中文：供应商发来的贷项通知单表示购货退回，应记购货退回日记账。
+Bahasa Melayu: Nota kredit daripada pembekal menunjukkan pulangan belian, direkod dalam Jurnal Pulangan Belian."
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 1/Picture11.png,"中文：定额 RM200，余额 RM75，补回 200 − 75 = RM125，等于本月支出。
+Bahasa Melayu: Rekupmen = panjar RM200 − baki RM75 = RM125, sama dengan perbelanjaan runcit."
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,B,Johor Set 2/Picture9.png,"中文：零星小额付款集中记录在现金备用金簿，方便分析及控制支出。
+Bahasa Melayu: Buku Tunai Runcit merekod dan mengawal pembayaran kecil atau runcit."
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 2/Picture10.png,"中文：供应商借项通知单增加赊购发票金额，应记录购货日记账。
+Bahasa Melayu: Nota debit pembekal menambah belian kredit, direkod dalam Jurnal Belian."
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,B,Johor Set 2/Picture11.png,"中文：现金购买家具及支票支付租金都涉及现金或银行；赊购资产及提取货品不属于现金簿交易。
+Bahasa Melayu: Belian perabot tunai dan bayaran sewa dengan cek melibatkan tunai/bank; I dan IV."
+F4 Chp 5,radio,Kedah_Q09,A,B,C,D,D,Kedah/Picture9.png,"中文：企业现金存入企业银行只是现金与银行之间的转移，属于现金簿对销记录。
+Bahasa Melayu: Tunai perniagaan dimasukkan ke bank perniagaan ialah pemindahan antara tunai dengan bank, iaitu catatan kontra."
+F4 Chp 5,radio,Kedah_Q10,A,B,C,D,C,Kedah/Picture10.png,"中文：答案 C 把冷气机视为买来转售的商品：借记 Belian，贷记 Modal，因为由业主私人账户支付；若供企业自用则应借记 Lengkapan。
+Bahasa Melayu: Jawapan C menganggap pendingin hawa sebagai barang niaga: debit Belian, kredit Modal kerana dibayar melalui akaun peribadi. Jika untuk kegunaan sendiri, debit Lengkapan."
+F4 Chp 5,radio,Kedah_Q11,A,B,C,D,D,Kedah/Picture11.png,"中文：已注销坏账后来收回属于坏账收回收入：借记银行，贷记 Hutang Lapuk Terpulih。
+Bahasa Melayu: Kutipan hutang yang telah dihapus kira dicatat debit Bank dan kredit Hutang Lapuk Terpulih."
+F4 Chp 5,radio,Kelantan_Q09,A,B,C,D,C,Kelantan/Picture9.png,"中文：出售旧家具使家具资产减少，贷记家具账户，收款借记银行。
+Bahasa Melayu: Jualan perabot lama mengurangkan aset: kredit Perabot dan debit Bank."
+F4 Chp 5,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png,"中文：库存卡按成本记录；售出1个柜子，出库金额RM850，不能用售价1,220。
+Bahasa Melayu: Kad inventori menggunakan kos; rekod satu almari keluar pada RM850, bukan harga jualan RM1,220."
+F4 Chp 5,radio,Kelantan_Q11,A,B,C,D,D,Kelantan/Picture11.png,"中文：交易与损益账户用来确定该会计期间的毛利及净利或亏损。
+Bahasa Melayu: Akaun Perdagangan dan Untung Rugi menentukan untung kasar serta untung atau rugi bersih tempoh perakaunan."
+F4 Chp 5,radio,Kl_Q09,A,B,C,D,D,KL/Picture9.png,"中文：营运资本 = (300 + 3,400) − (360 + 1,330) = RM2,010。现有答案D为1,710，疑似漏算存货，待核对。
+Bahasa Melayu: Modal kerja = (300 + 3,400) − (360 + 1,330) = RM2,010. Kunci D, RM1,710, kelihatan mengabaikan inventori dan perlu disemak."
+F4 Chp 5,radio,Kl_Q10,A,B,C,D,A,KL/Picture10.png,"中文：业主投入现金增加资产和资本，负债不变。
+Bahasa Melayu: Tunai peribadi dibawa masuk menambah aset dan ekuiti pemilik; liabiliti tidak berubah."
+F4 Chp 5,radio,Kl_Q11,A,B,C,D,C,KL/Picture11.png,"中文：现金销售是现金流入，记现金簿借方；赊销尚未收款。
+Bahasa Melayu: Jualan tunai ialah penerimaan di debit Buku Tunai; jualan kredit belum melibatkan tunai."
+F4 Chp 5,radio,Melaka_Q09,A,B,C,D,A,Melaka/Picture9.png,"中文：题目把商品捐赠视为企业费用，借记捐款450、贷记购货450。
+Bahasa Melayu: Barang niaga didermakan sebagai belanja perniagaan: debit Derma 450 dan kredit Belian 450."
+F4 Chp 5,radio,Melaka_Q10,A,B,C,D,B,Melaka/Picture10.png,"中文：Sarah 的支票退票，须取消原收款，现金簿银行栏贷记并恢复客户欠款。
+Bahasa Melayu: Cek Sarah dibatalkan; kredit bank untuk membatalkan penerimaan dan pulihkan hutang pelanggan."
+F4 Chp 5,radio,Melaka_Q11,A,B,C,D,D,Melaka/Picture11.png,"中文：购买邮票是小额日常支出，可由零用现金支付。
+Bahasa Melayu: Pembelian setem ialah pembayaran kecil harian yang sesuai direkod dalam Buku Tunai Runcit."
+F4 Chp 5,radio,Mrsm_Q09,A,B,C,D,A,MRSM/Picture9.png,"中文：商品捐赠视为企业捐款费用，借记 Derma，贷记 Belian。
+Bahasa Melayu: Barang niaga untuk derma direkod debit Derma dan kredit Belian."
+F4 Chp 5,radio,Mrsm_Q10,A,B,C,D,A,MRSM/Picture10.png,"中文：给予客户折扣减少应收账款，列应收账款控制账户贷方。
+Bahasa Melayu: Diskaun diberi mengurangkan hutang pelanggan dan dikreditkan dalam Akaun Kawalan Belum Terima."
+F4 Chp 5,radio,Mrsm_Q11,A,B,C,D,D,MRSM/Picture11.png,"中文：存货按成本与市价孰低：100 × 150 + 90 × 100 = RM24,000。
+Bahasa Melayu: Inventori pada kos atau pasaran terendah: 100 × 150 + 90 × 100 = RM24,000."
+F4 Chp 5,radio,NegeriSembilan_Q09,A,B,C,D,D,Negeri Sembilan/Picture9.png,"中文：租金收入和销货运费分别是收入与费用，属于名义账户。
+Bahasa Melayu: Sewa diterima ialah hasil dan angkutan keluar ialah belanja; kedua-duanya akaun nominal."
+F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,A,Negeri Sembilan/Picture10.png,"中文：商品用于推广：借记推广费用、贷记购货，避免把非销售用途计作销售成本。
+Bahasa Melayu: Barang niaga untuk promosi: debit Promosi dan kredit Belian supaya belian dikurangkan."
+F4 Chp 5,radio,NegeriSembilan_Q11,A,B,C,D,B,Negeri Sembilan/Picture11.png,"中文：坏账估计不是具体客户欠款的注销，不能作为应收控制账户的直接减项；坏账注销才可以。
+Bahasa Melayu: Hutang Ragu ialah anggaran, bukan penghapusan hutang pelanggan; ia tidak dimasukkan dalam Akaun Kawalan Belum Terima."
+F4 Chp 5,radio,Pahang_Q09,A,B,C,D,A,Pahang/Picture9.png,"中文：包括现金与车辆的开业资本综合分录记普通日记簿。
+Bahasa Melayu: Catatan pembukaan yang melibatkan tunai dan kenderaan sebagai modal direkod dalam Jurnal Am."
+F4 Chp 5,radio,Pahang_Q10,A,B,C,D,A,Pahang/Picture10.png,"中文：更正错账和业主取用商品属于普通日记簿；商品赊销和退货使用特别日记簿。
+Bahasa Melayu: Pembetulan kesilapan dan ambilan barang niaga direkod dalam Jurnal Am; jualan kredit dan pulangan dalam jurnal khas."
+F4 Chp 5,radio,Pahang_Q11,A,B,C,D,C,Pahang/Picture11.png,"中文：卖方借项通知副本增加客户销售欠款，记销售日记簿。
+Bahasa Melayu: Nota debit salinan penjual menambah jualan kredit dan direkod dalam Jurnal Jualan."
+F4 Chp 5,radio,PenangPpdBaratDaya_Q09,A,B,C,D,B,Penang PPD Barat Daya/Picture9.png,"中文：先扣贸易折扣：8,000 × 80% = RM6,400；3 月 14 日在 10 天期限内付款，再扣 10% 现金折扣：6,400 × 90% = RM5,760。
+Bahasa Melayu: Selepas diskaun niaga, 8,000 × 80% = RM6,400. Bayaran pada 14 Mac dalam tempoh 10 hari mendapat diskaun tunai 10%: 6,400 × 90% = RM5,760."
+F4 Chp 5,radio,PenangPpdBaratDaya_Q10,A,B,C,D,D,Penang PPD Barat Daya/Picture10.png,"中文：收据确认商家收到支票 RM1,560；它是收款凭证，而不是用来调整发票金额的单据。
+Bahasa Melayu: Resit rasmi mengesahkan penerimaan cek RM1,560, bukan untuk menambah atau mengurangkan invois."
+F4 Chp 5,radio,PenangPpdBaratDaya_Q11,A,B,C,D,D,Penang PPD Barat Daya/Picture11.png,"中文：零用现金簿记录邮费 RM30 和打印墨水 RM50 等小额费用；提款货物及大额工资不属于此用途。
+Bahasa Melayu: Buku Tunai Runcit merekod belanja kecil seperti pos RM30 dan dakwat pencetak RM50, bukan ambilan barang atau gaji RM1,900."
+F4 Chp 5,radio,Perak_Q09,A,B,C,D,A,Perak/Picture9.png,"中文：收到支票 RM3,500，豁免余款 3,800 − 3,500 = RM300；现金簿借方记银行及折扣给予。
+Bahasa Melayu: Debit Bank RM3,500 dan Diskaun Diberi RM300 dalam Buku Tunai kerana hutang RM3,800 dijelaskan dengan cek RM3,500."
+F4 Chp 5,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png,"中文：业主投入私人车辆使车辆资产与资本增加：借记车辆、贷记资本。
+Bahasa Melayu: Kenderaan dan modal bertambah apabila pemilik membawa masuk kenderaan: debit Kenderaan, kredit Modal."
+F4 Chp 5,radio,Perak_Q11,A,B,C,D,A,Perak/Picture11.png,"中文：应收与应付互相抵销称为 kontra，减少应收款，所以记应收控制账户贷方。
+Bahasa Melayu: Kontra mengurangkan hutang pelanggan melalui tolakan hutang kepada pihak yang sama, lalu dikreditkan dalam Akaun Kawalan Belum Terima."
+F4 Chp 5,radio,Perlis_Q09,A,B,C,D,D,Perlis/Picture9.png,"中文：赊销 = 670 + 150 + 2,860 + 280 − 640 = RM3,320；已收回坏账 RM300 不属于现有客户欠款。
+Bahasa Melayu: Jualan kredit = 670 + 150 + 2,860 + 280 − 640 = RM3,320; hutang lapuk terpulih tidak dimasukkan dalam akaun penghutang semasa."
+F4 Chp 5,radio,Perlis_Q10,A,B,C,D,A,Perlis/Picture10.png,"中文：期末数量 = 100 + 200 − 8 − 50 = 242 件；按每件 RM50，存货价值 = 242 × 50 = RM12,100。
+Bahasa Melayu: Kuantiti akhir = 100 + 200 − 8 − 50 = 242 unit; nilai inventori = 242 × RM50 = RM12,100."
+F4 Chp 5,radio,Perlis_Q11,A,B,C,D,A,Perlis/Picture11.png,"中文：净销货 = 80,000 − 360 = 79,640；销货成本 = 14,600 + 32,000 − 230 + 380 − 24,500 = 22,250；毛利 RM57,390。
+Bahasa Melayu: Jualan bersih = 79,640; kos jualan = 14,600 + 32,000 − 230 + 380 − 24,500 = 22,250; untung kasar = RM57,390."
+F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,D,Selangor Set 1/Picture9.png,"中文：资本正常在贷方；提款和销货退回正常在借方，所以 D 的排列正确。
+Bahasa Melayu: Modal berbaki kredit, manakala ambilan dan pulangan masuk berbaki debit; susunan D adalah betul."
+F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,A,Selangor Set 1/Picture10.png,"中文：风扇余额 = (20 + 180 − 150) × 50 = 2,500；搅拌机余额 = (40 + 210 − 170) × 70 = 5,600；合计 RM8,100。
+Bahasa Melayu: Nilai kipas = 50 × 50 = 2,500; nilai pengisar = 80 × 70 = 5,600; inventori akhir RM8,100 berdasarkan kos yang lebih rendah."
+F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 1/Picture11.png,"中文：净利 = 毛利 15,300 + 租金收入 3,000 − 费率 250 − 工资 4,000 = RM14,050；期末存货已用于求毛利。
+Bahasa Melayu: Untung bersih = 15,300 + 3,000 − 250 − 4,000 = RM14,050; inventori akhir telah diambil kira dalam untung kasar."
+F4 Chp 5,radio,SelangorSet_Q09,A,B,C,D,B,Selangor Set 2/Picture9.png,"中文：试算表借方 = 存款 20,000 + 车辆 40,000 + 购货 27,400 = RM87,400；贷方 47,660 + 6,000 + 33,180 + 560 亦相同。
+Bahasa Melayu: Jumlah debit = 20,000 + 40,000 + 27,400 = RM87,400; jumlah kredit = 47,660 + 6,000 + 33,180 + 560 = RM87,400."
+F4 Chp 5,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 2/Picture10.png,"中文：持续更新数量、成本及每次进出的系统称为持续盘存制 Sistem Inventori Berterusan。
+Bahasa Melayu: Sistem Inventori Berterusan mengemas kini kuantiti, nilai dan pergerakan inventori setiap kali urus niaga berlaku."
+F4 Chp 5,radio,SelangorSet_Q11,A,B,C,D,B,Selangor Set 2/Picture11.png,"中文：净利 = 15,000 + 160 + 400 − 1,600 − 3,800 − 2,140 = RM8,020；办公设备 RM920 是资产。
+Bahasa Melayu: Untung bersih = 15,000 + 160 + 400 − 1,600 − 3,800 − 2,140 = RM8,020; alatan pejabat ialah aset."
+F4 Chp 5,radio,Smka_Q09,A,B,C,D,B,SMKA/Picture9.png,"中文：定额 RM300 已使用 RM270、余额 RM30，补款 = 300 − 30 = RM270。
+Bahasa Melayu: Rekupmen = apungan asal RM300 − baki RM30 = RM270, sama dengan jumlah pembayaran."
+F4 Chp 5,radio,Smka_Q10,A,B,C,D,B,SMKA/Picture10.png,"中文：业主把创业资金直接存入企业银行：借记银行 RM30,000、贷记资本 RM30,000。
+Bahasa Melayu: Modal permulaan dimasukkan ke bank: debit Bank RM30,000 dan kredit Modal RM30,000."
+F4 Chp 5,radio,Smka_Q11,A,B,C,D,D,SMKA/Picture11.png,"中文：赊购 = 付款 8,600 + 退货 300 + 期末应付 1,200 − 期初应付 4,300 = RM5,800。
+Bahasa Melayu: Belian kredit = 8,600 + 300 + 1,200 − 4,300 = RM5,800."
+F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,C,Terengganu/Picture9.png,"中文：银行通知存款减少时发出 Makluman Debit，即扣账通知。
+Bahasa Melayu: Makluman Debit dikeluarkan oleh bank untuk memaklumkan pengurangan wang dalam akaun pelanggan."
+F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,A,Terengganu/Picture10.png,"中文：Ayu 是买方，收到补收货款的借项通知单，增加购货 RM360，记购货日记簿。
+Bahasa Melayu: Ayu ialah pembeli; nota debit diterima menambah belian RM360 dan direkod dalam Jurnal Belian."
+F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png,"中文：网上转账收据、付款凭单及收据证明现金或银行收付，记现金簿；贷项通知单一般调整赊账。
+Bahasa Melayu: Resit perbankan dalam talian, baucar pembayaran dan resit berkaitan penerimaan atau pembayaran Buku Tunai; nota kredit biasanya berkaitan pelarasan kredit."

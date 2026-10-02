@@ -1,17 +1,33 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 1/Picture22.png
-F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 2/Picture22.png
-F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png
-F5 Chp 1,radio,Kelantan_Q22,A,B,C,D,D,Kelantan/Picture22.png
-F5 Chp 1,radio,Kl_Q22,A,B,C,D,C,KL/Picture22.png
-F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png
-F5 Chp 1,radio,Mrsm_Q22,A,B,C,D,A,MRSM/Picture22.png
-F5 Chp 1,radio,NegeriSembilan_Q22,A,B,C,D,B,Negeri Sembilan/Picture22.png
-F5 Chp 1,radio,Pahang_Q22,A,B,C,D,A,Pahang/Picture22.png
-F5 Chp 1,radio,PenangPpdBaratDaya_Q22,A,B,C,D,C,Penang PPD Barat Daya/Picture22.png
-F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png
-F5 Chp 1,radio,Perlis_Q22,A,B,C,D,C,Perlis/Picture22.png
-F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,C,Selangor Set 1/Picture22.png
-F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,A,Selangor Set 2/Picture22.png
-F5 Chp 1,radio,Smka_Q22,A,B,C,D,A,SMKA/Picture22.png
-F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,C,Terengganu/Picture22.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 1/Picture22.png,"中文：整项交易完全漏记时，借贷两边一起遗漏，试算表仍平衡；单边遗漏则不平衡。
+Bahasa Melayu: Ketinggalan keseluruhan urus niaga melibatkan kedua-dua catatan, maka Imbangan Duga masih seimbang; ketinggalan sebelah tidak seimbang."
+F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 2/Picture22.png,"中文：把办公设备赊账或支票购入记为购货，是原则错误；借贷金额仍相等，试算表不显示差额。
+Bahasa Melayu: Belian alatan pejabat direkod sebagai Belian ialah kesilapan prinsip; amaun debit dan kredit masih seimbang."
+F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png,"中文：Minaa 的资本回报率最高，为25%，且存货周转率6次显示存货能周转，因此按题目投资回报选择 B。
+Bahasa Melayu: Minaa mempunyai pulangan atas modal tertinggi, 25%, dengan pusing ganti inventori 6 kali; pilihan B memberi pulangan pelaburan terbaik."
+F5 Chp 1,radio,Kelantan_Q22,A,B,C,D,D,Kelantan/Picture22.png,"中文：加价率60%是每RM1销售成本赚取RM0.60毛利。现有答案 D 的文字不够准确，应按这个定义理解。
+Bahasa Melayu: Tokokan 60% bermaksud untung kasar RM0.60 bagi setiap RM1 kos jualan. Ayat pilihan D dalam kunci kurang tepat; gunakan definisi ini."
+F5 Chp 1,radio,Kl_Q22,A,B,C,D,C,KL/Picture22.png,"中文：净利 = 5,840 + 190 − 260 − 780 = RM4,990。
+Bahasa Melayu: Untung bersih = 5,840 + 190 − 260 − 780 = RM4,990."
+F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png,"中文：按答案的处理，125,000包括新车：旧车净值125,000 − 50,000 − 15,000 = 60,000；累计折旧15,000 + 6,000 + 1,250 = RM22,250。
+Bahasa Melayu: Mengikut kunci, 125,000 termasuk kenderaan baharu: nilai buku lama 60,000. Susut nilai terkumpul = 15,000 + 6,000 + 50,000 × 10% × 3/12 = RM22,250."
+F5 Chp 1,radio,Mrsm_Q22,A,B,C,D,A,MRSM/Picture22.png,"中文：取消误记供应商：借记 Suria 7,500，再贷记正确的 Suri 7,500。
+Bahasa Melayu: Batalkan kredit salah dengan debit Suria 7,500 dan kredit pembekal sebenar Suri 7,500."
+F5 Chp 1,radio,NegeriSembilan_Q22,A,B,C,D,B,Negeri Sembilan/Picture22.png,"中文：净利 = 期末19,400 + 提款1,500 − 期初10,500 − 新资本4,000 = RM6,400。
+Bahasa Melayu: Untung bersih = 19,400 + 1,500 − 10,500 − 4,000 = RM6,400."
+F5 Chp 1,radio,Pahang_Q22,A,B,C,D,A,Pahang/Picture22.png,"中文：工资实付3,000中有预付400，本期费用2,600；预付额转作资产。
+Bahasa Melayu: Daripada bayaran gaji 3,000, sebanyak 400 ialah prabayar; belanja semasa 2,600 dipindahkan ke Untung Rugi."
+F5 Chp 1,radio,PenangPpdBaratDaya_Q22,A,B,C,D,C,Penang PPD Barat Daya/Picture22.png,"中文：2023 折旧 = 10,800 × 10% = RM1,080；累计折旧 = 1,200 + 1,080 = RM2,280。
+Bahasa Melayu: Susut nilai 2023 = 10,800 × 10% = RM1,080; susut nilai terkumpul = 1,200 + 1,080 = RM2,280."
+F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png,"中文：存货周转率衡量企业售出及补充存货的效率；酸性测试比率衡量短期而非长期偿债能力。
+Bahasa Melayu: Kadar pusing ganti inventori mengukur kecekapan pengurusan inventori; nisbah ujian asid berkaitan hutang jangka pendek."
+F5 Chp 1,radio,Perlis_Q22,A,B,C,D,C,Perlis/Picture22.png,"中文：销货成本 = 10,500 × 80% = 8,400；平均存货 = (2,100 + 1,260) ÷ 2 = 1,680；周转率 = 5 次。
+Bahasa Melayu: Kos jualan = 10,500 × 80% = 8,400; inventori purata = 1,680; kadar pusing ganti = 8,400 ÷ 1,680 = 5 kali."
+F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,C,Selangor Set 1/Picture22.png,"中文：Hebat 资本回报率 25% 高于 Jaya 20%，按投资收益角度较适合；Jaya 的存货周转反而较快。
+Bahasa Melayu: Pulangan atas modal Hebat 25% melebihi Jaya 20%, maka lebih menarik untuk pelaburan; Jaya pula mempunyai pusing ganti inventori lebih tinggi."
+F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,A,Selangor Set 2/Picture22.png,"中文：以销货成本为分母比较毛利的是成本加成率 tokokan，而毛利率以销货额为分母。
+Bahasa Melayu: Tokokan membandingkan untung kasar dengan kos jualan; margin untung kasar menggunakan jualan sebagai penyebut."
+F5 Chp 1,radio,Smka_Q22,A,B,C,D,A,SMKA/Picture22.png,"中文：收账期 = 应收账款 11,400 ÷ 赊销 21,000 × 365 ≈ 199 天；不采用现金销货。
+Bahasa Melayu: Tempoh kutipan hutang = 11,400 ÷ jualan kredit 21,000 × 365 ≈ 199 hari; jualan tunai tidak digunakan."
+F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,C,Terengganu/Picture22.png,"中文：收回已注销坏账是收入：借记银行 RM700、贷记收回坏账 RM700。
+Bahasa Melayu: Hutang lapuk terpulih direkod dengan debit Bank RM700 dan kredit Hutang Lapuk Terpulih RM700."

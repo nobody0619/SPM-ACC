@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Kedah 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture20.png
-,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：会计循环最后把调整后的试算表资料编成财务报表。
+Bahasa Melayu: Langkah akhir kitaran perakaunan ialah menyediakan Penyata Kewangan daripada Imbangan Duga Terselaras."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：从 2024 年 9 月 1 日起六个月为 9 月至次年 2 月，结束日期为 2025 年 2 月 28 日。
+Bahasa Melayu: Enam bulan bermula 1 September 2024 meliputi September hingga Februari, lalu berakhir pada 28 Februari 2025."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：购货保险是取得商品的附带成本，归入销货成本而非一般营业费用。
+Bahasa Melayu: Insurans atas belian ialah kos membawa barang niaga masuk dan termasuk dalam kos jualan."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：付现金租金使现金资产减少 RM2,000；租金费用降低净利及业主权益 RM2,000。
+Bahasa Melayu: Bayaran sewa tunai mengurangkan aset RM2,000 dan belanja sewa mengurangkan ekuiti pemilik RM2,000."
+,radio,F4 Bab 3,A,B,C,D,D,Picture5.png,"中文：非原始凭证作为交易参考与支持资料，不直接用来记账。
+Bahasa Melayu: Dokumen bukan sumber menjadi dokumen sokongan dan rujukan, bukan asas langsung catatan perakaunan."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：本题答案为发票，它通知客户该笔赊购应付的金额；账户结单则汇总一段期间的交易与余额。
+Bahasa Melayu: Invois memaklumkan amaun perlu dibayar bagi sesuatu jualan kredit; Penyata Akaun merumuskan urus niaga dan baki bagi suatu tempoh."
+,radio,F4 Bab 3,A,B,C,D,D,Picture7.png,"中文：现金簿记录本张支票付款 RM5,000；存款、结余及可用金额不是这笔交易金额。
+Bahasa Melayu: Amaun cek yang dibayar ialah RM5,000 dan itulah catatan Buku Tunai bagi urus niaga ini."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：零用现金簿专门记录邮费、文具等金额较小的支出。
+Bahasa Melayu: Buku Tunai Runcit merekod pembayaran kecil seperti pos dan alat tulis."
+,radio,F4 Bab 4,A,B,C,D,B,Picture9.png,"中文：赊销商品记销货日记簿，退回供应商的商品记购货退回日记簿；I 和 IV 为特殊日记簿交易。
+Bahasa Melayu: Jualan kredit barang niaga dan pulangan barang kepada pembekal dicatat dalam jurnal khas, iaitu I dan IV."
+,radio,F4 Bab 4,A,B,C,D,A,Picture10.png,"中文：赊购收银机属于购入非流动资产，记普通日记簿；购货日记簿只记录赊购商品。
+Bahasa Melayu: Pembelian mesin daftar tunai secara kredit dicatat dalam Jurnal Am kerana merupakan aset bukan semasa."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：销货折扣减少客户债务，记入应收账款控制账户贷方；坏账准备不直接记该账户。
+Bahasa Melayu: Diskaun diberi mengurangkan hutang pelanggan dan dicatat di kredit Akaun Kawalan Belum Terima."
+,radio,F4 Bab 5,A,B,C,D,B,Picture12.png,"中文：用私人资金替企业支付租金，借记企业租金费用，贷记业主资本，表示追加投入。
+Bahasa Melayu: Sewa perniagaan dibayar dengan wang peribadi: debit Sewa dan kredit Modal sebagai modal tambahan."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：试算表比较借贷合计，检查复式记录的准确性；财务表现和状况由财务报表呈现。
+Bahasa Melayu: Imbangan Duga menyemak ketepatan catatan bergu melalui kesamaan jumlah debit dengan kredit."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：保险为费用，记损益账户借方；存款利息和股息为收入，进货运费归交易账户。
+Bahasa Melayu: Insurans ialah belanja di debit Untung Rugi; faedah simpanan dan dividen ialah hasil, manakala angkutan masuk masuk Akaun Perdagangan."
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：销货成本 = 净购货 18,270 + 购货工资 120 − 期末存货 4,500 = RM13,890；净购货已扣除购货退回，不重复扣。
+Bahasa Melayu: Kos jualan = 18,270 + 120 − 4,500 = RM13,890; pulangan belian sudah ditolak dalam belian bersih."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：实物磨损、损坏及技术过时会使非流动资产的使用价值降低，形成折旧。
+Bahasa Melayu: Kerosakan fizikal dan keusangan menyebabkan aset bukan semasa mengalami susut nilai."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：未付电费为流动负债；确认 RM300 电费增加本期费用，使调整后净利减少。
+Bahasa Melayu: Elektrik belum bayar ialah liabiliti semasa; belanja RM300 mengurangkan untung bersih terselaras."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：出售亏损 = 7,800 − 7,100 = RM700；借记出售机器亏损、贷记机器处置账户。
+Bahasa Melayu: Rugi pelupusan = 7,800 − 7,100 = RM700; debit Rugi Pelupusan Mesin dan kredit Pelupusan Mesin."
+,radio,F4 Bab 9,A,B,C,D,A,Picture19.png,"中文：办公电脑是非流动资产，误记商品购货把资本支出当营业支出，属于原则错误。
+Bahasa Melayu: Komputer ialah aset bukan semasa; merekodnya sebagai Belian merupakan kesilapan prinsip."
+,radio,F4 Bab 8,A,B,C,D,B,Picture20.png,"中文：新坏账准备 = 19,300 × 2% = RM386；原准备 450，须减少 RM64，记准备账户借方，期末贷方余额 RM386。
+Bahasa Melayu: Peruntukan baharu = 19,300 × 2% = RM386; pengurangan RM64 didebitkan dalam Akaun Peruntukan Hutang Ragu."
+,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：存货周转率衡量企业在一个会计期间售出和更换存货的效率。
+Bahasa Melayu: Pusing ganti inventori mengukur keupayaan perniagaan menjual dan menggantikan barang niaga dalam tempoh perakaunan."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：销货成本 = 82,300 − 19,560 = 62,740；平均存货 = (16,870 + 19,560) ÷ 2 = 18,215；周转率约 3.44 次。
+Bahasa Melayu: Kos jualan RM62,740 dibahagi inventori purata RM18,215 memberikan pusing ganti inventori 3.44 kali."
+,radio,F5 Bab 2,A,B,C,D,D,Picture23.png,"中文：单式记账资料不完整，利润与其他绩效指标的计算可能不准确，使企业表现难以准确评估。
+Bahasa Melayu: Catatan tunggal tidak lengkap menyebabkan penilaian prestasi perniagaan tidak dapat dilakukan dengan tepat."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：净利 = 期末资本 26,000 + 提款 1,500 − 追加资本 6,000 − 期初资本 11,000 = RM10,500。
+Bahasa Melayu: Untung = 26,000 + 1,500 − 6,000 − 11,000 = RM10,500."
+,radio,F5 Bab 2,A,B,C,D,A,Picture25.png,"中文：赊销 = 期末应收 17,000 + 客户还款 23,540 − 期初应收 8,500 = RM32,040；购货退回不影响应收账款。
+Bahasa Melayu: Jualan kredit = 17,000 + 23,540 − 8,500 = RM32,040; pulangan keluar tidak melibatkan Akaun Belum Terima."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：未入账存款已记现金簿，只是银行尚未处理，因此列银行调节表，不再更新现金簿。
+Bahasa Melayu: Deposit belum dikreditkan sudah dicatat dalam Buku Tunai; ia dimasukkan dalam penyesuaian bank, bukan Buku Tunai dikemas kini."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：银行结单借方 RM800 表示透支；现金簿余额 = −800 − 2,500 + 3,000 = −RM300，即贷方余额。
+Bahasa Melayu: Baki debit Penyata Bank ialah overdraf RM800. Baki Buku Tunai = −800 − 2,500 + 3,000 = −RM300, iaitu kredit."
+,radio,F5 Bab 3,A,B,C,D,B,Picture28.png,"中文：客户清偿 RM2,000 带来实际现金流入，应计现金预算；赊销及坏账调整没有即时现金流。
+Bahasa Melayu: ABT menjelaskan RM2,000 menghasilkan penerimaan tunai; jualan kredit dan pelarasan hutang tidak melibatkan aliran tunai serta-merta."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：合伙人薪金属于利润分配项目，记利润分配账户；贷款利息是损益账户费用。
+Bahasa Melayu: Gaji pekongsi direkod dalam Akaun Pengasingan Untung Rugi; faedah pinjaman ialah belanja dalam Untung Rugi."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：全年利息 = (40,000 + 35,000) × 5% + 6,000 × 5% × 8/12 = RM3,950。
+Bahasa Melayu: Jumlah faedah modal = 75,000 × 5% + 6,000 × 5% × 8/12 = RM3,950."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：往来账户期末余额 = −1,500 − 提款利息 300 + 分得利润 4,500 = RM2,700 贷方。
+Bahasa Melayu: Baki Akaun Semasa = −1,500 − 300 + 4,500 = RM2,700 kredit."
+,radio,F5 Bab 4,A,B,C,D,A,Picture32.png,"中文：变现账户贷方记录实际收到的应收款 RM3,000，摘要为银行；原应收账面值 RM3,360 则转入借方。
+Bahasa Melayu: Kutipan ABT RM3,000 dicatat di kredit Akaun Realisasi sebagai Bank; nilai buku ABT RM3,360 dipindahkan ke debit."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：普通股股息由公司盈利和股息决定影响，股息率不固定。
+Bahasa Melayu: Dividen syer biasa bergantung pada keuntungan syarikat dan kadarnya tidak tetap."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：优先股剩余半年股息 = 2,000 × 2 × 8% × 6/12 = RM160；普通股期末股息 = 1,000 × 1 × 5% = RM50；合计 RM210。
+Bahasa Melayu: Dividen akhir keutamaan RM160 ditambah dividen biasa RM50 memberikan jumlah RM210."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：购买长期使用的店屋是取得非流动资产，属于资本支出。
+Bahasa Melayu: Pembelian lot kedai untuk kegunaan jangka panjang ialah perbelanjaan modal."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：X 在收款栏，可为场地租金收入；Y 在付款栏，可为税费，所以 D 正确。
+Bahasa Melayu: X ialah penerimaan sewa gelanggang, manakala Y ialah pembayaran kadar bayaran; padanan D betul."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：期初累积基金 = 21,000 − 4,200 = 16,800；加购相机指定捐款 5,000 与盈余 3,500，期末为 RM25,300；比赛利润已纳入盈余。
+Bahasa Melayu: Dana akhir = (21,000 − 4,200) + 5,000 + 3,500 = RM25,300; untung pertandingan sudah termasuk dalam lebihan."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：生产工人工资属直接人工，食用油属直接材料，两者计入主要成本；租金及经理薪金是间接费用。
+Bahasa Melayu: Upah pekerja dan minyak masak ialah buruh langsung serta bahan langsung dalam kos prima; II dan III betul."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：销售收入减去变动成本的余额称为贡献毛益 Margin Caruman，用于支付固定成本与形成利润。
+Bahasa Melayu: Lebihan hasil jualan berbanding kos berubah ialah margin caruman, untuk menampung kos tetap dan untung."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：所需产量 = (12,000 + 6,000) ÷ (5.00 − 3.75) = 14,400 瓶。
+Bahasa Melayu: Kuantiti untuk untung sasaran = (12,000 + 6,000) ÷ (5.00 − 3.75) = 14,400 unit."

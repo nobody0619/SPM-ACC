@@ -1,24 +1,47 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan YIK F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture22.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture31.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan YIK F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：管理会计为内部使用者提供规划、控制和经营决策所需资料。
+Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat untuk pengguna dalaman bagi perancangan, kawalan dan keputusan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：供应商和银行是企业外部使用者；管理层和业主属于内部使用者，因此 I 和 II 正确。
+Bahasa Melayu: Pembekal dan pihak bank ialah pengguna luaran; pihak pengurusan serta pemilik ialah pengguna dalaman. I dan II betul."
+,radio,F4 Bab 1,A,B,C,D,B,Picture3.png,"中文：历史成本原则以购买成本 RM100,000 记录车辆，而不是因市价变 RM80,000 便改成本。
+Bahasa Melayu: Prinsip kos merekod kenderaan pada kos belian RM100,000, bukannya harga pasaran RM80,000."
+,radio,F4 Bab 1,A,B,C,D,C,Picture4.png,"中文：独资企业由一位业主出资并管理；合伙人出资是合伙企业特点，因此 C 为例外。
+Bahasa Melayu: Milikan tunggal dimiliki seorang pemilik; modal disumbangkan oleh pekongsi ialah ciri perkongsian, bukan milikan tunggal."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：投资股息通常属非营业收入，并非商品销售的主要收入。本题未说明企业性质，租金也可能属非营业收入；现有答案 B。
+Bahasa Melayu: Dividen pelaburan ialah hasil bukan operasi. Jenis perniagaan tidak dinyatakan dan sewa juga boleh menjadi hasil bukan operasi; jawapan asal ialah B."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：发票少计金额或漏记收费时，发出借项通知单增加客户欠款，故 II 和 III 正确。
+Bahasa Melayu: Nota debit dikeluarkan apabila invois terkurang nyata atau butiran tertinggal, untuk menambah hutang pelanggan; II dan III betul."
+,radio,F4 Bab 3,A,B,C,D,D,Picture7.png,"中文：发票是原始凭证，银行结单在课本分类中是非原始凭证，所以 D 配对正确。
+Bahasa Melayu: Invois ialah dokumen sumber dan Penyata Bank ialah dokumen bukan sumber mengikut pengelasan buku teks; padanan D betul."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：赊购交易由卖方开出发票，列明货品、价格和客户应付款。
+Bahasa Melayu: Invois dikeluarkan bagi jual beli secara kredit dan menyatakan barang serta amaun perlu dibayar."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：普通日记簿可记录期初账户开账；其他选项把退货方向或购货条件配错。
+Bahasa Melayu: Jurnal Am merekod catatan pembukaan; pilihan lain tersalah arah pulangan atau mengehadkan Belian kepada tunai."
+,radio,F4 Bab 4,A,B,C,D,B,Picture10.png,"中文：零用现金簿记录金额小的支出，例如邮费及文具费。
+Bahasa Melayu: Buku Tunai Runcit merekod perbelanjaan kecil seperti pos dan alat tulis."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：应收账款属于资产，正常余额为借方；家具也属借方，工资为费用也属借方。
+Bahasa Melayu: Akaun Belum Terima ialah aset dengan baki debit, maka padanan B betul."
+,radio,F4 Bab 5,A,B,C,D,A,Picture12.png,"中文：把商品作为企业捐赠，借记捐款费用 RM500、贷记购货 RM500。
+Bahasa Melayu: Barang niaga didermakan oleh perniagaan: debit Derma RM500 dan kredit Belian RM500."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：试算表汇集各账户余额，方便进一步编制财务报表。
+Bahasa Melayu: Imbangan Duga menyenaraikan baki akaun dan memudahkan penyediaan Penyata Kewangan."
+,radio,F4 Bab 6,A,B,C,D,D,Picture14.png,"中文：家具店为出售而持有的椅子和餐桌是存货；螺丝起子和铁锤通常是工具。
+Bahasa Melayu: Kerusi dan meja makan ialah barang niaga untuk dijual oleh kedai perabot, maka merupakan inventori."
+,radio,F4 Bab 7,A,B,C,D,D,Picture15.png,"中文：净利 = 毛利 50,020 + 股息 250 − 租金 (1,500 + 500) = RM48,270。
+Bahasa Melayu: Untung bersih = 50,020 + 250 − (1,500 + 500) = RM48,270 selepas memasukkan sewa belum bayar."
+,radio,F4 Bab 7,A,B,C,D,B,Picture16.png,"中文：购货应在交易账户借方，毛利作为结平项也在借方，因此 II、III 所述贷方记录不正确。
+Bahasa Melayu: Belian dan untung kasar sebagai angka imbangan dicatat di debit Akaun Perdagangan; pernyataan II dan III ialah pengecualian."
+,radio,F4 Bab 7,A,B,C,D,C,Picture17.png,"中文：坏账准备从应收账款中扣除，会降低净流动资产及营运资本。题目未说明其他项目收付情况，现有答案选最直接调整流动资产的 C。
+Bahasa Melayu: Peruntukan hutang ragu ditolak daripada ABT, lalu mengurangkan aset semasa bersih dan modal kerja; C ialah pelarasan paling langsung dalam soalan ini."
+,radio,F4 Bab 7,A,B,C,D,A,Picture18.png,"中文：业主权益 = 40,000 + 10,980 − 20,000 − 11,080 = RM19,900。
+Bahasa Melayu: Ekuiti pemilik = jumlah aset − jumlah liabiliti = 40,000 + 10,980 − 20,000 − 11,080 = RM19,900."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：本期租金 = 已付 5,500 − 期初欠付 500 − 期末预付 750 = RM4,250。
+Bahasa Melayu: Belanja sewa = 5,500 − 500 − 750 = RM4,250 selepas menolak tunggakan awal dan prabayar akhir."
+,radio,F4 Bab 8,A,B,C,D,C,Picture20.png,"中文：预收下一期收入尚未赚取，须列为流动负债 Hasil Belum Terperoleh。
+Bahasa Melayu: Hasil diterima bagi tempoh akan datang belum diperoleh dan direkod sebagai liabiliti semasa, iaitu Hasil Belum Terperoleh."
+,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：I 把维修费记车辆是原则错误；III 把付款借贷颠倒是颠倒错误，两者仍借贷相等，试算表不能发现。
+Bahasa Melayu: I ialah kesilapan prinsip dan III ialah kesilapan terbalik; kedua-duanya tidak menjejaskan kesamaan jumlah debit dan kredit."
+,radio,F4 Bab 9,A,B,C,D,D,Picture22.png,"中文：把交易记入不同类别的错误账户，例如费用误记资产，属于原则错误。
+Bahasa Melayu: Kesilapan menggunakan akaun dengan pengelasan berlainan ialah kesilapan prinsip."
+,radio,F4 Bab 8,A,B,C,D,C,Picture31.png,"中文：两年折旧 = 8,500 × 10% × 2 = 1,700；账面值 6,800，售价 5,000，出售亏损 RM1,800。
+Bahasa Melayu: Susut nilai dua tahun RM1,700; nilai buku RM6,800 ditolak harga jualan RM5,000 memberikan rugi RM1,800."

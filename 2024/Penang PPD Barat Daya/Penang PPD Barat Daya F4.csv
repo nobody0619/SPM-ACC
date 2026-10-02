@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang PPD Barat Daya F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Penang PPD Barat Daya F4,radio,F4 Bab 1,A,B,C,D,A,Picture1.png,"中文：供应商和银行是外部使用者；管理层及业主属于内部使用者。
+Bahasa Melayu: Pembekal dan pihak bank ialah pengguna luaran; pengurusan dan pemilik ialah pengguna dalaman."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：顾问服务以每月 RM10,000 的货币金额入账，体现货币计量假设。
+Bahasa Melayu: Khidmat penasihat dinyatakan dalam nilai wang RM10,000 sebulan, selaras dengan andaian wang sebagai ukuran."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：有限公司股东的责任以投入的股本为限，所以 Syarikat Intan Jaya Berhad 属于有限责任组织。
+Bahasa Melayu: Liabiliti pemegang syer syarikat berhad terhad kepada modal yang dilaburkan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：T 型财务状况表列示资本和提款；营运资本是另行计算的分析指标，不是该表的独立项目。
+Bahasa Melayu: Modal kerja ialah ukuran aset semasa tolak liabiliti semasa, bukan butiran berasingan dalam Penyata Kedudukan Kewangan bentuk T."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：资本 = 资产 − 负债 = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190。
+Bahasa Melayu: Modal = aset − liabiliti = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：文具属于费用，题目费用编码范围为 4000–4999，所以使用 4020。
+Bahasa Melayu: Alat tulis ialah belanja; kod belanja 4000–4999, maka kod yang sesuai ialah 4020."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：支付店租形成费用，减少净利与业主权益；还债和收回应收账款只是资产、负债的变化。
+Bahasa Melayu: Sewa kedai ialah belanja yang mengurangkan untung dan ekuiti pemilik; pembayaran hutang dan kutipan penghutang tidak mengubah ekuiti."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：发票金额高估时，卖方开出贷项通知单，以减少买方所欠金额。
+Bahasa Melayu: Nota kredit dikeluarkan apabila invois terlebih nyata untuk mengurangkan hutang pembeli."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：先扣贸易折扣：8,000 × 80% = RM6,400；3 月 14 日在 10 天期限内付款，再扣 10% 现金折扣：6,400 × 90% = RM5,760。
+Bahasa Melayu: Selepas diskaun niaga, 8,000 × 80% = RM6,400. Bayaran pada 14 Mac dalam tempoh 10 hari mendapat diskaun tunai 10%: 6,400 × 90% = RM5,760."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：收据确认商家收到支票 RM1,560；它是收款凭证，而不是用来调整发票金额的单据。
+Bahasa Melayu: Resit rasmi mengesahkan penerimaan cek RM1,560, bukan untuk menambah atau mengurangkan invois."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：零用现金簿记录邮费 RM30 和打印墨水 RM50 等小额费用；提款货物及大额工资不属于此用途。
+Bahasa Melayu: Buku Tunai Runcit merekod belanja kecil seperti pos RM30 dan dakwat pencetak RM50, bukan ambilan barang atau gaji RM1,900."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：业主把待售家具取作私人用途：借记提款 RM400，贷记购货 RM400。
+Bahasa Melayu: Barang niaga diambil untuk kegunaan peribadi: debit Ambilan RM400 dan kredit Belian RM400."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：坏账使应收账款减少，所以列在应收账款控制账户贷方。
+Bahasa Melayu: Hutang lapuk mengurangkan Akaun Belum Terima, maka dicatat di sebelah kredit akaun kawalan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：客户账户贷方出现 Bank RM4,700，表示企业以支票收回 Garuda Bhd 的欠款。
+Bahasa Melayu: Catatan Bank RM4,700 di sebelah kredit akaun pelanggan menunjukkan Mustafa Enterprise menerima bayaran hutang melalui cek."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：赊销 = 期末应收 + 收款 − 期初应收 = 5,364 + 2,480 − 3,680 = RM4,164；坏账准备不直接代入。
+Bahasa Melayu: Jualan kredit = ABT akhir + kutipan − ABT awal = 5,364 + 2,480 − 3,680 = RM4,164; peruntukan hutang ragu tidak dimasukkan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：遗漏交易的其中一边分录，使借方与贷方总额不同，试算表能发现；佣金、整笔倒置及两边相同的原始记录错误仍可平衡。
+Bahasa Melayu: Ketinggalan satu catatan menyebabkan jumlah debit dan kredit tidak sama. Kesilapan komisen, catatan terbalik lengkap dan kesilapan catatan asal yang sama pada kedua-dua akaun tidak menjejaskan imbangan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：定期存款利息是收入，正常余额在贷方；贷款利息及运出费是费用，存款本金是资产。
+Bahasa Melayu: Faedah simpanan tetap ialah hasil berbaki kredit; faedah pinjaman dan angkutan keluar ialah belanja, manakala simpanan tetap ialah aset."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：各项存货按成本与市价较低者计量：177 + 700 + 120 + 162 = RM1,159。
+Bahasa Melayu: Inventori dinilai pada kos atau harga pasaran yang lebih rendah bagi setiap barang: 177 + 700 + 120 + 162 = RM1,159."
+,radio,F4 Bab 8,A,B,C,D,B,Picture19.png,"中文：销货成本 = 4,640 + 19,440 − 880 + 720 − 5,560 = RM18,360；销货退回不会直接改变此算式。
+Bahasa Melayu: Kos jualan = 4,640 + 19,440 − 880 + 720 − 5,560 = RM18,360; pulangan masuk tidak dimasukkan dalam rumus ini."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：营业账户把净销售与销货成本比较，用来求毛利或毛损。
+Bahasa Melayu: Akaun Perdagangan membandingkan jualan bersih dengan kos jualan untuk menentukan untung atau rugi kasar."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：预付费用是本期已经付款、但属于下个会计期间的费用，期末列作流动资产。
+Bahasa Melayu: Belanja prabayar telah dibayar dalam tempoh semasa tetapi berkaitan tempoh akan datang; ia merupakan aset semasa."

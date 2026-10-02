@@ -1,33 +1,65 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,B,Johor Set 1/Picture33.png
-F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,D,Johor Set 1/Picture34.png
-F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,C,Johor Set 2/Picture33.png
-F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,C,Johor Set 2/Picture34.png
-F5 Chp 5,radio,Kedah_Q33,A,B,C,D,C,Kedah/Picture33.png
-F5 Chp 5,radio,Kedah_Q34,A,B,C,D,D,Kedah/Picture34.png
-F5 Chp 5,radio,Kelantan_Q33,A,B,C,D,A,Kelantan/Picture33.png
-F5 Chp 5,radio,Kelantan_Q34,A,B,C,D,C,Kelantan/Picture34.png
-F5 Chp 5,radio,Kl_Q33,A,B,C,D,A,KL/Picture33.png
-F5 Chp 5,radio,Kl_Q34,A,B,C,D,B,KL/Picture34.png
-F5 Chp 5,radio,Melaka_Q33,A,B,C,D,A,Melaka/Picture33.png
-F5 Chp 5,radio,Melaka_Q34,A,B,C,D,D,Melaka/Picture34.png
-F5 Chp 5,radio,Mrsm_Q33,A,B,C,D,D,MRSM/Picture33.png
-F5 Chp 5,radio,Mrsm_Q34,A,B,C,D,D,MRSM/Picture34.png
-F5 Chp 5,radio,NegeriSembilan_Q33,A,B,C,D,C,Negeri Sembilan/Picture33.png
-F5 Chp 5,radio,NegeriSembilan_Q34,A,B,C,D,A,Negeri Sembilan/Picture34.png
-F5 Chp 5,radio,Pahang_Q33,A,B,C,D,A,Pahang/Picture33.png
-F5 Chp 5,radio,Pahang_Q34,A,B,C,D,B,Pahang/Picture34.png
-F5 Chp 5,radio,PenangPpdBaratDaya_Q33,A,B,C,D,C,Penang PPD Barat Daya/Picture33.png
-F5 Chp 5,radio,PenangPpdBaratDaya_Q34,A,B,C,D,C,Penang PPD Barat Daya/Picture34.png
-F5 Chp 5,radio,Perak_Q33,A,B,C,D,D,Perak/Picture33.png
-F5 Chp 5,radio,Perak_Q34,A,B,C,D,A,Perak/Picture34.png
-F5 Chp 5,radio,Perlis_Q33,A,B,C,D,D,Perlis/Picture33.png
-F5 Chp 5,radio,Perlis_Q34,A,B,C,D,B,Perlis/Picture34.png
-F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,C,Selangor Set 1/Picture33.png
-F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,A,Selangor Set 1/Picture34.png
-F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,D,Selangor Set 2/Picture33.png
-F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,D,Selangor Set 2/Picture34.png
-F5 Chp 5,radio,Smka_Q33,A,B,C,D,A,SMKA/Picture33.png
-F5 Chp 5,radio,Smka_Q34,A,B,C,D,A,SMKA/Picture34.png
-F5 Chp 5,radio,Terengganu_Q33,A,B,C,D,B,Terengganu/Picture33.png
-F5 Chp 5,radio,Terengganu_Q34,A,B,C,D,C,Terengganu/Picture34.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,B,Johor Set 1/Picture33.png,"中文：已发行股本需注明股份种类及股数，即 I、IV，不能把股东人数当股数。
+Bahasa Melayu: Modal syer dinyatakan mengikut jenis syer dan bilangan unit syer, iaitu I dan IV."
+F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,D,Johor Set 1/Picture34.png,"中文：年终真实利润尚未确定之前派发的股息称为中期股息。
+Bahasa Melayu: Dividen interim dibayar sebelum tempoh kewangan tamat dan sebelum untung sebenar diketahui."
+F5 Chp 5,radio,JohorSet_Q33,A,B,C,D,C,Johor Set 2/Picture33.png,"中文：股数700,000，每股 RM1.50，已发行缴足股本 = RM1,050,000；应同时列正确股数及金额。
+Bahasa Melayu: 700,000 unit syer biasa × RM1.50 = modal diterbitkan dan berbayar RM1,050,000; C menunjukkan unit serta amaun tepat."
+F5 Chp 5,radio,JohorSet_Q34,A,B,C,D,C,Johor Set 2/Picture34.png,"中文：中期股息在公司真实年度利润确定之前派发。
+Bahasa Melayu: Dividen interim dibayar sebelum untung sebenar syarikat diketahui."
+F5 Chp 5,radio,Kedah_Q33,A,B,C,D,C,Kedah/Picture33.png,"中文：课本所述累积优先股可领取拖欠股息；优先股通常按固定率并优先于普通股领取。
+Bahasa Melayu: Syer keutamaan kumulatif layak menerima tunggakan dividen; dividennya berkadar tetap dan didahulukan sebelum syer biasa."
+F5 Chp 5,radio,Kedah_Q34,A,B,C,D,D,Kedah/Picture34.png,"中文：缴足资本 = 普通股2,000,000 × RM1 + 优先股2,000,000 × RM1.50 = RM5,000,000；8%是股息率。
+Bahasa Melayu: Modal berbayar = 2,000,000 × RM1 + 2,000,000 × RM1.50 = RM5,000,000. Kadar 8% ialah kadar dividen."
+F5 Chp 5,radio,Kelantan_Q33,A,B,C,D,A,Kelantan/Picture33.png,"中文：普通股每股价 = RM750,000 ÷ 1,000,000股 = RM0.75。
+Bahasa Melayu: Harga sesyer biasa = RM750,000 ÷ 1,000,000 unit = RM0.75."
+F5 Chp 5,radio,Kelantan_Q34,A,B,C,D,C,Kelantan/Picture34.png,"中文：年度优先股股息50,000 × 2 × 8% = 8,000；2022拖欠2,000，所以2023共RM10,000。
+Bahasa Melayu: Dividen tahunan = 50,000 × 2 × 8% = 8,000; tunggakan 2022 sebanyak 2,000 menjadikan dividen 2023 RM10,000."
+F5 Chp 5,radio,Kl_Q33,A,B,C,D,A,KL/Picture33.png,"中文：本年会费占实收70%，收入 = 5,800 × 70% = RM4,060；旧年欠费收回不算本年收入。
+Bahasa Melayu: Yuran tahun semasa = 5,800 × 70% = RM4,060; kutipan tunggakan tahun lalu bukan hasil semasa."
+F5 Chp 5,radio,Kl_Q34,A,B,C,D,B,KL/Picture34.png,"中文：期初累计基金加本期盈余形成期末基金，所以 P 是 Lebihan。
+Bahasa Melayu: Dana terkumpul awal ditambah lebihan menjadi dana terkumpul akhir; P ialah Lebihan."
+F5 Chp 5,radio,Melaka_Q33,A,B,C,D,A,Melaka/Picture33.png,"中文：缴足股本 = 500,000 × RM1 = RM500,000。现有 A 金额正确；D 的“unit syer biasa RM1 sesyer”披露每股价最完整，格式待核对。
+Bahasa Melayu: Modal berbayar = 500,000 × RM1 = RM500,000. Amaun A betul; D menyatakan harga sesyer dengan paling lengkap. Format kunci perlu disemak."
+F5 Chp 5,radio,Melaka_Q34,A,B,C,D,D,Melaka/Picture34.png,"中文：优先股股息1,500,000 × 6% = 90,000；普通股800,000 × 0.06 = 48,000；合计RM138,000。
+Bahasa Melayu: Dividen keutamaan = 1,500,000 × 6% = 90,000; biasa = 800,000 × 0.06 = 48,000; jumlah RM138,000."
+F5 Chp 5,radio,Mrsm_Q33,A,B,C,D,D,MRSM/Picture33.png,"中文：股本 = 300,000 × 1 + 100,000 × 2 = RM500,000；8%不计入股本。
+Bahasa Melayu: Modal syer = 300,000 × 1 + 100,000 × 2 = RM500,000; kadar 8% ialah dividen."
+F5 Chp 5,radio,Mrsm_Q34,A,B,C,D,D,MRSM/Picture34.png,"中文：按题意普通股每股RM0.50：优先股4,000,000 × 6% + 普通股3,000,000 × 0.50 = RM1,740,000；“sen”疑多写。
+Bahasa Melayu: Mengikut maksud kunci, dividen biasa RM0.50 sesyer: 4,000,000 × 6% + 3,000,000 × 0.50 = RM1,740,000. Perkataan “sen” selepas RM0.50 mengelirukan."
+F5 Chp 5,radio,NegeriSembilan_Q33,A,B,C,D,C,Negeri Sembilan/Picture33.png,"中文：优先股3月起计10个月：1,200,000 × 10% × 10/12 = 100,000；普通股200,000 × 0.20 = 40,000；共RM140,000。
+Bahasa Melayu: Dividen keutamaan bagi 10 bulan = 1,200,000 × 10% × 10/12 = 100,000; biasa = 200,000 × 0.20 = 40,000; jumlah RM140,000."
+F5 Chp 5,radio,NegeriSembilan_Q34,A,B,C,D,A,Negeri Sembilan/Picture34.png,"中文：Honorarium 是服务酬谢费用，属于收益支出；购买或改造长期资产是资本支出。
+Bahasa Melayu: Honorarium ialah perbelanjaan hasil; pembelian atau pengubahsuaian aset jangka panjang ialah perbelanjaan modal."
+F5 Chp 5,radio,Pahang_Q33,A,B,C,D,A,Pahang/Picture33.png,"中文：4月30,000 + 20,000 = 50,000；5月20,000 × 1.10 = 22,000；6月22,000 × 1.10 + 8,000 = 32,200。
+Bahasa Melayu: April: 30,000 + 20,000 = 50,000; Mei: 20,000 × 1.10 = 22,000; Jun: 22,000 × 1.10 + 8,000 = 32,200."
+F5 Chp 5,radio,Pahang_Q34,A,B,C,D,B,Pahang/Picture34.png,"中文：可分利润 = 19,000 − 2,000 − 4,000 − 3,000 = 10,000；Sofea分一半RM5,000，不把薪金及资本利息再当利润份额。
+Bahasa Melayu: Untung boleh dibahagi = 19,000 − 2,000 − 4,000 − 3,000 = 10,000; kongsi untung Sofea RM5,000, tidak termasuk gaji dan faedah modal."
+F5 Chp 5,radio,PenangPpdBaratDaya_Q33,A,B,C,D,C,Penang PPD Barat Daya/Picture33.png,"中文：先更新现金簿：2,300 + 90 = 2,390；银行账单余额 = 2,390 + 500 − 3,500 = −RM610，属银行账单借方余额。
+Bahasa Melayu: Baki Buku Tunai dikemas kini = 2,300 + 90 = 2,390; baki Penyata Bank = 2,390 + 500 − 3,500 = −RM610, iaitu baki debit."
+F5 Chp 5,radio,PenangPpdBaratDaya_Q34,A,B,C,D,C,Penang PPD Barat Daya/Picture34.png,"中文：资本利息 = 14,000 × 4% + 3,000 × 4% × 6/12 = 560 + 60 = RM620。
+Bahasa Melayu: Faedah atas modal = 14,000 × 4% + 3,000 × 4% × 6/12 = RM620."
+F5 Chp 5,radio,Perak_Q33,A,B,C,D,D,Perak/Picture33.png,"中文：优先股的股息率固定，且在普通股股息之前支付；一般没有投票权。
+Bahasa Melayu: Syer keutamaan mempunyai kadar dividen tetap dan menerima dividen sebelum syer biasa; lazimnya tiada hak mengundi."
+F5 Chp 5,radio,Perak_Q34,A,B,C,D,A,Perak/Picture34.png,"中文：按购买后 11 个月计全年应得股息：15,000 × RM2 × 6% × 11/12 = RM1,650；减中期 RM900，最终股息 RM750。
+Bahasa Melayu: Dividen bagi 11 bulan = 15,000 × RM2 × 6% × 11/12 = RM1,650; dividen akhir = 1,650 − 900 = RM750."
+F5 Chp 5,radio,Perlis_Q33,A,B,C,D,D,Perlis/Picture33.png,"中文：股本 = 1,000,000 × RM1.50 = RM1,500,000；借记认购申请账户、贷记普通股资本，收款时借银行、贷认购申请。
+Bahasa Melayu: Modal syer = 1,000,000 × RM1.50 = RM1,500,000; debit Permohonan dan kredit Modal Syer Biasa, kemudian debit Bank dan kredit Permohonan bagi wang diterima."
+F5 Chp 5,radio,Perlis_Q34,A,B,C,D,B,Perlis/Picture34.png,"中文：优先股股息 = 150,000 × 2 × 7% = RM21,000；普通股分得 47,000 − 21,000 = 26,000；股息率 = 26,000 ÷ 200,000 × 100% = 13%。
+Bahasa Melayu: Dividen keutamaan = RM21,000; baki untuk syer biasa = 47,000 − 21,000 = RM26,000; kadar = 26,000 ÷ 200,000 × 100% = 13%."
+F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,C,Selangor Set 1/Picture33.png,"中文：已发行并缴足普通股 1,000,000 股，资本 = 1,000,000 × RM1.50 = RM1,500,000；权益应列明股数和金额。
+Bahasa Melayu: Modal diterbitkan dan dibayar penuh ialah 1,000,000 unit syer biasa berjumlah 1,000,000 × RM1.50 = RM1,500,000."
+F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,A,Selangor Set 1/Picture34.png,"中文：股息按每股 25 sen 计算：1,450,000 × RM0.25 = RM362,500；无需乘股价 RM1.50。
+Bahasa Melayu: Dividen syer biasa = 1,450,000 × RM0.25 = RM362,500; harga sesyer RM1.50 tidak digunakan."
+F5 Chp 5,radio,SelangorSet_Q33,A,B,C,D,D,Selangor Set 2/Picture33.png,"中文：有限公司权益列示已发行并缴足股本，说明正式发行及已收到股款的资本金额。
+Bahasa Melayu: Ekuiti pemilik syarikat berhad menunjukkan modal diterbitkan dan berbayar penuh."
+F5 Chp 5,radio,SelangorSet_Q34,A,B,C,D,D,Selangor Set 2/Picture34.png,"中文：普通股资本 = 100,000 × RM0.50 = RM50,000；股息率 = 10,000 ÷ 50,000 × 100% = 20%。
+Bahasa Melayu: Modal syer biasa = 100,000 × RM0.50 = RM50,000; kadar dividen = 10,000 ÷ 50,000 × 100% = 20%."
+F5 Chp 5,radio,Smka_Q33,A,B,C,D,A,SMKA/Picture33.png,"中文：普通股股息在优先股股息支付之后才分配；普通股一般有投票权，股息率也不固定。
+Bahasa Melayu: Dividen syer biasa dibayar selepas syer keutamaan; pemegangnya lazimnya mempunyai hak mengundi dan kadar dividen tidak tetap."
+F5 Chp 5,radio,Smka_Q34,A,B,C,D,A,SMKA/Picture34.png,"中文：按题目中期涵盖 1 月至 9 月计：1,500,000 × 2% × 9/12 = RM22,500，10 月 1 日宣布。
+Bahasa Melayu: Dividen interim bagi Januari hingga September = 1,500,000 × 2% × 9/12 = RM22,500, diisytiharkan pada 1 Oktober."
+F5 Chp 5,radio,Terengganu_Q33,A,B,C,D,B,Terengganu/Picture33.png,"中文：变现损失 = 32,500 + 790 − 26,430 = RM6,860；债务按原额结清，不产生额外变现利润。
+Bahasa Melayu: Rugi realisasi = nilai aset 32,500 + belanja 790 − hasil jualan 26,430 = RM6,860; liabiliti dibayar penuh pada nilai bukunya."
+F5 Chp 5,radio,Terengganu_Q34,A,B,C,D,C,Terengganu/Picture34.png,"中文：股东从持有股份所得的利润分配称为股息 dividen，不是贷款利息。
+Bahasa Melayu: Agihan keuntungan kepada pemegang syer disebut dividen, bukannya faedah pinjaman."

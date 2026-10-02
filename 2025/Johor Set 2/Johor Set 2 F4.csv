@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Set 2 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture19.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 2 F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：审计员核查商业凭证与会计记录，并确认记录及报表是否准确。
+Bahasa Melayu: Juruaudit menyemak dokumen perniagaan dan mengesahkan ketepatan rekod perakaunan."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：真实表述要求财务资料忠实、准确反映实际情况，而不仅是及时或相关。
+Bahasa Melayu: Perwakilan benar bermaksud maklumat mencerminkan keadaan sebenar dengan jujur dan tepat."
+,radio,F4 Bab 1,A,B,C,D,C,Picture3.png,"中文：私人车辆转入企业须作为追加资本，体现业主与企业是分开的会计主体。
+Bahasa Melayu: Entiti berasingan memisahkan pemilik daripada perniagaan; kenderaan peribadi yang dimasukkan direkod sebagai modal tambahan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：进货运费和购货工资为取得商品的成本；销货运费属销售费用，购货退回则减少购货。
+Bahasa Melayu: Angkutan masuk dan upah atas belian menambah kos belian. Angkutan keluar ialah belanja jualan, manakala pulangan belian mengurangkan belian."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：银行增加 RM5,050，应收账款减少 RM5,500，差额 RM450 为折扣费用，降低净利和权益。
+Bahasa Melayu: Bank bertambah RM5,050, ABT berkurang RM5,500 dan diskaun diberi RM450 mengurangkan untung bersih."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：客户退回空瓶使其欠款减少，企业发出贷项通知单 Nota Kredit。
+Bahasa Melayu: Nota Kredit dihantar kepada pelanggan untuk mengurangkan hutangnya apabila botol kosong dipulangkan."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：答案 B 对应商品提款及注销坏账，均记普通日记簿。题目 III 若确为业主用私人钱代付租金，也应记普通日记簿，故选项组合存在歧义。
+Bahasa Melayu: Jawapan B meliputi ambilan barang dan hutang lapuk dalam Jurnal Am. Jika III benar-benar dibayar dengan wang peribadi pemilik, catatannya juga dalam Jurnal Am; gabungan pilihan kurang jelas."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：补款按已支付金额计算：15 + 100 = RM115，使备用金恢复 RM200。
+Bahasa Melayu: Rekupmen = jumlah pembayaran = 15 + 100 = RM115, untuk memulihkan panjar kepada RM200."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：真实账户记录企业资产，例如现金、设备和车辆；收入与费用属于名义账户。
+Bahasa Melayu: Akaun nyata merekod aset perniagaan seperti tunai, peralatan dan kenderaan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：家具店把待售桌子改作办公室家具，属于资产自用，借记家具、贷记购货；不是私人提款。
+Bahasa Melayu: Meja barang niaga digunakan di pejabat, maka debit Akaun Perabot dan kredit Belian; bukan ambilan peribadi."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：期末应付账款 = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470。
+Bahasa Melayu: Baki akhir ABB = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：P 在借方，可为家具资产；Q 在贷方，可为购货退回，因此 D 的配对正确。
+Bahasa Melayu: P berbaki debit seperti Perabot, manakala Q berbaki kredit seperti Pulangan Belian. Padanan D betul."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：财务状况表显示某一日期企业的资产、负债与业主权益，利润由损益表呈现。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pada suatu tarikh; untung ditentukan dalam penyata pendapatan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：销售转入交易账户，租金转入损益账户，所以 II 和 III 正确；购货不转入损益账户。
+Bahasa Melayu: Jualan ditutup ke Akaun Perdagangan dan sewa ke Akaun Untung Rugi. II dan III betul."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：收到已注销的坏账，银行资产增加，借记银行；坏账收回是收入，贷记坏账收回。
+Bahasa Melayu: Hutang lapuk terpulih diterima dengan mendebit Bank dan mengkredit Hutang Lapuk Terpulih."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：首年折旧 = 12,000 × 10% = 1,200；第二年 = (12,000 − 1,200) × 10% = RM1,080。
+Bahasa Melayu: Susut nilai tahun pertama RM1,200; tahun kedua = (12,000 − 1,200) × 10% = RM1,080."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：期初账面值 = 12,500 − 4,500 = 8,000；本年折旧 1,600，出售时账面值 6,400，售价 6,000，亏损 RM400。
+Bahasa Melayu: Nilai buku awal RM8,000; susut nilai RM1,600 menjadikan nilai buku RM6,400. Harga jualan RM6,000 menghasilkan rugi RM400."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：应记 Shaza 却误记同类供应商 Shazi，属于同类账户之间的佣金错误 Kesilapan Komisen。
+Bahasa Melayu: Catatan kepada Shazi menggantikan Shaza melibatkan akaun sejenis, maka ialah kesilapan komisen."
+,radio,F4 Bab 9,A,B,C,D,B,Picture19.png,"中文：维修费 RM800 误记资产，导致费用少记、净利高估；新净利 = 10,200 − 800 = RM9,400。
+Bahasa Melayu: Belanja pembaikan RM800 tersalah menjadi aset, menyebabkan untung terlebih. Untung baharu = 10,200 − 800 = RM9,400."

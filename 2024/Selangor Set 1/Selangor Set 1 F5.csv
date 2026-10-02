@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 1 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 1 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：Hebat 资本回报率 25% 高于 Jaya 20%，按投资收益角度较适合；Jaya 的存货周转反而较快。
+Bahasa Melayu: Pulangan atas modal Hebat 25% melebihi Jaya 20%, maka lebih menarik untuk pelaburan; Jaya pula mempunyai pusing ganti inventori lebih tinggi."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：只记现金簿或每笔只记一个账户，均未完成复式记账，形成不完整记录。
+Bahasa Melayu: Merekod Buku Tunai sahaja atau satu akaun bagi sesuatu urus niaga menyebabkan rekod tak lengkap."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：本期水电费 = 付款 2,510 − 期初应付 235 + 期末应付 190 = RM2,465。
+Bahasa Melayu: Utiliti semasa = bayaran 2,510 − belum bayar awal 235 + belum bayar akhir 190 = RM2,465."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：现金控制确保企业有足够现金支付到期费用和债务，维持正常营运。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila perlu."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：股息代收与贷项转账增加客户存款，银行账单记贷方；支票簿费用及银行收费记借方。
+Bahasa Melayu: Dividen dan pindahan kredit menambah baki pelanggan serta dicatat kredit Penyata Bank; buku cek dan caj bank dicatat debit."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：二月销货 = 5,000 × 1.1 = 5,500；三月 = 6,050；三月收款 = 6,050 × 70% + 5,500 × 30% = RM5,885。
+Bahasa Melayu: Jualan Februari RM5,500 dan Mac RM6,050; penerimaan Mac = 6,050 × 70% + 5,500 × 30% = RM5,885."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：提款利息是向合伙人收取的费用，减少其权益，借记合伙人往来账户。
+Bahasa Melayu: Faedah atas ambilan mengurangkan hak pekongsi dan didebitkan dalam Akaun Semasa pekongsi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：用私人现金装修相当于增加资本；利息 = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600。
+Bahasa Melayu: Tunai peribadi untuk ubah suai ialah modal tambahan; faedah = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：两位合伙人的往来账户均为借方余额，合计 RM3,500 从资本 RM80,000 扣除。
+Bahasa Melayu: Kedua-dua Akaun Semasa berbaki debit; jumlah RM3,500 ditolak daripada modal RM80,000 dalam ekuiti pemilik."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：变现利润 = 售价 86,000 − 资产账面值 73,000 − 变现费用 1,900 = RM11,100；按账面值偿债不会产生额外盈亏。
+Bahasa Melayu: Untung realisasi = 86,000 − 73,000 − 1,900 = RM11,100; pembayaran liabiliti pada nilai bukunya tidak menghasilkan untung atau rugi tambahan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：优先股一般没有权在股东大会投票选举董事，这是其权利上的限制。
+Bahasa Melayu: Pemegang syer keutamaan lazimnya tidak berhak mengundi untuk memilih Lembaga Pengarah."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：已发行并缴足普通股 1,000,000 股，资本 = 1,000,000 × RM1.50 = RM1,500,000；权益应列明股数和金额。
+Bahasa Melayu: Modal diterbitkan dan dibayar penuh ialah 1,000,000 unit syer biasa berjumlah 1,000,000 × RM1.50 = RM1,500,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：股息按每股 25 sen 计算：1,450,000 × RM0.25 = RM362,500；无需乘股价 RM1.50。
+Bahasa Melayu: Dividen syer biasa = 1,450,000 × RM0.25 = RM362,500; harga sesyer RM1.50 tidak digunakan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：俱乐部费用超过收入称为 kurangan（赤字）；营利企业收入超过费用称为 untung（利润）。
+Bahasa Melayu: Kelab mencatat kurangan apabila perbelanjaan melebihi pendapatan; entiti keuntungan mencatat untung apabila pendapatan melebihi belanja."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：期末现金 = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600。
+Bahasa Melayu: Baki akhir = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：本年会费收入 = 3,180 − 期初应收 105 − 期末预收 65 = RM3,010。
+Bahasa Melayu: Hasil yuran semasa = 3,180 − yuran belum terima awal 105 − yuran belum terperoleh akhir 65 = RM3,010."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：费用 = 租金 4,200 + 费率 (1,800 − 800 + 550) + 保险 (2,000 + 600) = RM8,350。
+Bahasa Melayu: Perbelanjaan hasil = 4,200 + (1,800 − 800 + 550) + (2,000 + 600) = RM8,350."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：制造成本 = 18,000 + 35,000 + 40,500 + 28,000 + 8,400 − 2,600 = RM127,300；完成品存货不进入此制造成本式。
+Bahasa Melayu: Kos pengeluaran = 18,000 + 35,000 + 40,500 + 28,000 + 8,400 − 2,600 = RM127,300; barang siap tidak dimasukkan dalam rumus ini."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：盈亏平衡数量 = 28,000 ÷ (50 − 15) = 800 单位。
+Bahasa Melayu: Titik pulang modal = 28,000 ÷ (50 − 15) = 800 unit."

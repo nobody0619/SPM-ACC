@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：马来西亚会计师协会负责监管和推广会计专业。
+Bahasa Melayu: MIA mengawal dan memperkenalkan profesion perakaunan di Malaysia."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：按购入成本记录货车体现成本原则；持续使用同一种直线折旧法体现一致性。
+Bahasa Melayu: Merekod lori pada kos belian mematuhi prinsip kos; penggunaan kaedah garis lurus secara berterusan mematuhi ketekalan, iaitu III dan IV."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：赊购机器使资产增加 RM55,500，同时应付债务增加同额；业主权益不变。
+Bahasa Melayu: Belian mesin secara kredit menambah aset dan liabiliti sebanyak RM55,500; ekuiti pemilik tidak berubah."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：累计折旧抵减资产成本，所以属于资产的对销账户。
+Bahasa Melayu: Susut nilai terkumpul mengurangkan nilai kos aset dan merupakan akaun kontra aset."
+,radio,F4 Bab 3,A,B,C,D,C,Picture5.png,"中文：购货通知属于非原始凭证，用于协助采购流程，不能直接作为交易入账依据。
+Bahasa Melayu: Nota belian ialah dokumen bukan sumber yang menyokong urusan pembelian, bukan bukti utama untuk merekod urus niaga."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：银行存款利息增加企业银行余额，银行以贷项通知告知企业。
+Bahasa Melayu: Faedah simpanan menambah baki bank perniagaan; bank mengeluarkan makluman kredit."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：现金投入作为追加资本记录在现金簿借方，而非普通日记账。
+Bahasa Melayu: Tunai yang dibawa masuk sebagai modal tambahan direkod di sebelah debit Buku Tunai, bukan Jurnal Am."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：定额零用现金补回额等于实际支出：25 + 30 = RM55；补回后余额恢复 RM200。
+Bahasa Melayu: Rekupmen sistem panjar sama dengan jumlah pembayaran, 25 + 30 = RM55, supaya baki kembali kepada RM200."
+,radio,F4 Bab 4,A,B,C,D,D,Picture9.png,"中文：收到客户付款使现金或银行增加，记在现金簿借方。
+Bahasa Melayu: Bayaran daripada pelanggan menambah tunai atau bank dan direkod di sebelah debit Buku Tunai."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：文具属于费用，正常借方余额；服务收入属于收入，正常贷方余额。
+Bahasa Melayu: Alat tulis ialah belanja dengan baki debit, manakala hasil perkhidmatan ialah hasil dengan baki kredit."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：应付余额 = 14,200 + 4,200 − 740 − 1,200 − 10,000 = RM6,460，属贷方余额。
+Bahasa Melayu: Baki Akaun Belum Bayar = 14,200 + 4,200 − 740 − 1,200 − 10,000 = RM6,460 kredit."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：试算表列出分类账余额，并测试复式记账的借贷总额是否相等，因此 I、IV 正确。
+Bahasa Melayu: Imbangan Duga menyenaraikan baki lejar dan menguji kesamaan jumlah debit dan kredit catatan bergu; I dan IV benar."
+,radio,F4 Bab 6,A,B,C,D,A,Picture13.png,"中文：期末数量 = 10 + 100 − 70 = 40；按成本与市价较低者 RM30 计值，40 × 30 = RM1,200。
+Bahasa Melayu: Kuantiti akhir = 10 + 100 − 70 = 40. Nilai pada kos atau harga pasaran yang lebih rendah: 40 × RM30 = RM1,200."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：股份投资收益是收入；交易及损益账户用于确定净利或净亏。应付工资属于负债，费用栏应列本期工资费用。
+Bahasa Melayu: Keuntungan pelaburan saham ialah hasil dan akaun ini menentukan untung atau rugi bersih. Gaji belum bayar ialah liabiliti, bukan item belanja itu sendiri; III dan IV benar."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：本期3月至5月共3个月，租金费用 = 11,400 ÷ 12 × 3 = RM2,850，其余为预付。
+Bahasa Melayu: Sewa bagi Mac hingga Mei ialah tiga bulan: 11,400 ÷ 12 × 3 = RM2,850; bakinya ialah sewa prabayar."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：文具费用 = 期初存货 + 购入 − 期末存货，所以购入 = 850 − 900 + 350 = RM300。
+Bahasa Melayu: Belanja alat tulis = inventori awal + belian − inventori akhir. Belian = 850 − 900 + 350 = RM300."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：已注销欠款后来收回属于坏账收回，是2025年的收入 RM204。
+Bahasa Melayu: Hutang yang telah dihapus kira dan diterima semula ialah hutang lapuk terpulih, direkod sebagai hasil RM204 pada 2025."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：技术更新造成过时，实体损坏和磨损也降低资产价值，因此 I、IV 是折旧原因。
+Bahasa Melayu: Perubahan teknologi serta kerosakan fizikal dan keusangan menyebabkan susut nilai; I dan IV benar."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：账面净值 = 36,800 − 7,360 = RM29,440；售价 RM27,200 较低，处置亏损 = RM2,240。
+Bahasa Melayu: Nilai buku = 36,800 − 7,360 = RM29,440. Rugi pelupusan = 29,440 − 27,200 = RM2,240."
+,radio,F4 Bab 9,A,B,C,D,D,Picture20.png,"中文：实际支票 RM310 却记成 RM130，属于金额记录错误。
+Bahasa Melayu: Cek sebenar RM310 direkod sebagai RM130; ini ialah kesilapan amaun."
+,radio,F4 Bab 9,A,B,C,D,C,Picture21.png,"中文：私人家具投入企业应增加家具及资本；完全漏记使两者均少记 RM8,700。
+Bahasa Melayu: Perabot peribadi yang dibawa masuk menambah Perabot dan Modal; kegagalan merekod menyebabkan kedua-duanya terkurang catat RM8,700."

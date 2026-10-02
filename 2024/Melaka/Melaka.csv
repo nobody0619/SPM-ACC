@@ -1,41 +1,81 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka 2024,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：管理会计为内部管理层提供计划、控制及生产决策资料。
+Bahasa Melayu: Perakaunan pengurusan membekalkan maklumat untuk perancangan, kawalan dan pengurusan pengeluaran dalaman."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：尚未付的本期工资也确认为费用，符合收入与费用确认原则。
+Bahasa Melayu: Gaji belum bayar turut diiktiraf sebagai belanja semasa mengikut prinsip pengiktirafan hasil dan belanja."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：专业合伙如诊所有2–50人，承担无限责任，按协议分配利润。
+Bahasa Melayu: Perkongsian profesional seperti klinik boleh mempunyai 2–50 pekongsi, liabiliti tidak terhad dan pembahagian untung menurut perjanjian."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：出售自用家具的利润不是鞋店主要销售活动收入，属于非营业收入。
+Bahasa Melayu: Untung jualan perabot bukan hasil aktiviti utama jualan kasut, maka merupakan hasil bukan operasi."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：银行减少350、债务减少400；获得折扣50增加利润及权益。
+Bahasa Melayu: Bank berkurang 350, hutang berkurang 400; diskaun diterima 50 menambah keuntungan dan ekuiti."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：额外运输费增加客户欠款，发借项通知单；卖方留存副本入账。
+Bahasa Melayu: Caj pengangkutan menambah hutang pelanggan; penjual mengeluarkan Nota Debit dan menyimpan salinan untuk rekod."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：发票表示赊购或赊销，尚无现金流，不能直接记现金簿。
+Bahasa Melayu: Invois merekod urus niaga kredit tanpa aliran tunai, maka tidak direkod terus dalam Buku Tunai."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：现金收入日记簿记录实际收到的现金，包括商品现金销售。
+Bahasa Melayu: Jurnal Penerimaan Tunai merekod penerimaan tunai, termasuk jualan barang niaga secara tunai."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：题目把商品捐赠视为企业费用，借记捐款450、贷记购货450。
+Bahasa Melayu: Barang niaga didermakan sebagai belanja perniagaan: debit Derma 450 dan kredit Belian 450."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：Sarah 的支票退票，须取消原收款，现金簿银行栏贷记并恢复客户欠款。
+Bahasa Melayu: Cek Sarah dibatalkan; kredit bank untuk membatalkan penerimaan dan pulihkan hutang pelanggan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：购买邮票是小额日常支出，可由零用现金支付。
+Bahasa Melayu: Pembelian setem ialah pembayaran kecil harian yang sesuai direkod dalam Buku Tunai Runcit."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：净利增加企业资本；毛利尚未扣除其他费用，不能直接当资本增加。
+Bahasa Melayu: Untung bersih menambah modal; untung kasar belum mengambil kira semua belanja."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：用于促销的商品是企业推广费用：借记促销、贷记购货。
+Bahasa Melayu: Barang niaga untuk promosi direkod debit Promosi dan kredit Belian, bukan ambilan peribadi."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：向客户征收利息增加欠款，记应收账款控制账户借方。
+Bahasa Melayu: Faedah dikenakan kepada pelanggan menambah hutangnya dan didebitkan dalam Akaun Kawalan Belum Terima."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：试算表借方可列销售退回，贷方可列坏账收回收入，对应 C。
+Bahasa Melayu: Pulangan jualan berbaki debit dan hutang lapuk terpulih berbaki kredit, seperti pilihan C."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：购货退回期末转入交易账户，用来减少净购货。
+Bahasa Melayu: Pulangan belian dipindahkan ke Akaun Perdagangan pada akhir tempoh untuk mengurangkan belian bersih."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：应计制把已赚取但尚未收款的收入计入本期收益。
+Bahasa Melayu: Asas akruan mengiktiraf hasil belum terima sebagai hasil tempoh semasa."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：应计费用是本期已发生但未支付的费用，须在本期确认，并列为流动负债。
+Bahasa Melayu: Belanja belum bayar ialah belanja semasa yang masih belum dibayar; diiktiraf pada tempoh semasa sebagai liabiliti semasa."
+,radio,F4 Bab 8,A,B,C,D,D,Picture19.png,"中文：坏账估计费用只计准备增加额：276 − 172 = RM104。
+Bahasa Melayu: Hutang ragu dalam untung rugi ialah pertambahan PHR: 276 − 172 = RM104."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：已收支票尚未存入银行是时间差，只作银行调节；不用再次更新收款。
+Bahasa Melayu: Cek diterima belum didepositkan ialah perbezaan masa untuk penyesuaian bank, bukan catatan baharu Buku Tunai."
+,radio,F4 Bab 9,A,B,C,D,C,Picture21.png,"中文：出售资产亏损是费用记损益借方，盈利是收入记贷方。
+Bahasa Melayu: Rugi pelupusan didebitkan dan untung pelupusan dikreditkan dalam Akaun Untung Rugi."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：按答案的处理，125,000包括新车：旧车净值125,000 − 50,000 − 15,000 = 60,000；累计折旧15,000 + 6,000 + 1,250 = RM22,250。
+Bahasa Melayu: Mengikut kunci, 125,000 termasuk kenderaan baharu: nilai buku lama 60,000. Susut nilai terkumpul = 15,000 + 6,000 + 50,000 × 10% × 3/12 = RM22,250."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：记到同类别但错误供应商账户，属于账户混淆错误（kesilapan komisen）。
+Bahasa Melayu: Belian dicatat dalam akaun pembekal yang salah tetapi dalam kelas sama ialah kesilapan komisen."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：现金销售占40%，38,400 × 40% = RM15,360。
+Bahasa Melayu: Jualan tunai ialah 40%: 38,400 × 40% = RM15,360."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
+Bahasa Melayu: Kos jualan = 120,000 − 59,520 = 60,480; inventori purata = 60,480 ÷ 8 = RM7,560."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：资本 = 资产 − 负债；应收账款是资产，银行透支是负债。
+Bahasa Melayu: Modal = aset − liabiliti; Akaun Belum Terima ialah aset dan overdraf bank ialah liabiliti."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：一般合伙具有无限责任，且向SSM注册。现有答案 B 的“无限至出资额”措辞矛盾，C 的注册特征正确，待核对。
+Bahasa Melayu: Perkongsian biasa mempunyai liabiliti tidak terhad dan didaftarkan dengan SSM. Ayat B bercanggah; ciri pendaftaran dalam C adalah betul dan perlu disemak."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：收款 = 5,428 + 6,840 − 480 − 3,862 = RM7,926；坏账准备不是应收账款控制账户付款。
+Bahasa Melayu: Kutipan = 5,428 + 6,840 − 480 − 3,862 = RM7,926; PHR bukan item pengurangan dalam akaun kawalan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：提款利息记利润分配账户贷方，资本利息记借方。因此概念对应 D，现有答案 C 待确认。
+Bahasa Melayu: Faedah ambilan dikreditkan dalam akaun pengasingan; faedah modal didebitkan. Konsep memberi D, tetapi kunci sedia ada C perlu disahkan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：变现结果 = 27,000 − 35,000 − 600 = 亏RM8,600，应为 D。现有 B 把同金额标成盈利，待确认。
+Bahasa Melayu: Hasil realisasi = 27,000 − 35,000 − 600 = rugi RM8,600, pilihan D. Kunci B menyatakan untung dan perlu disahkan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：指定建球场的捐款属于资本收入，增加累计基金。
+Bahasa Melayu: Derma khas membina gelanggang ialah penerimaan modal yang menambah dana terkumpul."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：退还超额认购款：借记普通股申请账户、贷记银行RM200,000。
+Bahasa Melayu: Pulangan lebihan langganan: debit Permohonan Syer Biasa, kredit Bank RM200,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：缴足股本 = 500,000 × RM1 = RM500,000。现有 A 金额正确；D 的“unit syer biasa RM1 sesyer”披露每股价最完整，格式待核对。
+Bahasa Melayu: Modal berbayar = 500,000 × RM1 = RM500,000. Amaun A betul; D menyatakan harga sesyer dengan paling lengkap. Format kunci perlu disemak."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：优先股股息1,500,000 × 6% = 90,000；普通股800,000 × 0.06 = 48,000；合计RM138,000。
+Bahasa Melayu: Dividen keutamaan = 1,500,000 × 6% = 90,000; biasa = 800,000 × 0.06 = 48,000; jumlah RM138,000."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：期末现金 = 400 + 650 + 150 − 130 − 290 = RM780。
+Bahasa Melayu: Baki akhir = 400 + 650 + 150 − 130 − 290 = RM780."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：本期会费收入 = 实收2,180 − 期初欠费105 − 期末预收65 = RM2,010。
+Bahasa Melayu: Hasil yuran = kutipan 2,180 − tunggakan awal 105 − yuran belum terperoleh akhir 65 = RM2,010."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：盈余 = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600。
+Bahasa Melayu: Lebihan = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：特许使用费和商标费可直接归属生产，属于直接费用；租金和折旧属于间接费用。
+Bahasa Melayu: Royalti dan cap dagangan ialah belanja langsung; sewa kilang dan susut nilai mesin ialah kos overhed."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：间接费用 = 主管工资20,000 + 水电5,000 + 其他9,000 = RM34,000；生产工人工资属直接人工。
+Bahasa Melayu: Overhed = gaji penyelia 20,000 + utiliti 5,000 + pelbagai belanja 9,000 = RM34,000; gaji pekerja pengeluaran ialah buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：目标销量 = (12,000 + 6,000) ÷ (200 − 120) = 225单位。
+Bahasa Melayu: Unit untuk untung sasaran = (12,000 + 6,000) ÷ (200 − 120) = 225 unit."

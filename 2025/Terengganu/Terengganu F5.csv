@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：存货周转率衡量货品在一段时间内售出及补货的速度，可评估存货管理效率。
+Bahasa Melayu: Kadar pusing ganti inventori mengukur kekerapan inventori dijual dan diganti, untuk menilai kecekapan pengurusan inventori."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：记录被火灾破坏后，可分析剩余现金簿、账单及余额重建资料，再推算盈利，属于分析法。
+Bahasa Melayu: Kaedah analisis menggunakan rekod yang masih ada untuk membina semula maklumat dan menentukan untung atau rugi apabila rekod tidak lengkap."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：全年提款 =100 ×12 =1,200；净利 =49,500 +1,200 −40,000 = RM10,700。
+Bahasa Melayu: Ambilan setahun =100 ×12 =1,200. Untung bersih =49,500 +1,200 −40,000 = RM10,700."
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：水电费 =2,700 −340 +270 = RM2,630；租金收入 =7,600 +800 −590 = RM7,810。
+Bahasa Melayu: Utiliti =2,700 − belum bayar awal340 + belum bayar akhir270 = RM2,630. Sewa =7,600 + belum terperoleh awal800 − akhir590 = RM7,810."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：现金簿贷方多记190先补回；银行结单余额 =12,150 +190 +450 −2,300 = RM10,490。
+Bahasa Melayu: Pembetulan kredit terlebih catat menambah190. Baki Penyata Bank =12,150 +190 +cek belum dikemukakan450 −deposit belum dikreditkan2,300 = RM10,490."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：现金预算预测各期收款、付款及余额，帮助安排现金使用及融资。
+Bahasa Melayu: Belanjawan Tunai merancang penggunaan wang melalui anggaran penerimaan, pembayaran dan baki tunai."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：没有合伙协议时，利润或亏损按法定默认方式平均分配。
+Bahasa Melayu: Tanpa ikatan perkongsian, untung atau rugi dibahagikan sama rata."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：合伙企业权益列资本账户及往来账户；合伙人贷款是负债，提款通过往来账户扣除。
+Bahasa Melayu: Ekuiti pemilik merangkumi Akaun Modal dan Akaun Semasa; pinjaman pekongsi ialah liabiliti dan ambilan dilaras melalui Akaun Semasa."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：资产变现亏损 =60,500 −42,500 =18,000；加变现费用2,500，合计 RM20,500。负债按原额清偿不产生额外盈亏。
+Bahasa Melayu: Rugi aset =60,500 −42,500 =18,000. Tambah belanja realisasi2,500, jumlah rugi RM20,500; liabiliti yang dibayar pada nilai buku tidak menghasilkan untung atau rugi tambahan."
+,radio,F5 Bab 5,A,B,C,D,A,Picture31.png,"中文：普通股股息随可分配利润及董事决定改变，没有固定股息率。
+Bahasa Melayu: Kadar dividen syer biasa tidak tetap dan bergantung pada keuntungan serta keputusan pengagihan dividen."
+,radio,F5 Bab 5,A,B,C,D,C,Picture32.png,"中文：答案 C 不正确，因为普通股没有预设固定股息率，不能要求两种股本都列固定股息率。题目 D 的每股价格说法也需谨慎：课本股本列示通常会注明股数及每股价值。
+Bahasa Melayu: C tidak benar kerana syer biasa tiada kadar dividen tetap yang ditetapkan. Pernyataan D juga perlu diteliti kerana format modal dalam buku teks lazimnya menunjukkan bilangan dan nilai sesyer."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：优先股股息 =150,000 ×RM2 ×8% =24,000；普通股分得54,000 −24,000 =30,000；股息率 =30,000 ÷150,000 ×100% =20%。
+Bahasa Melayu: Dividen keutamaan =150,000 ×RM2 ×8% =24,000. Dividen biasa =54,000 −24,000 =30,000; kadar =30,000 ÷150,000 ×100% =20%."
+,radio,F5 Bab 6,A,B,C,D,A,Picture34.png,"中文：收到捐款属于现金收入，在收款与付款账户借方记录。
+Bahasa Melayu: Derma diterima ialah penerimaan tunai dan direkod di sebelah debit Akaun Penerimaan dan Pembayaran."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：本期会费 =2024年实收26,400 +期初预收2,380 +期末应收800 = RM29,580。旧年收款及翌年预收不计本期；旧欠注销另记费用。
+Bahasa Melayu: Yuran semasa =kutipan 2024 sebanyak26,400 +belum terperoleh awal2,380 +belum terima akhir800 = RM29,580. Kutipan tahun lama dan prabayar tahun depan dikecualikan; yuran lapuk ialah belanja berasingan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：收入与支出账户按权责发生制计算俱乐部本期盈余或赤字。
+Bahasa Melayu: Akaun Pendapatan dan Perbelanjaan menentukan lebihan atau kurangan pendapatan mengikut asas akruan."
+,radio,F5 Bab 6,A,B,C,D,D,Picture37.png,"中文：累积基金是资产减负债的净额，等同社团权益；它不是只显示会员所缴资金的账户。
+Bahasa Melayu: Dana terkumpul ialah lebihan aset berbanding liabiliti dan mewakili ekuiti kelab, bukan hanya dana yang diterima daripada ahli berdaftar."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：工厂租金通常不随产量改变，属固定成本；按生产数量支付的特许权费属变动成本。
+Bahasa Melayu: Sewa kilang ialah kos tetap, manakala royalti berdasarkan bilangan keluaran ialah kos berubah."
+,radio,F5 Bab 7,A,B,C,D,A,Picture39.png,"中文：主要成本 =直接材料8,600 +直接人工3,300 = RM11,900；机器折旧及间接人工属于间接费用。
+Bahasa Melayu: Kos prima =bahan langsung8,600 +buruh langsung3,300 = RM11,900. Susut nilai mesin dan buruh tak langsung ialah kos overhed."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：新直接人工 =10,000 ×110% =11,000；单位变动成本 =(12,000 +11,000) ÷5,000 =4.60；平衡量 =8,800 ÷(9 −4.60) =2,000本。
+Bahasa Melayu: Buruh langsung baharu =10,000 ×110% =11,000. Kos berubah seunit =(12,000 +11,000) ÷5,000 =RM4.60. TPM =8,800 ÷(9 −4.60) =2,000 buku."

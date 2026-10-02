@@ -1,0 +1,67 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 7,radio,NegeriSembilan_Q32,A,B,C,D,D,Negeri Sembilan/Picture32.png,"中文：生产账户汇总材料、人工和间接费用等，以显示制造产品的生产成本。
+Bahasa Melayu: Akaun Pengeluaran menunjukkan kos bahan, buruh dan overhed yang terlibat dalam pengeluaran."
+F5 Chp 7,radio,NegeriSembilan_Q37,A,B,C,D,A,Negeri Sembilan/Picture37.png,"中文：生产成本 = 期初在制品 9,800 + 原料 173,925 + 工厂租金 3,050 + 直接人工 29,200 − 期末在制品 11,300 = RM204,675。
+Bahasa Melayu: Kos pengeluaran = 9,800 + 173,925 + 3,050 + 29,200 − 11,300 = RM204,675."
+F5 Chp 7,radio,JohorSet_Q38,A,B,C,D,B,Johor Set 1/Picture38.png,"中文：生产成本由直接材料、直接人工、直接费用及间接费用组成，所以 M 为直接费用，N 为间接费用。
+Bahasa Melayu: Kos pengeluaran terdiri daripada bahan langsung, buruh langsung, belanja langsung dan overhed. M ialah belanja langsung dan N ialah kos overhed."
+F5 Chp 7,radio,JohorSet_Q38,A,B,C,D,B,Johor Set 2/Picture38.png,"中文：小工具折旧是间接生产费用，属于制造间接费用；生产工人工资为直接人工。
+Bahasa Melayu: Susut nilai alatan kecil ialah kos overhed; gaji operator pengeluaran ialah kos buruh langsung."
+F5 Chp 7,radio,Kedah_Q38,A,B,C,D,C,Kedah/Picture38.png,"中文：生产工人工资属直接人工，食用油属直接材料，两者计入主要成本；租金及经理薪金是间接费用。
+Bahasa Melayu: Upah pekerja dan minyak masak ialah buruh langsung serta bahan langsung dalam kos prima; II dan III betul."
+F5 Chp 7,radio,Kelantan_Q38,A,B,C,D,C,Kelantan/Picture38.png,"中文：工厂经理不直接制作产品，其薪金是间接人工成本，计制造间接费用。
+Bahasa Melayu: Gaji pengurus kilang ialah buruh tidak langsung yang termasuk dalam kos overhed."
+F5 Chp 7,radio,NegeriSembilan_Q38,A,B,C,D,B,Negeri Sembilan/Picture38.png,"中文：成本、销量与利润分析帮助确定达到损益平衡或目标利润所需销售量。
+Bahasa Melayu: Analisis kos volum untung menentukan jumlah jualan yang perlu dicapai untuk mendapat keuntungan."
+F5 Chp 7,radio,Pahang_Q38,A,B,C,D,B,Pahang/Picture38.png,"中文：制造成本 = 主要成本 + 间接费用 + 期初在制品 − 期末在制品，所以 X 是主要成本。
+Bahasa Melayu: Kos pengeluaran = kos prima + kos overhed + kerja dalam proses awal − kerja dalam proses akhir; X ialah kos prima."
+F5 Chp 7,radio,Perak_Q38,A,B,C,D,A,Perak/Picture38.png,"中文：制造账户先算直接材料，再加直接人工及直接费用求主要成本。
+Bahasa Melayu: Dalam Akaun Pengeluaran, kos buruh langsung direkod selepas kos bahan langsung untuk mengira kos prima."
+F5 Chp 7,radio,Perlis_Q38,A,B,C,D,A,Perlis/Picture38.png,"中文：固定成本不随产量改变；图中的固定成本为 RM10,000，在3,000单位时仍相同。
+Bahasa Melayu: Kos tetap tidak berubah mengikut tingkat pengeluaran; nilai RM10,000 kekal pada pengeluaran 3,000 unit."
+F5 Chp 7,radio,Terengganu_Q38,A,B,C,D,A,Terengganu/Picture38.png,"中文：工厂租金通常不随产量改变，属固定成本；按生产数量支付的特许权费属变动成本。
+Bahasa Melayu: Sewa kilang ialah kos tetap, manakala royalti berdasarkan bilangan keluaran ialah kos berubah."
+F5 Chp 7,radio,JohorSet_Q39,A,B,C,D,C,Johor Set 1/Picture39.png,"中文：生产成本 = 工人工资 10,300 + 原料 20,500 + 机器折旧 23,800 = RM54,600；制成品余额不另加入。
+Bahasa Melayu: Kos pengeluaran = 10,300 + 20,500 + 23,800 = RM54,600; barang siap tidak ditambah sebagai komponen kos pengeluaran."
+F5 Chp 7,radio,JohorSet_Q39,A,B,C,D,A,Johor Set 2/Picture39.png,"中文：生产成本 = 19,500 + 183,625 + 65,000 + 12,750 + 38,900 − 21,000 = RM298,775。
+Bahasa Melayu: Kos pengeluaran = 19,500 + 183,625 + 65,000 + 12,750 + 38,900 − 21,000 = RM298,775."
+F5 Chp 7,radio,Kedah_Q39,A,B,C,D,C,Kedah/Picture39.png,"中文：销售收入减去变动成本的余额称为贡献毛益 Margin Caruman，用于支付固定成本与形成利润。
+Bahasa Melayu: Lebihan hasil jualan berbanding kos berubah ialah margin caruman, untuk menampung kos tetap dan untung."
+F5 Chp 7,radio,Kelantan_Q39,A,B,C,D,B,Kelantan/Picture39.png,"中文：正确期末原料 = 10,300 − 1,430 = 8,870；直接材料 = 12,500 + 45,600 − 1,200 + 3,500 − 8,870 = 51,530。主要成本 = 51,530 + (24,000 − 6,000) + 8,500 = RM78,030。
+Bahasa Melayu: Bahan langsung RM51,530, buruh langsung RM18,000 dan belanja langsung RM8,500 menghasilkan kos prima RM78,030 selepas pelarasan inventori dan gaji pengurus."
+F5 Chp 7,radio,KelantanYik_Q39,A,B,C,D,A,Kelantan YIK/Picture39.png,"中文：工厂租金和机器折旧属于制造间接费用；按产品计算的特许费是直接费用，办公室税费不是工厂成本。
+Bahasa Melayu: Sewa kilang dan susut nilai mesin ialah kos overhed; I dan II betul. Royalti ialah belanja langsung dan kadar bayaran pejabat bukan kos kilang."
+F5 Chp 7,radio,NegeriSembilan_Q39,A,B,C,D,C,Negeri Sembilan/Picture39.png,"中文：损益平衡产量 = 固定成本 10,200 ÷ 单位贡献毛益 30 = 340 单位。
+Bahasa Melayu: Titik pulang modal = kos tetap 10,200 ÷ margin caruman seunit 30 = 340 unit."
+F5 Chp 7,radio,Pahang_Q39,A,B,C,D,C,Pahang/Picture39.png,"中文：成品销货退回影响销售收入，列在交易账户，而非制造账户。
+Bahasa Melayu: Pulangan jualan barang siap mengurangkan jualan dalam Akaun Perdagangan, bukan Akaun Pengeluaran."
+F5 Chp 7,radio,Perak_Q39,A,B,C,D,D,Perak/Picture39.png,"中文：盈亏平衡分析找出不盈不亏的生产或销售数量，帮助计划产量避免亏损。
+Bahasa Melayu: Analisis titik pulang modal menentukan tahap pengeluaran atau jualan tanpa untung dan rugi untuk merancang pengeluaran."
+F5 Chp 7,radio,Perlis_Q39,A,B,C,D,B,Perlis/Picture39.png,"中文：主要成本包括直接材料、直接人工及直接费用；图中 Y 是原材料，Z 是直接人工。
+Bahasa Melayu: Kos prima terdiri daripada bahan langsung, buruh langsung dan belanja langsung; Y ialah bahan mentah dan Z buruh langsung."
+F5 Chp 7,radio,Selangor_Q39,A,B,C,D,C,Selangor/Picture39.png,"中文：贡献毛益是销售收入超过变动成本的部分，用来弥补固定成本并赚取利润。
+Bahasa Melayu: Margin caruman ialah lebihan hasil jualan berbanding kos berubah, digunakan untuk menampung kos tetap dan menghasilkan untung."
+F5 Chp 7,radio,Terengganu_Q39,A,B,C,D,A,Terengganu/Picture39.png,"中文：主要成本 =直接材料8,600 +直接人工3,300 = RM11,900；机器折旧及间接人工属于间接费用。
+Bahasa Melayu: Kos prima =bahan langsung8,600 +buruh langsung3,300 = RM11,900. Susut nilai mesin dan buruh tak langsung ialah kos overhed."
+F5 Chp 7,radio,JohorSet_Q40,A,B,C,D,B,Johor Set 1/Picture40.png,"中文：目标利润 = 5,000 × (22.50 − 5.50) − 25,000 = RM60,000。
+Bahasa Melayu: Untung sasaran = 5,000 × (22.50 − 5.50) − 25,000 = RM60,000."
+F5 Chp 7,radio,JohorSet_Q40,A,B,C,D,D,Johor Set 2/Picture40.png,"中文：所需产量 = (固定成本 24,000 + 目标利润 3,000) ÷ (18 − 12) = 4,500 双。
+Bahasa Melayu: Kuantiti diperlukan = (24,000 + 3,000) ÷ (18 − 12) = 4,500 unit."
+F5 Chp 7,radio,Kedah_Q40,A,B,C,D,B,Kedah/Picture40.png,"中文：所需产量 = (12,000 + 6,000) ÷ (5.00 − 3.75) = 14,400 瓶。
+Bahasa Melayu: Kuantiti untuk untung sasaran = (12,000 + 6,000) ÷ (5.00 − 3.75) = 14,400 unit."
+F5 Chp 7,radio,Kelantan_Q40,A,B,C,D,C,Kelantan/Picture40.png,"中文：每单位贡献 = 2.50 − 1.70 = RM0.80；超出损益平衡点 8,000 − 3,000 = 5,000 单位，利润 = 5,000 × 0.80 = RM4,000。
+Bahasa Melayu: Untung = (8,000 − 3,000) × (2.50 − 1.70) = RM4,000 kerana jualan melebihi titik pulang modal."
+F5 Chp 7,radio,KelantanYik_Q40,A,B,C,D,B,Kelantan YIK/Picture40.png,"中文：生产账户汇总直接材料、直接人工及制造成本；销货成本是在交易账户计算，不列生产账户。
+Bahasa Melayu: Kos jualan tidak dicatat dalam Akaun Pengeluaran; ia ditentukan dalam Akaun Perdagangan."
+F5 Chp 7,radio,NegeriSembilan_Q40,A,B,C,D,B,Negeri Sembilan/Picture40.png,"中文：目标利润 = 8,000 × (6 − 2.50) − 12,000 = RM16,000。
+Bahasa Melayu: Untung sasaran = 8,000 × (6 − 2.50) − 12,000 = RM16,000."
+F5 Chp 7,radio,Pahang_Q40,A,B,C,D,D,Pahang/Picture40.png,"中文：单位变动成本 = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80；固定成本 = 26,000 − 10,000 × 1.80 = RM8,000。因此 III、IV 正确。
+Bahasa Melayu: Kos berubah seunit = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80. Kos tetap = 26,000 − 10,000 × 1.80 = RM8,000; III dan IV benar."
+F5 Chp 7,radio,Perak_Q40,A,B,C,D,B,Perak/Picture40.png,"中文：利润 = 3,750 × (9 − 5) − 10,000 = RM5,000；单位贡献先弥补固定成本。
+Bahasa Melayu: Untung = 3,750 × (9 − 5) − 10,000 = RM5,000; sumbangan seunit digunakan untuk menampung kos tetap."
+F5 Chp 7,radio,Perlis_Q40,A,B,C,D,C,Perlis/Picture40.png,"中文：新固定成本 = 45,000 + 10,000 = RM55,000；盈亏平衡量 = 55,000 ÷ 单位贡献5 = 11,000单位。
+Bahasa Melayu: Kos tetap baharu = 45,000 + 10,000 = RM55,000. Titik pulang modal = 55,000 ÷ margin caruman 5 = 11,000 unit."
+F5 Chp 7,radio,Selangor_Q40,A,B,C,D,A,Selangor/Picture40.png,"中文：新固定成本 = 11,000 + 7,000 =18,000；平衡量 =18,000 ÷ (24 − 15) =2,000单位；平衡销售额 =2,000 ×24 = RM48,000。
+Bahasa Melayu: Kos tetap baharu RM18,000. TPM unit = 18,000 ÷ (24 − 15) = 2,000 unit; TPM nilai jualan = 2,000 × RM24 = RM48,000."
+F5 Chp 7,radio,Terengganu_Q40,A,B,C,D,B,Terengganu/Picture40.png,"中文：新直接人工 =10,000 ×110% =11,000；单位变动成本 =(12,000 +11,000) ÷5,000 =4.60；平衡量 =8,800 ÷(9 −4.60) =2,000本。
+Bahasa Melayu: Buruh langsung baharu =10,000 ×110% =11,000. Kos berubah seunit =(12,000 +11,000) ÷5,000 =RM4.60. TPM =8,800 ÷(9 −4.60) =2,000 buku."

@@ -1,41 +1,81 @@
-title,type,question,A,B,C,D,answer,image
-Pahang 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture20.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture21.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture22.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture23.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang 2025,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：审计检查交易凭证和财务记录，确认会计资料正确可靠。
+Bahasa Melayu: Pengauditan memeriksa dokumen perniagaan dan rekod kewangan untuk mengesahkan ketepatan maklumat perakaunan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：古埃及以 calamus 芦苇笔在 papyrus 纸草上记录，因此选 II 和 III。
+Bahasa Melayu: Rekod di Mesir menggunakan calamus sebagai alat tulis dan papyrus sebagai bahan catatan, iaitu II dan III."
+,radio,F4 Bab 1,A,B,C,D,D,Picture3.png,"中文：费用按本期发生额确认，包括尚未支付的 RM100，体现收入与费用确认原则。
+Bahasa Melayu: Belanja diiktiraf apabila berlaku, termasuk RM100 belum dibayar, mengikut prinsip pengiktirafan hasil dan belanja."
+,radio,F4 Bab 1,A,B,C,D,A,Picture4.png,"中文：合伙企业的合伙人承担无限责任，企业债务可能涉及个人财产。
+Bahasa Melayu: Pekongsi menanggung liabiliti tidak terhad; harta peribadi boleh digunakan untuk menjelaskan hutang perniagaan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：文具及办公用品店销售打印机属于日常营业收入；出售旧车、股息等属于非营业收入。
+Bahasa Melayu: Jualan mesin pencetak ialah hasil operasi kedai alatan pejabat; untung pelupusan aset dan dividen ialah hasil bukan operasi."
+,radio,F4 Bab 2,A,B,C,D,B,Picture6.png,"中文：投入私人货车增加资本；货品以 RM750 售出而成本 RM600，产生 RM150 利润，增加业主权益。
+Bahasa Melayu: Van peribadi yang dibawa masuk menambah modal. Jualan RM750 dengan kos RM600 menghasilkan untung RM150 yang menambah ekuiti, maka I dan IV."
+,radio,F4 Bab 2,A,B,C,D,A,Picture7.png,"中文：提款账户抵减资本，是业主权益的对销项目。
+Bahasa Melayu: Ambilan mengurangkan modal dan merupakan catatan kontra kepada ekuiti pemilik."
+,radio,F4 Bab 3,A,B,C,D,C,Picture8.png,"中文：贷项通知单通知买方，其欠卖方的金额已经减少。
+Bahasa Melayu: Nota kredit memaklumkan pembeli bahawa baki hutangnya kepada penjual telah berkurang."
+,radio,F4 Bab 4,A,B,C,D,A,Picture9.png,"中文：现金收入日记账和零用现金簿都是原始分录簿；总账和辅助账属于分类账。
+Bahasa Melayu: Jurnal penerimaan tunai dan Buku Tunai Runcit ialah buku catatan pertama, manakala lejar am dan lejar subsidiari ialah lejar."
+,radio,F4 Bab 4,A,B,C,D,D,Picture10.png,"中文：销售日记账记录赊销，详情栏填写欠款客户，即应收账款人的姓名。
+Bahasa Melayu: Jurnal Jualan merekod jualan kredit; lajur butir mencatat nama pelanggan atau Akaun Belum Terima."
+,radio,F4 Bab 4,A,B,C,D,B,Picture11.png,"中文：银行贷项通知表示企业银行存款增加，所以现金簿银行栏借记 RM950。
+Bahasa Melayu: Makluman kredit menunjukkan wang bank perniagaan bertambah; debit lajur bank Buku Tunai RM950."
+,radio,F4 Bab 4,A,B,C,D,A,Picture12.png,"中文：期末零用现金 = 35 + 145 − 15 − 38 − 75 − 24 = RM28。
+Bahasa Melayu: Baki tunai runcit akhir = 35 + 145 − 15 − 38 − 75 − 24 = RM28."
+,radio,F4 Bab 5,A,B,C,D,A,Picture13.png,"中文：名义账户包括收入及费用；购货、文具、股息和杂费均属于该类。
+Bahasa Melayu: Akaun nominal merangkumi hasil dan belanja, termasuk Belian, Alat Tulis, Dividen dan Belanja Am."
+,radio,F4 Bab 5,A,B,C,D,C,Picture14.png,"中文：按本题答案，捐款属于企业慈善费用，借记捐款、贷记现金；若明确为业主私人捐款，才应记提款。
+Bahasa Melayu: Mengikut jawapan soalan, derma dianggap belanja perniagaan: debit Derma, kredit Tunai. Jika derma dinyatakan untuk tujuan peribadi pemilik, catat Ambilan."
+,radio,F4 Bab 5,A,B,C,D,A,Picture15.png,"中文：应收余额 = 1,270 + 8,200 − 240 − 8,000 − 330 = RM900，属于借方余额。
+Bahasa Melayu: Baki Akaun Belum Terima = 1,270 + 8,200 − 240 − 8,000 − 330 = RM900 debit."
+,radio,F4 Bab 6,A,B,C,D,D,Picture16.png,"中文：呆账准备抵减应收账款，正常余额在贷方，符合试算表中的 M。
+Bahasa Melayu: Peruntukan hutang ragu ialah kontra kepada Akaun Belum Terima dan berbaki kredit, maka sesuai dengan M."
+,radio,F4 Bab 6,A,B,C,D,A,Picture17.png,"中文：销货成本 = 期初存货 + 净购货及购货费用 − 期末存货；期末存货较低会使销货成本较高。
+Bahasa Melayu: Kos jualan = inventori awal + belian bersih dan belanja belian − inventori akhir. Inventori akhir yang rendah meningkatkan kos jualan."
+,radio,F4 Bab 7,A,B,C,D,C,Picture18.png,"中文：运出费是销售货品时发生的营业费用，列入损益账户；运入费及购货保险属于购货成本。
+Bahasa Melayu: Angkutan keluar ialah belanja operasi dalam Akaun Untung Rugi; angkutan masuk dan insurans atas belian termasuk kos belian."
+,radio,F4 Bab 7,A,B,C,D,D,Picture19.png,"中文：可供出售货品成本 = 4,200 + 38,500 − 770 + 630 = RM42,560，尚未扣期末存货。
+Bahasa Melayu: Kos barang untuk dijual = 4,200 + 38,500 − 770 + 630 = RM42,560, sebelum menolak inventori akhir."
+,radio,F4 Bab 8,A,B,C,D,B,Picture20.png,"中文：租金收入收款时贷记租金收入、借记银行；结转收入时借记租金收入、贷记损益账户。
+Bahasa Melayu: Sewa diterima dikreditkan apabila wang masuk ke Bank; pada akhir tempoh, debit Sewa Diterima dan kredit Akaun Untung Rugi."
+,radio,F4 Bab 8,A,B,C,D,D,Picture21.png,"中文：本期水电费 = 已付 2,500 + 期初预付 600 + 期末应付 400 = RM3,500。
+Bahasa Melayu: Belanja utiliti semasa = bayaran 2,500 + prabayar awal 600 + belum bayar akhir 400 = RM3,500."
+,radio,F4 Bab 8,A,B,C,D,C,Picture22.png,"中文：新增坏账 RM650；新准备 = (15,000 − 650) × 2% = RM287，比旧准备 RM380 减少 RM93，净利因此减少 650 − 93 = RM557。
+Bahasa Melayu: Hutang lapuk tambahan RM650. Peruntukan baharu = (15,000 − 650) × 2% = RM287; pengurangan RM93 menyebabkan untung bersih berkurang 650 − 93 = RM557."
+,radio,F4 Bab 8,A,B,C,D,B,Picture23.png,"中文：2023年11月至2025年3月共17个月，累计折旧 = 60,000 × 10% × 17/12 = RM8,500。
+Bahasa Melayu: Dari November 2023 hingga Mac 2025 ialah 17 bulan. Susut nilai terkumpul = 60,000 × 10% × 17/12 = RM8,500."
+,radio,F4 Bab 9,A,B,C,D,D,Picture24.png,"中文：整笔佣金付款没有记入任何账簿，属于遗漏错误，而不是佣金错误。
+Bahasa Melayu: Bayaran komisen yang langsung tidak direkod dalam mana-mana buku ialah kesilapan ketinggalan."
+,radio,F5 Bab 1,A,B,C,D,C,Picture25.png,"中文：收债期表示客户平均需要多久才偿还欠款。
+Bahasa Melayu: Tempoh kutipan hutang mengukur purata masa yang diambil pelanggan untuk membayar hutang."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：期初资本 = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400；期末资本 = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800；亏损 = 35,400 − 32,800 = RM2,600。
+Bahasa Melayu: Modal awal = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400. Modal akhir = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800. Rugi = 35,400 − 32,800 = RM2,600."
+,radio,F5 Bab 2,A,B,C,D,C,Picture27.png,"中文：现金簿收入分析可以找出现金销售收入，因此 Y 是现金销售。
+Bahasa Melayu: Analisis penerimaan Buku Tunai dapat menentukan hasil jualan tunai, maka Y ialah jualan tunai."
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：现金控制确保企业有足够现金流支付日常开支和到期债务。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila matang."
+,radio,F5 Bab 3,A,B,C,D,D,Picture29.png,"中文：以银行结单透支 RM2,000 开始，加未入账存款 RM3,000、减未兑现支票 RM800，得现金簿借方余额 RM200。
+Bahasa Melayu: Bermula dengan baki debit Penyata Bank atau overdraf RM2,000: −2,000 + 3,000 − 800 = RM200 baki debit Buku Tunai."
+,radio,F5 Bab 3,A,B,C,D,A,Picture30.png,"中文：现金盈余只比较收入与付款：15,680 − 5,200 = RM10,480；期初余额不属于本月盈余。
+Bahasa Melayu: Lebihan tunai = penerimaan 15,680 − pembayaran 5,200 = RM10,480; baki awal tidak dimasukkan dalam pengiraan lebihan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：没有合伙协议另行规定时，利润或亏损平均分配。
+Bahasa Melayu: Jika tiada perjanjian lain, untung atau rugi perkongsian dibahagikan sama rata."
+,radio,F5 Bab 4,A,B,C,D,B,Picture32.png,"中文：可分利润 = 6,000 − 1,200 + 300 = RM5,100；两位合伙人各得 5,100 ÷ 2 = RM2,550。
+Bahasa Melayu: Untung boleh diagih = 6,000 − 1,200 + 300 = RM5,100; kongsi untung setiap pekongsi = 5,100 ÷ 2 = RM2,550."
+,radio,F5 Bab 4,A,B,C,D,D,Picture33.png,"中文：业主权益 = 40,000 + 30,000 + 15,500 − 6,429 = RM79,071；往来账户借方余额须扣除。
+Bahasa Melayu: Ekuiti pemilik = 40,000 + 30,000 + 15,500 − 6,429 = RM79,071. Baki debit Akaun Semasa ditolak."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：已发行且缴足股本 = 300,000 × RM1 + 100,000 × RM2 = RM500,000；8% 是股息率。
+Bahasa Melayu: Modal diterbitkan dan berbayar penuh = 300,000 × RM1 + 100,000 × RM2 = RM500,000; 8% ialah kadar dividen."
+,radio,F5 Bab 5,A,B,C,D,C,Picture35.png,"中文：优先股股息 = 200,000 × RM2 × 6% = RM24,000；普通股股息 = 100,000 − 24,000 = RM76,000。
+Bahasa Melayu: Dividen syer keutamaan = 200,000 × RM2 × 6% = RM24,000. Dividen syer biasa = 100,000 − 24,000 = RM76,000."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：期初应收会费是上年度尚未收到的会费，在本年度开始时仍欠收。
+Bahasa Melayu: Yuran belum terima awal ialah yuran tahun lepas yang masih belum diterima pada awal tahun semasa."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：用于建设球场的捐款属于资本收入，因它资助长期设施。
+Bahasa Melayu: Derma untuk membina gelanggang ialah pendapatan modal kerana membiayai kemudahan jangka panjang."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：制造成本 = 主要成本 + 间接费用 + 期初在制品 − 期末在制品，所以 X 是主要成本。
+Bahasa Melayu: Kos pengeluaran = kos prima + kos overhed + kerja dalam proses awal − kerja dalam proses akhir; X ialah kos prima."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：成品销货退回影响销售收入，列在交易账户，而非制造账户。
+Bahasa Melayu: Pulangan jualan barang siap mengurangkan jualan dalam Akaun Perdagangan, bukan Akaun Pengeluaran."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位变动成本 = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80；固定成本 = 26,000 − 10,000 × 1.80 = RM8,000。因此 III、IV 正确。
+Bahasa Melayu: Kos berubah seunit = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80. Kos tetap = 26,000 − 10,000 × 1.80 = RM8,000; III dan IV benar."

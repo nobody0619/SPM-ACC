@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Penang PPD Barat Daya F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Penang PPD Barat Daya F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：2023 折旧 = 10,800 × 10% = RM1,080；累计折旧 = 1,200 + 1,080 = RM2,280。
+Bahasa Melayu: Susut nilai 2023 = 10,800 × 10% = RM1,080; susut nilai terkumpul = 1,200 + 1,080 = RM2,280."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：直线法、重估法及余额递减法都是折旧方法；现金制会计不是折旧方法。
+Bahasa Melayu: Garis lurus, penilaian semula dan baki berkurangan ialah kaedah susut nilai; perakaunan tunai bukan kaedah susut nilai."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：营运资本 = (3,300 + 200 + 10,700 + 2,100) − (800 + 2,600) = RM12,900；家具及累计折旧不属于流动项目。
+Bahasa Melayu: Modal kerja = (3,300 + 200 + 10,700 + 2,100) − (800 + 2,600) = RM12,900; perabot dan susut nilai terkumpul bukan item semasa."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：把运入费记入运出费仍是同一借方金额，只是费用账户用错，所以试算表依然平衡。
+Bahasa Melayu: Angkutan masuk tersalah dicatat sebagai angkutan keluar masih melibatkan jumlah debit yang sama, maka Imbangan Duga tetap seimbang."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：维修费误记车辆资产，应借记车辆维修费 RM5,500，贷记车辆 RM5,500，以转回正确费用账户。
+Bahasa Melayu: Debit Belanja Membaiki Kenderaan RM5,500 dan kredit Kenderaan RM5,500 untuk membetulkan belanja yang tersalah dipermodalkan."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：净利 ÷ 期初资本 × 100% 是资本回报率，用来衡量每单位投入资本赚取的净利。
+Bahasa Melayu: Untung bersih ÷ modal awal × 100% ialah pulangan atas modal, iaitu keuntungan berbanding modal yang dilaburkan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：销货成本 = 60,000 × 75% = 45,000；平均存货 = (3,500 + 4,000) ÷ 2 = 3,750；周转率 = 45,000 ÷ 3,750 = 12 次。
+Bahasa Melayu: Kos jualan = 60,000 × 75% = 45,000; inventori purata = (3,500 + 4,000) ÷ 2 = 3,750; kadar pusing ganti = 45,000 ÷ 3,750 = 12 kali."
+,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：Saida 流动比率 2.5:1 高于 Aisyah 的 1.8:1，表示其流动资产相对短期债务更充足。
+Bahasa Melayu: Nisbah semasa Saida 2.5:1 melebihi 1.8:1, menunjukkan keupayaan membayar hutang jangka pendek yang lebih tinggi."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：资本 = (11,900 + 3,200 + 4,100 + 1,700) − (8,600 + 应付杂费 110) = RM12,190；应付杂费属于负债。
+Bahasa Melayu: Modal = (11,900 + 3,200 + 4,100 + 1,700) − (8,600 + kadar bayaran belum bayar 110) = RM12,190; kadar bayaran belum bayar ialah liabiliti."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：只保存应收、应付账户或只记现金簿，未完成整个复式系统，都会形成不完整记录。
+Bahasa Melayu: Menyimpan akaun penghutang dan pemiutang sahaja atau merekod Buku Tunai sahaja menyebabkan rekod tak lengkap."
+,radio,F5 Bab 4,A,B,C,D,B,Picture32.png,"中文：保管现金与记录现金由不同职员负责，形成职责分工，减少挪用及掩盖现金舞弊的机会。
+Bahasa Melayu: Pengasingan tugas antara penjagaan tunai dan pencatatan Buku Tunai mengurangkan risiko penyalahgunaan tunai."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：先更新现金簿：2,300 + 90 = 2,390；银行账单余额 = 2,390 + 500 − 3,500 = −RM610，属银行账单借方余额。
+Bahasa Melayu: Baki Buku Tunai dikemas kini = 2,300 + 90 = 2,390; baki Penyata Bank = 2,390 + 500 − 3,500 = −RM610, iaitu baki debit."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：资本利息 = 14,000 × 4% + 3,000 × 4% × 6/12 = 560 + 60 = RM620。
+Bahasa Melayu: Faedah atas modal = 14,000 × 4% + 3,000 × 4% × 6/12 = RM620."
+,radio,F5 Bab 6,A,B,C,D,D,Picture35.png,"中文：没有合伙协议时，合伙人贷款按每年 8% 计息；利润平均分配，管理业务不会自动获得工资。
+Bahasa Melayu: Tanpa perjanjian, pinjaman pekongsi diberi faedah 8% setahun; untung dibahagi sama rata dan pekongsi tidak berhak mendapat gaji secara automatik."
+,radio,F5 Bab 6,A,B,C,D,C,Picture36.png,"中文：中期股息在会计期间结束前支付；最终股息在实际利润确定后宣布。
+Bahasa Melayu: Dividen interim dibayar sebelum tempoh perakaunan berakhir, manakala dividen akhir diisytiharkan selepas keuntungan sebenar diketahui."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：已发行并缴足资本 = 300,000 × RM1 + 100,000 × RM2 = RM500,000；8% 是股息率。
+Bahasa Melayu: Modal diterbitkan dan dibayar penuh = 300,000 × RM1 + 100,000 × RM2 = RM500,000; 8% ialah kadar dividen."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：捐赠电脑形成非流动资产，属于资本收入；比赛费及存款利息属于收益收入。
+Bahasa Melayu: Derma komputer merupakan pendapatan modal kerana melibatkan aset bukan semasa; yuran pertandingan dan faedah ialah pendapatan hasil."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：本年会费收入 = 5,250 − 510 − 150 + 250 = RM4,840：扣上年欠费和明年预收，加上上年已预收的本年会费。
+Bahasa Melayu: Yuran tahun semasa = 5,250 − 510 − 150 + 250 = RM4,840: tolak tunggakan tahun lalu dan pendahuluan tahun depan, tambah pendahuluan awal bagi tahun semasa."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：每单位贡献 = 2,000 ÷ 200 = RM10；售价 = 贡献 RM10 + 变动成本 RM4 = RM14。
+Bahasa Melayu: Sumbangan seunit = 2,000 ÷ 200 = RM10; harga jualan seunit = RM10 + kos berubah RM4 = RM14."

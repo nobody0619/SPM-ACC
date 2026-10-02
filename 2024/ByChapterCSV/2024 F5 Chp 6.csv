@@ -1,49 +1,97 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,B,Johor Set 1/Picture35.png
-F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,A,Johor Set 1/Picture36.png
-F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,C,Johor Set 1/Picture37.png
-F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,D,Johor Set 2/Picture35.png
-F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,C,Johor Set 2/Picture36.png
-F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,D,Johor Set 2/Picture37.png
-F5 Chp 6,radio,Kedah_Q35,A,B,C,D,C,Kedah/Picture35.png
-F5 Chp 6,radio,Kedah_Q36,A,B,C,D,B,Kedah/Picture36.png
-F5 Chp 6,radio,Kedah_Q37,A,B,C,D,A,Kedah/Picture37.png
-F5 Chp 6,radio,Kelantan_Q35,A,B,C,D,A,Kelantan/Picture35.png
-F5 Chp 6,radio,Kelantan_Q36,A,B,C,D,C,Kelantan/Picture36.png
-F5 Chp 6,radio,Kelantan_Q37,A,B,C,D,B,Kelantan/Picture37.png
-F5 Chp 6,radio,Kl_Q35,A,B,C,D,B,KL/Picture35.png
-F5 Chp 6,radio,Kl_Q36,A,B,C,D,A,KL/Picture36.png
-F5 Chp 6,radio,Kl_Q37,A,B,C,D,C,KL/Picture37.png
-F5 Chp 6,radio,Melaka_Q35,A,B,C,D,B,Melaka/Picture35.png
-F5 Chp 6,radio,Melaka_Q36,A,B,C,D,D,Melaka/Picture36.png
-F5 Chp 6,radio,Melaka_Q37,A,B,C,D,B,Melaka/Picture37.png
-F5 Chp 6,radio,Mrsm_Q35,A,B,C,D,A,MRSM/Picture35.png
-F5 Chp 6,radio,Mrsm_Q36,A,B,C,D,D,MRSM/Picture36.png
-F5 Chp 6,radio,Mrsm_Q37,A,B,C,D,A,MRSM/Picture37.png
-F5 Chp 6,radio,NegeriSembilan_Q35,A,B,C,D,C,Negeri Sembilan/Picture35.png
-F5 Chp 6,radio,NegeriSembilan_Q36,A,B,C,D,B,Negeri Sembilan/Picture36.png
-F5 Chp 6,radio,NegeriSembilan_Q37,A,B,C,D,A,Negeri Sembilan/Picture37.png
-F5 Chp 6,radio,Pahang_Q35,A,B,C,D,B,Pahang/Picture35.png
-F5 Chp 6,radio,Pahang_Q36,A,B,C,D,C,Pahang/Picture36.png
-F5 Chp 6,radio,Pahang_Q37,A,B,C,D,C,Pahang/Picture37.png
-F5 Chp 6,radio,PenangPpdBaratDaya_Q35,A,B,C,D,D,Penang PPD Barat Daya/Picture35.png
-F5 Chp 6,radio,PenangPpdBaratDaya_Q36,A,B,C,D,C,Penang PPD Barat Daya/Picture36.png
-F5 Chp 6,radio,PenangPpdBaratDaya_Q37,A,B,C,D,C,Penang PPD Barat Daya/Picture37.png
-F5 Chp 6,radio,Perak_Q35,A,B,C,D,D,Perak/Picture35.png
-F5 Chp 6,radio,Perak_Q36,A,B,C,D,D,Perak/Picture36.png
-F5 Chp 6,radio,Perak_Q37,A,B,C,D,C,Perak/Picture37.png
-F5 Chp 6,radio,Perlis_Q35,A,B,C,D,B,Perlis/Picture35.png
-F5 Chp 6,radio,Perlis_Q36,A,B,C,D,B,Perlis/Picture36.png
-F5 Chp 6,radio,Perlis_Q37,A,B,C,D,B,Perlis/Picture37.png
-F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 1/Picture35.png
-F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,D,Selangor Set 1/Picture36.png
-F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,A,Selangor Set 1/Picture37.png
-F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 2/Picture35.png
-F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,B,Selangor Set 2/Picture36.png
-F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,C,Selangor Set 2/Picture37.png
-F5 Chp 6,radio,Smka_Q35,A,B,C,D,A,SMKA/Picture35.png
-F5 Chp 6,radio,Smka_Q36,A,B,C,D,C,SMKA/Picture36.png
-F5 Chp 6,radio,Smka_Q37,A,B,C,D,C,SMKA/Picture37.png
-F5 Chp 6,radio,Terengganu_Q35,A,B,C,D,A,Terengganu/Picture35.png
-F5 Chp 6,radio,Terengganu_Q36,A,B,C,D,D,Terengganu/Picture36.png
-F5 Chp 6,radio,Terengganu_Q37,A,B,C,D,C,Terengganu/Picture37.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,B,Johor Set 1/Picture35.png,"中文：损益式社团报表只认本年会费 RM8,650；旧欠款收回及下年预收不属本年会费收入。
+Bahasa Melayu: Yuran tahun semasa RM8,650 diiktiraf; kutipan tahun lepas dan penerimaan tahun hadapan dikecualikan."
+F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,A,Johor Set 1/Picture36.png,"中文：收入 = 5,600+350+850 = 6,800；费用 = 500+(750+150)+(305−50) = 1,655；盈余 RM5,145。
+Bahasa Melayu: Lebihan = (RM5,600+RM350+RM850) − (RM500+RM900+RM255) = RM5,145."
+F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,C,Johor Set 1/Picture37.png,"中文：累计基金 = 总资产 − 负债 = 15,000+5,500+6,000+345−2,100 = RM24,745。
+Bahasa Melayu: Dana terkumpul = aset − liabiliti = RM15,000+RM5,500+RM6,000+RM345−RM2,100 = RM24,745."
+F5 Chp 6,radio,JohorSet_Q35,A,B,C,D,D,Johor Set 2/Picture35.png,"中文：本年会费 = 10,500−旧欠款1,020+期初预收500−下年预收300 = RM9,680。
+Bahasa Melayu: Yuran semasa = RM10,500−RM1,020+RM500−RM300 = RM9,680."
+F5 Chp 6,radio,JohorSet_Q36,A,B,C,D,C,Johor Set 2/Picture36.png,"中文：餐厅利润 = 18,460−（4,720+12,300−3,740）−4,000×40% = RM3,580。
+Bahasa Melayu: Untung restoran = RM18,460−(RM4,720+RM12,300−RM3,740)−RM1,600 = RM3,580."
+F5 Chp 6,radio,JohorSet_Q37,A,B,C,D,D,Johor Set 2/Picture37.png,"中文：X 是社团收入及支出账户计算的盈余 RM1,500，用于增加累计基金。
+Bahasa Melayu: X ialah lebihan RM1,500 daripada Akaun Pendapatan dan Perbelanjaan, ditambah kepada dana terkumpul."
+F5 Chp 6,radio,Kedah_Q35,A,B,C,D,C,Kedah/Picture35.png,"中文：会员会费是俱乐部收益，记入收支账户贷方；工资和折旧属于借方费用。
+Bahasa Melayu: Yuran ahli ialah hasil di sebelah kredit Akaun Pendapatan dan Perbelanjaan; gaji dan susut nilai ialah belanja debit."
+F5 Chp 6,radio,Kedah_Q36,A,B,C,D,B,Kedah/Picture36.png,"中文：期末累计基金 = 190,000 − 5,800 + 60,000 = RM244,200；赤字已包含本期费用，不能再扣维修费。
+Bahasa Melayu: Dana terkumpul akhir = 190,000 − 5,800 + 60,000 = RM244,200. Belanja yang telah diambil kira dalam kurangan tidak ditolak semula."
+F5 Chp 6,radio,Kedah_Q37,A,B,C,D,A,Kedah/Picture37.png,"中文：俱乐部的期末收支成果用收入与支出账户计算盈余或赤字。
+Bahasa Melayu: Akaun Pendapatan dan Perbelanjaan ialah akaun penamat kelab untuk menentukan lebihan atau kurangan."
+F5 Chp 6,radio,Kelantan_Q35,A,B,C,D,A,Kelantan/Picture35.png,"中文：文具和酬谢金属于日常收益支出；设备和建造捐款属于资本项目。
+Bahasa Melayu: Alat tulis dan honorarium ialah perbelanjaan hasil; lengkapan dan derma pembinaan ialah item modal."
+F5 Chp 6,radio,Kelantan_Q36,A,B,C,D,C,Kelantan/Picture36.png,"中文：工厂主管薪资无法直接归属某件产品，是间接人工，计入间接制造费用。
+Bahasa Melayu: Gaji penyelia ialah buruh tidak langsung dan dikelaskan sebagai kos overhed."
+F5 Chp 6,radio,Kelantan_Q37,A,B,C,D,B,Kelantan/Picture37.png,"中文：期末现金 = 300 + 800 + 250 + 350 − 150 − 100 − 120 = RM1,330。
+Bahasa Melayu: Baki akhir = 300 + 800 + 250 + 350 − 150 − 100 − 120 = RM1,330."
+F5 Chp 6,radio,Kl_Q35,A,B,C,D,B,KL/Picture35.png,"中文：净利 = 53,000 + 3,700 − 26,500 − 2,000 = RM28,200。
+Bahasa Melayu: Untung bersih = 53,000 + 3,700 − 26,500 − 2,000 = RM28,200."
+F5 Chp 6,radio,Kl_Q36,A,B,C,D,A,KL/Picture36.png,"中文：工厂保险属于间接制造费用，无法直接归属于单件产品。
+Bahasa Melayu: Insurans kilang ialah kos overhed yang tidak boleh dikenal pasti terus kepada seunit produk."
+F5 Chp 6,radio,Kl_Q37,A,B,C,D,C,KL/Picture37.png,"中文：单位变动成本 = (65,000 − 44,000) ÷ (15,000 − 8,000) = 3；固定成本44,000 − 8,000 × 3 = RM20,000。
+Bahasa Melayu: Kos berubah seunit = (65,000 − 44,000) ÷ 7,000 = 3; kos tetap = 44,000 − 8,000 × 3 = RM20,000."
+F5 Chp 6,radio,Melaka_Q35,A,B,C,D,B,Melaka/Picture35.png,"中文：期末现金 = 400 + 650 + 150 − 130 − 290 = RM780。
+Bahasa Melayu: Baki akhir = 400 + 650 + 150 − 130 − 290 = RM780."
+F5 Chp 6,radio,Melaka_Q36,A,B,C,D,D,Melaka/Picture36.png,"中文：本期会费收入 = 实收2,180 − 期初欠费105 − 期末预收65 = RM2,010。
+Bahasa Melayu: Hasil yuran = kutipan 2,180 − tunggakan awal 105 − yuran belum terperoleh akhir 65 = RM2,010."
+F5 Chp 6,radio,Melaka_Q37,A,B,C,D,B,Melaka/Picture37.png,"中文：盈余 = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600。
+Bahasa Melayu: Lebihan = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600."
+F5 Chp 6,radio,Mrsm_Q35,A,B,C,D,A,MRSM/Picture35.png,"中文：2022欠费800，已收620，余800 − 620 = RM180注销为坏会费。
+Bahasa Melayu: Tunggakan 2022 sebanyak 800 ditolak kutipan 620; baki RM180 dihapus sebagai yuran lapuk."
+F5 Chp 6,radio,Mrsm_Q36,A,B,C,D,D,MRSM/Picture36.png,"中文：本年会费3,100；实收 = 3,100 + 期初欠300 − 期末欠250 − 期初预收150 − 坏会费100 = RM2,900。
+Bahasa Melayu: Kutipan = 3,100 + tunggakan awal 300 − akhir 250 − belum terperoleh awal 150 − yuran lapuk 100 = RM2,900."
+F5 Chp 6,radio,Mrsm_Q37,A,B,C,D,A,MRSM/Picture37.png,"中文：报刊费用800 + 期初预付300 − 期末预付250 = 850；租金收入1,800 + 期末欠400 − 期初欠250 = 1,950。
+Bahasa Melayu: Belanja majalah = 800 + 300 − 250 = 850; hasil sewa = 1,800 + 400 − 250 = 1,950."
+F5 Chp 6,radio,NegeriSembilan_Q35,A,B,C,D,C,Negeri Sembilan/Picture35.png,"中文：累计基金 = 400 + 120 + 560 + 3,000 + 35,000 + 8,700 − 450 = RM47,330。
+Bahasa Melayu: Dana terkumpul = 400 + 120 + 560 + 3,000 + 35,000 + 8,700 − 450 = RM47,330."
+F5 Chp 6,radio,NegeriSembilan_Q36,A,B,C,D,B,Negeri Sembilan/Picture36.png,"中文：直接参与生产的工人工资属于直接人工；文员、主管、经理薪资是间接人工。
+Bahasa Melayu: Gaji pekerja pengeluaran ialah kos buruh langsung; gaji kerani, penyelia dan pengurus ialah buruh tidak langsung."
+F5 Chp 6,radio,NegeriSembilan_Q37,A,B,C,D,A,Negeri Sembilan/Picture37.png,"中文：制造成本 = 主要成本 + 间接费用 + 期初在产品 − 期末在产品。
+Bahasa Melayu: Kos pengeluaran = kos prima + kos overhed + kerja dalam proses awal − kerja dalam proses akhir."
+F5 Chp 6,radio,Pahang_Q35,A,B,C,D,B,Pahang/Picture35.png,"中文：贷方往来余额Jia2,570增加权益，Feng借方350扣除；净往来2,220。
+Bahasa Melayu: Baki Semasa Jia kredit 2,570 ditambah, Feng debit 350 ditolak; jumlah bersih RM2,220."
+F5 Chp 6,radio,Pahang_Q36,A,B,C,D,C,Pahang/Picture36.png,"中文：普通股后领股息且有投票权；优先股先领股息通常无投票权，对应 II、IV。
+Bahasa Melayu: Syer biasa menerima dividen terkemudian dan berhak mengundi; keutamaan didahulukan tanpa hak mengundi: II dan IV."
+F5 Chp 6,radio,Pahang_Q37,A,B,C,D,C,Pahang/Picture37.png,"中文：普通股股本200,000 × 1.50 = 300,000；股息率60,000 ÷ 300,000 × 100% = 20%。
+Bahasa Melayu: Modal biasa = 200,000 × 1.50 = 300,000; kadar dividen = 60,000 ÷ 300,000 × 100% = 20%."
+F5 Chp 6,radio,PenangPpdBaratDaya_Q35,A,B,C,D,D,Penang PPD Barat Daya/Picture35.png,"中文：没有合伙协议时，合伙人贷款按每年 8% 计息；利润平均分配，管理业务不会自动获得工资。
+Bahasa Melayu: Tanpa perjanjian, pinjaman pekongsi diberi faedah 8% setahun; untung dibahagi sama rata dan pekongsi tidak berhak mendapat gaji secara automatik."
+F5 Chp 6,radio,PenangPpdBaratDaya_Q36,A,B,C,D,C,Penang PPD Barat Daya/Picture36.png,"中文：中期股息在会计期间结束前支付；最终股息在实际利润确定后宣布。
+Bahasa Melayu: Dividen interim dibayar sebelum tempoh perakaunan berakhir, manakala dividen akhir diisytiharkan selepas keuntungan sebenar diketahui."
+F5 Chp 6,radio,PenangPpdBaratDaya_Q37,A,B,C,D,C,Penang PPD Barat Daya/Picture37.png,"中文：已发行并缴足资本 = 300,000 × RM1 + 100,000 × RM2 = RM500,000；8% 是股息率。
+Bahasa Melayu: Modal diterbitkan dan dibayar penuh = 300,000 × RM1 + 100,000 × RM2 = RM500,000; 8% ialah kadar dividen."
+F5 Chp 6,radio,Perak_Q35,A,B,C,D,D,Perak/Picture35.png,"中文：比赛收费及会员会费都是实际收款，列在收支账户的收入方；文具与奖品属于付款。
+Bahasa Melayu: Yuran pertandingan dan yuran ahli ialah penerimaan; alat tulis dan hadiah pertandingan ialah pembayaran."
+F5 Chp 6,radio,Perak_Q36,A,B,C,D,D,Perak/Picture36.png,"中文：会费账户借方期末结转 RM404 表示预收未来期间会费；银行 RM1,820 是实际现金收款，本期会费收入则为 RM1,436。
+Bahasa Melayu: Baki h/b debit RM404 ialah yuran diterima awal untuk tempoh akan datang; Bank RM1,820 ialah kutipan tunai, manakala hasil yuran semasa RM1,436."
+F5 Chp 6,radio,Perak_Q37,A,B,C,D,C,Perak/Picture37.png,"中文：累积基金 = 68,400 + 20,600 − 5,000 = RM84,000，即俱乐部资产减负债。
+Bahasa Melayu: Dana terkumpul = aset − liabiliti = 68,400 + 20,600 − 5,000 = RM84,000."
+F5 Chp 6,radio,Perlis_Q35,A,B,C,D,B,Perlis/Picture35.png,"中文：会员定期缴交的会费，是俱乐部和协会主要、持续的收入来源。
+Bahasa Melayu: Yuran keahlian ialah sumber pendapatan utama dan berulang bagi kelab dan persatuan."
+F5 Chp 6,radio,Perlis_Q36,A,B,C,D,B,Perlis/Picture36.png,"中文：现有答案 B 为 RM3,200，但按本年会费已收 RM3,000 加本年应收 RM225，收入应为 RM3,225（C）。上年尚欠 RM25 不应直接冲减本年会费；若须注销，应另记坏账。
+Bahasa Melayu: Jawapan sedia ada B ialah RM3,200, tetapi hasil yuran semasa = RM3,000 + RM225 = RM3,225 (C). Tunggakan tahun lalu RM25 tidak ditolak terus daripada yuran semasa; jika dihapuskan, ia direkod berasingan sebagai hutang lapuk."
+F5 Chp 6,radio,Perlis_Q37,A,B,C,D,B,Perlis/Picture37.png,"中文：累积基金 = 20,000 + 1,200 + 9,400 − 800 − 2,740 = RM27,060；预收会费是负债。
+Bahasa Melayu: Dana terkumpul = 20,000 + 1,200 + 9,400 − 800 − 2,740 = RM27,060; yuran belum terperoleh ialah liabiliti."
+F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 1/Picture35.png,"中文：俱乐部费用超过收入称为 kurangan（赤字）；营利企业收入超过费用称为 untung（利润）。
+Bahasa Melayu: Kelab mencatat kurangan apabila perbelanjaan melebihi pendapatan; entiti keuntungan mencatat untung apabila pendapatan melebihi belanja."
+F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,D,Selangor Set 1/Picture36.png,"中文：期末现金 = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600。
+Bahasa Melayu: Baki akhir = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600."
+F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,A,Selangor Set 1/Picture37.png,"中文：本年会费收入 = 3,180 − 期初应收 105 − 期末预收 65 = RM3,010。
+Bahasa Melayu: Hasil yuran semasa = 3,180 − yuran belum terima awal 105 − yuran belum terperoleh akhir 65 = RM3,010."
+F5 Chp 6,radio,SelangorSet_Q35,A,B,C,D,C,Selangor Set 2/Picture35.png,"中文：俱乐部及协会的主要资金来源是会员会费，不是偶尔收取的比赛费。
+Bahasa Melayu: Yuran keahlian ialah sumber utama kewangan kelab dan persatuan, berbanding yuran pertandingan yang tidak tetap."
+F5 Chp 6,radio,SelangorSet_Q36,A,B,C,D,B,Selangor Set 2/Picture36.png,"中文：手工艺活动利润 = 10,500 − (2,700 + 4,800 − 2,950) − 1,200 = RM4,750。
+Bahasa Melayu: Untung kraf tangan = 10,500 − (2,700 + 4,800 − 2,950) − 1,200 = RM4,750."
+F5 Chp 6,radio,SelangorSet_Q37,A,B,C,D,C,Selangor Set 2/Picture37.png,"中文：本年会费收入 = 本年已收 9,750 + 期初预收 100 + 本年期末应收 250 = RM10,100；上年欠费及明年预收分开处理。
+Bahasa Melayu: Hasil yuran semasa = 9,750 + belum terperoleh awal 100 + belum terima akhir 250 = RM10,100; tunggakan lama dan pendahuluan tahun depan diasingkan."
+F5 Chp 6,radio,Smka_Q35,A,B,C,D,A,SMKA/Picture35.png,"中文：定期会员会费是俱乐部最主要的资金来源。
+Bahasa Melayu: Yuran keahlian ialah sumber kewangan utama kelab."
+F5 Chp 6,radio,Smka_Q36,A,B,C,D,C,SMKA/Picture36.png,"中文：收款方 X 可是钓鱼比赛报名费；付款方 Y 可是保险，所以 C 配对正确。
+Bahasa Melayu: X ialah penerimaan yuran pertandingan memancing, manakala Y ialah pembayaran insurans; padanan C betul."
+F5 Chp 6,radio,Smka_Q37,A,B,C,D,C,SMKA/Picture37.png,"中文：食堂利润 = 78,500 − 43,500 + 12,200 − 4,500 = RM42,700；未售出的期末存货从成本扣除。
+Bahasa Melayu: Untung kafeteria = 78,500 − (43,500 − 12,200) − 4,500 = RM42,700."
+F5 Chp 6,radio,Terengganu_Q35,A,B,C,D,A,Terengganu/Picture35.png,"中文：带固定股息率 6% 的 R 是优先股；没有固定率的 S 为普通股。
+Bahasa Melayu: R dengan kadar dividen tetap 6% ialah syer keutamaan; S ialah syer biasa."
+F5 Chp 6,radio,Terengganu_Q36,A,B,C,D,D,Terengganu/Picture36.png,"中文：本年会费 = 74,400 − 4,800 + 6,000 + 2,880 − 1,680 = 76,800；每位会员 = 76,800 ÷ 320 = RM240。
+Bahasa Melayu: Yuran semasa = 74,400 − 4,800 + 6,000 + 2,880 − 1,680 = RM76,800; yuran seorang = 76,800 ÷ 320 = RM240."
+F5 Chp 6,radio,Terengganu_Q37,A,B,C,D,C,Terengganu/Picture37.png,"中文：收到电脑捐赠形成非流动资产，属于资本收入；比赛费和存款利息属于收益收入。
+Bahasa Melayu: Derma komputer ialah pendapatan modal kerana melibatkan aset bukan semasa; yuran pertandingan dan faedah ialah pendapatan hasil."

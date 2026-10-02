@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：流动比率是流动性比率，衡量流动资产偿付流动负债的能力。
+Bahasa Melayu: Nisbah semasa ialah nisbah kecairan yang mengukur kemampuan aset semasa menjelaskan liabiliti semasa."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：记录不完整时，用期初及期末资本变化，调整提款与追加资本，可推算利润。
+Bahasa Melayu: Modal awal dan modal akhir diperlukan untuk mengira untung melalui kaedah perbandingan selepas pelarasan ambilan dan modal tambahan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：净利 = 50,000 + 5,000 − 30,000 − 10,000 = RM15,000。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 50,000 + 5,000 − 30,000 − 10,000 = RM15,000."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：现金控制有助防止挪用、舞弊及现金失窃。
+Bahasa Melayu: Kawalan tunai bertujuan mencegah penyelewengan, penyalahgunaan dan kecurian wang."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：银行已记贷项转账，但企业可能尚未记入现金簿，造成两者余额差异。
+Bahasa Melayu: Pindahan kredit mungkin telah direkod bank tetapi belum dalam Buku Tunai, menyebabkan perbezaan baki."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：1月赊销 RM20,000，2月收50%，3月收其余50%：20,000 × 50% = RM10,000。
+Bahasa Melayu: Jualan kredit Januari RM20,000; 50% diterima Februari dan baki 50% pada Mac, iaitu RM10,000."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：合伙经营可结合不同合伙人的知识、技能及专长。
+Bahasa Melayu: Perkongsian membolehkan kepakaran dan kemahiran pelbagai pekongsi dikongsi."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：4月1日至12月31日为9个月；Wawa：2,400 × 10% × 9/12 =180；Nana：3,600 × 10% × 9/12 =270。
+Bahasa Melayu: Tempoh ambilan sembilan bulan. Wawa: 2,400 × 10% × 9/12 = RM180; Nana: 3,600 × 10% × 9/12 = RM270."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：资本合计 RM30,000；往来账户净额 = 2,570 − 450 = RM2,120；权益合计 RM32,120，Sarah 借方余额扣除。
+Bahasa Melayu: Jumlah modal RM30,000; Akaun Semasa bersih = 2,570 − 450 = RM2,120. Ekuiti RM32,120; baki debit Sarah ditolak."
+,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：借记银行、贷记变现账户表示资产售出收款 RM25,000。
+Bahasa Melayu: Debit Bank dan kredit Realisasi merekod penerimaan RM25,000 daripada penjualan aset semasa pembubaran."
+,radio,F5 Bab 5,A,B,C,D,C,Picture32.png,"中文：按本题课本对累积优先股的处理，未付股息可累积至以后有利润时优先补付，并非亏损当年必定收到现金。
+Bahasa Melayu: Mengikut layanan syer keutamaan kumulatif dalam soalan, dividen tertunggak boleh dibawa ke hadapan dan dibayar apabila keuntungan tersedia, bukan semestinya diterima ketika tahun rugi."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：缴足股本 = 3,000,000 × RM2 + 3,000,000 × RM1 = RM9,000,000。
+Bahasa Melayu: Modal diterbitkan dan berbayar penuh = 3,000,000 × RM2 + 3,000,000 × RM1 = RM9,000,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：普通股股息率 = 40,000 ÷ (2,000,000 × RM1) × 100% = 2%。
+Bahasa Melayu: Kadar dividen syer biasa = 40,000 ÷ (2,000,000 × RM1) × 100% = 2%."
+,radio,F5 Bab 6,A,B,C,D,D,Picture35.png,"中文：社团的收入与支出账户用于计算本期盈余或赤字。
+Bahasa Melayu: Kelab menyediakan Akaun Pendapatan dan Perbelanjaan untuk menentukan lebihan atau kurangan semasa."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：会费账户期末在借方结转的余额表示预收会费，即本年收到、属于明年的会费。
+Bahasa Melayu: Baki akhir yang dipindahkan pada sebelah debit Akaun Yuran menunjukkan yuran belum terperoleh, iaitu yuran tahun depan yang diterima tahun semasa."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：本期会费 = 8,600 − 实收旧年欠款550 + 本年欠收300 + 期初预收200 − 期末预收400 = RM8,150；剩余旧欠款150不算本年收入。
+Bahasa Melayu: Yuran semasa = 8,600 − kutipan yuran lama 550 + belum terima semasa 300 + belum terperoleh awal 200 − belum terperoleh akhir 400 = RM8,150. Baki hutang lama RM150 bukan hasil tahun semasa."
+,radio,F5 Bab 6,A,B,C,D,D,Picture38.png,"中文：所列资产 = 16,200 + 3,500，负债 = 190 + 1,050；累积基金 = RM18,460。建祈祷室捐款为资本收入，不直接加进此列资产余额。
+Bahasa Melayu: Dana terkumpul = aset (16,200 + 3,500) − liabiliti (190 + 1,050) = RM18,460. Derma membina surau ialah pendapatan modal dan tidak ditambah terus kepada baki aset yang disenaraikan."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：贡献毛益是销售收入超过变动成本的部分，用来弥补固定成本并赚取利润。
+Bahasa Melayu: Margin caruman ialah lebihan hasil jualan berbanding kos berubah, digunakan untuk menampung kos tetap dan menghasilkan untung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：新固定成本 = 11,000 + 7,000 =18,000；平衡量 =18,000 ÷ (24 − 15) =2,000单位；平衡销售额 =2,000 ×24 = RM48,000。
+Bahasa Melayu: Kos tetap baharu RM18,000. TPM unit = 18,000 ÷ (24 − 15) = 2,000 unit; TPM nilai jualan = 2,000 × RM24 = RM48,000."

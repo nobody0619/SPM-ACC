@@ -1,17 +1,33 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,C,Johor Set 1/Picture12.png
-F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,B,Johor Set 2/Picture12.png
-F4 Chp 6,radio,Kedah_Q12,A,B,C,D,B,Kedah/Picture12.png
-F4 Chp 6,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png
-F4 Chp 6,radio,Kl_Q12,A,B,C,D,A,KL/Picture12.png
-F4 Chp 6,radio,Melaka_Q12,A,B,C,D,D,Melaka/Picture12.png
-F4 Chp 6,radio,Mrsm_Q12,A,B,C,D,B,MRSM/Picture12.png
-F4 Chp 6,radio,NegeriSembilan_Q12,A,B,C,D,C,Negeri Sembilan/Picture12.png
-F4 Chp 6,radio,Pahang_Q12,A,B,C,D,B,Pahang/Picture12.png
-F4 Chp 6,radio,PenangPpdBaratDaya_Q12,A,B,C,D,A,Penang PPD Barat Daya/Picture12.png
-F4 Chp 6,radio,Perak_Q12,A,B,C,D,C,Perak/Picture12.png
-F4 Chp 6,radio,Perlis_Q12,A,B,C,D,D,Perlis/Picture12.png
-F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,B,Selangor Set 1/Picture12.png
-F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,C,Selangor Set 2/Picture12.png
-F4 Chp 6,radio,Smka_Q12,A,B,C,D,C,SMKA/Picture12.png
-F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,C,Johor Set 1/Picture12.png,"中文：转入损益账户的租金是 RM280；余下 RM200 为预付租金，不是本期费用。
+Bahasa Melayu: Sewa dipindahkan ke Untung Rugi ialah RM280; baki RM200 merupakan sewa prabayar."
+F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,B,Johor Set 2/Picture12.png,"中文：购货及一般费用在期末结转，属名义账户；厂房及贷款不是。
+Bahasa Melayu: Belian dan belanja am ialah akaun nominal yang ditutup pada akhir tempoh; I dan IV."
+F4 Chp 6,radio,Kedah_Q12,A,B,C,D,B,Kedah/Picture12.png,"中文：应收账款余额 = 1,300 + 5,600 − 4,230 − 120 = RM2,550；供应商给予的折扣不影响应收账款。
+Bahasa Melayu: Baki ABT = 1,300 + 5,600 − 4,230 − 120 = RM2,550. Diskaun pembekal tidak melibatkan ABT."
+F4 Chp 6,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png,"中文：资本正常余额在贷方；净利增加资本记贷方，净亏减少资本记借方。
+Bahasa Melayu: Modal berbaki kredit; untung bersih dikreditkan dan rugi bersih didebitkan ke Akaun Modal."
+F4 Chp 6,radio,Kl_Q12,A,B,C,D,A,KL/Picture12.png,"中文：打印纸和笔属于文具，记入零用现金簿文具分析栏。
+Bahasa Melayu: Kertas pencetak dan pen dikelaskan sebagai alat tulis dalam Buku Tunai Runcit."
+F4 Chp 6,radio,Melaka_Q12,A,B,C,D,D,Melaka/Picture12.png,"中文：净利增加企业资本；毛利尚未扣除其他费用，不能直接当资本增加。
+Bahasa Melayu: Untung bersih menambah modal; untung kasar belum mengambil kira semua belanja."
+F4 Chp 6,radio,Mrsm_Q12,A,B,C,D,B,MRSM/Picture12.png,"中文：损益账户费用超过收入，会产生净亏损。
+Bahasa Melayu: Belanja melebihi hasil dalam Akaun Untung Rugi menghasilkan rugi bersih."
+F4 Chp 6,radio,NegeriSembilan_Q12,A,B,C,D,C,Negeri Sembilan/Picture12.png,"中文：X在借方可为已付租金费用，Y在贷方可为折扣收入，符合 C。
+Bahasa Melayu: X di debit boleh merupakan sewa dibayar; Y di kredit boleh merupakan diskaun diterima, seperti C."
+F4 Chp 6,radio,Pahang_Q12,A,B,C,D,B,Pahang/Picture12.png,"中文：收到支票及现金账单付款都有现金或银行变动，记入现金簿。
+Bahasa Melayu: Penerimaan cek dan pembayaran bil tunai melibatkan tunai atau bank, maka masuk Buku Tunai."
+F4 Chp 6,radio,PenangPpdBaratDaya_Q12,A,B,C,D,A,Penang PPD Barat Daya/Picture12.png,"中文：业主把待售家具取作私人用途：借记提款 RM400，贷记购货 RM400。
+Bahasa Melayu: Barang niaga diambil untuk kegunaan peribadi: debit Ambilan RM400 dan kredit Belian RM400."
+F4 Chp 6,radio,Perak_Q12,A,B,C,D,C,Perak/Picture12.png,"中文：期末存货用于计算销货成本，继而确定毛利；它代表尚未售出的商品成本。
+Bahasa Melayu: Inventori akhir diperlukan untuk menentukan kos jualan dan seterusnya untung kasar."
+F4 Chp 6,radio,Perlis_Q12,A,B,C,D,D,Perlis/Picture12.png,"中文：财务状况表在特定日期列示资产、负债及业主权益，显示企业财务状况。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pemilik pada sesuatu tarikh."
+F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,B,Selangor Set 1/Picture12.png,"中文：购货账户先扣商品提款，再把剩余借方余额贷记转入营业账户，不留余额至下期。
+Bahasa Melayu: Selepas ambilan barang ditolak, baki Belian ditutup dengan kredit Belian dan debit Akaun Perdagangan."
+F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,C,Selangor Set 2/Picture12.png,"中文：普通员工工资属于营运费用，期末结转到损益账户借方。
+Bahasa Melayu: Gaji pekerja ialah belanja operasi dan dipindahkan ke sebelah debit Akaun Untung Rugi semasa penutupan."
+F4 Chp 6,radio,Smka_Q12,A,B,C,D,C,SMKA/Picture12.png,"中文：装置是资产，余额在借方；折扣取得是收入，余额在贷方。
+Bahasa Melayu: Lengkapan ialah aset berbaki debit; diskaun diterima ialah hasil berbaki kredit."
+F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png,"中文：零用现金簿记录邮费、车费、文具等小额支出。
+Bahasa Melayu: Buku Tunai Runcit digunakan untuk merekod perbelanjaan kecil seperti pos, tambang dan alat tulis."

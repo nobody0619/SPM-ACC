@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 1,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：流动比率 = 流动资产 ÷ 流动负债，衡量企业以流动资产偿还短期负债的能力。
+Bahasa Melayu: Nisbah semasa = aset semasa ÷ liabiliti semasa; mengukur kemampuan membayar liabiliti semasa."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：不完整记录无法直接编完整损益账，资本比较法通过资本变动推算利润或亏损。
+Bahasa Melayu: Kaedah perbandingan menentukan untung atau rugi melalui perubahan modal apabila rekod lengkap tidak tersedia."
+,radio,F5 Bab 1,A,B,C,D,B,Picture24.png,"中文：高存货周转率表示存货售出并补充的次数多，存货更换频繁。
+Bahasa Melayu: Pusing ganti inventori tinggi menunjukkan inventori dijual dan diganti dengan kerap."
+,radio,F5 Bab 3,A,B,C,D,D,Picture25.png,"中文：所有现金交易须及时记现金簿并有有效凭证，以便核查和防止现金滥用。
+Bahasa Melayu: Semua transaksi tunai perlu direkod dalam Buku Tunai dengan bukti sah bagi membolehkan semakan dan kawalan."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：从银行结单余额开始，须加上银行尚未记入的存款 RM2,300，以调至现金簿余额。
+Bahasa Melayu: Deposit belum dikreditkan RM2,300 ditambah kepada baki Penyata Bank untuk mendapatkan baki Buku Tunai."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：8 月收款 = 现金销售 15,000 + 赊销收回 10,000 × 40% = RM19,000。
+Bahasa Melayu: Penerimaan Ogos = jualan tunai 15,000 + 40% × 10,000 = RM19,000."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：没有另定合伙协议时，课本引用《1961 合伙法》规定利润与亏损由合伙人平均分配。
+Bahasa Melayu: Jika tiada perjanjian, Akta Perkongsian 1961 menetapkan untung dan rugi dibahagi sama rata antara pekongsi."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：可分利润 = 48,000 + 830 − 10,000 − 3,000 − 3,000 = RM32,830；贷款利息已扣入净利，不再扣。
+Bahasa Melayu: Untung boleh agih = 48,000 + 830 − 10,000 − 3,000 − 3,000 = RM32,830; faedah pinjaman tidak ditolak sekali lagi."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：合伙人薪金及提款在往来账户记录；贷款属独立贷款账户，净利须先分配再记各人份额。
+Bahasa Melayu: Gaji pekongsi dan ambilan dicatat dalam Akaun Semasa, iaitu III dan IV; pinjaman menggunakan akaun berasingan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：Rina 接收存货按协议价值 RM12,000 结算，借记 Rina 资本、贷记变现账户 RM12,000。
+Bahasa Melayu: Inventori diambil alih pada RM12,000: debit Akaun Modal Rina dan kredit Akaun Realisasi RM12,000."
+,radio,F5 Bab 5,A,B,C,D,B,Picture32.png,"中文：股息不固定、无欠付股息权且可在股东大会投票，都是普通股的特点。
+Bahasa Melayu: Dividen tidak tetap, tiada tunggakan dividen dan hak mengundi ialah ciri syer biasa."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：每股价格 = 普通股资本 500,000 ÷ 1,000,000 股 = RM0.50。
+Bahasa Melayu: Harga seunit syer biasa = 500,000 ÷ 1,000,000 = RM0.50."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：每年优先股股息 = 60,000 × 2 × 8% = RM9,600；2023 只付 6,000，欠 3,600，2024 合共应付 9,600 + 3,600 = RM13,200。
+Bahasa Melayu: Dividen tahunan keutamaan RM9,600; tunggakan 2023 RM3,600 ditambah dividen 2024 menjadikan RM13,200."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：会员会费是俱乐部持续、主要的收入来源；入会费与活动筹款通常是其他收入。
+Bahasa Melayu: Yuran keahlian ialah sumber pendapatan utama kelab dan persatuan."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：收支账户贷方记录现金付款，酬金与场地维护费为付款，所以 I 和 IV 正确。
+Bahasa Melayu: Honorarium dan penyelenggaraan gelanggang ialah pembayaran di kredit Akaun Penerimaan dan Pembayaran; I dan IV betul."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：累积基金 = 资产 (78,500 + 2,200 + 1,200 + 550 + 7,850) − 负债 (1,700 + 260 + 250) = RM88,090。
+Bahasa Melayu: Dana terkumpul = jumlah aset RM90,300 − jumlah liabiliti RM2,210 = RM88,090."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：工厂经理不直接制作产品，其薪金是间接人工成本，计制造间接费用。
+Bahasa Melayu: Gaji pengurus kilang ialah buruh tidak langsung yang termasuk dalam kos overhed."
+,radio,F5 Bab 7,A,B,C,D,B,Picture39.png,"中文：正确期末原料 = 10,300 − 1,430 = 8,870；直接材料 = 12,500 + 45,600 − 1,200 + 3,500 − 8,870 = 51,530。主要成本 = 51,530 + (24,000 − 6,000) + 8,500 = RM78,030。
+Bahasa Melayu: Bahan langsung RM51,530, buruh langsung RM18,000 dan belanja langsung RM8,500 menghasilkan kos prima RM78,030 selepas pelarasan inventori dan gaji pengurus."
+,radio,F5 Bab 7,A,B,C,D,C,Picture40.png,"中文：每单位贡献 = 2.50 − 1.70 = RM0.80；超出损益平衡点 8,000 − 3,000 = 5,000 单位，利润 = 5,000 × 0.80 = RM4,000。
+Bahasa Melayu: Untung = (8,000 − 3,000) × (2.50 − 1.70) = RM4,000 kerana jualan melebihi titik pulang modal."

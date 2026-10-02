@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Terengganu F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,D,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Terengganu F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：结账分录把本期收入和费用余额转入营业及损益账户，使这些暂时账户归零。
+Bahasa Melayu: Catatan penutupan memindahkan baki hasil dan belanja ke Akaun Perdagangan serta Untung Rugi."
+,radio,F4 Bab 1,A,B,C,D,D,Picture2.png,"中文：可验证性、可理解性及可比性属于增强性质量特征；相关性则是基本质量特征。
+Bahasa Melayu: Kebolehsahan, kebolehfahaman dan kebolehbandingan ialah ciri kualitatif tertingkat; kerelevanan ialah ciri asas."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：车辆按原始购入成本 RM40,000 记录，体现成本原则；市场价下跌不会直接取代其原价。
+Bahasa Melayu: Prinsip kos merekod kenderaan pada kos asal RM40,000 walaupun harga pasaran menurun."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：按课程，专业合伙可由 2 至 50 人组成，普通合伙才是 2 至 20 人，所以例外为 B。
+Bahasa Melayu: Menurut sukatan, perkongsian profesional boleh mempunyai 2 hingga 50 orang; had 2 hingga 20 ialah perkongsian biasa, maka B ialah pengecualian."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：销货退回减少营业账户净销货；运出费是营业费用，列损益账户。
+Bahasa Melayu: Pulangan jualan mengurangkan jualan bersih dalam Akaun Perdagangan; angkutan keluar ialah belanja Akaun Untung Rugi."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：捐赠福利机构不直接用于日常营业，属于非营业费用；工资、租金和费率属营业费用。
+Bahasa Melayu: Derma kepada rumah kebajikan ialah belanja bukan operasi; gaji, sewa dan kadar bayaran ialah belanja operasi."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：资本 = 45,000 + 13,000 + 9,000 − 30,000 = RM37,000，即资产减负债。
+Bahasa Melayu: Modal = aset − liabiliti = 45,000 + 13,000 + 9,000 − 30,000 = RM37,000."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：费率属于费用，按题目费用编码 2000–2999，选 2101。
+Bahasa Melayu: Kadar bayaran ialah belanja dalam julat kod 2000–2999, maka kodnya 2101."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：银行通知存款减少时发出 Makluman Debit，即扣账通知。
+Bahasa Melayu: Makluman Debit dikeluarkan oleh bank untuk memaklumkan pengurangan wang dalam akaun pelanggan."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：Ayu 是买方，收到补收货款的借项通知单，增加购货 RM360，记购货日记簿。
+Bahasa Melayu: Ayu ialah pembeli; nota debit diterima menambah belian RM360 dan direkod dalam Jurnal Belian."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：网上转账收据、付款凭单及收据证明现金或银行收付，记现金簿；贷项通知单一般调整赊账。
+Bahasa Melayu: Resit perbankan dalam talian, baucar pembayaran dan resit berkaitan penerimaan atau pembayaran Buku Tunai; nota kredit biasanya berkaitan pelarasan kredit."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：零用现金簿记录邮费、车费、文具等小额支出。
+Bahasa Melayu: Buku Tunai Runcit digunakan untuk merekod perbelanjaan kecil seperti pos, tambang dan alat tulis."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：销货分类账记录赊销客户的应收账户；购货分类账记录赊购供应商的应付账户。
+Bahasa Melayu: Lejar Jualan mengandungi Akaun Belum Terima bagi jualan kredit; Lejar Belian mengandungi Akaun Belum Bayar bagi belian kredit."
+,radio,F4 Bab 7,A,B,C,D,A,Picture14.png,"中文：收支票及给予折扣：借记银行和折扣给予，贷记客户 Amira 的总欠款。
+Bahasa Melayu: Debit Bank dan Diskaun Diberi, kemudian kredit Perniagaan Amira dengan jumlah hutang yang dijelaskan."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：赊销 = 5,200 + 320 + 2,200 − 2,600 = RM5,120。
+Bahasa Melayu: Jualan kredit = kutipan 5,200 + hutang lapuk 320 + baki akhir 2,200 − baki awal 2,600 = RM5,120."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：试算表核对借方与贷方总额是否相等，以检查复式记录的算术准确性；平衡不保证完全无错。
+Bahasa Melayu: Imbangan Duga menyemak persamaan jumlah debit dan kredit untuk menguji ketepatan catatan bergu, tetapi tidak mengesan semua kesilapan."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：净利 = 52,450 + 收回坏账 1,320 − 费率 (960 + 200) = RM52,610。
+Bahasa Melayu: Untung bersih = 52,450 + 1,320 − (960 + 200) = RM52,610."
+,radio,F4 Bab 8,A,B,C,D,D,Picture18.png,"中文：坏账准备抵减应收账款净值，直接影响流动资产总额和营运资本。
+Bahasa Melayu: Peruntukan hutang ragu mengurangkan nilai bersih Akaun Belum Terima serta jumlah aset semasa dan modal kerja."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：折扣取得是收入，结账时借记折扣取得 RM460、贷记损益 RM460。
+Bahasa Melayu: Diskaun diterima ditutup dengan debit Diskaun Diterima RM460 dan kredit Untung Rugi RM460."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：现金制在实际收钱时记收入；应计制在赚取收入的期间记录。
+Bahasa Melayu: Asas tunai merekod hasil apabila wang diterima; asas akruan merekod hasil dalam tempoh diperoleh."
+,radio,F4 Bab 9,A,B,C,D,A,Picture21.png,"中文：本期水电费 = 6,500 − 上年应付 230 − 年末预付 315 = RM5,955。
+Bahasa Melayu: Belanja utiliti semasa = 6,500 − belum bayar awal 230 − prabayar akhir 315 = RM5,955."

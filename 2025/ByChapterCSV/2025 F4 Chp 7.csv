@@ -1,0 +1,45 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 7,radio,Kelantan_Q11,A,B,C,D,C,Kelantan/Picture11.png,"中文：销售是计算毛利的项目，结账时转入交易账户贷方。
+Bahasa Melayu: Jualan dipindahkan ke kredit Akaun Perdagangan untuk menentukan untung kasar."
+F4 Chp 7,radio,Kelantan_Q12,A,B,C,D,B,Kelantan/Picture12.png,"中文：净利 = 15,700 + 租金收入 1,100 + 收到折扣 480 − 工资 5,000 − 给予折扣 600 = RM11,680。
+Bahasa Melayu: Untung bersih = 15,700 + 1,100 + 480 − 5,000 − 600 = RM11,680."
+F4 Chp 7,radio,Selangor_Q12,A,B,C,D,C,Selangor/Picture12.png,"中文：净利 = 8,900 + 750 − 1,600 − 1,500 = RM6,550；运入费已在毛利计算中处理，不能重复扣。
+Bahasa Melayu: Untung bersih = 8,900 + 750 − 1,600 − 1,500 = RM6,550. Angkutan masuk telah diambil kira dalam untung kasar dan tidak ditolak semula."
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,B,Johor Set 1/Picture13.png,"中文：非流动资产包括办公设备 RM12,000 和车辆 RM15,000，总计 RM27,000；应收账款与银行是流动资产。
+Bahasa Melayu: Aset bukan semasa = alatan pejabat 12,000 + kenderaan 15,000 = RM27,000; ABT dan bank ialah aset semasa."
+F4 Chp 7,radio,JohorSet_Q13,A,B,C,D,C,Johor Set 2/Picture13.png,"中文：财务状况表显示某一日期企业的资产、负债与业主权益，利润由损益表呈现。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pada suatu tarikh; untung ditentukan dalam penyata pendapatan."
+F4 Chp 7,radio,Perlis_Q13,A,B,C,D,D,Perlis/Picture13.png,"中文：营运资本 = 流动资产 − 流动负债，所以银行透支 = 16,200 + 2,560 − 3,450 − 12,320 = RM2,990。
+Bahasa Melayu: Modal kerja = aset semasa − liabiliti semasa. Overdraf bank = 16,200 + 2,560 − 3,450 − 12,320 = RM2,990."
+F4 Chp 7,radio,Selangor_Q13,A,B,C,D,A,Selangor/Picture13.png,"中文：购货账户年末结转到交易账户，用于计算销货成本及毛利。
+Bahasa Melayu: Akaun Belian ditutup ke Akaun Perdagangan untuk pengiraan kos jualan dan untung kasar."
+F4 Chp 7,radio,Terengganu_Q13,A,B,C,D,D,Terengganu/Picture13.png,"中文：运入费是把购货运到企业的费用，加入购货成本，在交易账户计算销货成本。
+Bahasa Melayu: Angkutan masuk ialah belanja membawa barang belian ke perniagaan dan ditambah kepada belian dalam Akaun Perdagangan."
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,C,Johor Set 1/Picture14.png,"中文：佣金收入正常为贷方，结账时借记佣金收入 RM6,000、贷记损益账户 RM6,000。
+Bahasa Melayu: Komisen diterima berbaki kredit; penutupan mendebit Komisen Diterima RM6,000 dan mengkredit Untung Rugi RM6,000."
+F4 Chp 7,radio,JohorSet_Q14,A,B,C,D,C,Johor Set 2/Picture14.png,"中文：销售转入交易账户，租金转入损益账户，所以 II 和 III 正确；购货不转入损益账户。
+Bahasa Melayu: Jualan ditutup ke Akaun Perdagangan dan sewa ke Akaun Untung Rugi. II dan III betul."
+F4 Chp 7,radio,Kedah_Q14,A,B,C,D,C,Kedah/Picture14.png,"中文：保险为费用，记损益账户借方；存款利息和股息为收入，进货运费归交易账户。
+Bahasa Melayu: Insurans ialah belanja di debit Untung Rugi; faedah simpanan dan dividen ialah hasil, manakala angkutan masuk masuk Akaun Perdagangan."
+F4 Chp 7,radio,Perak_Q14,A,B,C,D,D,Perak/Picture14.png,"中文：股份投资收益是收入；交易及损益账户用于确定净利或净亏。应付工资属于负债，费用栏应列本期工资费用。
+Bahasa Melayu: Keuntungan pelaburan saham ialah hasil dan akaun ini menentukan untung atau rugi bersih. Gaji belum bayar ialah liabiliti, bukan item belanja itu sendiri; III dan IV benar."
+F4 Chp 7,radio,Terengganu_Q14,A,B,C,D,C,Terengganu/Picture14.png,"中文：营运资本 = 21,000 + 13,200 − 315 + 500 − 15,700 = RM18,685；期初存货不列年末资产，长期贷款不属流动负债。
+Bahasa Melayu: Modal kerja = 21,000 + 13,200 − 315 + 500 − 15,700 = RM18,685. Inventori awal tidak digunakan sebagai aset akhir dan pinjaman jangka panjang bukan liabiliti semasa."
+F4 Chp 7,radio,Kedah_Q15,A,B,C,D,B,Kedah/Picture15.png,"中文：销货成本 = 净购货 18,270 + 购货工资 120 − 期末存货 4,500 = RM13,890；净购货已扣除购货退回，不重复扣。
+Bahasa Melayu: Kos jualan = 18,270 + 120 − 4,500 = RM13,890; pulangan belian sudah ditolak dalam belian bersih."
+F4 Chp 7,radio,KelantanYik_Q15,A,B,C,D,D,Kelantan YIK/Picture15.png,"中文：净利 = 毛利 50,020 + 股息 250 − 租金 (1,500 + 500) = RM48,270。
+Bahasa Melayu: Untung bersih = 50,020 + 250 − (1,500 + 500) = RM48,270 selepas memasukkan sewa belum bayar."
+F4 Chp 7,radio,Terengganu_Q15,A,B,C,D,B,Terengganu/Picture15.png,"中文：购货退回为贷方余额，年末借记购货退回、贷记交易账户 RM210，减少净购货。
+Bahasa Melayu: Pulangan Belian berbaki kredit; untuk menutupnya, debit Pulangan Belian dan kredit Akaun Perdagangan RM210."
+F4 Chp 7,radio,KelantanYik_Q16,A,B,C,D,B,Kelantan YIK/Picture16.png,"中文：购货应在交易账户借方，毛利作为结平项也在借方，因此 II、III 所述贷方记录不正确。
+Bahasa Melayu: Belian dan untung kasar sebagai angka imbangan dicatat di debit Akaun Perdagangan; pernyataan II dan III ialah pengecualian."
+F4 Chp 7,radio,NegeriSembilan_Q16,A,B,C,D,D,Negeri Sembilan/Picture16.png,"中文：销货运费是销售费用，计损益账户；进货运费及购销退回属于交易账户计算。
+Bahasa Melayu: Angkutan keluar ialah belanja jualan dalam Akaun Untung Rugi; angkutan masuk dan pulangan melibatkan Akaun Perdagangan."
+F4 Chp 7,radio,KelantanYik_Q17,A,B,C,D,C,Kelantan YIK/Picture17.png,"中文：坏账准备从应收账款中扣除，会降低净流动资产及营运资本。题目未说明其他项目收付情况，现有答案选最直接调整流动资产的 C。
+Bahasa Melayu: Peruntukan hutang ragu ditolak daripada ABT, lalu mengurangkan aset semasa bersih dan modal kerja; C ialah pelarasan paling langsung dalam soalan ini."
+F4 Chp 7,radio,KelantanYik_Q18,A,B,C,D,A,Kelantan YIK/Picture18.png,"中文：业主权益 = 40,000 + 10,980 − 20,000 − 11,080 = RM19,900。
+Bahasa Melayu: Ekuiti pemilik = jumlah aset − jumlah liabiliti = 40,000 + 10,980 − 20,000 − 11,080 = RM19,900."
+F4 Chp 7,radio,Pahang_Q18,A,B,C,D,C,Pahang/Picture18.png,"中文：运出费是销售货品时发生的营业费用，列入损益账户；运入费及购货保险属于购货成本。
+Bahasa Melayu: Angkutan keluar ialah belanja operasi dalam Akaun Untung Rugi; angkutan masuk dan insurans atas belian termasuk kos belian."
+F4 Chp 7,radio,Pahang_Q19,A,B,C,D,D,Pahang/Picture19.png,"中文：可供出售货品成本 = 4,200 + 38,500 − 770 + 630 = RM42,560，尚未扣期末存货。
+Bahasa Melayu: Kos barang untuk dijual = 4,200 + 38,500 − 770 + 630 = RM42,560, sebelum menolak inventori akhir."

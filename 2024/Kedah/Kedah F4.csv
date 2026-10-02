@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kedah F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kedah F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：尚未收到的租金仍按本期已赚取的收入入账，符合收入与费用确认原则。
+Bahasa Melayu: Sewa belum terima tetap diiktiraf sebagai hasil tempoh semasa mengikut prinsip pengiktirafan hasil dan belanja."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：Sarah Enterprise 属独资企业，业主自行决策并承担无限责任。
+Bahasa Melayu: Sarah Enterprise ialah milikan tunggal; pemilik membuat keputusan sendiri dan menanggung liabiliti tidak terhad."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：贷款利息属于融资费用，是非营业费用；工资、文具和水电属于营业费用。
+Bahasa Melayu: Faedah pinjaman ialah belanja pembiayaan bukan operasi; gaji, alat tulis dan kadar bayaran ialah belanja operasi."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：业主投入私人电脑，使企业资产和业主权益增加，负债不变。
+Bahasa Melayu: Komputer peribadi yang dibawa masuk menambah aset dan ekuiti pemilik tanpa mengubah liabiliti."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：补收运输费会增加客户欠款，因此发出借项通知单（Nota Debit）。
+Bahasa Melayu: Nota Debit dihantar untuk menambah hutang pelanggan bagi caj pengangkutan RM120."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：赊购先发采购单，再收到发票；退货时涉及贷项通知单，付款后取得收据。
+Bahasa Melayu: Urus niaga kredit bermula dengan pesanan belian dan invois; pulangan melibatkan nota kredit, kemudian resit selepas pembayaran."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：3月20日付款已超过7天，但仍在14天内，享5%折扣：2,400 × 95% = RM2,280。
+Bahasa Melayu: Bayaran pada 20 Mac melebihi 7 hari tetapi masih dalam 14 hari; RM2,400 × 95% = RM2,280."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：商品赊销及购货退回分别记录在销售日记簿和购货退回日记簿；提款和赊购资产用普通日记簿。
+Bahasa Melayu: Jualan barang niaga secara kredit dan pulangan belian direkod dalam jurnal khas; ambilan dan belian aset secara kredit dalam Jurnal Am."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：企业现金存入企业银行只是现金与银行之间的转移，属于现金簿对销记录。
+Bahasa Melayu: Tunai perniagaan dimasukkan ke bank perniagaan ialah pemindahan antara tunai dengan bank, iaitu catatan kontra."
+,radio,F4 Bab 5,A,B,C,D,C,Picture10.png,"中文：答案 C 把冷气机视为买来转售的商品：借记 Belian，贷记 Modal，因为由业主私人账户支付；若供企业自用则应借记 Lengkapan。
+Bahasa Melayu: Jawapan C menganggap pendingin hawa sebagai barang niaga: debit Belian, kredit Modal kerana dibayar melalui akaun peribadi. Jika untuk kegunaan sendiri, debit Lengkapan."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：已注销坏账后来收回属于坏账收回收入：借记银行，贷记 Hutang Lapuk Terpulih。
+Bahasa Melayu: Kutipan hutang yang telah dihapus kira dicatat debit Bank dan kredit Hutang Lapuk Terpulih."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：应收账款余额 = 1,300 + 5,600 − 4,230 − 120 = RM2,550；供应商给予的折扣不影响应收账款。
+Bahasa Melayu: Baki ABT = 1,300 + 5,600 − 4,230 − 120 = RM2,550. Diskaun pembekal tidak melibatkan ABT."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：坏账准备属于应收账款的减项，正常余额在贷方，不能放在试算表借方。
+Bahasa Melayu: Peruntukan hutang ragu mempunyai baki kredit sebagai pengurangan ABT, bukannya baki debit."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：预收佣金尚未赚取，企业仍负有提供服务的义务，因此属于流动负债。
+Bahasa Melayu: Komisen belum terperoleh ialah hasil yang diterima sebelum diperoleh dan dikelaskan sebagai liabiliti semasa."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：毛利 = (45,000 − 1,500) − (27,500 − 1,890) = RM17,890；保险属于净利计算。
+Bahasa Melayu: Untung kasar = (45,000 − 1,500) − (27,500 − 1,890) = RM17,890. Insurans ialah belanja untung rugi."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：坏账准备是预计无法收回的欠款，尚未确认必须注销。
+Bahasa Melayu: Peruntukan hutang ragu ialah anggaran hutang yang mungkin tidak dapat dikutip, bukan hutang yang telah dihapus kira."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：客户破产或失踪无法追踪，会令债款无法收回；旅行本身不构成坏账。
+Bahasa Melayu: Pelanggan muflis atau hilang tanpa dapat dikesan boleh menyebabkan hutang lapuk; melancong sahaja bukan sebab hutang lapuk."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：本期水电费 = 已付2,500 + 期初预付600 − 期末预付400 = RM2,700。
+Bahasa Melayu: Belanja utiliti = bayaran 2,500 + prabayar awal 600 − prabayar akhir 400 = RM2,700."
+,radio,F4 Bab 8,A,B,C,D,B,Picture19.png,"中文：2023折旧6,700；2024半年折旧60,300 × 10% × 6/12 = 3,015；累计折旧 = RM9,715。
+Bahasa Melayu: Susut nilai 2023 ialah 6,700; enam bulan 2024 ialah 60,300 × 10% × 6/12 = 3,015. Jumlah terkumpul RM9,715."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：维修费是收益支出，却误记入车辆资产账户，属于会计原则错误。
+Bahasa Melayu: Penyelenggaraan ialah perbelanjaan hasil tetapi direkod sebagai aset kenderaan, maka berlaku kesilapan prinsip."
+,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：平均存货 = (12,000 + 24,000) ÷ 2 = 18,000；存货周转率 = 72,000 ÷ 18,000 = 4次。
+Bahasa Melayu: Inventori purata = (12,000 + 24,000) ÷ 2 = 18,000; kadar pusing ganti inventori = 72,000 ÷ 18,000 = 4 kali."

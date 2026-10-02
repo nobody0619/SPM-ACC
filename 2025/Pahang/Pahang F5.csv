@@ -1,17 +1,33 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang F5,radio,F5 Bab 1,A,B,C,D,C,Picture25.png,"中文：收债期表示客户平均需要多久才偿还欠款。
+Bahasa Melayu: Tempoh kutipan hutang mengukur purata masa yang diambil pelanggan untuk membayar hutang."
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：期初资本 = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400；期末资本 = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800；亏损 = 35,400 − 32,800 = RM2,600。
+Bahasa Melayu: Modal awal = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400. Modal akhir = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800. Rugi = 35,400 − 32,800 = RM2,600."
+,radio,F5 Bab 2,A,B,C,D,C,Picture27.png,"中文：现金簿收入分析可以找出现金销售收入，因此 Y 是现金销售。
+Bahasa Melayu: Analisis penerimaan Buku Tunai dapat menentukan hasil jualan tunai, maka Y ialah jualan tunai."
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：现金控制确保企业有足够现金流支付日常开支和到期债务。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila matang."
+,radio,F5 Bab 3,A,B,C,D,D,Picture29.png,"中文：以银行结单透支 RM2,000 开始，加未入账存款 RM3,000、减未兑现支票 RM800，得现金簿借方余额 RM200。
+Bahasa Melayu: Bermula dengan baki debit Penyata Bank atau overdraf RM2,000: −2,000 + 3,000 − 800 = RM200 baki debit Buku Tunai."
+,radio,F5 Bab 3,A,B,C,D,A,Picture30.png,"中文：现金盈余只比较收入与付款：15,680 − 5,200 = RM10,480；期初余额不属于本月盈余。
+Bahasa Melayu: Lebihan tunai = penerimaan 15,680 − pembayaran 5,200 = RM10,480; baki awal tidak dimasukkan dalam pengiraan lebihan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：没有合伙协议另行规定时，利润或亏损平均分配。
+Bahasa Melayu: Jika tiada perjanjian lain, untung atau rugi perkongsian dibahagikan sama rata."
+,radio,F5 Bab 4,A,B,C,D,B,Picture32.png,"中文：可分利润 = 6,000 − 1,200 + 300 = RM5,100；两位合伙人各得 5,100 ÷ 2 = RM2,550。
+Bahasa Melayu: Untung boleh diagih = 6,000 − 1,200 + 300 = RM5,100; kongsi untung setiap pekongsi = 5,100 ÷ 2 = RM2,550."
+,radio,F5 Bab 4,A,B,C,D,D,Picture33.png,"中文：业主权益 = 40,000 + 30,000 + 15,500 − 6,429 = RM79,071；往来账户借方余额须扣除。
+Bahasa Melayu: Ekuiti pemilik = 40,000 + 30,000 + 15,500 − 6,429 = RM79,071. Baki debit Akaun Semasa ditolak."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：已发行且缴足股本 = 300,000 × RM1 + 100,000 × RM2 = RM500,000；8% 是股息率。
+Bahasa Melayu: Modal diterbitkan dan berbayar penuh = 300,000 × RM1 + 100,000 × RM2 = RM500,000; 8% ialah kadar dividen."
+,radio,F5 Bab 5,A,B,C,D,C,Picture35.png,"中文：优先股股息 = 200,000 × RM2 × 6% = RM24,000；普通股股息 = 100,000 − 24,000 = RM76,000。
+Bahasa Melayu: Dividen syer keutamaan = 200,000 × RM2 × 6% = RM24,000. Dividen syer biasa = 100,000 − 24,000 = RM76,000."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：期初应收会费是上年度尚未收到的会费，在本年度开始时仍欠收。
+Bahasa Melayu: Yuran belum terima awal ialah yuran tahun lepas yang masih belum diterima pada awal tahun semasa."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：用于建设球场的捐款属于资本收入，因它资助长期设施。
+Bahasa Melayu: Derma untuk membina gelanggang ialah pendapatan modal kerana membiayai kemudahan jangka panjang."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：制造成本 = 主要成本 + 间接费用 + 期初在制品 − 期末在制品，所以 X 是主要成本。
+Bahasa Melayu: Kos pengeluaran = kos prima + kos overhed + kerja dalam proses awal − kerja dalam proses akhir; X ialah kos prima."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：成品销货退回影响销售收入，列在交易账户，而非制造账户。
+Bahasa Melayu: Pulangan jualan barang siap mengurangkan jualan dalam Akaun Perdagangan, bukan Akaun Pengeluaran."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位变动成本 = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80；固定成本 = 26,000 − 10,000 × 1.80 = RM8,000。因此 III、IV 正确。
+Bahasa Melayu: Kos berubah seunit = (44,000 − 26,000) ÷ (20,000 − 10,000) = RM1.80. Kos tetap = 26,000 − 10,000 × 1.80 = RM8,000; III dan IV benar."

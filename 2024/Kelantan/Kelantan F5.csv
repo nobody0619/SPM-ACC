@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F5,radio,F5 Bab 1,A,B,C,D,D,Picture22.png,"中文：加价率60%是每RM1销售成本赚取RM0.60毛利。现有答案 D 的文字不够准确，应按这个定义理解。
+Bahasa Melayu: Tokokan 60% bermaksud untung kasar RM0.60 bagi setiap RM1 kos jualan. Ayat pilihan D dalam kunci kurang tepat; gunakan definisi ini."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：期末资本 = 10,520 − 2,700 = 7,820；净利 = 7,820 − 4,800 = RM3,020。
+Bahasa Melayu: Modal akhir = 10,520 − 2,700 = 7,820; untung bersih = 7,820 − 4,800 = RM3,020."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：租金收入 = 已收2,750 + 期初预收340 − 期末预收520 = RM2,570。
+Bahasa Melayu: Hasil sewa = penerimaan 2,750 + belum terperoleh awal 340 − akhir 520 = RM2,570."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：任务指定是明确由谁收现金，例如规定只有收银员可收款。
+Bahasa Melayu: Penetapan tugas menentukan pekerja yang bertanggungjawab, contohnya hanya juruwang menerima tunai."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：未记销售收款借记银行1,200；银行代付保险贷记银行370。
+Bahasa Melayu: Debit bank 1,200 bagi jualan belum direkod dan kredit bank 370 bagi insurans melalui perintah sedia ada."
+,radio,F5 Bab 3,A,B,C,D,A,Picture27.png,"中文：6月现金盈余 = 15,680 − 5,200 = RM10,480；不包含期初余额。
+Bahasa Melayu: Lebihan tunai Jun = 15,680 − 5,200 = RM10,480; baki awal tidak termasuk dalam lebihan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：没有协议时，资本不计利息，利润或亏损平均分配，符合 I 与 IV。
+Bahasa Melayu: Tanpa perjanjian, faedah atas modal tidak dibayar dan untung atau rugi dibahagi sama rata: I dan IV."
+,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：可分配利润 = 净利 + 提款利息 − 资本利息；提款本金不进入利润分配账户。
+Bahasa Melayu: Untung boleh dibahagi = untung bersih + faedah ambilan − faedah modal; ambilan pokok tidak masuk akaun pengasingan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：往来账户借方余额表示合伙人欠企业；贷方余额表示企业欠合伙人。
+Bahasa Melayu: Baki debit Akaun Semasa ialah tuntutan perkongsian terhadap pekongsi; baki kredit ialah tuntutan pekongsi terhadap perkongsian."
+,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：解散时出售资产收到款项：借记银行、贷记变现账户。
+Bahasa Melayu: Wang jualan aset semasa pembubaran direkod debit Bank dan kredit Realisasi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：普通股具有投票权，股息率不固定，也没有累积拖欠股息权。
+Bahasa Melayu: Syer biasa berhak mengundi, dividennya tidak tetap dan tidak menerima tunggakan dividen."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：普通股每股价 = RM750,000 ÷ 1,000,000股 = RM0.75。
+Bahasa Melayu: Harga sesyer biasa = RM750,000 ÷ 1,000,000 unit = RM0.75."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：年度优先股股息50,000 × 2 × 8% = 8,000；2022拖欠2,000，所以2023共RM10,000。
+Bahasa Melayu: Dividen tahunan = 50,000 × 2 × 8% = 8,000; tunggakan 2022 sebanyak 2,000 menjadikan dividen 2023 RM10,000."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：文具和酬谢金属于日常收益支出；设备和建造捐款属于资本项目。
+Bahasa Melayu: Alat tulis dan honorarium ialah perbelanjaan hasil; lengkapan dan derma pembinaan ialah item modal."
+,radio,F5 Bab 6,A,B,C,D,C,Picture36.png,"中文：工厂主管薪资无法直接归属某件产品，是间接人工，计入间接制造费用。
+Bahasa Melayu: Gaji penyelia ialah buruh tidak langsung dan dikelaskan sebagai kos overhed."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：期末现金 = 300 + 800 + 250 + 350 − 150 − 100 − 120 = RM1,330。
+Bahasa Melayu: Baki akhir = 300 + 800 + 250 + 350 − 150 − 100 − 120 = RM1,330."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：指定建游泳池的捐款属于资本收入，增加累计基金，不作为日常会费收入。
+Bahasa Melayu: Derma khas membina kolam renang ialah penerimaan modal yang menambah dana terkumpul."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：制造成本 = 3,500 + 120,000 + 50,000 + 12,000 + 8,000 − 4,750 = RM188,750；排除行政和推广费。
+Bahasa Melayu: Kos pengeluaran = 3,500 + 120,000 + 50,000 + 12,000 + 8,000 − 4,750 = RM188,750; kos pejabat dan promosi dikecualikan."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：单位贡献 = 2.60 − 1.80 = 0.80；超过盈亏平衡5,000单位，利润 = 5,000 × 0.80 = RM4,000。
+Bahasa Melayu: Sumbangan seunit = 2.60 − 1.80 = 0.80; untung = (9,000 − 4,000) × 0.80 = RM4,000."

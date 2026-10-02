@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-MRSM F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+MRSM F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：取消误记供应商：借记 Suria 7,500，再贷记正确的 Suri 7,500。
+Bahasa Melayu: Batalkan kredit salah dengan debit Suria 7,500 dan kredit pembekal sebenar Suri 7,500."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：速动比率排除存货：(350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1。
+Bahasa Melayu: Nisbah ujian asid mengecualikan inventori: (350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：凭证损毁或遗失，会使部分交易资料无法记录，形成不完整账簿。
+Bahasa Melayu: Dokumen musnah atau hilang menyebabkan maklumat urus niaga tidak direkod dengan lengkap."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：期末资本 = 20,500 + 23,100 + 47,000 − 13,800 − 1,350 = 75,450；净利75,450 + 2,500 − 61,650 = RM16,300。
+Bahasa Melayu: Modal akhir = 20,500 + 23,100 + 47,000 − 13,800 − 1,350 = 75,450; untung = 75,450 + 2,500 − 61,650 = RM16,300."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：赊购 = 17,000 + 23,540 + 1,870 + 2,540 − 8,500 = RM36,450。
+Bahasa Melayu: Belian kredit = 17,000 + 23,540 + 1,870 + 2,540 − 8,500 = RM36,450."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：银行调节表比较企业账簿与银行记录，查明差额，是现金内部控制工具。
+Bahasa Melayu: Penyata Penyesuaian Bank mengesan perbezaan antara Buku Tunai dengan Penyata Bank sebagai kawalan tunai."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：未兑现支票已记现金簿，但银行尚未扣账，因此仅现金簿有记录。
+Bahasa Melayu: Cek belum dikemukakan sudah dicatat dalam Buku Tunai tetapi belum didebitkan oleh bank."
+,radio,F5 Bab 4,A,B,C,D,A,Picture29.png,"中文：1月现金收入 = 银行资本50,000 + 现金销售7,000 × 60% = RM54,200；车辆非现金。
+Bahasa Melayu: Penerimaan Januari = modal tunai 50,000 + jualan tunai 7,000 × 60% = RM54,200; kenderaan bukan tunai."
+,radio,F5 Bab 4,A,B,C,D,C,Picture30.png,"中文：Nuha余额15,000 + 9,000 − 3,000 = 21,000；Nisa余额5,000 + 3,000 − 2,000 = 6,000，均贷方。
+Bahasa Melayu: Nuha: 15,000 + 9,000 − 3,000 = 21,000; Nisa: 5,000 + 3,000 − 2,000 = 6,000, kedua-duanya baki kredit."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：家具等非现金资产账面值转入变现账户；银行、资本及往来账户不转入。
+Bahasa Melayu: Aset bukan tunai seperti perabot dipindahkan ke Realisasi; Bank, Modal dan Semasa tidak dipindahkan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture32.png,"中文：公司成立顺序：查名申请、提交注册文件、支付注册费、取得成立通知。
+Bahasa Melayu: Urutan penubuhan: carian nama, serah permohonan pemerbadanan, bayar fi, terima Notis Pemerbadanan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：股本 = 300,000 × 1 + 100,000 × 2 = RM500,000；8%不计入股本。
+Bahasa Melayu: Modal syer = 300,000 × 1 + 100,000 × 2 = RM500,000; kadar 8% ialah dividen."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：按题意普通股每股RM0.50：优先股4,000,000 × 6% + 普通股3,000,000 × 0.50 = RM1,740,000；“sen”疑多写。
+Bahasa Melayu: Mengikut maksud kunci, dividen biasa RM0.50 sesyer: 4,000,000 × 6% + 3,000,000 × 0.50 = RM1,740,000. Perkataan “sen” selepas RM0.50 mengelirukan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：2022欠费800，已收620，余800 − 620 = RM180注销为坏会费。
+Bahasa Melayu: Tunggakan 2022 sebanyak 800 ditolak kutipan 620; baki RM180 dihapus sebagai yuran lapuk."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：本年会费3,100；实收 = 3,100 + 期初欠300 − 期末欠250 − 期初预收150 − 坏会费100 = RM2,900。
+Bahasa Melayu: Kutipan = 3,100 + tunggakan awal 300 − akhir 250 − belum terperoleh awal 150 − yuran lapuk 100 = RM2,900."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：报刊费用800 + 期初预付300 − 期末预付250 = 850；租金收入1,800 + 期末欠400 − 期初欠250 = 1,950。
+Bahasa Melayu: Belanja majalah = 800 + 300 − 250 = 850; hasil sewa = 1,800 + 400 − 250 = 1,950."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：商标费用可归属特定产品，属于直接费用；原料和生产工资分别属于直接材料与人工。
+Bahasa Melayu: Cap dagangan ialah belanja langsung; bahan mentah dan gaji operator masing-masing kos bahan dan buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture39.png,"中文：制造成本 = 15,500 + 180,900 + 90,000 + 24,600 − 13,700 = RM297,300。
+Bahasa Melayu: Kos pengeluaran = 15,500 + 180,900 + 90,000 + 24,600 − 13,700 = RM297,300."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：目标销量 = (5,000 + 20,000 + 10,000) ÷ (25 − 9 − 6) = 3,500单位。
+Bahasa Melayu: Unit sasaran = (5,000 + 20,000 + 10,000) ÷ (25 − 9 − 6) = 3,500 unit."

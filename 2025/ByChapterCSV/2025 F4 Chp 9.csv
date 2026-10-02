@@ -1,0 +1,39 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 9,radio,JohorSet_Q18,A,B,C,D,D,Johor Set 1/Picture18.png,"中文：转移错误可使试算表借贷不平衡，属于明显错误；原则、颠倒及佣金错误通常仍维持平衡。
+Bahasa Melayu: Kesilapan pindahan boleh menyebabkan Imbangan Duga tidak seimbang, maka merupakan kesilapan ketara."
+F4 Chp 9,radio,JohorSet_Q18,A,B,C,D,B,Johor Set 2/Picture18.png,"中文：应记 Shaza 却误记同类供应商 Shazi，属于同类账户之间的佣金错误 Kesilapan Komisen。
+Bahasa Melayu: Catatan kepada Shazi menggantikan Shaza melibatkan akaun sejenis, maka ialah kesilapan komisen."
+F4 Chp 9,radio,NegeriSembilan_Q18,A,B,C,D,B,Negeri Sembilan/Picture18.png,"中文：Azue 的赊销误记另一客户 Azie，属于相同类别账户之间的佣金错误。
+Bahasa Melayu: Catatan jualan kepada pelanggan lain dalam kelas akaun sama ialah kesilapan komisen."
+F4 Chp 9,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 1/Picture19.png,"中文：存货取较低值 RM19,990；流动资产 = 19,990 + 1,200 + 12,800 + 2,000 + 30,000 = 65,990。流动负债 = 23,400 + 1,500 = 24,900；营运资本 RM41,090。
+Bahasa Melayu: Inventori dinilai RM19,990. Aset semasa RM65,990 ditolak liabiliti semasa RM24,900, termasuk overdraf RM1,500, memberikan modal kerja RM41,090."
+F4 Chp 9,radio,JohorSet_Q19,A,B,C,D,B,Johor Set 2/Picture19.png,"中文：维修费 RM800 误记资产，导致费用少记、净利高估；新净利 = 10,200 − 800 = RM9,400。
+Bahasa Melayu: Belanja pembaikan RM800 tersalah menjadi aset, menyebabkan untung terlebih. Untung baharu = 10,200 − 800 = RM9,400."
+F4 Chp 9,radio,Kedah_Q19,A,B,C,D,A,Kedah/Picture19.png,"中文：办公电脑是非流动资产，误记商品购货把资本支出当营业支出，属于原则错误。
+Bahasa Melayu: Komputer ialah aset bukan semasa; merekodnya sebagai Belian merupakan kesilapan prinsip."
+F4 Chp 9,radio,Perlis_Q19,A,B,C,D,A,Perlis/Picture19.png,"中文：同一佣金收款同时借记现金和佣金，缺少对应贷记，使借贷不平衡，是明显错误。
+Bahasa Melayu: Penerimaan komisen didebitkan kepada Buku Tunai dan Komisen tanpa catatan kredit, menyebabkan Imbangan Duga tidak seimbang."
+F4 Chp 9,radio,Kelantan_Q20,A,B,C,D,B,Kelantan/Picture20.png,"中文：现金销售应借记现金、贷记销售，题目两边方向完全颠倒，属于颠倒错误。
+Bahasa Melayu: Jualan tunai sepatutnya debit Tunai dan kredit Jualan; kedua-duanya diterbalikkan, maka kesilapan terbalik."
+F4 Chp 9,radio,Perak_Q20,A,B,C,D,D,Perak/Picture20.png,"中文：实际支票 RM310 却记成 RM130，属于金额记录错误。
+Bahasa Melayu: Cek sebenar RM310 direkod sebagai RM130; ini ialah kesilapan amaun."
+F4 Chp 9,radio,Perlis_Q20,A,B,C,D,A,Perlis/Picture20.png,"中文：原先错误贷记 Danisha，应借记 Danisha RM1,500 取消，再贷记正确供应商 Danish RM1,500。
+Bahasa Melayu: Debit Danisha RM1,500 untuk membatalkan kredit salah, kemudian kredit Danish RM1,500 kepada pembekal sebenar."
+F4 Chp 9,radio,Selangor_Q20,A,B,C,D,C,Selangor/Picture20.png,"中文：维修费属于收益支出，却记入车辆资产，混淆费用及资产，属于原则错误。
+Bahasa Melayu: Belanja membaiki kenderaan ialah perbelanjaan hasil tetapi direkod sebagai aset; ini ialah kesilapan prinsip."
+F4 Chp 9,radio,Terengganu_Q20,A,B,C,D,D,Terengganu/Picture20.png,"中文：折旧应列损益借方费用，坏账收回应列贷方收入；题中两项位置颠倒。
+Bahasa Melayu: Susut nilai ialah belanja di debit Akaun Untung Rugi; hutang lapuk terpulih ialah hasil di kredit. Kedua-duanya tersalah bahagian."
+F4 Chp 9,radio,Kelantan_Q21,A,B,C,D,B,Kelantan/Picture21.png,"中文：折旧费用增加 RM1,500，使本期净利减少 RM1,500，也降低资产账面值。
+Bahasa Melayu: Belanja susut nilai bertambah RM1,500 menyebabkan untung bersih berkurang RM1,500."
+F4 Chp 9,radio,KelantanYik_Q21,A,B,C,D,B,Kelantan YIK/Picture21.png,"中文：I 把维修费记车辆是原则错误；III 把付款借贷颠倒是颠倒错误，两者仍借贷相等，试算表不能发现。
+Bahasa Melayu: I ialah kesilapan prinsip dan III ialah kesilapan terbalik; kedua-duanya tidak menjejaskan kesamaan jumlah debit dan kredit."
+F4 Chp 9,radio,Perak_Q21,A,B,C,D,C,Perak/Picture21.png,"中文：私人家具投入企业应增加家具及资本；完全漏记使两者均少记 RM8,700。
+Bahasa Melayu: Perabot peribadi yang dibawa masuk menambah Perabot dan Modal; kegagalan merekod menyebabkan kedua-duanya terkurang catat RM8,700."
+F4 Chp 9,radio,Selangor_Q21,A,B,C,D,A,Selangor/Picture21.png,"中文：待售家具是货品，应记购货；借记购货、贷记家具账户，取消错误资产记录。
+Bahasa Melayu: Perabot untuk dijual ialah barang niaga. Debit Belian dan kredit Perabot untuk memindahkan catatan daripada aset kepada belian."
+F4 Chp 9,radio,Terengganu_Q21,A,B,C,D,D,Terengganu/Picture21.png,"中文：出售旧家具的整笔交易完全没记入账簿，属于整笔交易遗漏错误。
+Bahasa Melayu: Jualan perabot lama langsung tidak direkod ialah kesilapan ketinggalan satu urus niaga."
+F4 Chp 9,radio,KelantanYik_Q22,A,B,C,D,D,Kelantan YIK/Picture22.png,"中文：把交易记入不同类别的错误账户，例如费用误记资产，属于原则错误。
+Bahasa Melayu: Kesilapan menggunakan akaun dengan pengelasan berlainan ialah kesilapan prinsip."
+F4 Chp 9,radio,Pahang_Q24,A,B,C,D,D,Pahang/Picture24.png,"中文：整笔佣金付款没有记入任何账簿，属于遗漏错误，而不是佣金错误。
+Bahasa Melayu: Bayaran komisen yang langsung tidak direkod dalam mana-mana buku ialah kesilapan ketinggalan."

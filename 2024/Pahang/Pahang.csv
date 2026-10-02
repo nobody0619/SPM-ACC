@@ -1,41 +1,81 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang 2024,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：不偏袒、不受利益方影响，体现客观性职业道德。
+Bahasa Melayu: Tidak berat sebelah atau dipengaruhi pihak berkepentingan menepati etika objektiviti."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：机器按购入成本10,000记录，不改用市价8,000，体现成本原则。
+Bahasa Melayu: Mesin direkod pada kos belian 10,000, bukan harga pasaran 8,000, mengikut prinsip kos."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：一个业主承担全部盈亏、无限责任及个人所得税，是独资企业。
+Bahasa Melayu: Pemilik tunggal menanggung semua untung rugi, liabiliti tidak terhad dan cukai pendapatan individu."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：非流动资产 = 办公设备8,000 + 车辆15,000 = RM23,000。
+Bahasa Melayu: Aset bukan semasa = alatan pejabat 8,000 + kenderaan 15,000 = RM23,000."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：提款减少资本，应在等式扣除，不能加上，所以 C 的等式错误。
+Bahasa Melayu: Ambilan mengurangkan modal dan perlu ditolak, bukannya ditambah; persamaan C salah."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：赊销增加应收3,330、减少存货2,860，利润470使资本增加。
+Bahasa Melayu: Jualan kredit menambah ABT 3,330, mengurangkan inventori 2,860 dan menambah modal melalui untung 470."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：凭证是交易证据；财务报表直接依据分类账和试算表编制，而不是直接逐张凭证汇总。
+Bahasa Melayu: Dokumen membuktikan urus niaga; rujukan langsung Penyata Kewangan ialah lejar dan Imbangan Duga."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：2月16日已超过15天现金折扣期限，须全付RM1,800。
+Bahasa Melayu: Bayaran 16 Februari melebihi tempoh diskaun 15 hari, maka hutang penuh RM1,800 dibayar."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：包括现金与车辆的开业资本综合分录记普通日记簿。
+Bahasa Melayu: Catatan pembukaan yang melibatkan tunai dan kenderaan sebagai modal direkod dalam Jurnal Am."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：更正错账和业主取用商品属于普通日记簿；商品赊销和退货使用特别日记簿。
+Bahasa Melayu: Pembetulan kesilapan dan ambilan barang niaga direkod dalam Jurnal Am; jualan kredit dan pulangan dalam jurnal khas."
+,radio,F4 Bab 5,A,B,C,D,C,Picture11.png,"中文：卖方借项通知副本增加客户销售欠款，记销售日记簿。
+Bahasa Melayu: Nota debit salinan penjual menambah jualan kredit dan direkod dalam Jurnal Jualan."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：收到支票及现金账单付款都有现金或银行变动，记入现金簿。
+Bahasa Melayu: Penerimaan cek dan pembayaran bil tunai melibatkan tunai atau bank, maka masuk Buku Tunai."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：速递费及办公室报刊是小额日常支付，适合零用现金簿。
+Bahasa Melayu: Pos laju serta akhbar dan majalah pejabat ialah pembayaran kecil dalam Buku Tunai Runcit."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：客户及供应商个人账户分别在销售与购货辅助分类账。
+Bahasa Melayu: Akaun pelanggan dan pembekal direkod dalam Lejar Subsidiari Jualan dan Belian."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：企业自用家具增加资产，借记家具；由私人款支付则贷记资本。
+Bahasa Melayu: Perabot kegunaan perniagaan didebitkan; wang peribadi pemilik menyebabkan Modal dikreditkan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：赊销 = 期末5,580 + 收款8,500 + 对销500 − 期初7,070 − 退票2,350 = RM5,160。
+Bahasa Melayu: Jualan kredit = 5,580 + 8,500 + kontra 500 − 7,070 − cek tak layan 2,350 = RM5,160."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：购货退回是贷方RM380；折扣给予是借方费用RM170。
+Bahasa Melayu: Pulangan belian berbaki kredit RM380; diskaun diberi berbaki debit RM170."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：逐项取成本和市价较低值：4,500 + 2,980 + 5,210 + 8,200 = RM20,890。
+Bahasa Melayu: Inventori pada nilai terendah setiap item: 4,500 + 2,980 + 5,210 + 8,200 = RM20,890."
+,radio,F4 Bab 8,A,B,C,D,B,Picture19.png,"中文：工资与贷款利息都是费用，列损益借方；租金及坏账收回是收入。
+Bahasa Melayu: Gaji dan faedah pinjaman ialah belanja debit; sewa diterima dan hutang lapuk terpulih ialah hasil kredit."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：毛利 = (66,500 − 2,200) − (6,950 + 42,000 + 1,800 − 8,000) = RM21,550。
+Bahasa Melayu: Untung kasar = (66,500 − 2,200) − (6,950 + 42,000 + 1,800 − 8,000) = RM21,550."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：收取的租赁押金须退还，不是收入，列流动负债。
+Bahasa Melayu: Deposit sewa diterima perlu dipulangkan dan dikelaskan sebagai liabiliti semasa, bukan hasil."
+,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：工资实付3,000中有预付400，本期费用2,600；预付额转作资产。
+Bahasa Melayu: Daripada bayaran gaji 3,000, sebanyak 400 ialah prabayar; belanja semasa 2,600 dipindahkan ke Untung Rugi."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：坏账注销：借记坏账费用，贷记应收账款，以减少客户欠款。
+Bahasa Melayu: Hutang tidak dapat dikutip dihapus dengan debit Hutang Lapuk dan kredit Akaun Belum Terima."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：出售前9个月折旧(35,000 − 12,600) × 20% × 9/12 = 3,360；净值19,040，售价20,500，获利RM1,460。
+Bahasa Melayu: Susut nilai sembilan bulan = (35,000 − 12,600) × 20% × 9/12 = 3,360; nilai buku 19,040. Untung pelupusan RM1,460."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：把欠款从错误Amira转到正确Ainun：借记Ainun2,800、贷记Amira2,800。
+Bahasa Melayu: Betulkan pelanggan dengan debit Ainun 2,800 dan kredit Amira 2,800."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：存货周转率衡量存货管理效率；资本回报率看净利，流动比率看短期偿债。
+Bahasa Melayu: Pusing ganti inventori mengukur kecekapan inventori; pulangan modal menggunakan untung bersih, nisbah semasa mengukur hutang jangka pendek."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：流动比率 = (预付300 + 应收6,000) ÷ 银行透支1,500 = 4.20 : 1。
+Bahasa Melayu: Nisbah semasa = (prabayar 300 + ABT 6,000) ÷ overdraf 1,500 = 4.20 : 1."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：Aisyah资本回报48%高于35%，按投资回报可较吸引投资者；不代表其周转和偿债也最佳。
+Bahasa Melayu: Pulangan modal Aisyah 48% melebihi 35%, lebih menarik dari segi pulangan pelaburan; kecekapan dan kecairannya tidak semestinya lebih baik."
+,radio,F5 Bab 4,A,B,C,D,A,Picture29.png,"中文：总资产减总负债等于业主权益，即资本，不是仅流动项目的营运资本。
+Bahasa Melayu: Jumlah aset − jumlah liabiliti = ekuiti pemilik atau modal, bukan modal kerja."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：赊购 = 期末应付5,800 + 已付4,200 + 退购500 − 期初3,200 = RM7,300。
+Bahasa Melayu: Belian kredit = ABB akhir 5,800 + bayaran 4,200 + pulangan 500 − ABB awal 3,200 = RM7,300."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：Alysa支票04104在现金簿已付，银行单尚未出现，为未兑现支票。
+Bahasa Melayu: Cek Alysa 04104 ada dalam Buku Tunai tetapi belum dalam Penyata Bank, maka belum dikemukakan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：由银行透支−9,000出发，加未入存款3,000、减未兑支票800，现金簿仍透支−6,800，应为贷方。现表5,200及答案D的Y借方不符合这些数据，待核对。
+Bahasa Melayu: Overdraf bank −9,000 + deposit 3,000 − cek 800 memberi Buku Tunai kredit −6,800. Angka 5,200 dan Y debit dalam D tidak sepadan; perlu disemak."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：4月30,000 + 20,000 = 50,000；5月20,000 × 1.10 = 22,000；6月22,000 × 1.10 + 8,000 = 32,200。
+Bahasa Melayu: April: 30,000 + 20,000 = 50,000; Mei: 20,000 × 1.10 = 22,000; Jun: 22,000 × 1.10 + 8,000 = 32,200."
+,radio,F5 Bab 5,A,B,C,D,B,Picture34.png,"中文：可分利润 = 19,000 − 2,000 − 4,000 − 3,000 = 10,000；Sofea分一半RM5,000，不把薪金及资本利息再当利润份额。
+Bahasa Melayu: Untung boleh dibahagi = 19,000 − 2,000 − 4,000 − 3,000 = 10,000; kongsi untung Sofea RM5,000, tidak termasuk gaji dan faedah modal."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：贷方往来余额Jia2,570增加权益，Feng借方350扣除；净往来2,220。
+Bahasa Melayu: Baki Semasa Jia kredit 2,570 ditambah, Feng debit 350 ditolak; jumlah bersih RM2,220."
+,radio,F5 Bab 6,A,B,C,D,C,Picture36.png,"中文：普通股后领股息且有投票权；优先股先领股息通常无投票权，对应 II、IV。
+Bahasa Melayu: Syer biasa menerima dividen terkemudian dan berhak mengundi; keutamaan didahulukan tanpa hak mengundi: II dan IV."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：普通股股本200,000 × 1.50 = 300,000；股息率60,000 ÷ 300,000 × 100% = 20%。
+Bahasa Melayu: Modal biasa = 200,000 × 1.50 = 300,000; kadar dividen = 60,000 ÷ 300,000 × 100% = 20%."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：以前年度会费确认收不回并注销，称为坏会费（Yuran Lapuk）。
+Bahasa Melayu: Yuran tahun lalu yang tidak dapat dikutip dan dihapus kira ialah Yuran Lapuk."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：俱乐部餐厅利润属于收入，列收支账户贷方；不能把餐厅营业额全当俱乐部净收益。
+Bahasa Melayu: Untung restoran ialah hasil kredit dalam Akaun Pendapatan dan Perbelanjaan; bukan semua jualan restoran."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：主要成本由直接材料、直接人工及直接费用组成；选项中 V材料、W人工正确。
+Bahasa Melayu: Kos prima terdiri daripada bahan langsung, buruh langsung dan belanja langsung; V bahan langsung dan W buruh langsung adalah betul."

@@ -1,19 +1,37 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture10.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture18.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：历史成本原则保留车辆购买成本 RM95,000，而不是改记市场估价 RM70,000；折旧另行处理。
+Bahasa Melayu: Prinsip kos mengekalkan kos belian kenderaan RM95,000; perubahan harga pasaran tidak menggantikan kos asal."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：会计循环先有原始凭证，再记原始记录簿，之后处理调整并作结账记录，所以 C 的顺序正确。
+Bahasa Melayu: Urutan betul ialah Dokumen Sumber, Buku Catatan Pertama, Pelarasan dan Catatan Penutupan, seperti C."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：律师事务所提供法律服务，其主要营业收入是服务费；股息和定存利息是其他收入。
+Bahasa Melayu: Yuran perkhidmatan ialah hasil operasi firma guaman; dividen dan faedah simpanan merupakan hasil bukan operasi."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：银行付款减少资产 RM7,800，供应商欠款减少 7,800 + 230 = RM8,030，收到折扣增加权益 RM230。
+Bahasa Melayu: Aset berkurang RM7,800, liabiliti berkurang RM8,030 dan diskaun diterima menambah ekuiti RM230."
+,radio,F4 Bab 4,A,B,C,D,C,Picture5.png,"中文：支票支付供应商应记银行、收到折扣及应付账款栏，因此 C 的账户分类正确。不过 RM1,680 付款加 RM80 折扣，应减少应付 RM1,760；选项把应付栏写 RM1,680，金额疑误。
+Bahasa Melayu: Bayaran cek melibatkan Bank, Diskaun Diterima dan ABB seperti C. Namun ABB sepatutnya berkurang 1,680 + 80 = RM1,760; angka RM1,680 dalam lajur ABB pilihan kelihatan tersilap."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：商业折扣用于鼓励大量或批量购货；催促客户尽快清偿债务的是现金折扣。
+Bahasa Melayu: Diskaun niaga menggalakkan pembelian secara pukal; diskaun tunai menggalakkan pembayaran hutang segera."
+,radio,F4 Bab 3,A,B,C,D,A,Picture7.png,"中文：卖方在赊销时准备发票，说明商品、金额和付款条件，供买方确认应付金额。
+Bahasa Melayu: Penjual menyediakan invois bagi jualan kredit untuk menyatakan barang, harga dan amaun perlu dibayar."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：收到商品供应商发票表示赊购商品，记购货日记簿，所以 A 正确。
+Bahasa Melayu: Invois daripada pembekal barang niaga menunjukkan belian kredit yang direkod dalam Jurnal Belian."
+,radio,F4 Bab 8,A,B,C,D,C,Picture9.png,"中文：账面值 = 70,000 − 25,000 = RM45,000；售价 = 45,000 + 出售利润 4,500 = RM49,500。
+Bahasa Melayu: Nilai buku RM45,000 ditambah untung pelupusan RM4,500 memberikan harga pelupusan RM49,500."
+,radio,F4 Bab 5,A,B,C,D,D,Picture10.png,"中文：购货日记簿合计 RM6,972 过账时，借记购货、贷记应付账款控制账户。
+Bahasa Melayu: Jumlah Jurnal Belian RM6,972 dipos dengan debit Belian dan kredit Akaun Belum Bayar."
+,radio,F4 Bab 6,A,B,C,D,D,Picture11.png,"中文：退回项目借方是销货退回；折扣项目贷方是收到折扣，所以选 D。
+Bahasa Melayu: Pulangan berbaki debit ialah Pulangan Jualan; diskaun berbaki kredit ialah Diskaun Diterima."
+,radio,F4 Bab 5,A,B,C,D,B,Picture12.png,"中文：电脑应列办公设备；改正时借记办公设备 RM2,500、贷记购货 RM2,500，撤销误记的商品购货。
+Bahasa Melayu: Pembetulan ialah debit Alatan Pejabat RM2,500 dan kredit Belian RM2,500."
+,radio,F4 Bab 5,A,B,C,D,C,Picture13.png,"中文：给予客户折扣为费用，月末合计 200 + 56 = RM256，借记给予折扣、摘要应收账款。
+Bahasa Melayu: Diskaun diberi berjumlah 200 + 56 = RM256 didebitkan dalam Akaun Diskaun Diberi dengan butir Akaun Belum Terima."
+,radio,F4 Bab 8,A,B,C,D,C,Picture14.png,"中文：坏账收回收到现金，借记现金、贷记坏账收回收入。
+Bahasa Melayu: Hutang lapuk terpulih diterima dengan debit Tunai dan kredit Hutang Lapuk Terpulih."
+,radio,F4 Bab 6,A,B,C,D,B,Picture15.png,"中文：设备资产 RM3,000 与工资费用 RM8,000 在借方；应付账款 RM3,400 与贷款 RM10,000 在贷方。
+Bahasa Melayu: Alatan pejabat RM3,000 dan gaji RM8,000 berbaki debit; ABB RM3,400 dan pinjaman RM10,000 berbaki kredit."
+,radio,F4 Bab 7,A,B,C,D,D,Picture16.png,"中文：销货运费是销售费用，计损益账户；进货运费及购销退回属于交易账户计算。
+Bahasa Melayu: Angkutan keluar ialah belanja jualan dalam Akaun Untung Rugi; angkutan masuk dan pulangan melibatkan Akaun Perdagangan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：预付广告费和应收佣金均为流动资产；预收租金和欠付税费是流动负债，因此 I、II 正确。
+Bahasa Melayu: Promosi prabayar dan komisen belum terima ialah aset semasa; sewa belum terperoleh serta kadar bayaran belum bayar ialah liabiliti semasa."
+,radio,F4 Bab 9,A,B,C,D,B,Picture18.png,"中文：Azue 的赊销误记另一客户 Azie，属于相同类别账户之间的佣金错误。
+Bahasa Melayu: Catatan jualan kepada pelanggan lain dalam kelas akaun sama ialah kesilapan komisen."

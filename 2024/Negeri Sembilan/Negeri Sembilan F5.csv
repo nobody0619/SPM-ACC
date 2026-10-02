@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：净利 = 期末19,400 + 提款1,500 − 期初10,500 − 新资本4,000 = RM6,400。
+Bahasa Melayu: Untung bersih = 19,400 + 1,500 − 10,500 − 4,000 = RM6,400."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：不完整账簿使记账错误难以检查，也难以作企业间表现比较；仍可推算利润与财务状况。
+Bahasa Melayu: Rekod tak lengkap menyukarkan pengesanan kesilapan dan perbandingan prestasi; untung serta kedudukan kewangan masih boleh dianggarkan."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：未兑现支票早已记入现金簿，只作银行调节，不再更新现金簿。
+Bahasa Melayu: Cek belum dikemukakan sudah direkod dalam Buku Tunai dan hanya dilaraskan dalam penyesuaian bank."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：银行余额 = 3,600 + 1,600 − 6,800 = −1,600，负数表示银行对账单借方透支。
+Bahasa Melayu: Baki bank = 3,600 + 1,600 − 6,800 = −1,600; overdraf ialah baki debit Penyata Bank."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：12月收款 = 当月现金销售6,000 + 11月赊销收回7,000 = RM13,000。
+Bahasa Melayu: Penerimaan Disember = jualan tunai 6,000 + kutipan jualan kredit November 7,000 = RM13,000."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：银行贷款收到时增加现金，是融资现金流入；折扣和折旧没有现金收入。
+Bahasa Melayu: Pinjaman bank diterima ialah aliran masuk tunai; diskaun dan susut nilai tidak melibatkan penerimaan tunai."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：没有合伙协议时，利润或亏损按人数平均分配，而不是资本比例。
+Bahasa Melayu: Tanpa perjanjian, untung atau rugi dibahagi sama rata, bukannya menurut nisbah modal."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：单次或暂时亏损不会自动导致解散；破产、法院命令和合伙人死亡可构成解散原因。
+Bahasa Melayu: Kerugian semata-mata tidak membubarkan perkongsian secara automatik; muflis, perintah mahkamah dan kematian boleh menjadi sebab."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：Zahar于6月底提款，到年末计6个月：1,500 × 10% × 6/12 = RM75。
+Bahasa Melayu: Ambilan Zahar pada akhir Jun dikenakan faedah enam bulan: 1,500 × 10% × 6/12 = RM75."
+,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：合伙人接收资产：借记Adam资本80,000、贷记变现80,000，减少应付给他的资本。
+Bahasa Melayu: Aset diambil alih pekongsi: debit Modal Adam 80,000 dan kredit Realisasi 80,000."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：私人有限公司股份不得自由转让，也不能在Bursa Malaysia上市。
+Bahasa Melayu: Syer syarikat sendirian berhad tidak boleh dipindah milik secara bebas atau disenaraikan di Bursa Malaysia."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：优先股3月起计10个月：1,200,000 × 10% × 10/12 = 100,000；普通股200,000 × 0.20 = 40,000；共RM140,000。
+Bahasa Melayu: Dividen keutamaan bagi 10 bulan = 1,200,000 × 10% × 10/12 = 100,000; biasa = 200,000 × 0.20 = 40,000; jumlah RM140,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：Honorarium 是服务酬谢费用，属于收益支出；购买或改造长期资产是资本支出。
+Bahasa Melayu: Honorarium ialah perbelanjaan hasil; pembelian atau pengubahsuaian aset jangka panjang ialah perbelanjaan modal."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：累计基金 = 400 + 120 + 560 + 3,000 + 35,000 + 8,700 − 450 = RM47,330。
+Bahasa Melayu: Dana terkumpul = 400 + 120 + 560 + 3,000 + 35,000 + 8,700 − 450 = RM47,330."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：直接参与生产的工人工资属于直接人工；文员、主管、经理薪资是间接人工。
+Bahasa Melayu: Gaji pekerja pengeluaran ialah kos buruh langsung; gaji kerani, penyelia dan pengurus ialah buruh tidak langsung."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：制造成本 = 主要成本 + 间接费用 + 期初在产品 − 期末在产品。
+Bahasa Melayu: Kos pengeluaran = kos prima + kos overhed + kerja dalam proses awal − kerja dalam proses akhir."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：单位售价120,000 ÷ 12,000 = 10；单位变动成本72,000 ÷ 12,000 = 6；平衡销量81,000 ÷ 4 = 20,250单位。
+Bahasa Melayu: Harga seunit 10, kos berubah seunit 6; titik pulang modal = 81,000 ÷ (10 − 6) = 20,250 unit."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：盈亏平衡点是总收入等于总成本，既无利润也无亏损的销量。
+Bahasa Melayu: Titik pulang modal berlaku apabila jumlah hasil sama dengan jumlah kos, tanpa untung atau rugi."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：利润 = 30,000 × (10 − 5) − 50,000 = RM100,000。
+Bahasa Melayu: Untung = 30,000 × (10 − 5) − 50,000 = RM100,000."

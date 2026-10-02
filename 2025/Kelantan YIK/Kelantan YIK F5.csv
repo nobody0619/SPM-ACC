@@ -1,18 +1,35 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan YIK F5,radio,F5 Bab 1,A,B,C,D,D,Picture23.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 1,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan YIK F5,radio,F5 Bab 1,A,B,C,D,D,Picture23.png,"中文：流动比率由 3:2（1.5:1）降至 3:5（0.6:1）；流动资产不足偿还全部流动负债，短期偿债能力下降。
+Bahasa Melayu: Nisbah semasa menurun daripada 1.5:1 kepada 0.6:1, menunjukkan aset semasa tidak mencukupi untuk menjelaskan semua liabiliti semasa."
+,radio,F5 Bab 1,A,B,C,D,A,Picture24.png,"中文：毛利对销货成本的百分比，即加价率 = 34,500 ÷ 66,000 × 100% = 52.27%。
+Bahasa Melayu: Tokokan = untung kasar ÷ kos jualan × 100% = 34,500 ÷ 66,000 × 100% = 52.27%."
+,radio,F5 Bab 1,A,B,C,D,A,Picture25.png,"中文：资本回报率衡量投入资本带来的净利，有助投资者比较投资盈利能力。
+Bahasa Melayu: Pulangan atas modal mengukur untung bersih daripada modal yang dilaburkan dan membantu membandingkan pelaburan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture26.png,"中文：租金费用 = 已付 5,250 + 期初预付 650 − 期末预付 1,000 = RM4,900。
+Bahasa Melayu: Belanja sewa = 5,250 + 650 − 1,000 = RM4,900."
+,radio,F5 Bab 2,A,B,C,D,B,Picture27.png,"中文：年初购入设备计全年折旧，6 月末购入计半年，12 月末购入不计本年月份；折旧 = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020。
+Bahasa Melayu: Susut nilai = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020; aset akhir Disember tidak mempunyai bulan penggunaan dalam tahun semasa."
+,radio,F5 Bab 2,A,B,C,D,D,Picture28.png,"中文：记录不完整源于未用复式记录、凭证遗失或未记交易；单纯记错交易不一定使记录不完整，因此 D 为例外。
+Bahasa Melayu: Kesilapan mencatat urus niaga tidak semestinya menyebabkan rekod tidak lengkap; sebab utama ialah tiada catatan bergu, rekod hilang atau transaksi tidak dicatat."
+,radio,F5 Bab 2,A,B,C,D,A,Picture29.png,"中文：净利 = 期末资本 + 提款 − 期初资本 − 追加资本，所以 X 为提款，Y 为追加资本；63,500 − 59,820 = RM3,680。
+Bahasa Melayu: Untung = modal akhir + ambilan − modal awal − modal tambahan. X ialah ambilan dan Y ialah modal tambahan; untung RM3,680."
+,radio,F5 Bab 3,A,B,C,D,A,Picture30.png,"中文：银行结单提供银行期末余额及收付款资料，并可与现金簿核对；I、II、III 正确。
+Bahasa Melayu: Penyata Bank menunjukkan baki akhir serta penerimaan dan pembayaran, dan membolehkan perbandingan dengan Buku Tunai; I, II dan III betul."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：利润分配账户包含净利、资本利息、提款利息、合伙人津贴及分得利润，Y 为 Kongsi Untung。
+Bahasa Melayu: Akaun Pengasingan Untung Rugi menunjukkan agihan kepada pekongsi; Y ialah Kongsi Untung."
+,radio,F5 Bab 4,A,B,C,D,D,Picture33.png,"中文：合伙协议规定薪金、利润亏损分配及资本利息；预测未来盈利不是约定分配条款，故 D 为例外。
+Bahasa Melayu: Perjanjian perkongsian menetapkan gaji, pembahagian untung rugi dan faedah modal; unjuran keuntungan bukan perkara tersebut."
+,radio,F5 Bab 4,A,B,C,D,C,Picture34.png,"中文：资本账户显示各合伙人的投入资本，列在财务状况表业主权益部分。
+Bahasa Melayu: Akaun Modal pekongsi ditunjukkan dalam bahagian Ekuiti Pemilik Penyata Kedudukan Kewangan."
+,radio,F5 Bab 5,A,B,C,D,B,Picture35.png,"中文：优先股通常有固定股息率并先于普通股领取股息，I、III 正确；累积优先股可领取欠付股息。
+Bahasa Melayu: Syer keutamaan menerima dividen pada kadar tetap dan didahulukan daripada syer biasa; I dan III betul."
+,radio,F5 Bab 5,A,B,C,D,D,Picture36.png,"中文：公众公司股份可自由转让，课本规定至少两位董事，III、IV 正确；股东不限制为 1 至 50 人。
+Bahasa Melayu: Syarikat awam membolehkan pindah milik syer secara bebas dan mempunyai sekurang-kurangnya dua pengarah; III dan IV betul."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：盈余 = 会费 9,500 − 教练津贴 3,500 − 税费 2,860 = RM3,140；作为结平项在收入支出账户借方。
+Bahasa Melayu: Lebihan = 9,500 − 3,500 − 2,860 = RM3,140 dan dicatat sebagai angka imbangan di debit akaun."
+,radio,F5 Bab 6,A,B,C,D,A,Picture38.png,"中文：期末累积基金 = 14,594 + 盈余 3,350 + 指定捐款 2,000 = RM19,944。
+Bahasa Melayu: Dana terkumpul akhir = 14,594 + 3,350 + 2,000 = RM19,944."
+,radio,F5 Bab 7,A,B,C,D,A,Picture39.png,"中文：工厂租金和机器折旧属于制造间接费用；按产品计算的特许费是直接费用，办公室税费不是工厂成本。
+Bahasa Melayu: Sewa kilang dan susut nilai mesin ialah kos overhed; I dan II betul. Royalti ialah belanja langsung dan kadar bayaran pejabat bukan kos kilang."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：生产账户汇总直接材料、直接人工及制造成本；销货成本是在交易账户计算，不列生产账户。
+Bahasa Melayu: Kos jualan tidak dicatat dalam Akaun Pengeluaran; ia ditentukan dalam Akaun Perdagangan."

@@ -1,0 +1,57 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 2,radio,JohorSet_Q21,A,B,C,D,C,Johor Set 1/Picture21.png,"中文：没有系统地保存原始凭证会导致记录不完整；不能确定利润或查错是后果。
+Bahasa Melayu: Dokumen yang tidak disimpan secara sistematik menyebabkan rekod tidak lengkap; kesukaran menentukan untung ialah kesannya."
+F5 Chp 2,radio,JohorSet_Q21,A,B,C,D,A,Johor Set 2/Picture21.png,"中文：佣金收入是非主要营业收入，结账转入损益账户的收入部分。
+Bahasa Melayu: Komisen diterima ialah hasil bukan operasi yang dipindahkan ke bahagian hasil Akaun Untung Rugi."
+F5 Chp 2,radio,NegeriSembilan_Q21,A,B,C,D,A,Negeri Sembilan/Picture21.png,"中文：每项交易只作单项记录而不完整记录借贷两面，是不完整记录或单式记账的做法。
+Bahasa Melayu: Merekod urus niaga dalam satu catatan sahaja ialah amalan rekod tak lengkap, bukannya sistem catatan bergu."
+F5 Chp 2,radio,JohorSet_Q22,A,B,C,D,B,Johor Set 1/Picture22.png,"中文：资本 = 资产 − 负债 = 55,500 − 15,500 = RM40,000，因此 P 为资产，Q 为负债。
+Bahasa Melayu: Modal = aset − liabiliti = 55,500 − 15,500 = RM40,000. P ialah aset dan Q ialah liabiliti."
+F5 Chp 2,radio,JohorSet_Q22,A,B,C,D,B,Johor Set 2/Picture22.png,"中文：资本比较法：净利 = 期末资本 + 提款 − 追加资本 − 期初资本，因此应加回提款。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal tambahan − modal awal; ambilan perlu ditambah kepada modal akhir."
+F5 Chp 2,radio,NegeriSembilan_Q22,A,B,C,D,C,Negeri Sembilan/Picture22.png,"中文：提款 = 净利 8,200 − 期末资本 33,700 + 期初资本 27,400 + 追加资本 5,000 = RM6,900。
+Bahasa Melayu: Ambilan = 8,200 − 33,700 + 27,400 + 5,000 = RM6,900."
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,A,Johor Set 1/Picture23.png,"中文：期末资本 = 8,000 + 17,250 + 34,610 + 450 − 9,200 − 850 = RM50,260；净利 = 50,260 + 4,000 − 37,090 = RM17,170。
+Bahasa Melayu: Modal akhir = 8,000 + 17,250 + 34,610 + 450 − 9,200 − 850 = RM50,260; untung bersih = 50,260 + 4,000 − 37,090 = RM17,170."
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,A,Johor Set 2/Picture23.png,"中文：净购货 = 32,680 − 960 − 600 = RM31,120；期初存货不属于净购货。
+Bahasa Melayu: Belian bersih = 32,680 − 960 − 600 = RM31,120; inventori awal tidak dimasukkan dalam belian bersih."
+F5 Chp 2,radio,Kedah_Q23,A,B,C,D,D,Kedah/Picture23.png,"中文：单式记账资料不完整，利润与其他绩效指标的计算可能不准确，使企业表现难以准确评估。
+Bahasa Melayu: Catatan tunggal tidak lengkap menyebabkan penilaian prestasi perniagaan tidak dapat dilakukan dengan tepat."
+F5 Chp 2,radio,Kelantan_Q23,A,B,C,D,C,Kelantan/Picture23.png,"中文：不完整记录无法直接编完整损益账，资本比较法通过资本变动推算利润或亏损。
+Bahasa Melayu: Kaedah perbandingan menentukan untung atau rugi melalui perubahan modal apabila rekod lengkap tidak tersedia."
+F5 Chp 2,radio,Perlis_Q23,A,B,C,D,B,Perlis/Picture23.png,"中文：期初资本 = 资产 − 负债 = 5,000 + 2,500 + 200 − 1,450 − 400 = RM5,850。
+Bahasa Melayu: Modal awal = aset − liabiliti = 5,000 + 2,500 + 200 − 1,450 − 400 = RM5,850."
+F5 Chp 2,radio,Selangor_Q23,A,B,C,D,C,Selangor/Picture23.png,"中文：记录不完整时，用期初及期末资本变化，调整提款与追加资本，可推算利润。
+Bahasa Melayu: Modal awal dan modal akhir diperlukan untuk mengira untung melalui kaedah perbandingan selepas pelarasan ambilan dan modal tambahan."
+F5 Chp 2,radio,Terengganu_Q23,A,B,C,D,A,Terengganu/Picture23.png,"中文：记录被火灾破坏后，可分析剩余现金簿、账单及余额重建资料，再推算盈利，属于分析法。
+Bahasa Melayu: Kaedah analisis menggunakan rekod yang masih ada untuk membina semula maklumat dan menentukan untung atau rugi apabila rekod tidak lengkap."
+F5 Chp 2,radio,Kedah_Q24,A,B,C,D,D,Kedah/Picture24.png,"中文：净利 = 期末资本 26,000 + 提款 1,500 − 追加资本 6,000 − 期初资本 11,000 = RM10,500。
+Bahasa Melayu: Untung = 26,000 + 1,500 − 6,000 − 11,000 = RM10,500."
+F5 Chp 2,radio,Perak_Q24,A,B,C,D,A,Perak/Picture24.png,"中文：期末资本 = 81,525 − 34,290 = RM47,235；期初资本 = 47,235 − 13,110 = RM34,125。
+Bahasa Melayu: Modal akhir = 81,525 − 34,290 = RM47,235. Modal awal = 47,235 − 13,110 = RM34,125."
+F5 Chp 2,radio,Perlis_Q24,A,B,C,D,D,Perlis/Picture24.png,"中文：赊销 = 期末应收1,900 + 收客户款2,000 − 期初应收2,550 = RM1,350；加现金销售 RM600，销售合计 RM1,950。
+Bahasa Melayu: Jualan kredit = ABT akhir 1,900 + penerimaan pelanggan 2,000 − ABT awal 2,550 = RM1,350. Tambah jualan tunai RM600, jumlah jualan RM1,950."
+F5 Chp 2,radio,Selangor_Q24,A,B,C,D,B,Selangor/Picture24.png,"中文：净利 = 50,000 + 5,000 − 30,000 − 10,000 = RM15,000。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 50,000 + 5,000 − 30,000 − 10,000 = RM15,000."
+F5 Chp 2,radio,Terengganu_Q24,A,B,C,D,A,Terengganu/Picture24.png,"中文：全年提款 =100 ×12 =1,200；净利 =49,500 +1,200 −40,000 = RM10,700。
+Bahasa Melayu: Ambilan setahun =100 ×12 =1,200. Untung bersih =49,500 +1,200 −40,000 = RM10,700."
+F5 Chp 2,radio,Kedah_Q25,A,B,C,D,A,Kedah/Picture25.png,"中文：赊销 = 期末应收 17,000 + 客户还款 23,540 − 期初应收 8,500 = RM32,040；购货退回不影响应收账款。
+Bahasa Melayu: Jualan kredit = 17,000 + 23,540 − 8,500 = RM32,040; pulangan keluar tidak melibatkan Akaun Belum Terima."
+F5 Chp 2,radio,Perak_Q25,A,B,C,D,A,Perak/Picture25.png,"中文：提款 = 期初资本 + 追加资本 + 净利 − 期末资本 = 42,000 + 6,000 + 15,000 − 60,000 = RM3,000。
+Bahasa Melayu: Ambilan = modal awal + modal tambahan + untung bersih − modal akhir = 42,000 + 6,000 + 15,000 − 60,000 = RM3,000."
+F5 Chp 2,radio,Terengganu_Q25,A,B,C,D,B,Terengganu/Picture25.png,"中文：水电费 =2,700 −340 +270 = RM2,630；租金收入 =7,600 +800 −590 = RM7,810。
+Bahasa Melayu: Utiliti =2,700 − belum bayar awal340 + belum bayar akhir270 = RM2,630. Sewa =7,600 + belum terperoleh awal800 − akhir590 = RM7,810."
+F5 Chp 2,radio,KelantanYik_Q26,A,B,C,D,B,Kelantan YIK/Picture26.png,"中文：租金费用 = 已付 5,250 + 期初预付 650 − 期末预付 1,000 = RM4,900。
+Bahasa Melayu: Belanja sewa = 5,250 + 650 − 1,000 = RM4,900."
+F5 Chp 2,radio,Pahang_Q26,A,B,C,D,C,Pahang/Picture26.png,"中文：期初资本 = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400；期末资本 = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800；亏损 = 35,400 − 32,800 = RM2,600。
+Bahasa Melayu: Modal awal = 10,000 + 6,000 + 18,000 + 4,200 − 2,800 = RM35,400. Modal akhir = 8,000 + 5,200 + 20,000 + 3,700 − 4,100 = RM32,800. Rugi = 35,400 − 32,800 = RM2,600."
+F5 Chp 2,radio,Perak_Q26,A,B,C,D,D,Perak/Picture26.png,"中文：赊销 = 期末应收 + 收款 + 销货退回 − 期初应收 = 5,500 + 4,200 + 500 − 3,200 = RM7,000。
+Bahasa Melayu: Jualan kredit = ABT akhir + penerimaan pelanggan + pulangan masuk − ABT awal = 5,500 + 4,200 + 500 − 3,200 = RM7,000."
+F5 Chp 2,radio,KelantanYik_Q27,A,B,C,D,B,Kelantan YIK/Picture27.png,"中文：年初购入设备计全年折旧，6 月末购入计半年，12 月末购入不计本年月份；折旧 = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020。
+Bahasa Melayu: Susut nilai = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020; aset akhir Disember tidak mempunyai bulan penggunaan dalam tahun semasa."
+F5 Chp 2,radio,Pahang_Q27,A,B,C,D,C,Pahang/Picture27.png,"中文：现金簿收入分析可以找出现金销售收入，因此 Y 是现金销售。
+Bahasa Melayu: Analisis penerimaan Buku Tunai dapat menentukan hasil jualan tunai, maka Y ialah jualan tunai."
+F5 Chp 2,radio,KelantanYik_Q28,A,B,C,D,D,Kelantan YIK/Picture28.png,"中文：记录不完整源于未用复式记录、凭证遗失或未记交易；单纯记错交易不一定使记录不完整，因此 D 为例外。
+Bahasa Melayu: Kesilapan mencatat urus niaga tidak semestinya menyebabkan rekod tidak lengkap; sebab utama ialah tiada catatan bergu, rekod hilang atau transaksi tidak dicatat."
+F5 Chp 2,radio,KelantanYik_Q29,A,B,C,D,A,Kelantan YIK/Picture29.png,"中文：净利 = 期末资本 + 提款 − 期初资本 − 追加资本，所以 X 为提款，Y 为追加资本；63,500 − 59,820 = RM3,680。
+Bahasa Melayu: Untung = modal akhir + ambilan − modal awal − modal tambahan. X ialah ambilan dan Y ialah modal tambahan; untung RM3,680."

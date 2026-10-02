@@ -1,0 +1,61 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 5,radio,Perlis_Q06,A,B,C,D,C,Perlis/Picture6.png,"中文：拿货品作企业促销应借记促销费用、贷记购货 RM1,250；不是业主私人提款。
+Bahasa Melayu: Barang niaga digunakan untuk promosi: debit Promosi dan kredit Belian RM1,250 kerana kegunaan perniagaan."
+F4 Chp 5,radio,Kelantan_Q07,A,B,C,D,D,Kelantan/Picture7.png,"中文：业主私人贷款不属企业贷款；用该资金支付企业租金，借记租金、贷记资本。
+Bahasa Melayu: Pinjaman peribadi bukan liabiliti perniagaan; sewa yang dibayar menggunakan wang itu didebitkan kepada Sewa dan dikreditkan kepada Modal."
+F4 Chp 5,radio,Kelantan_Q08,A,B,C,D,C,Kelantan/Picture8.png,"中文：应收控制账户借方 R 为赊销，贷方 S 可为抵销应收与应付的 Kontra；坏账不在借方增加债权。
+Bahasa Melayu: R di debit ialah jualan kredit; S di kredit ialah kontra yang mengurangkan ABT dan ABB."
+F4 Chp 5,radio,Perlis_Q08,A,B,C,D,D,Perlis/Picture8.png,"中文：货品被业主私人取用，应借记提款、贷记购货 RM300。
+Bahasa Melayu: Ambilan barang niaga untuk kegunaan peribadi: debit Ambilan dan kredit Belian RM300."
+F4 Chp 5,radio,Terengganu_Q08,A,B,C,D,B,Terengganu/Picture8.png,"中文：分类账分成总账与辅助账，辅助账记录个别客户及供应商账户。
+Bahasa Melayu: Lejar dibahagi kepada Lejar Am dan Lejar Subsidiari; lejar subsidiari menyimpan akaun pelanggan dan pembekal."
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,C,Johor Set 1/Picture9.png,"中文：名义账户记录收入、费用及其抵减项目；租金与销货退回属于名义账户。
+Bahasa Melayu: Akaun nominal merekod hasil, belanja dan pelarasannya; Akaun Sewa dan Pulangan Jualan ialah akaun nominal."
+F4 Chp 5,radio,JohorSet_Q09,A,B,C,D,A,Johor Set 2/Picture9.png,"中文：真实账户记录企业资产，例如现金、设备和车辆；收入与费用属于名义账户。
+Bahasa Melayu: Akaun nyata merekod aset perniagaan seperti tunai, peralatan dan kenderaan."
+F4 Chp 5,radio,Perlis_Q09,A,B,C,D,B,Perlis/Picture9.png,"中文：货品用于店铺促销，属于企业费用，所以借记促销账户 RM500。
+Bahasa Melayu: Barang niaga bernilai RM500 digunakan untuk promosi kedai, maka debit Akaun Promosi."
+F4 Chp 5,radio,Selangor_Q09,A,B,C,D,A,Selangor/Picture9.png,"中文：分类账分为总账及辅助账；应收分类账属于辅助账。
+Bahasa Melayu: Lejar dibahagi kepada Lejar Am dan Lejar Subsidiari; Lejar Belum Terima ialah sebahagian Lejar Subsidiari."
+F4 Chp 5,radio,Terengganu_Q09,A,B,C,D,C,Terengganu/Picture9.png,"中文：业主取手表送妻子是私人提款，借记提款、贷记购货 RM5,880。
+Bahasa Melayu: Jam tangan diambil untuk isteri ialah ambilan peribadi: debit Ambilan dan kredit Belian RM5,880."
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,A,Johor Set 1/Picture10.png,"中文：现金销售借记现金、贷记销售；商品提款借记提款、贷记购货，因此 I 和 II 正确。
+Bahasa Melayu: Jualan tunai mendebit Tunai dan mengkredit Jualan; ambilan barang mendebit Ambilan dan mengkredit Belian. I dan II betul."
+F4 Chp 5,radio,JohorSet_Q10,A,B,C,D,D,Johor Set 2/Picture10.png,"中文：家具店把待售桌子改作办公室家具，属于资产自用，借记家具、贷记购货；不是私人提款。
+Bahasa Melayu: Meja barang niaga digunakan di pejabat, maka debit Akaun Perabot dan kredit Belian; bukan ambilan peribadi."
+F4 Chp 5,radio,NegeriSembilan_Q10,A,B,C,D,D,Negeri Sembilan/Picture10.png,"中文：购货日记簿合计 RM6,972 过账时，借记购货、贷记应付账款控制账户。
+Bahasa Melayu: Jumlah Jurnal Belian RM6,972 dipos dengan debit Belian dan kredit Akaun Belum Bayar."
+F4 Chp 5,radio,Perak_Q10,A,B,C,D,C,Perak/Picture10.png,"中文：文具属于费用，正常借方余额；服务收入属于收入，正常贷方余额。
+Bahasa Melayu: Alat tulis ialah belanja dengan baki debit, manakala hasil perkhidmatan ialah hasil dengan baki kredit."
+F4 Chp 5,radio,Perlis_Q10,A,B,C,D,B,Perlis/Picture10.png,"中文：供应商收取利息及由供应商代付、加入欠款的运入费可记应付控制账户；坏账及所给折扣属于应收事项。
+Bahasa Melayu: Faedah dan angkutan masuk yang dikenakan oleh pembekal boleh direkod dalam Akaun Kawalan Belum Bayar; hutang lapuk dan diskaun diberi berkaitan ABT."
+F4 Chp 5,radio,Selangor_Q10,A,B,C,D,D,Selangor/Picture10.png,"中文：赊销 = 收款8,320 + 所给折扣180 + 期末应收2,730 − 期初应收3,190 = RM8,040。
+Bahasa Melayu: Jualan kredit = bank 8,320 + diskaun diberi 180 + baki akhir 2,730 − baki awal 3,190 = RM8,040."
+F4 Chp 5,radio,Terengganu_Q10,A,B,C,D,B,Terengganu/Picture10.png,"中文：从企业银行取钱作私人用途使银行减少，贷记银行并借记提款。
+Bahasa Melayu: Pengeluaran wang bank untuk kegunaan peribadi mengurangkan bank; kredit Bank dan debit Ambilan."
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,D,Johor Set 1/Picture11.png,"中文：赊销 = 103,400 + 2,320 + 2,360 + 1,380 + 19,360 − 17,600 = RM111,220。
+Bahasa Melayu: Jualan kredit = 103,400 + 2,320 + 2,360 + 1,380 + 19,360 − 17,600 = RM111,220."
+F4 Chp 5,radio,JohorSet_Q11,A,B,C,D,A,Johor Set 2/Picture11.png,"中文：期末应付账款 = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470。
+Bahasa Melayu: Baki akhir ABB = 910 + 23,200 − 640 − 19,400 − 600 = RM3,470."
+F4 Chp 5,radio,Kedah_Q11,A,B,C,D,A,Kedah/Picture11.png,"中文：销货折扣减少客户债务，记入应收账款控制账户贷方；坏账准备不直接记该账户。
+Bahasa Melayu: Diskaun diberi mengurangkan hutang pelanggan dan dicatat di kredit Akaun Kawalan Belum Terima."
+F4 Chp 5,radio,KelantanYik_Q11,A,B,C,D,B,Kelantan YIK/Picture11.png,"中文：应收账款属于资产，正常余额为借方；家具也属借方，工资为费用也属借方。
+Bahasa Melayu: Akaun Belum Terima ialah aset dengan baki debit, maka padanan B betul."
+F4 Chp 5,radio,Perak_Q11,A,B,C,D,D,Perak/Picture11.png,"中文：应付余额 = 14,200 + 4,200 − 740 − 1,200 − 10,000 = RM6,460，属贷方余额。
+Bahasa Melayu: Baki Akaun Belum Bayar = 14,200 + 4,200 − 740 − 1,200 − 10,000 = RM6,460 kredit."
+F4 Chp 5,radio,Terengganu_Q11,A,B,C,D,D,Terengganu/Picture11.png,"中文：赊销 = 73,400 + 960 + 1,230 + 8,920 − 6,525 − 270 = RM77,715；取消的折扣增加应收，须从推算赊销中扣除。
+Bahasa Melayu: Jualan kredit = 73,400 + 960 + 1,230 + 8,920 − 6,525 − 270 = RM77,715. Diskaun dibatalkan menambah ABT dan ditolak ketika menentukan jualan kredit."
+F4 Chp 5,radio,Kedah_Q12,A,B,C,D,B,Kedah/Picture12.png,"中文：用私人资金替企业支付租金，借记企业租金费用，贷记业主资本，表示追加投入。
+Bahasa Melayu: Sewa perniagaan dibayar dengan wang peribadi: debit Sewa dan kredit Modal sebagai modal tambahan."
+F4 Chp 5,radio,KelantanYik_Q12,A,B,C,D,A,Kelantan YIK/Picture12.png,"中文：把商品作为企业捐赠，借记捐款费用 RM500、贷记购货 RM500。
+Bahasa Melayu: Barang niaga didermakan oleh perniagaan: debit Derma RM500 dan kredit Belian RM500."
+F4 Chp 5,radio,NegeriSembilan_Q12,A,B,C,D,B,Negeri Sembilan/Picture12.png,"中文：电脑应列办公设备；改正时借记办公设备 RM2,500、贷记购货 RM2,500，撤销误记的商品购货。
+Bahasa Melayu: Pembetulan ialah debit Alatan Pejabat RM2,500 dan kredit Belian RM2,500."
+F4 Chp 5,radio,NegeriSembilan_Q13,A,B,C,D,C,Negeri Sembilan/Picture13.png,"中文：给予客户折扣为费用，月末合计 200 + 56 = RM256，借记给予折扣、摘要应收账款。
+Bahasa Melayu: Diskaun diberi berjumlah 200 + 56 = RM256 didebitkan dalam Akaun Diskaun Diberi dengan butir Akaun Belum Terima."
+F4 Chp 5,radio,Pahang_Q13,A,B,C,D,A,Pahang/Picture13.png,"中文：名义账户包括收入及费用；购货、文具、股息和杂费均属于该类。
+Bahasa Melayu: Akaun nominal merangkumi hasil dan belanja, termasuk Belian, Alat Tulis, Dividen dan Belanja Am."
+F4 Chp 5,radio,Pahang_Q14,A,B,C,D,C,Pahang/Picture14.png,"中文：按本题答案，捐款属于企业慈善费用，借记捐款、贷记现金；若明确为业主私人捐款，才应记提款。
+Bahasa Melayu: Mengikut jawapan soalan, derma dianggap belanja perniagaan: debit Derma, kredit Tunai. Jika derma dinyatakan untuk tujuan peribadi pemilik, catat Ambilan."
+F4 Chp 5,radio,Pahang_Q15,A,B,C,D,A,Pahang/Picture15.png,"中文：应收余额 = 1,270 + 8,200 − 240 − 8,000 − 330 = RM900，属于借方余额。
+Bahasa Melayu: Baki Akaun Belum Terima = 1,270 + 8,200 − 240 − 8,000 − 330 = RM900 debit."

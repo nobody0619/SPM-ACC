@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Set 2 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 2 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：把办公设备赊账或支票购入记为购货，是原则错误；借贷金额仍相等，试算表不显示差额。
+Bahasa Melayu: Belian alatan pejabat direkod sebagai Belian ialah kesilapan prinsip; amaun debit dan kredit masih seimbang."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：净利 = 9,700+150−240+80+80 = RM9,770；收到折扣错记为给予折扣，需两次 RM80 修正。
+Bahasa Melayu: Untung = RM9,700+RM150−RM240+RM160 = RM9,770. Kesilapan diskaun dibetulkan sebanyak dua kali RM80; bayaran hutang tidak menjejaskan untung."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：投资回报率 = 净利÷资本。资本 = 40,000÷25% = RM160,000。
+Bahasa Melayu: Modal = untung bersih ÷ pulangan atas modal = RM40,000÷25% = RM160,000."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：比较法净利 = 期末资本 + 提取 − 期初资本 − 新增资本。
+Bahasa Melayu: Untung kaedah perbandingan = modal akhir + ambilan − modal awal − modal tambahan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：净利 = 42,000 + 600 − 12,750 − 10,850 = RM19,000；流动资产不直接代入资本比较式。
+Bahasa Melayu: Untung bersih = 42,000 + 600 − 12,750 − 10,850 = RM19,000; aset semasa tidak dimasukkan terus dalam rumus perbandingan modal."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：赊购 = 9,800+450+1,180−1,430 = RM10,000；加现金购货4,520，总购货 RM14,520。
+Bahasa Melayu: Belian kredit RM10,000 melalui ABB; tambah belian tunai RM4,520 untuk jumlah RM14,520."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：现金控制确保资金流量足以支付日常支出，不等同于保证盈利。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk pembayaran perniagaan."
+,radio,F5 Bab 4,A,B,C,D,A,Picture29.png,"中文：Aniq 付款企业已收、银行未入账，是未入账存款；付给 Fikri 的支票未兑换，是未兑付支票。
+Bahasa Melayu: Aniq ialah deposit belum dikreditkan; cek kepada Fikri ialah cek belum dikemukakan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：现金预算盈余或短缺 = 总收款 − 总付款，不能混用应计收入与费用。
+Bahasa Melayu: Lebihan atau kurangan Belanjawan Tunai = jumlah penerimaan − jumlah pembayaran."
+,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：没有合伙协议时，本题按课本要求参照 Akta Perkongsian 1961 的默认规定。
+Bahasa Melayu: Tanpa Ikatan Perjanjian Perkongsian, soalan ini merujuk peraturan Akta Perkongsian 1961 yang dipelajari."
+,radio,F5 Bab 4,A,B,C,D,A,Picture32.png,"中文：变现资产账面值 = 136,000−16,000 = 120,000；损失10,000，偿债折扣3,000，费用2,400；净亏 RM9,400。
+Bahasa Melayu: Rugi realisasi = (RM120,000−RM110,000) − diskaun hutang RM3,000 + belanja RM2,400 = RM9,400."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：股数700,000，每股 RM1.50，已发行缴足股本 = RM1,050,000；应同时列正确股数及金额。
+Bahasa Melayu: 700,000 unit syer biasa × RM1.50 = modal diterbitkan dan berbayar RM1,050,000; C menunjukkan unit serta amaun tepat."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：中期股息在公司真实年度利润确定之前派发。
+Bahasa Melayu: Dividen interim dibayar sebelum untung sebenar syarikat diketahui."
+,radio,F5 Bab 6,A,B,C,D,D,Picture35.png,"中文：本年会费 = 10,500−旧欠款1,020+期初预收500−下年预收300 = RM9,680。
+Bahasa Melayu: Yuran semasa = RM10,500−RM1,020+RM500−RM300 = RM9,680."
+,radio,F5 Bab 6,A,B,C,D,C,Picture36.png,"中文：餐厅利润 = 18,460−（4,720+12,300−3,740）−4,000×40% = RM3,580。
+Bahasa Melayu: Untung restoran = RM18,460−(RM4,720+RM12,300−RM3,740)−RM1,600 = RM3,580."
+,radio,F5 Bab 6,A,B,C,D,D,Picture37.png,"中文：X 是社团收入及支出账户计算的盈余 RM1,500，用于增加累计基金。
+Bahasa Melayu: X ialah lebihan RM1,500 daripada Akaun Pendapatan dan Perbelanjaan, ditambah kepada dana terkumpul."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：制造成本四项是直接材料、直接人工、直接费用及间接费用，因此 X = Belanja Langsung，Y = Kos Overhed。
+Bahasa Melayu: Empat komponen kos pengeluaran ialah bahan langsung, buruh langsung, belanja langsung dan kos overhed; X = Belanja Langsung dan Y = Kos Overhed."
+,radio,F5 Bab 7,A,B,C,D,B,Picture39.png,"中文：制造成本 = 81,300+51,315+15,390+7,500+19,125−15,210 = RM159,420。
+Bahasa Melayu: Kos pengeluaran = RM81,300+RM51,315+RM15,390+RM7,500+RM19,125−RM15,210 = RM159,420."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位贡献 = 120−45−25 = RM50；目标数量 =（10,000+20,000）÷50 = 600。
+Bahasa Melayu: Margin caruman RM50; unit sasaran = (kos tetap RM10,000+untung RM20,000)÷RM50 = 600 unit."

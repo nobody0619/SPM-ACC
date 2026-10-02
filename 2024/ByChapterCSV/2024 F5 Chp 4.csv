@@ -1,81 +1,161 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,A,Johor Set 1/Picture28.png
-F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,B,Johor Set 1/Picture29.png
-F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,D,Johor Set 1/Picture30.png
-F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,C,Johor Set 1/Picture31.png
-F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,D,Johor Set 1/Picture32.png
-F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,D,Johor Set 2/Picture28.png
-F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,A,Johor Set 2/Picture29.png
-F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,B,Johor Set 2/Picture30.png
-F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,B,Johor Set 2/Picture31.png
-F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,A,Johor Set 2/Picture32.png
-F5 Chp 4,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png
-F5 Chp 4,radio,Kedah_Q29,A,B,C,D,B,Kedah/Picture29.png
-F5 Chp 4,radio,Kedah_Q30,A,B,C,D,D,Kedah/Picture30.png
-F5 Chp 4,radio,Kedah_Q31,A,B,C,D,C,Kedah/Picture31.png
-F5 Chp 4,radio,Kedah_Q32,A,B,C,D,C,Kedah/Picture32.png
-F5 Chp 4,radio,Kelantan_Q28,A,B,C,D,B,Kelantan/Picture28.png
-F5 Chp 4,radio,Kelantan_Q29,A,B,C,D,D,Kelantan/Picture29.png
-F5 Chp 4,radio,Kelantan_Q30,A,B,C,D,A,Kelantan/Picture30.png
-F5 Chp 4,radio,Kelantan_Q31,A,B,C,D,C,Kelantan/Picture31.png
-F5 Chp 4,radio,Kelantan_Q32,A,B,C,D,C,Kelantan/Picture32.png
-F5 Chp 4,radio,Kl_Q28,A,B,C,D,B,KL/Picture28.png
-F5 Chp 4,radio,Kl_Q29,A,B,C,D,A,KL/Picture29.png
-F5 Chp 4,radio,Kl_Q30,A,B,C,D,C,KL/Picture30.png
-F5 Chp 4,radio,Kl_Q31,A,B,C,D,A,KL/Picture31.png
-F5 Chp 4,radio,Kl_Q32,A,B,C,D,C,KL/Picture32.png
-F5 Chp 4,radio,Melaka_Q28,A,B,C,D,D,Melaka/Picture28.png
-F5 Chp 4,radio,Melaka_Q29,A,B,C,D,C,Melaka/Picture29.png
-F5 Chp 4,radio,Melaka_Q30,A,B,C,D,B,Melaka/Picture30.png
-F5 Chp 4,radio,Melaka_Q31,A,B,C,D,D,Melaka/Picture31.png
-F5 Chp 4,radio,Melaka_Q32,A,B,C,D,D,Melaka/Picture32.png
-F5 Chp 4,radio,Mrsm_Q28,A,B,C,D,D,MRSM/Picture28.png
-F5 Chp 4,radio,Mrsm_Q29,A,B,C,D,A,MRSM/Picture29.png
-F5 Chp 4,radio,Mrsm_Q30,A,B,C,D,C,MRSM/Picture30.png
-F5 Chp 4,radio,Mrsm_Q31,A,B,C,D,B,MRSM/Picture31.png
-F5 Chp 4,radio,Mrsm_Q32,A,B,C,D,B,MRSM/Picture32.png
-F5 Chp 4,radio,NegeriSembilan_Q28,A,B,C,D,A,Negeri Sembilan/Picture28.png
-F5 Chp 4,radio,NegeriSembilan_Q29,A,B,C,D,C,Negeri Sembilan/Picture29.png
-F5 Chp 4,radio,NegeriSembilan_Q30,A,B,C,D,A,Negeri Sembilan/Picture30.png
-F5 Chp 4,radio,NegeriSembilan_Q31,A,B,C,D,C,Negeri Sembilan/Picture31.png
-F5 Chp 4,radio,NegeriSembilan_Q32,A,B,C,D,D,Negeri Sembilan/Picture32.png
-F5 Chp 4,radio,Pahang_Q28,A,B,C,D,B,Pahang/Picture28.png
-F5 Chp 4,radio,Pahang_Q29,A,B,C,D,A,Pahang/Picture29.png
-F5 Chp 4,radio,Pahang_Q30,A,B,C,D,D,Pahang/Picture30.png
-F5 Chp 4,radio,Pahang_Q31,A,B,C,D,D,Pahang/Picture31.png
-F5 Chp 4,radio,Pahang_Q32,A,B,C,D,D,Pahang/Picture32.png
-F5 Chp 4,radio,PenangPpdBaratDaya_Q28,A,B,C,D,B,Penang PPD Barat Daya/Picture28.png
-F5 Chp 4,radio,PenangPpdBaratDaya_Q29,A,B,C,D,D,Penang PPD Barat Daya/Picture29.png
-F5 Chp 4,radio,PenangPpdBaratDaya_Q30,A,B,C,D,B,Penang PPD Barat Daya/Picture30.png
-F5 Chp 4,radio,PenangPpdBaratDaya_Q31,A,B,C,D,A,Penang PPD Barat Daya/Picture31.png
-F5 Chp 4,radio,PenangPpdBaratDaya_Q32,A,B,C,D,B,Penang PPD Barat Daya/Picture32.png
-F5 Chp 4,radio,Perak_Q28,A,B,C,D,C,Perak/Picture28.png
-F5 Chp 4,radio,Perak_Q29,A,B,C,D,C,Perak/Picture29.png
-F5 Chp 4,radio,Perak_Q30,A,B,C,D,A,Perak/Picture30.png
-F5 Chp 4,radio,Perak_Q31,A,B,C,D,C,Perak/Picture31.png
-F5 Chp 4,radio,Perak_Q32,A,B,C,D,A,Perak/Picture32.png
-F5 Chp 4,radio,Perlis_Q28,A,B,C,D,D,Perlis/Picture28.png
-F5 Chp 4,radio,Perlis_Q29,A,B,C,D,D,Perlis/Picture29.png
-F5 Chp 4,radio,Perlis_Q30,A,B,C,D,A,Perlis/Picture30.png
-F5 Chp 4,radio,Perlis_Q31,A,B,C,D,D,Perlis/Picture31.png
-F5 Chp 4,radio,Perlis_Q32,A,B,C,D,D,Perlis/Picture32.png
-F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,C,Selangor Set 1/Picture28.png
-F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 1/Picture29.png
-F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,B,Selangor Set 1/Picture30.png
-F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,A,Selangor Set 1/Picture31.png
-F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,D,Selangor Set 1/Picture32.png
-F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,B,Selangor Set 2/Picture28.png
-F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 2/Picture29.png
-F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,D,Selangor Set 2/Picture30.png
-F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,D,Selangor Set 2/Picture31.png
-F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,C,Selangor Set 2/Picture32.png
-F5 Chp 4,radio,Smka_Q28,A,B,C,D,A,SMKA/Picture28.png
-F5 Chp 4,radio,Smka_Q29,A,B,C,D,C,SMKA/Picture29.png
-F5 Chp 4,radio,Smka_Q30,A,B,C,D,B,SMKA/Picture30.png
-F5 Chp 4,radio,Smka_Q31,A,B,C,D,A,SMKA/Picture31.png
-F5 Chp 4,radio,Smka_Q32,A,B,C,D,C,SMKA/Picture32.png
-F5 Chp 4,radio,Terengganu_Q28,A,B,C,D,A,Terengganu/Picture28.png
-F5 Chp 4,radio,Terengganu_Q29,A,B,C,D,B,Terengganu/Picture29.png
-F5 Chp 4,radio,Terengganu_Q30,A,B,C,D,B,Terengganu/Picture30.png
-F5 Chp 4,radio,Terengganu_Q31,A,B,C,D,D,Terengganu/Picture31.png
-F5 Chp 4,radio,Terengganu_Q32,A,B,C,D,D,Terengganu/Picture32.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,A,Johor Set 1/Picture28.png,"中文：现金控制保护资金及确保现金充足，不直接保证利润最大化。
+Bahasa Melayu: Kawalan tunai melindungi wang dan memastikan kecukupan tunai, bukan menjamin keuntungan maksimum."
+F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,B,Johor Set 1/Picture29.png,"中文：从现金簿余额推算银行结单余额，未兑现客户支票应作为不兑现支票扣除。
+Bahasa Melayu: Cek tak laku ditolak apabila bermula dengan baki Buku Tunai untuk mendapatkan baki Penyata Bank."
+F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,D,Johor Set 1/Picture30.png,"中文：现金预算的预测付款超过预测收款时出现短缺，不是实际收支报表。
+Bahasa Melayu: Kurangan Belanjawan Tunai berlaku apabila anggaran pembayaran melebihi anggaran penerimaan."
+F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,C,Johor Set 1/Picture31.png,"中文：合伙人工资及资本利息贷记往来账户；固定资本另记资本账户。
+Bahasa Melayu: Gaji pekongsi dan faedah atas modal dicatat dalam Akaun Semasa, iaitu II dan III."
+F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,D,Johor Set 1/Picture32.png,"中文：债务 RM9,800 只付 RM9,050，差额 RM750 是获得折扣，贷记变现账户。
+Bahasa Melayu: Diskaun diterima = hutang RM9,800 − bayaran RM9,050 = RM750, dikreditkan ke Realisasi."
+F5 Chp 4,radio,JohorSet_Q28,A,B,C,D,D,Johor Set 2/Picture28.png,"中文：现金控制确保资金流量足以支付日常支出，不等同于保证盈利。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk pembayaran perniagaan."
+F5 Chp 4,radio,JohorSet_Q29,A,B,C,D,A,Johor Set 2/Picture29.png,"中文：Aniq 付款企业已收、银行未入账，是未入账存款；付给 Fikri 的支票未兑换，是未兑付支票。
+Bahasa Melayu: Aniq ialah deposit belum dikreditkan; cek kepada Fikri ialah cek belum dikemukakan."
+F5 Chp 4,radio,JohorSet_Q30,A,B,C,D,B,Johor Set 2/Picture30.png,"中文：现金预算盈余或短缺 = 总收款 − 总付款，不能混用应计收入与费用。
+Bahasa Melayu: Lebihan atau kurangan Belanjawan Tunai = jumlah penerimaan − jumlah pembayaran."
+F5 Chp 4,radio,JohorSet_Q31,A,B,C,D,B,Johor Set 2/Picture31.png,"中文：没有合伙协议时，本题按课本要求参照 Akta Perkongsian 1961 的默认规定。
+Bahasa Melayu: Tanpa Ikatan Perjanjian Perkongsian, soalan ini merujuk peraturan Akta Perkongsian 1961 yang dipelajari."
+F5 Chp 4,radio,JohorSet_Q32,A,B,C,D,A,Johor Set 2/Picture32.png,"中文：变现资产账面值 = 136,000−16,000 = 120,000；损失10,000，偿债折扣3,000，费用2,400；净亏 RM9,400。
+Bahasa Melayu: Rugi realisasi = (RM120,000−RM110,000) − diskaun hutang RM3,000 + belanja RM2,400 = RM9,400."
+F5 Chp 4,radio,Kedah_Q28,A,B,C,D,C,Kedah/Picture28.png,"中文：贷款分期还款涉及实际现金流出；折旧和坏账准备没有现金支付。
+Bahasa Melayu: Ansuran pinjaman ialah pembayaran tunai; susut nilai dan peruntukan hutang ragu tidak melibatkan aliran tunai."
+F5 Chp 4,radio,Kedah_Q29,A,B,C,D,B,Kedah/Picture29.png,"中文：合伙人往来账户借方记录提款等扣减，贷方记录分配利润等增加，因此 P 为提款、Q 为利润分配。
+Bahasa Melayu: Akaun Semasa mendebit ambilan dan mengkredit kongsi untung; maka P ialah Ambilan dan Q ialah Kongsi untung."
+F5 Chp 4,radio,Kedah_Q30,A,B,C,D,D,Kedah/Picture30.png,"中文：合伙人贷款利息是企业费用，先记入损益账户；不是利润分配账户的分配项目。
+Bahasa Melayu: Faedah pinjaman pekongsi ialah belanja dalam Akaun Untung Rugi, bukan item Akaun Pengasingan Untung Rugi."
+F5 Chp 4,radio,Kedah_Q31,A,B,C,D,C,Kedah/Picture31.png,"中文：变现亏损 = (12,500 + 25,000 + 4,350 + 450) − (20,000 + 7,700 + 500) = 14,100；Sari分1/3，即亏RM4,700。
+Bahasa Melayu: Rugi realisasi = (12,500 + 25,000 + 4,350 + 450) − (20,000 + 7,700 + 500) = 14,100. Bahagian Sari 1/3 = rugi RM4,700."
+F5 Chp 4,radio,Kedah_Q32,A,B,C,D,C,Kedah/Picture32.png,"中文：先结束非现金资产账户，再偿还债务，向合伙人结清余额，最后向SSM取消注册：II、I、IV、III。
+Bahasa Melayu: Tutup akaun aset bukan tunai, jelaskan hutang, bayar baki pekongsi, kemudian batalkan pendaftaran SSM: II, I, IV, III."
+F5 Chp 4,radio,Kelantan_Q28,A,B,C,D,B,Kelantan/Picture28.png,"中文：没有协议时，资本不计利息，利润或亏损平均分配，符合 I 与 IV。
+Bahasa Melayu: Tanpa perjanjian, faedah atas modal tidak dibayar dan untung atau rugi dibahagi sama rata: I dan IV."
+F5 Chp 4,radio,Kelantan_Q29,A,B,C,D,D,Kelantan/Picture29.png,"中文：可分配利润 = 净利 + 提款利息 − 资本利息；提款本金不进入利润分配账户。
+Bahasa Melayu: Untung boleh dibahagi = untung bersih + faedah ambilan − faedah modal; ambilan pokok tidak masuk akaun pengasingan."
+F5 Chp 4,radio,Kelantan_Q30,A,B,C,D,A,Kelantan/Picture30.png,"中文：往来账户借方余额表示合伙人欠企业；贷方余额表示企业欠合伙人。
+Bahasa Melayu: Baki debit Akaun Semasa ialah tuntutan perkongsian terhadap pekongsi; baki kredit ialah tuntutan pekongsi terhadap perkongsian."
+F5 Chp 4,radio,Kelantan_Q31,A,B,C,D,C,Kelantan/Picture31.png,"中文：解散时出售资产收到款项：借记银行、贷记变现账户。
+Bahasa Melayu: Wang jualan aset semasa pembubaran direkod debit Bank dan kredit Realisasi."
+F5 Chp 4,radio,Kelantan_Q32,A,B,C,D,C,Kelantan/Picture32.png,"中文：普通股具有投票权，股息率不固定，也没有累积拖欠股息权。
+Bahasa Melayu: Syer biasa berhak mengundi, dividennya tidak tetap dan tidak menerima tunggakan dividen."
+F5 Chp 4,radio,Kl_Q28,A,B,C,D,B,KL/Picture28.png,"中文：往来账户贷方余额 = 2,620 + 350 − 30 − 390 = RM2,550。
+Bahasa Melayu: Baki kredit Akaun Semasa = 2,620 + 350 − 30 − 390 = RM2,550."
+F5 Chp 4,radio,Kl_Q29,A,B,C,D,A,KL/Picture29.png,"中文：变现利润1,650，Q占3/5，因此 Y = 1,650 × 3/5 = RM990利润。
+Bahasa Melayu: Untung realisasi 1,650; bahagian Q ialah 3/5 × 1,650 = untung RM990."
+F5 Chp 4,radio,Kl_Q30,A,B,C,D,C,KL/Picture30.png,"中文：解散出售产业收到25,000，借记银行、贷记变现账户。
+Bahasa Melayu: Premis dijual semasa pembubaran: debit Bank dan kredit Realisasi RM25,000."
+F5 Chp 4,radio,Kl_Q31,A,B,C,D,A,KL/Picture31.png,"中文：缴足资本 = 250,000股 × RM1 × 1/2 = RM125,000。
+Bahasa Melayu: Modal berbayar = 250,000 unit × RM1 × 1/2 = RM125,000."
+F5 Chp 4,radio,Kl_Q32,A,B,C,D,C,KL/Picture32.png,"中文：财务状况表列已发行股本；未发行授权资本不表示实际筹得的资本。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan modal diterbitkan, bukannya modal belum diterbitkan."
+F5 Chp 4,radio,Melaka_Q28,A,B,C,D,D,Melaka/Picture28.png,"中文：收款 = 5,428 + 6,840 − 480 − 3,862 = RM7,926；坏账准备不是应收账款控制账户付款。
+Bahasa Melayu: Kutipan = 5,428 + 6,840 − 480 − 3,862 = RM7,926; PHR bukan item pengurangan dalam akaun kawalan."
+F5 Chp 4,radio,Melaka_Q29,A,B,C,D,C,Melaka/Picture29.png,"中文：提款利息记利润分配账户贷方，资本利息记借方。因此概念对应 D，现有答案 C 待确认。
+Bahasa Melayu: Faedah ambilan dikreditkan dalam akaun pengasingan; faedah modal didebitkan. Konsep memberi D, tetapi kunci sedia ada C perlu disahkan."
+F5 Chp 4,radio,Melaka_Q30,A,B,C,D,B,Melaka/Picture30.png,"中文：变现结果 = 27,000 − 35,000 − 600 = 亏RM8,600，应为 D。现有 B 把同金额标成盈利，待确认。
+Bahasa Melayu: Hasil realisasi = 27,000 − 35,000 − 600 = rugi RM8,600, pilihan D. Kunci B menyatakan untung dan perlu disahkan."
+F5 Chp 4,radio,Melaka_Q31,A,B,C,D,D,Melaka/Picture31.png,"中文：指定建球场的捐款属于资本收入，增加累计基金。
+Bahasa Melayu: Derma khas membina gelanggang ialah penerimaan modal yang menambah dana terkumpul."
+F5 Chp 4,radio,Melaka_Q32,A,B,C,D,D,Melaka/Picture32.png,"中文：退还超额认购款：借记普通股申请账户、贷记银行RM200,000。
+Bahasa Melayu: Pulangan lebihan langganan: debit Permohonan Syer Biasa, kredit Bank RM200,000."
+F5 Chp 4,radio,Mrsm_Q28,A,B,C,D,D,MRSM/Picture28.png,"中文：未兑现支票已记现金簿，但银行尚未扣账，因此仅现金簿有记录。
+Bahasa Melayu: Cek belum dikemukakan sudah dicatat dalam Buku Tunai tetapi belum didebitkan oleh bank."
+F5 Chp 4,radio,Mrsm_Q29,A,B,C,D,A,MRSM/Picture29.png,"中文：1月现金收入 = 银行资本50,000 + 现金销售7,000 × 60% = RM54,200；车辆非现金。
+Bahasa Melayu: Penerimaan Januari = modal tunai 50,000 + jualan tunai 7,000 × 60% = RM54,200; kenderaan bukan tunai."
+F5 Chp 4,radio,Mrsm_Q30,A,B,C,D,C,MRSM/Picture30.png,"中文：Nuha余额15,000 + 9,000 − 3,000 = 21,000；Nisa余额5,000 + 3,000 − 2,000 = 6,000，均贷方。
+Bahasa Melayu: Nuha: 15,000 + 9,000 − 3,000 = 21,000; Nisa: 5,000 + 3,000 − 2,000 = 6,000, kedua-duanya baki kredit."
+F5 Chp 4,radio,Mrsm_Q31,A,B,C,D,B,MRSM/Picture31.png,"中文：家具等非现金资产账面值转入变现账户；银行、资本及往来账户不转入。
+Bahasa Melayu: Aset bukan tunai seperti perabot dipindahkan ke Realisasi; Bank, Modal dan Semasa tidak dipindahkan."
+F5 Chp 4,radio,Mrsm_Q32,A,B,C,D,B,MRSM/Picture32.png,"中文：公司成立顺序：查名申请、提交注册文件、支付注册费、取得成立通知。
+Bahasa Melayu: Urutan penubuhan: carian nama, serah permohonan pemerbadanan, bayar fi, terima Notis Pemerbadanan."
+F5 Chp 4,radio,NegeriSembilan_Q28,A,B,C,D,A,Negeri Sembilan/Picture28.png,"中文：没有合伙协议时，利润或亏损按人数平均分配，而不是资本比例。
+Bahasa Melayu: Tanpa perjanjian, untung atau rugi dibahagi sama rata, bukannya menurut nisbah modal."
+F5 Chp 4,radio,NegeriSembilan_Q29,A,B,C,D,C,Negeri Sembilan/Picture29.png,"中文：单次或暂时亏损不会自动导致解散；破产、法院命令和合伙人死亡可构成解散原因。
+Bahasa Melayu: Kerugian semata-mata tidak membubarkan perkongsian secara automatik; muflis, perintah mahkamah dan kematian boleh menjadi sebab."
+F5 Chp 4,radio,NegeriSembilan_Q30,A,B,C,D,A,Negeri Sembilan/Picture30.png,"中文：Zahar于6月底提款，到年末计6个月：1,500 × 10% × 6/12 = RM75。
+Bahasa Melayu: Ambilan Zahar pada akhir Jun dikenakan faedah enam bulan: 1,500 × 10% × 6/12 = RM75."
+F5 Chp 4,radio,NegeriSembilan_Q31,A,B,C,D,C,Negeri Sembilan/Picture31.png,"中文：合伙人接收资产：借记Adam资本80,000、贷记变现80,000，减少应付给他的资本。
+Bahasa Melayu: Aset diambil alih pekongsi: debit Modal Adam 80,000 dan kredit Realisasi 80,000."
+F5 Chp 4,radio,NegeriSembilan_Q32,A,B,C,D,D,Negeri Sembilan/Picture32.png,"中文：私人有限公司股份不得自由转让，也不能在Bursa Malaysia上市。
+Bahasa Melayu: Syer syarikat sendirian berhad tidak boleh dipindah milik secara bebas atau disenaraikan di Bursa Malaysia."
+F5 Chp 4,radio,Pahang_Q28,A,B,C,D,B,Pahang/Picture28.png,"中文：Aisyah资本回报48%高于35%，按投资回报可较吸引投资者；不代表其周转和偿债也最佳。
+Bahasa Melayu: Pulangan modal Aisyah 48% melebihi 35%, lebih menarik dari segi pulangan pelaburan; kecekapan dan kecairannya tidak semestinya lebih baik."
+F5 Chp 4,radio,Pahang_Q29,A,B,C,D,A,Pahang/Picture29.png,"中文：总资产减总负债等于业主权益，即资本，不是仅流动项目的营运资本。
+Bahasa Melayu: Jumlah aset − jumlah liabiliti = ekuiti pemilik atau modal, bukan modal kerja."
+F5 Chp 4,radio,Pahang_Q30,A,B,C,D,D,Pahang/Picture30.png,"中文：赊购 = 期末应付5,800 + 已付4,200 + 退购500 − 期初3,200 = RM7,300。
+Bahasa Melayu: Belian kredit = ABB akhir 5,800 + bayaran 4,200 + pulangan 500 − ABB awal 3,200 = RM7,300."
+F5 Chp 4,radio,Pahang_Q31,A,B,C,D,D,Pahang/Picture31.png,"中文：Alysa支票04104在现金簿已付，银行单尚未出现，为未兑现支票。
+Bahasa Melayu: Cek Alysa 04104 ada dalam Buku Tunai tetapi belum dalam Penyata Bank, maka belum dikemukakan."
+F5 Chp 4,radio,Pahang_Q32,A,B,C,D,D,Pahang/Picture32.png,"中文：由银行透支−9,000出发，加未入存款3,000、减未兑支票800，现金簿仍透支−6,800，应为贷方。现表5,200及答案D的Y借方不符合这些数据，待核对。
+Bahasa Melayu: Overdraf bank −9,000 + deposit 3,000 − cek 800 memberi Buku Tunai kredit −6,800. Angka 5,200 dan Y debit dalam D tidak sepadan; perlu disemak."
+F5 Chp 4,radio,PenangPpdBaratDaya_Q28,A,B,C,D,B,Penang PPD Barat Daya/Picture28.png,"中文：销货成本 = 60,000 × 75% = 45,000；平均存货 = (3,500 + 4,000) ÷ 2 = 3,750；周转率 = 45,000 ÷ 3,750 = 12 次。
+Bahasa Melayu: Kos jualan = 60,000 × 75% = 45,000; inventori purata = (3,500 + 4,000) ÷ 2 = 3,750; kadar pusing ganti = 45,000 ÷ 3,750 = 12 kali."
+F5 Chp 4,radio,PenangPpdBaratDaya_Q29,A,B,C,D,D,Penang PPD Barat Daya/Picture29.png,"中文：Saida 流动比率 2.5:1 高于 Aisyah 的 1.8:1，表示其流动资产相对短期债务更充足。
+Bahasa Melayu: Nisbah semasa Saida 2.5:1 melebihi 1.8:1, menunjukkan keupayaan membayar hutang jangka pendek yang lebih tinggi."
+F5 Chp 4,radio,PenangPpdBaratDaya_Q30,A,B,C,D,B,Penang PPD Barat Daya/Picture30.png,"中文：资本 = (11,900 + 3,200 + 4,100 + 1,700) − (8,600 + 应付杂费 110) = RM12,190；应付杂费属于负债。
+Bahasa Melayu: Modal = (11,900 + 3,200 + 4,100 + 1,700) − (8,600 + kadar bayaran belum bayar 110) = RM12,190; kadar bayaran belum bayar ialah liabiliti."
+F5 Chp 4,radio,PenangPpdBaratDaya_Q31,A,B,C,D,A,Penang PPD Barat Daya/Picture31.png,"中文：只保存应收、应付账户或只记现金簿，未完成整个复式系统，都会形成不完整记录。
+Bahasa Melayu: Menyimpan akaun penghutang dan pemiutang sahaja atau merekod Buku Tunai sahaja menyebabkan rekod tak lengkap."
+F5 Chp 4,radio,PenangPpdBaratDaya_Q32,A,B,C,D,B,Penang PPD Barat Daya/Picture32.png,"中文：保管现金与记录现金由不同职员负责，形成职责分工，减少挪用及掩盖现金舞弊的机会。
+Bahasa Melayu: Pengasingan tugas antara penjagaan tunai dan pencatatan Buku Tunai mengurangkan risiko penyalahgunaan tunai."
+F5 Chp 4,radio,Perak_Q28,A,B,C,D,C,Perak/Picture28.png,"中文：五月支付四月赊购和五月现金购货：64,000 × 70% + 70,000 × 30% = RM65,800。
+Bahasa Melayu: Bayaran Mei = belian kredit April + belian tunai Mei = 64,000 × 70% + 70,000 × 30% = RM65,800."
+F5 Chp 4,radio,Perak_Q29,A,B,C,D,C,Perak/Picture29.png,"中文：现有答案 C（II、III）疑有笔误：资本利息记往来账户贷方，但合伙人资本应记资本账户；提款及提款利息则在往来账户借方。若 III 原意是合伙人工资，C 才成立。
+Bahasa Melayu: Jawapan sedia ada C (II, III) mungkin melibatkan salah cetak: faedah atas modal dikreditkan ke Akaun Semasa tetapi modal pekongsi direkod dalam Akaun Modal. Ambilan dan faedah atas ambilan didebitkan. C sesuai jika III sepatutnya gaji pekongsi."
+F5 Chp 4,radio,Perak_Q30,A,B,C,D,A,Perak/Picture30.png,"中文：Melati 往来账户是借方余额，须从权益扣除；净往来余额 = 6,440 − 1,250 = RM5,190，另加资本 RM100,000。
+Bahasa Melayu: Baki debit Akaun Semasa Melati ditolak daripada ekuiti; baki semasa bersih = 6,440 − 1,250 = RM5,190, ditambah modal RM100,000."
+F5 Chp 4,radio,Perak_Q31,A,B,C,D,C,Perak/Picture31.png,"中文：合伙人破产可导致合伙解散；合伙人的家属去世本身不是此原因。
+Bahasa Melayu: Kebankrapan seorang pekongsi boleh menyebabkan pembubaran perkongsian; kematian ahli keluarga bukan sebab tersebut."
+F5 Chp 4,radio,Perak_Q32,A,B,C,D,A,Perak/Picture32.png,"中文：待变现资产账面值 = 126,840 − 10,200 = 116,640；变现损失 = 116,640 + 1,600 − 103,000 = RM15,240。
+Bahasa Melayu: Nilai buku aset direalisasi = 126,840 − 10,200 = 116,640; rugi realisasi = 116,640 + 1,600 − 103,000 = RM15,240."
+F5 Chp 4,radio,Perlis_Q28,A,B,C,D,D,Perlis/Picture28.png,"中文：投入资本和存款利息增加现金，是现金预算的收款；水电费与贷款利息是付款。
+Bahasa Melayu: Modal dan faedah simpanan ialah penerimaan Belanjawan Tunai; utiliti dan faedah pinjaman ialah pembayaran."
+F5 Chp 4,radio,Perlis_Q29,A,B,C,D,D,Perlis/Picture29.png,"中文：没有合伙协议时，合伙利润或亏损平均分配，不按资本比例分配。
+Bahasa Melayu: Tanpa ikatan perkongsian, untung atau rugi dibahagi sama rata antara pekongsi."
+F5 Chp 4,radio,Perlis_Q30,A,B,C,D,A,Perlis/Picture30.png,"中文：全年贷款利息 = 25,000 × 5% = RM1,250；已付 RM200 后，未付 RM1,050 贷记合伙人往来账户。
+Bahasa Melayu: Faedah pinjaman setahun = 25,000 × 5% = RM1,250; baki belum dibayar 1,250 − 200 = RM1,050 dikreditkan ke Akaun Semasa."
+F5 Chp 4,radio,Perlis_Q31,A,B,C,D,D,Perlis/Picture31.png,"中文：解散时合伙人接收电脑，借记 Kamelia 资本 RM3,500、贷记变现账户 RM3,500。
+Bahasa Melayu: Pengambilalihan komputer oleh pekongsi: debit Modal Kamelia RM3,500 dan kredit Realisasi RM3,500."
+F5 Chp 4,radio,Perlis_Q32,A,B,C,D,D,Perlis/Picture32.png,"中文：普通股股东有权投票选举董事；普通股股息并非固定，且在优先股之后支付。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi untuk melantik pengarah; dividennya tidak tetap dan dibayar selepas syer keutamaan."
+F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,C,Selangor Set 1/Picture28.png,"中文：提款利息是向合伙人收取的费用，减少其权益，借记合伙人往来账户。
+Bahasa Melayu: Faedah atas ambilan mengurangkan hak pekongsi dan didebitkan dalam Akaun Semasa pekongsi."
+F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 1/Picture29.png,"中文：用私人现金装修相当于增加资本；利息 = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600。
+Bahasa Melayu: Tunai peribadi untuk ubah suai ialah modal tambahan; faedah = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600."
+F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,B,Selangor Set 1/Picture30.png,"中文：两位合伙人的往来账户均为借方余额，合计 RM3,500 从资本 RM80,000 扣除。
+Bahasa Melayu: Kedua-dua Akaun Semasa berbaki debit; jumlah RM3,500 ditolak daripada modal RM80,000 dalam ekuiti pemilik."
+F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,A,Selangor Set 1/Picture31.png,"中文：变现利润 = 售价 86,000 − 资产账面值 73,000 − 变现费用 1,900 = RM11,100；按账面值偿债不会产生额外盈亏。
+Bahasa Melayu: Untung realisasi = 86,000 − 73,000 − 1,900 = RM11,100; pembayaran liabiliti pada nilai bukunya tidak menghasilkan untung atau rugi tambahan."
+F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,D,Selangor Set 1/Picture32.png,"中文：优先股一般没有权在股东大会投票选举董事，这是其权利上的限制。
+Bahasa Melayu: Pemegang syer keutamaan lazimnya tidak berhak mengundi untuk memilih Lembaga Pengarah."
+F5 Chp 4,radio,SelangorSet_Q28,A,B,C,D,B,Selangor Set 2/Picture28.png,"中文：全年合伙人工资 RM12,000，其中 RM5,000 已支付；尚未取得 RM7,000 贷记 Nini 往来账户。
+Bahasa Melayu: Gaji belum diambil = 12,000 − 5,000 = RM7,000 dan dikreditkan ke Akaun Semasa Nini."
+F5 Chp 4,radio,SelangorSet_Q29,A,B,C,D,C,Selangor Set 2/Picture29.png,"中文：资本比与资本利息比均为 4,000:2,000 = 2:1；剩余利润 = 24,000 − 4,000 − 2,000 − 6,000 = 12,000；Sya 分得 RM8,000。
+Bahasa Melayu: Nisbah modal 2:1; baki untung = 24,000 − 4,000 − 2,000 − 6,000 = RM12,000; kongsi untung Sya = 12,000 × 2/3 = RM8,000."
+F5 Chp 4,radio,SelangorSet_Q30,A,B,C,D,D,Selangor Set 2/Picture30.png,"中文：提款及提款利息减少合伙人权益，列在往来账户借方；资本利息在贷方。
+Bahasa Melayu: Ambilan dan faedah atas ambilan didebitkan dalam Akaun Semasa kerana mengurangkan hak pekongsi; faedah atas modal dikreditkan."
+F5 Chp 4,radio,SelangorSet_Q31,A,B,C,D,D,Selangor Set 2/Picture31.png,"中文：解散时供应商给予折扣，借记应付账款减少债务，贷记变现账户确认收益。
+Bahasa Melayu: Diskaun daripada pemiutang semasa pembubaran: debit Akaun Belum Bayar dan kredit Realisasi."
+F5 Chp 4,radio,SelangorSet_Q32,A,B,C,D,C,Selangor Set 2/Picture32.png,"中文：收到认购款 RM400,000，借记银行、贷记优先股认购申请账户，金额用实际收款总额。
+Bahasa Melayu: Penerimaan wang permohonan RM400,000 direkod dengan debit Bank dan kredit Permohonan Syer Keutamaan."
+F5 Chp 4,radio,Smka_Q28,A,B,C,D,A,SMKA/Picture28.png,"中文：实际收款高于预算，是有利的收款差异，符合选项 A；选项 D 语意其实相同，题目存在重复选项。
+Bahasa Melayu: Penerimaan sebenar melebihi belanjawan ialah prestasi memuaskan seperti A; pilihan D mempunyai maksud yang sama dan merupakan pilihan berulang."
+F5 Chp 4,radio,Smka_Q29,A,B,C,D,C,SMKA/Picture29.png,"中文：没有合伙协议时，参考 Akta Perkongsian 1961 的默认规则。
+Bahasa Melayu: Jika tiada ikatan perkongsian, peraturan Akta Perkongsian 1961 digunakan."
+F5 Chp 4,radio,Smka_Q30,A,B,C,D,B,SMKA/Picture30.png,"中文：可分利润 = 50,000 + 提款利息 500 − 资本利息 14,000 = 36,500；两人平均各得 RM18,250。
+Bahasa Melayu: Baki untung = 50,000 + 500 − 14,000 = RM36,500; setiap pekongsi mendapat 36,500 ÷ 2 = RM18,250."
+F5 Chp 4,radio,Smka_Q31,A,B,C,D,A,SMKA/Picture31.png,"中文：变现损失 = 资产账面值 45,000 + 费用 850 − 售价 42,000 = RM3,850；按原值偿还负债不影响变现盈亏。
+Bahasa Melayu: Rugi realisasi = 45,000 + 850 − 42,000 = RM3,850; liabiliti yang dijelaskan pada nilai buku tidak mengubah untung rugi realisasi."
+F5 Chp 4,radio,Smka_Q32,A,B,C,D,C,SMKA/Picture32.png,"中文：有限公司是独立法人，法律上与股东分离，因此股东和企业不是同一个法律实体。
+Bahasa Melayu: Syarikat ialah entiti undang-undang yang berasingan daripada pemilik atau pemegang syer."
+F5 Chp 4,radio,Terengganu_Q28,A,B,C,D,A,Terengganu/Picture28.png,"中文：分析法至少需要应收、应付记录，期初期末现金银行余额，以及收付现金簿，用来重建赊销、赊购及费用。
+Bahasa Melayu: Kaedah analisis sekurang-kurangnya memerlukan rekod penghutang dan pemiutang, baki tunai serta bank awal dan akhir, dan Buku Tunai penerimaan serta pembayaran."
+F5 Chp 4,radio,Terengganu_Q29,A,B,C,D,B,Terengganu/Picture29.png,"中文：银行调节表由商家编制，说明现金簿与银行账单余额差异并加以调节。
+Bahasa Melayu: Penyata Penyesuaian Bank disediakan oleh peniaga untuk menyelaraskan baki Buku Tunai dengan Penyata Bank."
+F5 Chp 4,radio,Terengganu_Q30,A,B,C,D,B,Terengganu/Picture30.png,"中文：现金预算预测收付款、现金盈余或短缺及期末现金余额；它不直接计算会计利润。
+Bahasa Melayu: Belanjawan Tunai menganggarkan penerimaan, pembayaran, lebihan atau kurangan tunai serta baki akhir, bukannya untung perakaunan."
+F5 Chp 4,radio,Terengganu_Q31,A,B,C,D,D,Terengganu/Picture31.png,"中文：全年工资 = 1,500 × 12 = RM18,000，借记利润分配账户；已付 9,000 + 3,400 = 12,400，未取得 RM5,600 贷记 Soo 往来账户。
+Bahasa Melayu: Gaji tahunan RM18,000 didebitkan ke Pengasingan Untung Rugi; gaji belum diambil = 18,000 − 9,000 − 3,400 = RM5,600 dikreditkan ke Akaun Semasa Soo."
+F5 Chp 4,radio,Terengganu_Q32,A,B,C,D,D,Terengganu/Picture32.png,"中文：合伙企业权益部分列合伙人的资本账户与往来账户；提款及亏损已反映在有关账户余额。
+Bahasa Melayu: Ekuiti pemilik perkongsian menyenaraikan Akaun Modal dan Akaun Semasa pekongsi; ambilan serta rugi telah diambil kira dalam baki akaun."

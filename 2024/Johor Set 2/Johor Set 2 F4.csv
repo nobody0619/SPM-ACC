@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 2 F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：Luca Pacioli 著作中介绍双重记录规则，被课本称为会计之父。
+Bahasa Melayu: Luca Pacioli menerangkan peraturan catatan bergu dalam bukunya dan dikenali sebagai Bapa Perakaunan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：调查成本 RM500 超过可追回的 RM250，体现成本效益概念。
+Bahasa Melayu: Kos siasatan RM500 melebihi manfaat RM250; konsep kos manfaat digunakan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：合作社成员承担有限责任，因此“无限责任”不是其特点。
+Bahasa Melayu: Koperasi mempunyai liabiliti terhad, maka liabiliti tidak terhad bukan cirinya."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：购货运费把货品运入企业，属于购货成本，纳入销货成本。
+Bahasa Melayu: Angkutan masuk ialah kos membawa barang niaga masuk dan termasuk dalam kos jualan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：业主用私人资金购入企业电脑，增加企业资产及资本，不增加企业负债。
+Bahasa Melayu: Komputer dibeli dengan wang peribadi menambah aset dan modal, tanpa pertambahan liabiliti perniagaan."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：按账户类别及编号设置编码，是账户图表系统 Sistem Carta Akaun。
+Bahasa Melayu: Pengelasan akaun dengan kod nombor merupakan Sistem Carta Akaun."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：银行代收股息后增加账户余额，并发出贷方通知 Makluman Kredit。
+Bahasa Melayu: Bank mengkreditkan dividen ke akaun dan mengeluarkan Makluman Kredit."
+,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：银行结单是交易汇总参考文件，属于非原始凭证。
+Bahasa Melayu: Penyata Bank ialah dokumen bukan sumber yang merumuskan urus niaga bank."
+,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：零星小额付款集中记录在现金备用金簿，方便分析及控制支出。
+Bahasa Melayu: Buku Tunai Runcit merekod dan mengawal pembayaran kecil atau runcit."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：供应商借项通知单增加赊购发票金额，应记录购货日记账。
+Bahasa Melayu: Nota debit pembekal menambah belian kredit, direkod dalam Jurnal Belian."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：现金购买家具及支票支付租金都涉及现金或银行；赊购资产及提取货品不属于现金簿交易。
+Bahasa Melayu: Belian perabot tunai dan bayaran sewa dengan cek melibatkan tunai/bank; I dan IV."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：购货及一般费用在期末结转，属名义账户；厂房及贷款不是。
+Bahasa Melayu: Belian dan belanja am ialah akaun nominal yang ditutup pada akhir tempoh; I dan IV."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：支付供应商减少欠款及银行余额：借记 Ikmal，贷记银行 RM700。
+Bahasa Melayu: Debit Syarikat Ikmal dan kredit Bank RM700 kerana hutang serta baki bank berkurang."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：赊销 = 81,020+3,720+7,750+2,020+14,810−15,250 = RM94,070。
+Bahasa Melayu: Jualan kredit melalui kawalan ABT = RM81,020+RM3,720+RM7,750+RM2,020+RM14,810−RM15,250 = RM94,070."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：试算表测试借贷总额是否相等，帮助检查双重记录；仍可能存在不影响平衡的错误。
+Bahasa Melayu: Imbangan Duga menguji keseimbangan catatan bergu, tetapi tidak mengesan semua kesilapan tidak ketara."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：期末存货结账：借记存货、贷记交易账户，降低本期销货成本。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir, mengurangkan kos jualan."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：可供销售货品成本包括期初存货、购货及购货附加费用，如进口税和购货保险，即 I、IV。
+Bahasa Melayu: Kos barang untuk dijual merangkumi inventori awal, belian dan kos belian seperti duti import atau insurans; I dan IV."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：销售贷方余额 RM12,200 以借记销售、贷记交易账户的方式结转。
+Bahasa Melayu: Debit Akaun Jualan dan kredit Perdagangan RM12,200 untuk menutup baki jualan."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：未收利息是应计收入及流动资产，属借方余额。
+Bahasa Melayu: Faedah belum terima ialah hasil terakru dan aset semasa berbaki debit."
+,radio,F4 Bab 9,A,B,C,D,D,Picture20.png,"中文：小工具重估折旧 = 期初420 + 购入530 − 期末350 = RM600。
+Bahasa Melayu: Susut nilai penilaian semula alatan kecil = RM420+RM530−RM350 = RM600."
+,radio,F4 Bab 9,A,B,C,D,C,Picture21.png,"中文：两年递减余额后账面值 = 18,000×90%×90% = RM14,580；售价10,000，出售亏损 RM4,580。
+Bahasa Melayu: Nilai buku RM18,000×90%×90% = RM14,580. Rugi pelupusan = RM14,580−RM10,000 = RM4,580."

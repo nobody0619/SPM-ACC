@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,D,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：会计循环先根据商业单据记入原始分录簿，再过账至分类账。
+Bahasa Melayu: Dokumen perniagaan direkod dalam Buku Catatan Pertama sebelum diposkan ke lejar."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：成本原则要求车辆按购入价 RM25,000 记录，不以目前市价 RM10,000 替代原始成本。
+Bahasa Melayu: Prinsip kos merekod van pada kos belian RM25,000, bukannya harga pasaran RM10,000."
+,radio,F4 Bab 2,A,B,C,D,C,Picture3.png,"中文：投入私人电脑增加资本；提款支付私人电费减少业主权益，所以 R 增、S 减。
+Bahasa Melayu: Komputer peribadi dibawa masuk menambah modal; ambilan untuk bil rumah mengurangkan ekuiti, maka R bertambah dan S berkurang."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：送货单和采购订单仅确认货物交付及订购，不直接作为记账来源单据。
+Bahasa Melayu: Nota serahan dan pesanan belian ialah dokumen bukan sumber kerana tidak menjadi asas terus catatan perakaunan."
+,radio,F4 Bab 2,A,B,C,D,A,Picture5.png,"中文：原始发票证明赊购商品；贷项通知单用于退货减债，支票存根证明付款。
+Bahasa Melayu: Invois asal membuktikan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan pembayaran."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：发出借项通知单 RM230 增加客户欠款，按课程记入销货日记簿。
+Bahasa Melayu: Nota debit yang dihantar kepada pelanggan menambah hutangnya, maka RM230 direkod dalam Jurnal Jualan."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：债务 RM2,600 以 RM2,500 支票结清，现金簿借方记银行 RM2,500、折扣给予 RM100。
+Bahasa Melayu: Debit Bank RM2,500 dan Diskaun Diberi RM100 kerana hutang RM2,600 dijelaskan melalui cek RM2,500."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：投入冷气机形成店铺装置资产：借记 Lekapan，贷记资本。
+Bahasa Melayu: Pendingin hawa yang dibawa masuk ialah lekapan: debit Lekapan dan kredit Modal."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：赊销 = 670 + 150 + 2,860 + 280 − 640 = RM3,320；已收回坏账 RM300 不属于现有客户欠款。
+Bahasa Melayu: Jualan kredit = 670 + 150 + 2,860 + 280 − 640 = RM3,320; hutang lapuk terpulih tidak dimasukkan dalam akaun penghutang semasa."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：期末数量 = 100 + 200 − 8 − 50 = 242 件；按每件 RM50，存货价值 = 242 × 50 = RM12,100。
+Bahasa Melayu: Kuantiti akhir = 100 + 200 − 8 − 50 = 242 unit; nilai inventori = 242 × RM50 = RM12,100."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：净销货 = 80,000 − 360 = 79,640；销货成本 = 14,600 + 32,000 − 230 + 380 − 24,500 = 22,250；毛利 RM57,390。
+Bahasa Melayu: Jualan bersih = 79,640; kos jualan = 14,600 + 32,000 − 230 + 380 − 24,500 = 22,250; untung kasar = RM57,390."
+,radio,F4 Bab 6,A,B,C,D,D,Picture12.png,"中文：财务状况表在特定日期列示资产、负债及业主权益，显示企业财务状况。
+Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pemilik pada sesuatu tarikh."
+,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：期末存货借记存货账户、贷记营业账户；结转后在下一期成为借方期初余额。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir; baki tersebut dibawa ke tempoh berikut sebagai baki debit."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：预付保险是资产，借记预付保险、贷记保险，以减少本期保险费用。
+Bahasa Melayu: Debit Insurans Prabayar dan kredit Insurans untuk mengasingkan aset prabayar daripada belanja semasa."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：新准备 = (30,500 − 800) × 5% = RM1,485；损益只记增加额 1,485 − 540 = RM945。
+Bahasa Melayu: Peruntukan baharu = (30,500 − 800) × 5% = RM1,485; pertambahan dicaj kepada untung rugi = 1,485 − 540 = RM945."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：旧累计折旧 = 72,800 − 58,240 = 14,560；本年折旧 = 58,240 × 20% = 11,648；累计 RM26,208。
+Bahasa Melayu: Susut nilai terkumpul awal = 14,560; susut nilai semasa = 58,240 × 20% = 11,648; jumlah terkumpul RM26,208."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：处置收益从处置账户转出：借记非流动资产处置账户，贷记处置收益账户。
+Bahasa Melayu: Debit Pelupusan Aset Bukan Semasa dan kredit Untung atas Pelupusan untuk memindahkan keuntungan pelupusan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：A 表示金额在其中一边记错，导致借贷不平衡；B、C 两边同样记错及 D 整笔遗漏仍保持平衡。
+Bahasa Melayu: A merujuk amaun tersalah pada satu catatan yang menjejaskan imbangan; kesilapan sama pada kedua-dua akaun atau ketinggalan lengkap tidak menjejaskannya."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：把客户 Harith 的交易记入另一个客户 Hadith 的账户，是相同类别账户的佣金错误。
+Bahasa Melayu: Kesilapan komisen berlaku apabila jualan kepada Harith direkod dalam akaun Hadith, iaitu akaun daripada kelas yang sama."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：维修费 RM1,600 原本误记车辆，须加回费用：3,280 + 1,600 = RM4,880，列损益借方。
+Bahasa Melayu: Belanja membaiki sebenar = 3,280 + 1,600 = RM4,880 dan direkod di sebelah debit Akaun Untung Rugi."
+,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：资本回报率 14.3% 表示每投入 RM1 资本赚取约 14.3 sen 净利，选项将其取约 14 sen。
+Bahasa Melayu: Pulangan atas modal 14.3% bermaksud setiap RM1 modal menghasilkan kira-kira 14.3 sen untung bersih, dibundarkan kepada 14 sen dalam pilihan."

@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-SMKA F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+SMKA F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：收账期 = 应收账款 11,400 ÷ 赊销 21,000 × 365 ≈ 199 天；不采用现金销货。
+Bahasa Melayu: Tempoh kutipan hutang = 11,400 ÷ jualan kredit 21,000 × 365 ≈ 199 hari; jualan tunai tidak digunakan."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：现有答案 B 指单式记账，符合不完整记录。题干却写“不采用不完整记录”，疑多了 tidak；若按字面，A、C、D 都可描述完整记录。
+Bahasa Melayu: Jawapan B ialah catatan tunggal yang berkaitan rekod tak lengkap. Perkataan tidak dalam frasa tidak mengamalkan rekod tak lengkap mungkin tersalah cetak; secara literal A, C dan D berkaitan rekod lengkap."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：比较法净利 = 期末资本 + 提款 − 额外资本 − 期初资本，所以 R 是提款。
+Bahasa Melayu: Untung bersih kaedah perbandingan = modal akhir + ambilan − modal tambahan − modal awal; R ialah ambilan."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：本年租金费用 = 付款 1,080 − 期初应付 560 + 期末应付 320 = RM840。
+Bahasa Melayu: Belanja sewa = 1,080 − 560 + 320 = RM840."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：现金控制通过保管、分工和核对防止现金遗失或被挪用。
+Bahasa Melayu: Sistem kawalan tunai mencegah kehilangan dan penyalahgunaan tunai melalui penjagaan serta semakan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture27.png,"中文：实际付款 RM950 却只记 RM905，现金簿少减 RM45，余额便比银行账单多 RM45。
+Bahasa Melayu: Bayaran terkurang catat sebanyak 950 − 905 = RM45 menyebabkan baki Buku Tunai terlebih nyata RM45."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：实际收款高于预算，是有利的收款差异，符合选项 A；选项 D 语意其实相同，题目存在重复选项。
+Bahasa Melayu: Penerimaan sebenar melebihi belanjawan ialah prestasi memuaskan seperti A; pilihan D mempunyai maksud yang sama dan merupakan pilihan berulang."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：没有合伙协议时，参考 Akta Perkongsian 1961 的默认规则。
+Bahasa Melayu: Jika tiada ikatan perkongsian, peraturan Akta Perkongsian 1961 digunakan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：可分利润 = 50,000 + 提款利息 500 − 资本利息 14,000 = 36,500；两人平均各得 RM18,250。
+Bahasa Melayu: Baki untung = 50,000 + 500 − 14,000 = RM36,500; setiap pekongsi mendapat 36,500 ÷ 2 = RM18,250."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：变现损失 = 资产账面值 45,000 + 费用 850 − 售价 42,000 = RM3,850；按原值偿还负债不影响变现盈亏。
+Bahasa Melayu: Rugi realisasi = 45,000 + 850 − 42,000 = RM3,850; liabiliti yang dijelaskan pada nilai buku tidak mengubah untung rugi realisasi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：有限公司是独立法人，法律上与股东分离，因此股东和企业不是同一个法律实体。
+Bahasa Melayu: Syarikat ialah entiti undang-undang yang berasingan daripada pemilik atau pemegang syer."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：普通股股息在优先股股息支付之后才分配；普通股一般有投票权，股息率也不固定。
+Bahasa Melayu: Dividen syer biasa dibayar selepas syer keutamaan; pemegangnya lazimnya mempunyai hak mengundi dan kadar dividen tidak tetap."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：按题目中期涵盖 1 月至 9 月计：1,500,000 × 2% × 9/12 = RM22,500，10 月 1 日宣布。
+Bahasa Melayu: Dividen interim bagi Januari hingga September = 1,500,000 × 2% × 9/12 = RM22,500, diisytiharkan pada 1 Oktober."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：定期会员会费是俱乐部最主要的资金来源。
+Bahasa Melayu: Yuran keahlian ialah sumber kewangan utama kelab."
+,radio,F5 Bab 6,A,B,C,D,C,Picture36.png,"中文：收款方 X 可是钓鱼比赛报名费；付款方 Y 可是保险，所以 C 配对正确。
+Bahasa Melayu: X ialah penerimaan yuran pertandingan memancing, manakala Y ialah pembayaran insurans; padanan C betul."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：食堂利润 = 78,500 − 43,500 + 12,200 − 4,500 = RM42,700；未售出的期末存货从成本扣除。
+Bahasa Melayu: Untung kafeteria = 78,500 − (43,500 − 12,200) − 4,500 = RM42,700."
+,radio,F5 Bab 7,A,B,C,D,D,Picture38.png,"中文：按产量或产品支付的版权费可直接归属生产，列为直接费用；机器折旧属间接费用。
+Bahasa Melayu: Hak cipta yang berkaitan terus dengan produk ialah belanja langsung; susut nilai mesin ialah overhed."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：制造成本包括直接成本与间接费用；工厂经理工资属于间接人工，因此 Z 是该工资。
+Bahasa Melayu: Kos pengeluaran merangkumi kos prima dan overhed; gaji pengurus kilang ialah overhed."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：盈亏平衡数量 = 固定成本 24,000 ÷（售价 6 − 变动成本 4）= 12,000 单位。
+Bahasa Melayu: Titik pulang modal = 24,000 ÷ (6 − 4) = 12,000 unit."

@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F5,radio,F5 Bab 1,A,B,C,D,B,Picture22.png,"中文：酸性测试比率评估不依赖存货变现即可迅速偿还短期债务的能力。
+Bahasa Melayu: Nisbah ujian asid mengukur keupayaan membayar hutang jangka pendek dengan segera tanpa bergantung pada penjualan inventori."
+,radio,F5 Bab 1,A,B,C,D,C,Picture23.png,"中文：资本报酬率比较投入资本所赚取的利润，适合评估投资表现。
+Bahasa Melayu: Pulangan atas modal membandingkan keuntungan dengan modal yang dilaburkan, sesuai untuk menilai pilihan pelaburan."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：期末资本 = 81,525 − 34,290 = RM47,235；期初资本 = 47,235 − 13,110 = RM34,125。
+Bahasa Melayu: Modal akhir = 81,525 − 34,290 = RM47,235. Modal awal = 47,235 − 13,110 = RM34,125."
+,radio,F5 Bab 2,A,B,C,D,A,Picture25.png,"中文：提款 = 期初资本 + 追加资本 + 净利 − 期末资本 = 42,000 + 6,000 + 15,000 − 60,000 = RM3,000。
+Bahasa Melayu: Ambilan = modal awal + modal tambahan + untung bersih − modal akhir = 42,000 + 6,000 + 15,000 − 60,000 = RM3,000."
+,radio,F5 Bab 2,A,B,C,D,D,Picture26.png,"中文：赊销 = 期末应收 + 收款 + 销货退回 − 期初应收 = 5,500 + 4,200 + 500 − 3,200 = RM7,000。
+Bahasa Melayu: Jualan kredit = ABT akhir + penerimaan pelanggan + pulangan masuk − ABT awal = 5,500 + 4,200 + 500 − 3,200 = RM7,000."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：银行调节表调节现金簿与银行结单余额；现金预算预测现金收入和付款。
+Bahasa Melayu: Penyata Penyesuaian Bank menyelaraskan baki Buku Tunai dengan Penyata Bank; Belanjawan Tunai menganggarkan penerimaan dan pembayaran tunai."
+,radio,F5 Bab 3,A,B,C,D,A,Picture28.png,"中文：实际付款 RM2,350 却贷记银行 RM3,250，多扣 RM900，须借记银行 RM900 补回。
+Bahasa Melayu: Bayaran sebenar RM2,350 direkod RM3,250, menyebabkan bank terlebih dikreditkan RM900; debit bank RM900 untuk pembetulan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：合伙人薪金和资本利息是利润分配项目，记利润分配账户借方；贷款利息属于损益费用。
+Bahasa Melayu: Gaji pekongsi dan faedah atas modal didebitkan dalam Akaun Pengasingan Untung Rugi; faedah pinjaman ialah belanja Akaun Untung Rugi."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：资本合计 RM80,000；往来账户净余额 = 2,850 − 550 = RM2,300；业主权益 RM82,300。
+Bahasa Melayu: Jumlah modal RM80,000; baki bersih Akaun Semasa = 2,850 − 550 = RM2,300. Ekuiti pemilik ialah RM82,300."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：Amy 按资本比例分利：64,500 × 40,000 ÷ (40,000 + 60,000) = RM25,800。
+Bahasa Melayu: Kongsi untung Amy mengikut nisbah modal = 64,500 × 40,000 ÷ (40,000 + 60,000) = RM25,800."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：存货变现亏损 30,000 − 20,000 = 10,000；应收亏损 8,000 − 5,600 = 2,400；再加费用 1,400，合计 RM13,800。银行余额不转入变现账户。
+Bahasa Melayu: Rugi inventori = 30,000 − 20,000 = 10,000; rugi ABT = 8,000 − 5,600 = 2,400. Tambah belanja 1,400, jumlah rugi realisasi RM13,800; baki bank tidak dipindahkan ke Akaun Realisasi."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：已发行及缴足股本 = 1,500,000 × RM1 + 1,000,000 × RM2 = RM3,500,000。
+Bahasa Melayu: Modal diterbitkan dan berbayar penuh = 1,500,000 × RM1 + 1,000,000 × RM2 = RM3,500,000."
+,radio,F5 Bab 5,A,B,C,D,C,Picture34.png,"中文：按每股 RM0.30 计算，普通股股息 = 600,000 × 0.30 = RM180,000。题目多写的 sen 应理解为30仙。
+Bahasa Melayu: Dividen syer biasa = 600,000 × RM0.30 = RM180,000. Perkataan sen selepas RM0.30 ialah kesilapan unit; maksudnya 30 sen sesyer."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：俱乐部及社团用收入与支出账户计算盈余或赤字，而非企业损益账户。
+Bahasa Melayu: Kelab dan persatuan menyediakan Akaun Pendapatan dan Perbelanjaan untuk menentukan lebihan atau kurangan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：本期会费收入 = 2,000 − 150 + 250 − 180 = RM1,920；扣期初欠收及期末预收，加期末欠收。
+Bahasa Melayu: Yuran semasa = 2,000 − 150 + 250 − 180 = RM1,920; tolak belum terima awal dan belum terperoleh akhir, tambah belum terima akhir."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：本月会费 = 已收 9,000 + 应收 1,500 − 预收 500 = RM10,000。
+Bahasa Melayu: Yuran bulan semasa = diterima 9,000 + belum terima 1,500 − belum terperoleh 500 = RM10,000."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：制造账户先算直接材料，再加直接人工及直接费用求主要成本。
+Bahasa Melayu: Dalam Akaun Pengeluaran, kos buruh langsung direkod selepas kos bahan langsung untuk mengira kos prima."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：盈亏平衡分析找出不盈不亏的生产或销售数量，帮助计划产量避免亏损。
+Bahasa Melayu: Analisis titik pulang modal menentukan tahap pengeluaran atau jualan tanpa untung dan rugi untuk merancang pengeluaran."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：利润 = 3,750 × (9 − 5) − 10,000 = RM5,000；单位贡献先弥补固定成本。
+Bahasa Melayu: Untung = 3,750 × (9 − 5) − 10,000 = RM5,000; sumbangan seunit digunakan untuk menampung kos tetap."

@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Johor Set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture20.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture21.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture26.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture33.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Johor Set 1 F5,radio,F5 Bab 1,A,B,C,D,A,Picture20.png,"中文：销货成本 = 98,200 − 56,800 = RM41,400；存货周转率 = 41,400 ÷ 2,000 = 20.70 次。
+Bahasa Melayu: Kos jualan = 98,200 − 56,800 = RM41,400; kadar pusing ganti inventori = 41,400 ÷ 2,000 = 20.70 kali."
+,radio,F5 Bab 2,A,B,C,D,C,Picture21.png,"中文：没有系统地保存原始凭证会导致记录不完整；不能确定利润或查错是后果。
+Bahasa Melayu: Dokumen yang tidak disimpan secara sistematik menyebabkan rekod tidak lengkap; kesukaran menentukan untung ialah kesannya."
+,radio,F5 Bab 2,A,B,C,D,B,Picture22.png,"中文：资本 = 资产 − 负债 = 55,500 − 15,500 = RM40,000，因此 P 为资产，Q 为负债。
+Bahasa Melayu: Modal = aset − liabiliti = 55,500 − 15,500 = RM40,000. P ialah aset dan Q ialah liabiliti."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：期末资本 = 8,000 + 17,250 + 34,610 + 450 − 9,200 − 850 = RM50,260；净利 = 50,260 + 4,000 − 37,090 = RM17,170。
+Bahasa Melayu: Modal akhir = 8,000 + 17,250 + 34,610 + 450 − 9,200 − 850 = RM50,260; untung bersih = 50,260 + 4,000 − 37,090 = RM17,170."
+,radio,F5 Bab 3,A,B,C,D,D,Picture24.png,"中文：现金控制确保现金流足以支付日常开支和债务，避免资金短缺。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila perlu."
+,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：支票实际为 RM1,270，现金簿误记 RM1,720，付款多记 RM450；应在银行栏借方补记 RM450。
+Bahasa Melayu: Bayaran sebenar RM1,270 tersalah catat RM1,720; kredit terlebih RM450 dibetulkan dengan debit bank RM450."
+,radio,F5 Bab 3,A,B,C,D,D,Picture26.png,"中文：出售打印机及定存利息产生现金流入；员工薪金和保险是现金流出，因此 III、IV 是收款。
+Bahasa Melayu: Jualan mesin pencetak dan faedah simpanan tetap ialah penerimaan; gaji dan insurans ialah pembayaran. III dan IV betul."
+,radio,F5 Bab 4,A,B,C,D,A,Picture27.png,"中文：按课本中的《1961 合伙法》默认规则，合伙人贷款利息为每年 8%。
+Bahasa Melayu: Menurut peruntukan Akta Perkongsian 1961 yang dipelajari, faedah pinjaman pekongsi ialah 8% setahun jika tiada perjanjian."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：可分利润 = 24,000 + 180 − 8,000 − 200 × 12 = RM13,780；平均分配后每人 RM6,890。
+Bahasa Melayu: Untung boleh agih = 24,000 + 180 − 8,000 − (200 × 12) = RM13,780; bahagian setiap pekongsi = RM6,890."
+,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：固定资本维持 RM20,000 和 RM15,000；Alya 往来账户 = 8,679 + 1,000 + 3,600 − 2,000 − 6,454 = 4,825；Danish = 7,453 + 750 − 3,227 = 4,976。
+Bahasa Melayu: Modal tetap kekal RM20,000 dan RM15,000. Akaun Semasa Alya = RM4,825 dan Danish = RM4,976 selepas faedah modal, gaji, bayaran dan rugi."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：变现亏损 = 资产账面值 23,000 − 变现收入 20,800 + 清算费用 360 = RM2,560；按账面偿还负债不另产生亏损。
+Bahasa Melayu: Rugi realisasi = 23,000 − 20,800 + 360 = RM2,560; pembayaran liabiliti pada nilai buku tidak menambah rugi realisasi."
+,radio,F5 Bab 5,A,B,C,D,A,Picture31.png,"中文：普通股股息随公司利润与董事决定而变，股息率不固定；优先股通常有固定股息率。
+Bahasa Melayu: Dividen syer biasa tidak tetap kerana bergantung pada keuntungan dan pengisytiharan syarikat."
+,radio,F5 Bab 5,A,B,C,D,B,Picture32.png,"中文：已发行资本 = 1,500,000 × RM1 + 1,500,000 × RM2 = RM4,500,000。
+Bahasa Melayu: Modal diterbitkan = 1,500,000 × RM1 + 1,500,000 × RM2 = RM4,500,000."
+,radio,F5 Bab 5,A,B,C,D,B,Picture33.png,"中文：普通股股息按股数计算：500,000 股 × RM0.25 = RM125,000，而不是按股本金额计算。
+Bahasa Melayu: Dividen syer biasa = 500,000 unit × RM0.25 = RM125,000; kadar sesyer didarab bilangan unit syer."
+,radio,F5 Bab 6,A,B,C,D,B,Picture34.png,"中文：期末现金 = 200 + 200 + 120 + 150 − 40 − 20 − 250 = RM360；购买家具也是本期现金付款。
+Bahasa Melayu: Baki akhir = 200 + 200 + 120 + 150 − 40 − 20 − 250 = RM360; pembelian perabot turut mengurangkan tunai."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：无法收回而注销的旧欠会费称为坏会费 Yuran Lapuk。
+Bahasa Melayu: Yuran tertunggak yang tidak dapat dikutip dan dihapuskan dikenali sebagai yuran lapuk."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：本期税费 = 已付 6,000 + 期末欠付 1,000 − 期初欠付 500 = RM6,500。
+Bahasa Melayu: Belanja kadar bayaran = 6,000 + 1,000 − 500 = RM6,500 mengikut asas akruan."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：累积基金从 RM12,000 增至 RM16,500，增加 RM4,500 为盈余；俱乐部使用 Lebihan 而非 Untung Bersih。
+Bahasa Melayu: Dana terkumpul meningkat daripada RM12,000 kepada RM16,500, maka S ialah lebihan RM4,500."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：生产成本由直接材料、直接人工、直接费用及间接费用组成，所以 M 为直接费用，N 为间接费用。
+Bahasa Melayu: Kos pengeluaran terdiri daripada bahan langsung, buruh langsung, belanja langsung dan overhed. M ialah belanja langsung dan N ialah kos overhed."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：生产成本 = 工人工资 10,300 + 原料 20,500 + 机器折旧 23,800 = RM54,600；制成品余额不另加入。
+Bahasa Melayu: Kos pengeluaran = 10,300 + 20,500 + 23,800 = RM54,600; barang siap tidak ditambah sebagai komponen kos pengeluaran."
+,radio,F5 Bab 7,A,B,C,D,B,Picture40.png,"中文：目标利润 = 5,000 × (22.50 − 5.50) − 25,000 = RM60,000。
+Bahasa Melayu: Untung sasaran = 5,000 × (22.50 − 5.50) − 25,000 = RM60,000."

@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 2 F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：以销货成本为分母比较毛利的是成本加成率 tokokan，而毛利率以销货额为分母。
+Bahasa Melayu: Tokokan membandingkan untung kasar dengan kos jualan; margin untung kasar menggunakan jualan sebagai penyebut."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：净利 = 20,780 + 550 − 10,500 − 5,000 = RM5,830。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 20,780 + 550 − 10,500 − 5,000 = RM5,830."
+,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：赊销 = 期末应收 4,578 + 收款 6,125 + 退货 230 − 期初应收 2,350 = RM8,583。
+Bahasa Melayu: Jualan kredit = 4,578 + 6,125 + 230 − 2,350 = RM8,583."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：现金内部控制通过监督、职责分工及核对，减少现金被挪用的风险。
+Bahasa Melayu: Kawalan tunai mengurangkan risiko penyelewengan melalui pengawasan, pengasingan tugas dan semakan."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：贷项转账由银行直接入账，企业尚未记录前会导致账单和现金簿余额不同，需更新现金簿。
+Bahasa Melayu: Pindahan kredit dicatat oleh bank terlebih dahulu dan perlu direkod dalam Buku Tunai untuk menyelaraskan baki."
+,radio,F5 Bab 3,A,B,C,D,A,Picture27.png,"中文：期末现金 = 3,000 + 92,000 + 75,000 − 80,000 = RM90,000；设备不是现金余额。
+Bahasa Melayu: Baki akhir = tunai 3,000 + bank 92,000 + penerimaan 75,000 − pembayaran 80,000 = RM90,000; peralatan bukan tunai."
+,radio,F5 Bab 4,A,B,C,D,B,Picture28.png,"中文：全年合伙人工资 RM12,000，其中 RM5,000 已支付；尚未取得 RM7,000 贷记 Nini 往来账户。
+Bahasa Melayu: Gaji belum diambil = 12,000 − 5,000 = RM7,000 dan dikreditkan ke Akaun Semasa Nini."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：资本比与资本利息比均为 4,000:2,000 = 2:1；剩余利润 = 24,000 − 4,000 − 2,000 − 6,000 = 12,000；Sya 分得 RM8,000。
+Bahasa Melayu: Nisbah modal 2:1; baki untung = 24,000 − 4,000 − 2,000 − 6,000 = RM12,000; kongsi untung Sya = 12,000 × 2/3 = RM8,000."
+,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：提款及提款利息减少合伙人权益，列在往来账户借方；资本利息在贷方。
+Bahasa Melayu: Ambilan dan faedah atas ambilan didebitkan dalam Akaun Semasa kerana mengurangkan hak pekongsi; faedah atas modal dikreditkan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：解散时供应商给予折扣，借记应付账款减少债务，贷记变现账户确认收益。
+Bahasa Melayu: Diskaun daripada pemiutang semasa pembubaran: debit Akaun Belum Bayar dan kredit Realisasi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：收到认购款 RM400,000，借记银行、贷记优先股认购申请账户，金额用实际收款总额。
+Bahasa Melayu: Penerimaan wang permohonan RM400,000 direkod dengan debit Bank dan kredit Permohonan Syer Keutamaan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：有限公司权益列示已发行并缴足股本，说明正式发行及已收到股款的资本金额。
+Bahasa Melayu: Ekuiti pemilik syarikat berhad menunjukkan modal diterbitkan dan berbayar penuh."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：普通股资本 = 100,000 × RM0.50 = RM50,000；股息率 = 10,000 ÷ 50,000 × 100% = 20%。
+Bahasa Melayu: Modal syer biasa = 100,000 × RM0.50 = RM50,000; kadar dividen = 10,000 ÷ 50,000 × 100% = 20%."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：俱乐部及协会的主要资金来源是会员会费，不是偶尔收取的比赛费。
+Bahasa Melayu: Yuran keahlian ialah sumber utama kewangan kelab dan persatuan, berbanding yuran pertandingan yang tidak tetap."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：手工艺活动利润 = 10,500 − (2,700 + 4,800 − 2,950) − 1,200 = RM4,750。
+Bahasa Melayu: Untung kraf tangan = 10,500 − (2,700 + 4,800 − 2,950) − 1,200 = RM4,750."
+,radio,F5 Bab 6,A,B,C,D,C,Picture37.png,"中文：本年会费收入 = 本年已收 9,750 + 期初预收 100 + 本年期末应收 250 = RM10,100；上年欠费及明年预收分开处理。
+Bahasa Melayu: Hasil yuran semasa = 9,750 + belum terperoleh awal 100 + belum terima akhir 250 = RM10,100; tunggakan lama dan pendahuluan tahun depan diasingkan."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：用于日常运营的捐款 RM5,000 列收支损益账户；买设备和装修的 RM30,000 属资本收入。
+Bahasa Melayu: Derma RM5,000 untuk operasi ialah pendapatan hasil; RM30,000 bagi peralatan dan pengubahsuaian ialah pendapatan modal."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：制造成本 = 直接成本 37,000 + 间接费用 24,600 + 期初在制品 2,700 − 期末在制品 1,800 = RM62,500。
+Bahasa Melayu: Kos pengeluaran = 37,000 + 24,600 + 2,700 − 1,800 = RM62,500."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：利润 = 10,000 × (4.50 − 3) − 10,000 = RM5,000，即总贡献减固定成本。
+Bahasa Melayu: Untung = 10,000 × (4.50 − 3) − 10,000 = RM5,000, iaitu jumlah sumbangan tolak kos tetap."

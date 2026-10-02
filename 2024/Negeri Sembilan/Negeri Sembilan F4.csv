@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Negeri Sembilan F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,B,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Negeri Sembilan F4,radio,F4 Bab 1,A,B,C,D,D,Picture1.png,"中文：本期未付租金也列本期费用，符合收入与费用确认原则。
+Bahasa Melayu: Sewa belum bayar diiktiraf sebagai belanja semasa mengikut prinsip pengiktirafan hasil dan belanja."
+,radio,F4 Bab 1,A,B,C,D,B,Picture2.png,"中文：独资诊所业主承担无限责任，企业债务可追及私人资产。
+Bahasa Melayu: Pemilik klinik milikan tunggal menanggung liabiliti tidak terhad, termasuk melalui aset peribadinya."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：提款账户是资本减项，减少业主权益，正确配对为 Ambilan 与 Modal。
+Bahasa Melayu: Ambilan ialah akaun kontra kepada Modal kerana mengurangkan ekuiti pemilik."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：私人车辆投入企业，增加资产及资本，负债不变。
+Bahasa Melayu: Kenderaan peribadi dibawa masuk menambah aset dan ekuiti pemilik tanpa mengubah liabiliti."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：采购单只表示订购意向，尚未证明会计交易发生，属于非原始凭证。
+Bahasa Melayu: Pesanan Belian menunjukkan pesanan sahaja dan belum membuktikan urus niaga berlaku; ia dokumen bukan sumber."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：赊购自用柜子属于资产：借记设备45,000、贷记供应商45,000，记录普通日记簿。
+Bahasa Melayu: Kabinet kegunaan pejabat dibeli kredit: debit Lengkapan 45,000, kredit Kedai Perabot Nogori 45,000 dalam Jurnal Am."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：账户结单列客户欠款余额，便于提醒客户清偿。
+Bahasa Melayu: Penyata Akaun menunjukkan baki hutang pelanggan supaya pembayaran dapat dibuat."
+,radio,F4 Bab 4,A,B,C,D,B,Picture8.png,"中文：买方以发票原件及借项通知原件记录赊购，副本由卖方保留。
+Bahasa Melayu: Pembeli merekod belian melalui invois asal dan nota debit asal; salinan disimpan penjual."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：租金收入和销货运费分别是收入与费用，属于名义账户。
+Bahasa Melayu: Sewa diterima ialah hasil dan angkutan keluar ialah belanja; kedua-duanya akaun nominal."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：商品用于推广：借记推广费用、贷记购货，避免把非销售用途计作销售成本。
+Bahasa Melayu: Barang niaga untuk promosi: debit Promosi dan kredit Belian supaya belian dikurangkan."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：坏账估计不是具体客户欠款的注销，不能作为应收控制账户的直接减项；坏账注销才可以。
+Bahasa Melayu: Hutang Ragu ialah anggaran, bukan penghapusan hutang pelanggan; ia tidak dimasukkan dalam Akaun Kawalan Belum Terima."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：X在借方可为已付租金费用，Y在贷方可为折扣收入，符合 C。
+Bahasa Melayu: X di debit boleh merupakan sewa dibayar; Y di kredit boleh merupakan diskaun diterima, seperti C."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：期末存货一方面减少销售成本，另一方面列流动资产，因此在两张报表出现。
+Bahasa Melayu: Inventori akhir mengurangkan kos jualan dan menjadi aset semasa, maka muncul dalam kedua-dua penyata."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：营运资本 = 13,280 + 10,460 − 6,680 − 500 = RM16,560；办公设备非流动资产。
+Bahasa Melayu: Modal kerja = 13,280 + 10,460 − 6,680 − 500 = RM16,560; alatan pejabat ialah aset bukan semasa."
+,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：递减余额折旧 = (20,000 − 1,600) × 10% = RM1,840。
+Bahasa Melayu: Susut nilai baki berkurangan = (20,000 − 1,600) × 10% = RM1,840."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：已用文具费用420 − 100 = 320；未用100列存货资产。
+Bahasa Melayu: Belanja alat tulis = 420 − 100 = 320; baki belum digunakan RM100 ialah inventori aset."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：期末欠薪 = 期初1,500 + 本期费用6,000 − 已付4,500 = RM3,000。
+Bahasa Melayu: Gaji belum bayar akhir = 1,500 + 6,000 − 4,500 = RM3,000."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：家具与现金各多记2,700，补借记现金、贷记家具各RM2,700。
+Bahasa Melayu: Amaun terlebih catat 2,700 dibetulkan dengan debit Tunai dan kredit Perabot RM2,700."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：企业自用设备误记购货费用，混淆资本与收益支出，属于原则错误。
+Bahasa Melayu: Lengkapan tersalah direkod sebagai Belian ialah kesilapan prinsip antara perbelanjaan modal dan hasil."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：平均存货 = 24,600 ÷ 5 = 4,920；期末 = 4,920 × 2 − 6,320 = RM3,520。
+Bahasa Melayu: Inventori purata = 24,600 ÷ 5 = 4,920; inventori akhir = 4,920 × 2 − 6,320 = RM3,520."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：欠款收回期及存货周转率衡量经营效率；流动比率衡量偿债能力。
+Bahasa Melayu: Tempoh kutipan hutang dan pusing ganti inventori ialah nisbah kecekapan; nisbah semasa mengukur kecairan."

@@ -1,0 +1,59 @@
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 3,radio,NegeriSembilan_Q23,A,B,C,D,D,Negeri Sembilan/Picture23.png,"中文：未兑现支票已在现金簿扣除，但银行尚未扣款，因此银行结单余额较大。
+Bahasa Melayu: Cek belum dikemukakan sudah mengurangkan Buku Tunai tetapi belum ditolak oleh bank, menyebabkan baki Penyata Bank lebih besar."
+F5 Chp 3,radio,JohorSet_Q24,A,B,C,D,D,Johor Set 1/Picture24.png,"中文：现金控制确保现金流足以支付日常开支和债务，避免资金短缺。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila perlu."
+F5 Chp 3,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 2/Picture24.png,"中文：银行调节表比较现金簿与银行结单，找出时间差与记录错误，是现金控制工具。
+Bahasa Melayu: Penyata Penyesuaian Bank mengenal pasti perbezaan masa dan kesilapan antara Buku Tunai dengan Penyata Bank."
+F5 Chp 3,radio,NegeriSembilan_Q24,A,B,C,D,B,Negeri Sembilan/Picture24.png,"中文：银行显示收到 RM2,500，却在现金簿贷方误记付款；借方须补 RM5,000，先撤销误记 2,500 再记录收款 2,500。
+Bahasa Melayu: Penerimaan RM2,500 tersalah dicatat sebagai pembayaran; debit RM5,000 diperlukan untuk membatalkan kredit RM2,500 dan merekod debit sebenar RM2,500."
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,A,Johor Set 1/Picture25.png,"中文：支票实际为 RM1,270，现金簿误记 RM1,720，付款多记 RM450；应在银行栏借方补记 RM450。
+Bahasa Melayu: Bayaran sebenar RM1,270 tersalah catat RM1,720; kredit terlebih RM450 dibetulkan dengan debit bank RM450."
+F5 Chp 3,radio,JohorSet_Q25,A,B,C,D,B,Johor Set 2/Picture25.png,"中文：银行结单余额 = −25,600 + 2,480 − 1,670 = −RM24,790，仍为透支。
+Bahasa Melayu: Baki Penyata Bank = −25,600 + 2,480 − 1,670 = −RM24,790, iaitu overdraf."
+F5 Chp 3,radio,Kelantan_Q25,A,B,C,D,D,Kelantan/Picture25.png,"中文：所有现金交易须及时记现金簿并有有效凭证，以便核查和防止现金滥用。
+Bahasa Melayu: Semua transaksi tunai perlu direkod dalam Buku Tunai dengan bukti sah bagi membolehkan semakan dan kawalan."
+F5 Chp 3,radio,NegeriSembilan_Q25,A,B,C,D,D,Negeri Sembilan/Picture25.png,"中文：11 月销售 = 80,000 × 110% = RM88,000；12 月收回上月赊销 = 88,000 × 30% = RM26,400。
+Bahasa Melayu: Jualan November = 80,000 × 110% = RM88,000; kutipan kredit Disember = 88,000 × 30% = RM26,400."
+F5 Chp 3,radio,Perlis_Q25,A,B,C,D,B,Perlis/Picture25.png,"中文：现金控制的目的之一是确保有足够现金支付营业费用及到期债务。
+Bahasa Melayu: Kawalan tunai memastikan perniagaan mempunyai tunai yang mencukupi untuk pembayaran belanja dan hutang."
+F5 Chp 3,radio,Selangor_Q25,A,B,C,D,B,Selangor/Picture25.png,"中文：现金控制有助防止挪用、舞弊及现金失窃。
+Bahasa Melayu: Kawalan tunai bertujuan mencegah penyelewengan, penyalahgunaan dan kecurian wang."
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,D,Johor Set 1/Picture26.png,"中文：出售打印机及定存利息产生现金流入；员工薪金和保险是现金流出，因此 III、IV 是收款。
+Bahasa Melayu: Jualan mesin pencetak dan faedah simpanan tetap ialah penerimaan; gaji dan insurans ialah pembayaran. III dan IV betul."
+F5 Chp 3,radio,JohorSet_Q26,A,B,C,D,C,Johor Set 2/Picture26.png,"中文：增加销售可增加现金收入，改善现金预算短缺；购买更多资产或付款会增加现金流出。
+Bahasa Melayu: Meningkatkan jualan membantu menambah penerimaan tunai dan mengatasi kurangan Belanjawan Tunai."
+F5 Chp 3,radio,Kedah_Q26,A,B,C,D,D,Kedah/Picture26.png,"中文：未入账存款已记现金簿，只是银行尚未处理，因此列银行调节表，不再更新现金簿。
+Bahasa Melayu: Deposit belum dikreditkan sudah dicatat dalam Buku Tunai; ia dimasukkan dalam penyesuaian bank, bukan Buku Tunai dikemas kini."
+F5 Chp 3,radio,Kelantan_Q26,A,B,C,D,C,Kelantan/Picture26.png,"中文：从银行结单余额开始，须加上银行尚未记入的存款 RM2,300，以调至现金簿余额。
+Bahasa Melayu: Deposit belum dikreditkan RM2,300 ditambah kepada baki Penyata Bank untuk mendapatkan baki Buku Tunai."
+F5 Chp 3,radio,Perlis_Q26,A,B,C,D,A,Perlis/Picture26.png,"中文：实际付款 RM3,400 却记录 RM4,300，多贷记银行 RM900，须借记 RM900 调整。
+Bahasa Melayu: Bayaran sebenar RM3,400 direkod RM4,300; bank terlebih dikreditkan RM900, maka debit bank RM900."
+F5 Chp 3,radio,Selangor_Q26,A,B,C,D,C,Selangor/Picture26.png,"中文：银行已记贷项转账，但企业可能尚未记入现金簿，造成两者余额差异。
+Bahasa Melayu: Pindahan kredit mungkin telah direkod bank tetapi belum dalam Buku Tunai, menyebabkan perbezaan baki."
+F5 Chp 3,radio,Terengganu_Q26,A,B,C,D,B,Terengganu/Picture26.png,"中文：现金簿贷方多记190先补回；银行结单余额 =12,150 +190 +450 −2,300 = RM10,490。
+Bahasa Melayu: Pembetulan kredit terlebih catat menambah190. Baki Penyata Bank =12,150 +190 +cek belum dikemukakan450 −deposit belum dikreditkan2,300 = RM10,490."
+F5 Chp 3,radio,Kedah_Q27,A,B,C,D,C,Kedah/Picture27.png,"中文：银行结单借方 RM800 表示透支；现金簿余额 = −800 − 2,500 + 3,000 = −RM300，即贷方余额。
+Bahasa Melayu: Baki debit Penyata Bank ialah overdraf RM800. Baki Buku Tunai = −800 − 2,500 + 3,000 = −RM300, iaitu kredit."
+F5 Chp 3,radio,Kelantan_Q27,A,B,C,D,B,Kelantan/Picture27.png,"中文：8 月收款 = 现金销售 15,000 + 赊销收回 10,000 × 40% = RM19,000。
+Bahasa Melayu: Penerimaan Ogos = jualan tunai 15,000 + 40% × 10,000 = RM19,000."
+F5 Chp 3,radio,Perak_Q27,A,B,C,D,C,Perak/Picture27.png,"中文：银行调节表调节现金簿与银行结单余额；现金预算预测现金收入和付款。
+Bahasa Melayu: Penyata Penyesuaian Bank menyelaraskan baki Buku Tunai dengan Penyata Bank; Belanjawan Tunai menganggarkan penerimaan dan pembayaran tunai."
+F5 Chp 3,radio,Perlis_Q27,A,B,C,D,C,Perlis/Picture27.png,"中文：期末现金 = 3,000 + 19,000 − 9,400 = RM12,600。
+Bahasa Melayu: Baki akhir tunai = 3,000 + 19,000 − 9,400 = RM12,600."
+F5 Chp 3,radio,Selangor_Q27,A,B,C,D,B,Selangor/Picture27.png,"中文：1月赊销 RM20,000，2月收50%，3月收其余50%：20,000 × 50% = RM10,000。
+Bahasa Melayu: Jualan kredit Januari RM20,000; 50% diterima Februari dan baki 50% pada Mac, iaitu RM10,000."
+F5 Chp 3,radio,Terengganu_Q27,A,B,C,D,C,Terengganu/Picture27.png,"中文：现金预算预测各期收款、付款及余额，帮助安排现金使用及融资。
+Bahasa Melayu: Belanjawan Tunai merancang penggunaan wang melalui anggaran penerimaan, pembayaran dan baki tunai."
+F5 Chp 3,radio,Kedah_Q28,A,B,C,D,B,Kedah/Picture28.png,"中文：客户清偿 RM2,000 带来实际现金流入，应计现金预算；赊销及坏账调整没有即时现金流。
+Bahasa Melayu: ABT menjelaskan RM2,000 menghasilkan penerimaan tunai; jualan kredit dan pelarasan hutang tidak melibatkan aliran tunai serta-merta."
+F5 Chp 3,radio,Pahang_Q28,A,B,C,D,D,Pahang/Picture28.png,"中文：现金控制确保企业有足够现金流支付日常开支和到期债务。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila matang."
+F5 Chp 3,radio,Perak_Q28,A,B,C,D,A,Perak/Picture28.png,"中文：实际付款 RM2,350 却贷记银行 RM3,250，多扣 RM900，须借记银行 RM900 补回。
+Bahasa Melayu: Bayaran sebenar RM2,350 direkod RM3,250, menyebabkan bank terlebih dikreditkan RM900; debit bank RM900 untuk pembetulan."
+F5 Chp 3,radio,Pahang_Q29,A,B,C,D,D,Pahang/Picture29.png,"中文：以银行结单透支 RM2,000 开始，加未入账存款 RM3,000、减未兑现支票 RM800，得现金簿借方余额 RM200。
+Bahasa Melayu: Bermula dengan baki debit Penyata Bank atau overdraf RM2,000: −2,000 + 3,000 − 800 = RM200 baki debit Buku Tunai."
+F5 Chp 3,radio,KelantanYik_Q30,A,B,C,D,A,Kelantan YIK/Picture30.png,"中文：银行结单提供银行期末余额及收付款资料，并可与现金簿核对；I、II、III 正确。
+Bahasa Melayu: Penyata Bank menunjukkan baki akhir serta penerimaan dan pembayaran, dan membolehkan perbandingan dengan Buku Tunai; I, II dan III betul."
+F5 Chp 3,radio,Pahang_Q30,A,B,C,D,A,Pahang/Picture30.png,"中文：现金盈余只比较收入与付款：15,680 − 5,200 = RM10,480；期初余额不属于本月盈余。
+Bahasa Melayu: Lebihan tunai = penerimaan 15,680 − pembayaran 5,200 = RM10,480; baki awal tidak dimasukkan dalam pengiraan lebihan."

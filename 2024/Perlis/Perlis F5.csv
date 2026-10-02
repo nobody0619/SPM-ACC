@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,B,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,D,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：销货成本 = 10,500 × 80% = 8,400；平均存货 = (2,100 + 1,260) ÷ 2 = 1,680；周转率 = 5 次。
+Bahasa Melayu: Kos jualan = 10,500 × 80% = 8,400; inventori purata = 1,680; kadar pusing ganti = 8,400 ÷ 1,680 = 5 kali."
+,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：不采用复式记账，或原有记录在水灾中毁坏，都会导致会计记录不完整。
+Bahasa Melayu: Tidak mengamalkan catatan bergu atau rekod musnah dalam banjir menyebabkan rekod perakaunan tak lengkap."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：净利 = 期末资本 + 提款 − 期初资本 − 额外资本 = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：赊购 = 1,200 + 5,500 + 300 − 3,900 = 3,100；加现金购货 RM2,700，总购货 RM5,800。
+Bahasa Melayu: Belian kredit = 1,200 + 5,500 + 300 − 3,900 = 3,100; jumlah belian = 3,100 + 2,700 = RM5,800."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：之前月份发出的支票已在现金簿记录，不需要再次更新；退票、银行代付及金额错误才须更新现金簿。
+Bahasa Melayu: Cek bulan sebelumnya telah dicatat dalam Buku Tunai dan tidak dicatat semula; cek tak laku, perintah sedia ada dan kesilapan amaun perlu dikemas kini."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：银行账单借方余额代表透支：现金簿 = −350 + 3,000 − 2,500 = RM150，属借方余额。
+Bahasa Melayu: Baki debit Penyata Bank ialah overdraf; baki Buku Tunai = −350 + 3,000 − 2,500 = RM150 debit."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：投入资本和存款利息增加现金，是现金预算的收款；水电费与贷款利息是付款。
+Bahasa Melayu: Modal dan faedah simpanan ialah penerimaan Belanjawan Tunai; utiliti dan faedah pinjaman ialah pembayaran."
+,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：没有合伙协议时，合伙利润或亏损平均分配，不按资本比例分配。
+Bahasa Melayu: Tanpa ikatan perkongsian, untung atau rugi dibahagi sama rata antara pekongsi."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：全年贷款利息 = 25,000 × 5% = RM1,250；已付 RM200 后，未付 RM1,050 贷记合伙人往来账户。
+Bahasa Melayu: Faedah pinjaman setahun = 25,000 × 5% = RM1,250; baki belum dibayar 1,250 − 200 = RM1,050 dikreditkan ke Akaun Semasa."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：解散时合伙人接收电脑，借记 Kamelia 资本 RM3,500、贷记变现账户 RM3,500。
+Bahasa Melayu: Pengambilalihan komputer oleh pekongsi: debit Modal Kamelia RM3,500 dan kredit Realisasi RM3,500."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：普通股股东有权投票选举董事；普通股股息并非固定，且在优先股之后支付。
+Bahasa Melayu: Pemegang syer biasa berhak mengundi untuk melantik pengarah; dividennya tidak tetap dan dibayar selepas syer keutamaan."
+,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：股本 = 1,000,000 × RM1.50 = RM1,500,000；借记认购申请账户、贷记普通股资本，收款时借银行、贷认购申请。
+Bahasa Melayu: Modal syer = 1,000,000 × RM1.50 = RM1,500,000; debit Permohonan dan kredit Modal Syer Biasa, kemudian debit Bank dan kredit Permohonan bagi wang diterima."
+,radio,F5 Bab 5,A,B,C,D,B,Picture34.png,"中文：优先股股息 = 150,000 × 2 × 7% = RM21,000；普通股分得 47,000 − 21,000 = 26,000；股息率 = 26,000 ÷ 200,000 × 100% = 13%。
+Bahasa Melayu: Dividen keutamaan = RM21,000; baki untuk syer biasa = 47,000 − 21,000 = RM26,000; kadar = 26,000 ÷ 200,000 × 100% = 13%."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：会员定期缴交的会费，是俱乐部和协会主要、持续的收入来源。
+Bahasa Melayu: Yuran keahlian ialah sumber pendapatan utama dan berulang bagi kelab dan persatuan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture36.png,"中文：现有答案 B 为 RM3,200，但按本年会费已收 RM3,000 加本年应收 RM225，收入应为 RM3,225（C）。上年尚欠 RM25 不应直接冲减本年会费；若须注销，应另记坏账。
+Bahasa Melayu: Jawapan sedia ada B ialah RM3,200, tetapi hasil yuran semasa = RM3,000 + RM225 = RM3,225 (C). Tunggakan tahun lalu RM25 tidak ditolak terus daripada yuran semasa; jika dihapuskan, ia direkod berasingan sebagai hutang lapuk."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：累积基金 = 20,000 + 1,200 + 9,400 − 800 − 2,740 = RM27,060；预收会费是负债。
+Bahasa Melayu: Dana terkumpul = 20,000 + 1,200 + 9,400 − 800 − 2,740 = RM27,060; yuran belum terperoleh ialah liabiliti."
+,radio,F5 Bab 7,A,B,C,D,B,Picture38.png,"中文：直接成本 = 直接材料 130,000 + 直接人工 (43,000 + 1,000) + 版权费 1,800 = RM175,800；经理其余工资和厂租属间接费用。
+Bahasa Melayu: Kos prima = 130,000 + (43,000 + 1,000) + 1,800 = RM175,800; baki gaji pengurus dan sewa kilang ialah overhed."
+,radio,F5 Bab 7,A,B,C,D,D,Picture39.png,"中文：变动成本总额随生产量改变，如直接材料；固定成本即使没有生产也可能发生。
+Bahasa Melayu: Jumlah kos berubah berubah mengikut tingkat pengeluaran, contohnya bahan langsung; kos tetap boleh berlaku walaupun tiada pengeluaran."
+,radio,F5 Bab 7,A,B,C,D,D,Picture40.png,"中文：单位变动成本 = (62,000 − 38,000) ÷ (40,000 − 20,000) = RM1.20；固定成本 = 38,000 − 20,000 × 1.20 = RM14,000。
+Bahasa Melayu: Kos berubah seunit = (62,000 − 38,000) ÷ (40,000 − 20,000) = RM1.20; kos tetap = 38,000 − 20,000 × 1.20 = RM14,000."

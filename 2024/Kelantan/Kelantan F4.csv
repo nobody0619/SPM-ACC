@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Kelantan F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,B,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,B,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Kelantan F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：复式记账起源于意大利，应选 A。现有答案 B（埃及）与课本概念不符，待确认。
+Bahasa Melayu: Sistem catatan bergu bermula di Itali, pilihan A. Jawapan sedia ada B (Mesir) tidak selaras dengan konsep buku teks dan perlu disahkan."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：购买机器的预期收益超过成本，体现成本效益限制。
+Bahasa Melayu: Manfaat mesin dijangka melebihi kosnya, menepati batasan kos manfaat."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：现金增加1,700、存货减少1,300，资产及权益净增RM400。
+Bahasa Melayu: Tunai bertambah 1,700 dan inventori berkurang 1,300; aset serta ekuiti bertambah RM400."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：账户结单列出客户尚欠款项，提醒客户付款。
+Bahasa Melayu: Penyata Akaun menunjukkan baki hutang pelanggan sebagai peringatan pembayaran."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：供应商发票追加的进货运费增加应付账款，记入应付控制账户贷方。
+Bahasa Melayu: Angkutan masuk yang dicaj pembekal melalui invois menambah hutang dan dikreditkan dalam Akaun Kawalan Belum Bayar."
+,radio,F4 Bab 3,A,B,C,D,B,Picture6.png,"中文：收取的租赁押金日后须退还，属于负债，代码在2000–2999。
+Bahasa Melayu: Deposit sewa diterima perlu dipulangkan dan merupakan liabiliti, dengan kod 2000–2999."
+,radio,F4 Bab 4,A,B,C,D,B,Picture7.png,"中文：商品赊销和商品购货退回使用特别日记簿；资产投入及购置使用普通日记簿。
+Bahasa Melayu: Jualan kredit barang niaga dan pulangan belian masuk jurnal khas; urus niaga aset dan modal masuk Jurnal Am."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：试算表汇集账户余额，便于编制财务报表；它不能排除所有记账错误。
+Bahasa Melayu: Imbangan Duga menghimpunkan baki akaun untuk memudahkan penyediaan Penyata Kewangan, tetapi tidak mengesan semua kesilapan."
+,radio,F4 Bab 5,A,B,C,D,C,Picture9.png,"中文：出售旧家具使家具资产减少，贷记家具账户，收款借记银行。
+Bahasa Melayu: Jualan perabot lama mengurangkan aset: kredit Perabot dan debit Bank."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：库存卡按成本记录；售出1个柜子，出库金额RM850，不能用售价1,220。
+Bahasa Melayu: Kad inventori menggunakan kos; rekod satu almari keluar pada RM850, bukan harga jualan RM1,220."
+,radio,F4 Bab 5,A,B,C,D,D,Picture11.png,"中文：交易与损益账户用来确定该会计期间的毛利及净利或亏损。
+Bahasa Melayu: Akaun Perdagangan dan Untung Rugi menentukan untung kasar serta untung atau rugi bersih tempoh perakaunan."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：资本正常余额在贷方；净利增加资本记贷方，净亏减少资本记借方。
+Bahasa Melayu: Modal berbaki kredit; untung bersih dikreditkan dan rugi bersih didebitkan ke Akaun Modal."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：现金制只确认实际支付租金，即RM5,000，不按应付全年7,200计算。
+Bahasa Melayu: Asas tunai mengiktiraf sewa yang benar-benar dibayar, RM5,000, bukan jumlah tahunan RM7,200."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：保险至8月底，到5月底尚余3个月预付；费用 = 5,400 × 9/12 = RM4,050。
+Bahasa Melayu: Tiga bulan insurans masih prabayar; belanja hingga Mei = 5,400 × 9/12 = RM4,050."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：期末坏账准备 = 15,600 × 2% = RM312；题内坏账已入试算表，不再次扣除。
+Bahasa Melayu: PHR akhir = 15,600 × 2% = RM312. Hutang lapuk dalam Imbangan Duga telah direkod dan tidak ditolak semula."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：直线折旧 = (85,000 − 残值5,000) ÷ 10年 = RM8,000。
+Bahasa Melayu: Susut nilai tahunan = (85,000 − nilai skrap 5,000) ÷ 10 tahun = RM8,000."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：本期折旧 = (12,500 − 2,500) × 20% = 2,000；账面净值8,000，售价8,700，盈利RM700。
+Bahasa Melayu: Susut nilai semasa = (12,500 − 2,500) × 20% = 2,000; nilai buku 8,000. Jualan 8,700 memberi untung RM700."
+,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：新设坏账准备时，借记坏账估计费用，贷记坏账准备减项账户。
+Bahasa Melayu: PHR diwujudkan dengan debit Hutang Ragu sebagai belanja dan kredit Peruntukan Hutang Ragu."
+,radio,F4 Bab 8,A,B,C,D,D,Picture19.png,"中文：收租5,850超过本年赚取5,400，差额RM450属于预收租金负债。
+Bahasa Melayu: Sewa diterima 5,850 melebihi hasil tahunan 5,400; RM450 ialah sewa belum terperoleh, suatu liabiliti."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：私人款购买企业自用沙发：借记家具5,400，贷记资本5,400。
+Bahasa Melayu: Sofa untuk kegunaan perniagaan dibayar dengan wang peribadi: debit Perabot 5,400, kredit Modal 5,400."
+,radio,F4 Bab 9,A,B,C,D,C,Picture21.png,"中文：少记佣金收入90，应补借记银行90、贷记佣金收入90。
+Bahasa Melayu: Komisen terkurang catat RM90: debit Bank 90 dan kredit Komisen Diterima 90."

@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perak F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,C,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perak F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：财务会计编制财务资料，供内部和外部使用者作决策。
+Bahasa Melayu: Perakaunan kewangan menyediakan maklumat kewangan kepada pengguna dalaman dan luaran untuk membuat keputusan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：普通合伙人的责任不以投入资本为限，必要时须用私人财产偿债。
+Bahasa Melayu: Pekongsi biasa mempunyai liabiliti tidak terhad dan boleh menggunakan harta peribadi untuk menjelaskan hutang."
+,radio,F4 Bab 2,A,B,C,D,D,Picture3.png,"中文：股息和服务收入都是收益；现金属于资产，工资和折旧属于费用。
+Bahasa Melayu: Dividen dan hasil perkhidmatan ialah hasil; tunai ialah aset, manakala gaji dan susut nilai ialah belanja."
+,radio,F4 Bab 2,A,B,C,D,B,Picture4.png,"中文：非流动负债是超过一年才偿还的债务，房屋抵押贷款是典型例子；题目以 I 和 IV 作为答案。
+Bahasa Melayu: Liabiliti bukan semasa ialah hutang yang perlu dijelaskan melebihi satu tahun, seperti gadai janji; skema memilih I dan IV."
+,radio,F4 Bab 2,A,B,C,D,D,Picture5.png,"中文：客户账单 folio pelanggan 常用于服务业列出客户消费，并作为现金结算的单据。
+Bahasa Melayu: Folio pelanggan menyenaraikan caj perkhidmatan kepada pelanggan dan digunakan sebagai dokumen urus niaga tunai."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：银行定期发给往来户的交易和余额报告是银行账单 Penyata Bank。
+Bahasa Melayu: Penyata Bank ialah dokumen bank yang menunjukkan urus niaga dan baki akaun semasa pelanggan."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：家具不是电脑商的商品存货，赊售旧家具属于赊售非流动资产，应记普通日记簿。
+Bahasa Melayu: Perabot bukan barang niaga kedai komputer; jualan kredit aset bukan semasa direkod dalam Jurnal Am."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：销货日记簿的总额贷记销货账户，个别客户金额则借记其应收账款账户。
+Bahasa Melayu: Jumlah Jurnal Jualan dikreditkan ke Akaun Jualan, manakala amaun setiap pelanggan didebitkan ke akaun penghutang."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：收到支票 RM3,500，豁免余款 3,800 − 3,500 = RM300；现金簿借方记银行及折扣给予。
+Bahasa Melayu: Debit Bank RM3,500 dan Diskaun Diberi RM300 dalam Buku Tunai kerana hutang RM3,800 dijelaskan dengan cek RM3,500."
+,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：业主投入私人车辆使车辆资产与资本增加：借记车辆、贷记资本。
+Bahasa Melayu: Kenderaan dan modal bertambah apabila pemilik membawa masuk kenderaan: debit Kenderaan, kredit Modal."
+,radio,F4 Bab 5,A,B,C,D,A,Picture11.png,"中文：应收与应付互相抵销称为 kontra，减少应收款，所以记应收控制账户贷方。
+Bahasa Melayu: Kontra mengurangkan hutang pelanggan melalui tolakan hutang kepada pihak yang sama, lalu dikreditkan dalam Akaun Kawalan Belum Terima."
+,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：期末存货用于计算销货成本，继而确定毛利；它代表尚未售出的商品成本。
+Bahasa Melayu: Inventori akhir diperlukan untuk menentukan kos jualan dan seterusnya untung kasar."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：销货成本及可供销售商品成本列在营业账户借方；销货在贷方，毛利结转在借方。
+Bahasa Melayu: Kos jualan dan kos barang untuk dijual berada di sebelah debit Akaun Perdagangan; jualan di kredit dan untung kasar dipindahkan melalui debit."
+,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：产业、厂房是资产，仓库工资是费用，均在借方；抵押贷款及坏账准备减少额在贷方。
+Bahasa Melayu: Hartanah dan loji serta upah gudang berbaki debit; gadai janji dan pengurangan peruntukan hutang ragu berbaki kredit."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：业主权益 = 总资产 − 总负债 = 20,000 + 13,960 − 12,000 − 1,160 = RM20,800。
+Bahasa Melayu: Ekuiti pemilik = jumlah aset − jumlah liabiliti = 20,000 + 13,960 − 12,000 − 1,160 = RM20,800."
+,radio,F4 Bab 8,A,B,C,D,C,Picture16.png,"中文：本年费率费用 = 付款 4,350 − 上年应付 700 + 年末应付 540 = RM4,190。
+Bahasa Melayu: Kadar bayaran tahun semasa = 4,350 − 700 + 540 = RM4,190."
+,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：坏账是本期费用，期末借记损益账户，以减少净利。
+Bahasa Melayu: Hutang lapuk merupakan belanja dan dipindahkan ke sebelah debit Akaun Untung Rugi untuk mengurangkan untung."
+,radio,F4 Bab 8,A,B,C,D,D,Picture18.png,"中文：直线折旧 =（原价 − 残值）÷ 使用年限，把可折旧金额平均分配至各年。
+Bahasa Melayu: Susut nilai garis lurus = (kos asal − nilai skrap) ÷ usia guna, iaitu susut nilai sama setiap tahun."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：使用两年累计折旧 = 8,000 × 10% × 2 = 1,600；账面值 6,400，卖价 4,000，所以处置损失 RM2,400。
+Bahasa Melayu: Susut nilai dua tahun = 8,000 × 10% × 2 = 1,600; nilai buku 6,400 ditolak harga jualan 4,000 menghasilkan rugi RM2,400."
+,radio,F4 Bab 9,A,B,C,D,B,Picture20.png,"中文：净利 = 3,575 + 800 − 1,100 − (720 − 180) = RM2,735；预付 RM180 不属于本期费用。
+Bahasa Melayu: Untung bersih = 3,575 + 800 − 1,100 − (720 − 180) = RM2,735; prabayar RM180 bukan belanja semasa."
+,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：原则错误是把交易记入不同类别的错误账户，例如费用误记资产。
+Bahasa Melayu: Kesilapan prinsip berlaku apabila urus niaga direkod dalam akaun daripada pengelasan yang salah, misalnya belanja dianggap aset."

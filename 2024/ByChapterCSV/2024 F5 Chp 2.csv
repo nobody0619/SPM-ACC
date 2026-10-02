@@ -1,33 +1,65 @@
-﻿title,type,question,A,B,C,D,answer,image
-F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,B,Johor Set 1/Picture23.png
-F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 1/Picture24.png
-F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,C,Johor Set 2/Picture23.png
-F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 2/Picture24.png
-F5 Chp 2,radio,Kedah_Q23,A,B,C,D,B,Kedah/Picture23.png
-F5 Chp 2,radio,Kedah_Q24,A,B,C,D,A,Kedah/Picture24.png
-F5 Chp 2,radio,Kelantan_Q23,A,B,C,D,A,Kelantan/Picture23.png
-F5 Chp 2,radio,Kelantan_Q24,A,B,C,D,B,Kelantan/Picture24.png
-F5 Chp 2,radio,Kl_Q23,A,B,C,D,A,KL/Picture23.png
-F5 Chp 2,radio,Kl_Q24,A,B,C,D,D,KL/Picture24.png
-F5 Chp 2,radio,Melaka_Q23,A,B,C,D,B,Melaka/Picture23.png
-F5 Chp 2,radio,Melaka_Q24,A,B,C,D,A,Melaka/Picture24.png
-F5 Chp 2,radio,Mrsm_Q23,A,B,C,D,C,MRSM/Picture23.png
-F5 Chp 2,radio,Mrsm_Q24,A,B,C,D,C,MRSM/Picture24.png
-F5 Chp 2,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png
-F5 Chp 2,radio,NegeriSembilan_Q24,A,B,C,D,D,Negeri Sembilan/Picture24.png
-F5 Chp 2,radio,Pahang_Q23,A,B,C,D,B,Pahang/Picture23.png
-F5 Chp 2,radio,Pahang_Q24,A,B,C,D,D,Pahang/Picture24.png
-F5 Chp 2,radio,PenangPpdBaratDaya_Q23,A,B,C,D,A,Penang PPD Barat Daya/Picture23.png
-F5 Chp 2,radio,PenangPpdBaratDaya_Q24,A,B,C,D,A,Penang PPD Barat Daya/Picture24.png
-F5 Chp 2,radio,Perak_Q23,A,B,C,D,D,Perak/Picture23.png
-F5 Chp 2,radio,Perak_Q24,A,B,C,D,B,Perak/Picture24.png
-F5 Chp 2,radio,Perlis_Q23,A,B,C,D,C,Perlis/Picture23.png
-F5 Chp 2,radio,Perlis_Q24,A,B,C,D,D,Perlis/Picture24.png
-F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,A,Selangor Set 1/Picture23.png
-F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,B,Selangor Set 1/Picture24.png
-F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,B,Selangor Set 2/Picture23.png
-F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,C,Selangor Set 2/Picture24.png
-F5 Chp 2,radio,Smka_Q23,A,B,C,D,B,SMKA/Picture23.png
-F5 Chp 2,radio,Smka_Q24,A,B,C,D,C,SMKA/Picture24.png
-F5 Chp 2,radio,Terengganu_Q23,A,B,C,D,C,Terengganu/Picture23.png
-F5 Chp 2,radio,Terengganu_Q24,A,B,C,D,B,Terengganu/Picture24.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,B,Johor Set 1/Picture23.png,"中文：调整净利 = 5,430 − 未付费用45 + 应收佣金380 = RM5,765。
+Bahasa Melayu: Untung terselaras = RM5,430 − belanja terakru RM45 + komisen belum terima RM380 = RM5,765."
+F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 1/Picture24.png,"中文：毛利率 = 13,500 ÷（60,000 − 6,000）×100% = 25%。
+Bahasa Melayu: Margin untung kasar = RM13,500 ÷ (RM60,000 − RM6,000) ×100% = 25%."
+F5 Chp 2,radio,JohorSet_Q23,A,B,C,D,C,Johor Set 2/Picture23.png,"中文：净利 = 9,700+150−240+80+80 = RM9,770；收到折扣错记为给予折扣，需两次 RM80 修正。
+Bahasa Melayu: Untung = RM9,700+RM150−RM240+RM160 = RM9,770. Kesilapan diskaun dibetulkan sebanyak dua kali RM80; bayaran hutang tidak menjejaskan untung."
+F5 Chp 2,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 2/Picture24.png,"中文：投资回报率 = 净利÷资本。资本 = 40,000÷25% = RM160,000。
+Bahasa Melayu: Modal = untung bersih ÷ pulangan atas modal = RM40,000÷25% = RM160,000."
+F5 Chp 2,radio,Kedah_Q23,A,B,C,D,B,Kedah/Picture23.png,"中文：提款是业主从企业取出资产作私人用途，会减少业主权益。
+Bahasa Melayu: Ambilan ialah pengeluaran aset untuk kegunaan peribadi pemilik dan mengurangkan ekuiti pemilik."
+F5 Chp 2,radio,Kedah_Q24,A,B,C,D,A,Kedah/Picture24.png,"中文：赊购 = 100,000 + 147,000 − 132,000 = 115,000；总购货 = 115,000 + 65,000 = RM180,000。
+Bahasa Melayu: Belian kredit = 100,000 + 147,000 − 132,000 = 115,000; tambah belian tunai 65,000 menjadi RM180,000."
+F5 Chp 2,radio,Kelantan_Q23,A,B,C,D,A,Kelantan/Picture23.png,"中文：期末资本 = 10,520 − 2,700 = 7,820；净利 = 7,820 − 4,800 = RM3,020。
+Bahasa Melayu: Modal akhir = 10,520 − 2,700 = 7,820; untung bersih = 7,820 − 4,800 = RM3,020."
+F5 Chp 2,radio,Kelantan_Q24,A,B,C,D,B,Kelantan/Picture24.png,"中文：租金收入 = 已收2,750 + 期初预收340 − 期末预收520 = RM2,570。
+Bahasa Melayu: Hasil sewa = penerimaan 2,750 + belum terperoleh awal 340 − akhir 520 = RM2,570."
+F5 Chp 2,radio,Kl_Q23,A,B,C,D,A,KL/Picture23.png,"中文：银行手续费、支票簿收费和股息补入现金簿；未兑现支票只作银行调节。
+Bahasa Melayu: Caj bank, bayaran buku cek dan dividen dikemas kini dalam Buku Tunai; cek belum dikemukakan hanya dalam penyesuaian."
+F5 Chp 2,radio,Kl_Q24,A,B,C,D,D,KL/Picture24.png,"中文：现金簿更新后，调节表处理时间差：未兑现支票和未入账存款。
+Bahasa Melayu: Selepas Buku Tunai dikemas kini, penyesuaian melibatkan cek belum dikemukakan dan deposit belum dikreditkan."
+F5 Chp 2,radio,Melaka_Q23,A,B,C,D,B,Melaka/Picture23.png,"中文：记到同类别但错误供应商账户，属于账户混淆错误（kesilapan komisen）。
+Bahasa Melayu: Belian dicatat dalam akaun pembekal yang salah tetapi dalam kelas sama ialah kesilapan komisen."
+F5 Chp 2,radio,Melaka_Q24,A,B,C,D,A,Melaka/Picture24.png,"中文：现金销售占40%，38,400 × 40% = RM15,360。
+Bahasa Melayu: Jualan tunai ialah 40%: 38,400 × 40% = RM15,360."
+F5 Chp 2,radio,Mrsm_Q23,A,B,C,D,C,MRSM/Picture23.png,"中文：速动比率排除存货：(350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1。
+Bahasa Melayu: Nisbah ujian asid mengecualikan inventori: (350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1."
+F5 Chp 2,radio,Mrsm_Q24,A,B,C,D,C,MRSM/Picture24.png,"中文：凭证损毁或遗失，会使部分交易资料无法记录，形成不完整账簿。
+Bahasa Melayu: Dokumen musnah atau hilang menyebabkan maklumat urus niaga tidak direkod dengan lengkap."
+F5 Chp 2,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png,"中文：不完整账簿使记账错误难以检查，也难以作企业间表现比较；仍可推算利润与财务状况。
+Bahasa Melayu: Rekod tak lengkap menyukarkan pengesanan kesilapan dan perbandingan prestasi; untung serta kedudukan kewangan masih boleh dianggarkan."
+F5 Chp 2,radio,NegeriSembilan_Q24,A,B,C,D,D,Negeri Sembilan/Picture24.png,"中文：未兑现支票早已记入现金簿，只作银行调节，不再更新现金簿。
+Bahasa Melayu: Cek belum dikemukakan sudah direkod dalam Buku Tunai dan hanya dilaraskan dalam penyesuaian bank."
+F5 Chp 2,radio,Pahang_Q23,A,B,C,D,B,Pahang/Picture23.png,"中文：坏账注销：借记坏账费用，贷记应收账款，以减少客户欠款。
+Bahasa Melayu: Hutang tidak dapat dikutip dihapus dengan debit Hutang Lapuk dan kredit Akaun Belum Terima."
+F5 Chp 2,radio,Pahang_Q24,A,B,C,D,D,Pahang/Picture24.png,"中文：出售前9个月折旧(35,000 − 12,600) × 20% × 9/12 = 3,360；净值19,040，售价20,500，获利RM1,460。
+Bahasa Melayu: Susut nilai sembilan bulan = (35,000 − 12,600) × 20% × 9/12 = 3,360; nilai buku 19,040. Untung pelupusan RM1,460."
+F5 Chp 2,radio,PenangPpdBaratDaya_Q23,A,B,C,D,A,Penang PPD Barat Daya/Picture23.png,"中文：直线法、重估法及余额递减法都是折旧方法；现金制会计不是折旧方法。
+Bahasa Melayu: Garis lurus, penilaian semula dan baki berkurangan ialah kaedah susut nilai; perakaunan tunai bukan kaedah susut nilai."
+F5 Chp 2,radio,PenangPpdBaratDaya_Q24,A,B,C,D,A,Penang PPD Barat Daya/Picture24.png,"中文：营运资本 = (3,300 + 200 + 10,700 + 2,100) − (800 + 2,600) = RM12,900；家具及累计折旧不属于流动项目。
+Bahasa Melayu: Modal kerja = (3,300 + 200 + 10,700 + 2,100) − (800 + 2,600) = RM12,900; perabot dan susut nilai terkumpul bukan item semasa."
+F5 Chp 2,radio,Perak_Q23,A,B,C,D,D,Perak/Picture23.png,"中文：销货成本 = 10,200 + 15,780 − 12,140 = 13,840；成本加成率 = 9,800 ÷ 13,840 × 100% ≈ 70.80%。
+Bahasa Melayu: Kos jualan = 10,200 + 15,780 − 12,140 = 13,840; tokokan = 9,800 ÷ 13,840 × 100% ≈ 70.80%."
+F5 Chp 2,radio,Perak_Q24,A,B,C,D,B,Perak/Picture24.png,"中文：比较法先用资产减负债求期初资本，所以需要资产与负债资料。
+Bahasa Melayu: Modal awal ditentukan melalui aset awal tolak liabiliti awal; maklumat yang diperlukan ialah aset dan liabiliti."
+F5 Chp 2,radio,Perlis_Q23,A,B,C,D,C,Perlis/Picture23.png,"中文：不采用复式记账，或原有记录在水灾中毁坏，都会导致会计记录不完整。
+Bahasa Melayu: Tidak mengamalkan catatan bergu atau rekod musnah dalam banjir menyebabkan rekod perakaunan tak lengkap."
+F5 Chp 2,radio,Perlis_Q24,A,B,C,D,D,Perlis/Picture24.png,"中文：净利 = 期末资本 + 提款 − 期初资本 − 额外资本 = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680."
+F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,A,Selangor Set 1/Picture23.png,"中文：只记现金簿或每笔只记一个账户，均未完成复式记账，形成不完整记录。
+Bahasa Melayu: Merekod Buku Tunai sahaja atau satu akaun bagi sesuatu urus niaga menyebabkan rekod tak lengkap."
+F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,B,Selangor Set 1/Picture24.png,"中文：本期水电费 = 付款 2,510 − 期初应付 235 + 期末应付 190 = RM2,465。
+Bahasa Melayu: Utiliti semasa = bayaran 2,510 − belum bayar awal 235 + belum bayar akhir 190 = RM2,465."
+F5 Chp 2,radio,SelangorSet_Q23,A,B,C,D,B,Selangor Set 2/Picture23.png,"中文：净利 = 20,780 + 550 − 10,500 − 5,000 = RM5,830。
+Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 20,780 + 550 − 10,500 − 5,000 = RM5,830."
+F5 Chp 2,radio,SelangorSet_Q24,A,B,C,D,C,Selangor Set 2/Picture24.png,"中文：赊销 = 期末应收 4,578 + 收款 6,125 + 退货 230 − 期初应收 2,350 = RM8,583。
+Bahasa Melayu: Jualan kredit = 4,578 + 6,125 + 230 − 2,350 = RM8,583."
+F5 Chp 2,radio,Smka_Q23,A,B,C,D,B,SMKA/Picture23.png,"中文：现有答案 B 指单式记账，符合不完整记录。题干却写“不采用不完整记录”，疑多了 tidak；若按字面，A、C、D 都可描述完整记录。
+Bahasa Melayu: Jawapan B ialah catatan tunggal yang berkaitan rekod tak lengkap. Perkataan tidak dalam frasa tidak mengamalkan rekod tak lengkap mungkin tersalah cetak; secara literal A, C dan D berkaitan rekod lengkap."
+F5 Chp 2,radio,Smka_Q24,A,B,C,D,C,SMKA/Picture24.png,"中文：比较法净利 = 期末资本 + 提款 − 额外资本 − 期初资本，所以 R 是提款。
+Bahasa Melayu: Untung bersih kaedah perbandingan = modal akhir + ambilan − modal tambahan − modal awal; R ialah ambilan."
+F5 Chp 2,radio,Terengganu_Q23,A,B,C,D,C,Terengganu/Picture23.png,"中文：使用 2.5 年折旧 = 90,000 × 15% × 2.5 = 33,750；账面值 56,250，卖 55,000，处置损失 RM1,250。
+Bahasa Melayu: Susut nilai 2.5 tahun = 90,000 × 15% × 2.5 = RM33,750; nilai buku RM56,250 ditolak harga jualan RM55,000 memberikan rugi RM1,250."
+F5 Chp 2,radio,Terengganu_Q24,A,B,C,D,B,Terengganu/Picture24.png,"中文：I 为资产费用分类错误，III 为整笔借贷倒置；两者借贷总额仍相等，试算表无法发现。
+Bahasa Melayu: I ialah kesilapan prinsip dan III catatan terbalik; kedua-duanya tidak menjejaskan keseimbangan Imbangan Duga."

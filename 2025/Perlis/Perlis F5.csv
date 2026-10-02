@@ -1,21 +1,41 @@
-﻿title,type,question,A,B,C,D,answer,image
-Perlis F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,D,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,B,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,D,Picture21.png,"中文：流动比率 = 流动资产 ÷ 流动负债，评估企业偿还短期债务的能力。
+Bahasa Melayu: Nisbah semasa = aset semasa ÷ liabiliti semasa, mengukur kemampuan membayar hutang jangka pendek."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：SPM资本报酬率使用期初资本：所需净利 = 120,000 × 20% = RM24,000。
+Bahasa Melayu: Pulangan atas modal menggunakan modal awal dalam rumus SPM; untung bersih diperlukan = 120,000 × 20% = RM24,000."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：期初资本 = 资产 − 负债 = 5,000 + 2,500 + 200 − 1,450 − 400 = RM5,850。
+Bahasa Melayu: Modal awal = aset − liabiliti = 5,000 + 2,500 + 200 − 1,450 − 400 = RM5,850."
+,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：赊销 = 期末应收1,900 + 收客户款2,000 − 期初应收2,550 = RM1,350；加现金销售 RM600，销售合计 RM1,950。
+Bahasa Melayu: Jualan kredit = ABT akhir 1,900 + penerimaan pelanggan 2,000 − ABT awal 2,550 = RM1,350. Tambah jualan tunai RM600, jumlah jualan RM1,950."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：现金控制的目的之一是确保有足够现金支付营业费用及到期债务。
+Bahasa Melayu: Kawalan tunai memastikan perniagaan mempunyai tunai yang mencukupi untuk pembayaran belanja dan hutang."
+,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：实际付款 RM3,400 却记录 RM4,300，多贷记银行 RM900，须借记 RM900 调整。
+Bahasa Melayu: Bayaran sebenar RM3,400 direkod RM4,300; bank terlebih dikreditkan RM900, maka debit bank RM900."
+,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：期末现金 = 3,000 + 19,000 − 9,400 = RM12,600。
+Bahasa Melayu: Baki akhir tunai = 3,000 + 19,000 − 9,400 = RM12,600."
+,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：没有合伙协议时利润平均分配，不按出资比例；每人 = 50,000 ÷ 2 = RM25,000。
+Bahasa Melayu: Tanpa ikatan perkongsian, untung dibahagi sama rata tanpa mengikut modal: 50,000 ÷ 2 = RM25,000 setiap pekongsi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：提款利息 = 3,000 × 6% × 10/12 + 5,000 × 6% × 4/12 = 150 + 100 = RM250。
+Bahasa Melayu: Faedah ambilan = 3,000 × 6% × 10/12 + 5,000 × 6% × 4/12 = 150 + 100 = RM250."
+,radio,F5 Bab 4,A,B,C,D,A,Picture30.png,"中文：全年贷款利息 = 10,000 × 8% = RM800，已付 RM500，尚欠 RM300 贷记 Haikal 往来账户。
+Bahasa Melayu: Faedah pinjaman setahun = 10,000 × 8% = RM800; selepas bayaran RM500, baki belum bayar RM300 dikreditkan ke Akaun Semasa Haikal."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：合伙人去世及法院命令都可导致解散；追加资本不会自动导致解散。
+Bahasa Melayu: Kematian pekongsi dan perintah mahkamah boleh menyebabkan pembubaran; modal tambahan tidak menyebabkan pembubaran."
+,radio,F5 Bab 4,A,B,C,D,B,Picture32.png,"中文：非现金资产 = 120,000 − 15,600 = 104,400；变现亏损 = 104,400 − 90,400 + 3,000 − (18,200 − 15,000) = RM13,800。
+Bahasa Melayu: Aset bukan tunai = 120,000 − 15,600 = 104,400. Rugi realisasi = 104,400 − 90,400 + 3,000 − (18,200 − 15,000) = RM13,800."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：答案 C 把 II、III 视为 Berhad 公司，与 Sdn. Bhd. 区分。不过 Berhad 身份不代表一定在交易所上市，本题“上市”字眼不够准确。
+Bahasa Melayu: Jawapan C memilih II dan III sebagai syarikat Berhad berbanding Sdn. Bhd. Namun status Berhad tidak semestinya bererti tersenarai di Bursa; perkataan tersenarai dalam soalan kurang tepat."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：已发行股本 = 200,000 × RM1 + 50,000 × RM2 = RM300,000；8% 是股息率。
+Bahasa Melayu: Modal diterbitkan = 200,000 × RM1 + 50,000 × RM2 = RM300,000; 8% ialah kadar dividen."
+,radio,F5 Bab 6,A,B,C,D,A,Picture35.png,"中文：期末现金 = 9,550 + 12,000 + 3,300 − 850 − 520 − 2,400 − 330 = RM20,750；预付及应付调整不改变实际现金。
+Bahasa Melayu: Baki akhir = 9,550 + 12,000 + 3,300 − 850 − 520 − 2,400 − 330 = RM20,750; pelarasan prabayar dan belum bayar tidak mengubah tunai sebenar."
+,radio,F5 Bab 6,A,B,C,D,A,Picture36.png,"中文：俱乐部为会员提供福利；公司以赚取利润为设立目的。
+Bahasa Melayu: Kelab ditubuhkan untuk kebajikan ahli, manakala syarikat ditubuhkan untuk menjana keuntungan."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：累积基金 = 总资产 − 负债 = 7,800 + 10,700 + 9,200 + 300 − 3,100 = RM24,900。
+Bahasa Melayu: Dana terkumpul = jumlah aset − liabiliti = 7,800 + 10,700 + 9,200 + 300 − 3,100 = RM24,900."
+,radio,F5 Bab 7,A,B,C,D,A,Picture38.png,"中文：固定成本不随产量改变；图中的固定成本为 RM10,000，在3,000单位时仍相同。
+Bahasa Melayu: Kos tetap tidak berubah mengikut tingkat pengeluaran; nilai RM10,000 kekal pada pengeluaran 3,000 unit."
+,radio,F5 Bab 7,A,B,C,D,B,Picture39.png,"中文：主要成本包括直接材料、直接人工及直接费用；图中 Y 是原材料，Z 是直接人工。
+Bahasa Melayu: Kos prima terdiri daripada bahan langsung, buruh langsung dan belanja langsung; Y ialah bahan mentah dan Z buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,C,Picture40.png,"中文：新固定成本 = 45,000 + 10,000 = RM55,000；盈亏平衡量 = 55,000 ÷ 单位贡献5 = 11,000单位。
+Bahasa Melayu: Kos tetap baharu = 45,000 + 10,000 = RM55,000. Titik pulang modal = 55,000 ÷ margin caruman 5 = 11,000 unit."

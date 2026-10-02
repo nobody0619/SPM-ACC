@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-KL F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,A,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,D,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,C,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,A,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,B,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,A,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+KL F4,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：私人取用商品记录为提款，体现企业与业主分开的独立主体假设。
+Bahasa Melayu: Barang niaga untuk keluarga direkod sebagai ambilan mengikut andaian entiti berasingan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：工资属于费用账户，即名义账户；存货、家具和银行属于实质账户。
+Bahasa Melayu: Gaji ialah akaun belanja, iaitu akaun nominal; inventori, perabot dan bank ialah akaun nyata."
+,radio,F4 Bab 2,A,B,C,D,A,Picture3.png,"中文：业主投入私人资产没有外部交易凭证，使用内部备忘录 Memo。
+Bahasa Melayu: Aset peribadi dibawa masuk oleh pemilik direkod berdasarkan dokumen dalaman Memo."
+,radio,F4 Bab 2,A,B,C,D,A,Picture4.png,"中文：业主权益 = 10,000 + 6,980 − 6,000 − 580 = RM10,400。
+Bahasa Melayu: Ekuiti pemilik = 10,000 + 6,980 − 6,000 − 580 = RM10,400."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：销售成本 = 3,500 + 11,800 − 420 + 680 − 2,140 = RM13,420。
+Bahasa Melayu: Kos jualan = 3,500 + 11,800 − 420 + 680 − 2,140 = RM13,420."
+,radio,F4 Bab 3,A,B,C,D,D,Picture6.png,"中文：办公设备、存货、现金和家具都是企业资产；贷款和应付款是负债。
+Bahasa Melayu: Alatan pejabat, inventori, tunai dan perabot ialah aset; pinjaman dan ABT bayar ialah liabiliti."
+,radio,F4 Bab 4,A,B,C,D,C,Picture7.png,"中文：未付水电费是须短期偿还的应计费用，列流动负债。
+Bahasa Melayu: Kadar bayaran belum bayar ialah belanja terakru yang dikelaskan sebagai liabiliti semasa."
+,radio,F4 Bab 4,A,B,C,D,A,Picture8.png,"中文：代码2024在2000–2999的负债范围，应付账款符合这一类别。
+Bahasa Melayu: Kod 2024 berada dalam julat liabiliti 2000–2999; Akaun Belum Bayar ialah liabiliti."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：营运资本 = (300 + 3,400) − (360 + 1,330) = RM2,010。现有答案D为1,710，疑似漏算存货，待核对。
+Bahasa Melayu: Modal kerja = (300 + 3,400) − (360 + 1,330) = RM2,010. Kunci D, RM1,710, kelihatan mengabaikan inventori dan perlu disemak."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：业主投入现金增加资产和资本，负债不变。
+Bahasa Melayu: Tunai peribadi dibawa masuk menambah aset dan ekuiti pemilik; liabiliti tidak berubah."
+,radio,F4 Bab 5,A,B,C,D,C,Picture11.png,"中文：现金销售是现金流入，记现金簿借方；赊销尚未收款。
+Bahasa Melayu: Jualan tunai ialah penerimaan di debit Buku Tunai; jualan kredit belum melibatkan tunai."
+,radio,F4 Bab 6,A,B,C,D,A,Picture12.png,"中文：打印纸和笔属于文具，记入零用现金簿文具分析栏。
+Bahasa Melayu: Kertas pencetak dan pen dikelaskan sebagai alat tulis dalam Buku Tunai Runcit."
+,radio,F4 Bab 7,A,B,C,D,B,Picture13.png,"中文：收到银行贷款：借记银行资产，贷记贷款负债。
+Bahasa Melayu: Pinjaman diterima direkod debit Bank dan kredit Pinjaman Bank."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：已付540、本期费用340，差额200是预付水电费资产。
+Bahasa Melayu: Bayaran 540 melebihi belanja semasa 340; RM200 ialah kadar bayaran prabayar."
+,radio,F4 Bab 8,A,B,C,D,D,Picture15.png,"中文：收租收入的正常余额在贷方，符合试算表的 F 位置。
+Bahasa Melayu: Sewa diterima mempunyai baki kredit dan sesuai dengan kedudukan F dalam Imbangan Duga."
+,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：客户以银行付款，借记银行700，贷记 Sabrina 账户700以减少欠款。
+Bahasa Melayu: Penerimaan bank daripada pelanggan: debit Bank 700, kredit Sabrina 700 untuk mengurangkan hutangnya."
+,radio,F4 Bab 8,A,B,C,D,A,Picture17.png,"中文：赊销 = 12,630 + 730 + 5,280 − 5,210 = 13,430；预计收回60%为RM8,058。
+Bahasa Melayu: Jualan kredit = 12,630 + 730 + 5,280 − 5,210 = 13,430; kutipan 60% ialah RM8,058."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：原卷说明4月1日支付全年保险RM4,800，到12月31日用了9个月；本期费用 = 4,800 × 9/12 = RM3,600，余1,200预付。
+Bahasa Melayu: Kertas asal menyatakan insurans tahunan RM4,800 dibayar pada 1 April; belanja sembilan bulan = 4,800 × 9/12 = RM3,600, baki prabayar RM1,200."
+,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：赊销增加客户欠款与销售收入：借记 Toh Trading，贷记 Jualan。
+Bahasa Melayu: Jualan kredit direkod debit Toh Trading dan kredit Jualan."
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：期末准备8,000 × 5% = 400；已有240，只需增加坏账估计费用RM160。
+Bahasa Melayu: PHR akhir = 8,000 × 5% = 400; pertambahan daripada 240 ialah Hutang Ragu RM160."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：重估法小工具折旧 = 期初350 + 本期购入430 − 期末210 = RM570。
+Bahasa Melayu: Susut nilai alat kecil kaedah penilaian semula = 350 + 430 − 210 = RM570."

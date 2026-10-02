@@ -1,20 +1,39 @@
-﻿title,type,question,A,B,C,D,answer,image
-Melaka F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,D,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,B,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Melaka F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：按答案的处理，125,000包括新车：旧车净值125,000 − 50,000 − 15,000 = 60,000；累计折旧15,000 + 6,000 + 1,250 = RM22,250。
+Bahasa Melayu: Mengikut kunci, 125,000 termasuk kenderaan baharu: nilai buku lama 60,000. Susut nilai terkumpul = 15,000 + 6,000 + 50,000 × 10% × 3/12 = RM22,250."
+,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：记到同类别但错误供应商账户，属于账户混淆错误（kesilapan komisen）。
+Bahasa Melayu: Belian dicatat dalam akaun pembekal yang salah tetapi dalam kelas sama ialah kesilapan komisen."
+,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：现金销售占40%，38,400 × 40% = RM15,360。
+Bahasa Melayu: Jualan tunai ialah 40%: 38,400 × 40% = RM15,360."
+,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
+Bahasa Melayu: Kos jualan = 120,000 − 59,520 = 60,480; inventori purata = 60,480 ÷ 8 = RM7,560."
+,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：资本 = 资产 − 负债；应收账款是资产，银行透支是负债。
+Bahasa Melayu: Modal = aset − liabiliti; Akaun Belum Terima ialah aset dan overdraf bank ialah liabiliti."
+,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：一般合伙具有无限责任，且向SSM注册。现有答案 B 的“无限至出资额”措辞矛盾，C 的注册特征正确，待核对。
+Bahasa Melayu: Perkongsian biasa mempunyai liabiliti tidak terhad dan didaftarkan dengan SSM. Ayat B bercanggah; ciri pendaftaran dalam C adalah betul dan perlu disemak."
+,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：收款 = 5,428 + 6,840 − 480 − 3,862 = RM7,926；坏账准备不是应收账款控制账户付款。
+Bahasa Melayu: Kutipan = 5,428 + 6,840 − 480 − 3,862 = RM7,926; PHR bukan item pengurangan dalam akaun kawalan."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：提款利息记利润分配账户贷方，资本利息记借方。因此概念对应 D，现有答案 C 待确认。
+Bahasa Melayu: Faedah ambilan dikreditkan dalam akaun pengasingan; faedah modal didebitkan. Konsep memberi D, tetapi kunci sedia ada C perlu disahkan."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：变现结果 = 27,000 − 35,000 − 600 = 亏RM8,600，应为 D。现有 B 把同金额标成盈利，待确认。
+Bahasa Melayu: Hasil realisasi = 27,000 − 35,000 − 600 = rugi RM8,600, pilihan D. Kunci B menyatakan untung dan perlu disahkan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：指定建球场的捐款属于资本收入，增加累计基金。
+Bahasa Melayu: Derma khas membina gelanggang ialah penerimaan modal yang menambah dana terkumpul."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：退还超额认购款：借记普通股申请账户、贷记银行RM200,000。
+Bahasa Melayu: Pulangan lebihan langganan: debit Permohonan Syer Biasa, kredit Bank RM200,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：缴足股本 = 500,000 × RM1 = RM500,000。现有 A 金额正确；D 的“unit syer biasa RM1 sesyer”披露每股价最完整，格式待核对。
+Bahasa Melayu: Modal berbayar = 500,000 × RM1 = RM500,000. Amaun A betul; D menyatakan harga sesyer dengan paling lengkap. Format kunci perlu disemak."
+,radio,F5 Bab 5,A,B,C,D,D,Picture34.png,"中文：优先股股息1,500,000 × 6% = 90,000；普通股800,000 × 0.06 = 48,000；合计RM138,000。
+Bahasa Melayu: Dividen keutamaan = 1,500,000 × 6% = 90,000; biasa = 800,000 × 0.06 = 48,000; jumlah RM138,000."
+,radio,F5 Bab 6,A,B,C,D,B,Picture35.png,"中文：期末现金 = 400 + 650 + 150 − 130 − 290 = RM780。
+Bahasa Melayu: Baki akhir = 400 + 650 + 150 − 130 − 290 = RM780."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：本期会费收入 = 实收2,180 − 期初欠费105 − 期末预收65 = RM2,010。
+Bahasa Melayu: Hasil yuran = kutipan 2,180 − tunggakan awal 105 − yuran belum terperoleh akhir 65 = RM2,010."
+,radio,F5 Bab 6,A,B,C,D,B,Picture37.png,"中文：盈余 = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600。
+Bahasa Melayu: Lebihan = 15,000 + 5,300 − 1,000 − 3,500 − 2,200 = RM13,600."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：特许使用费和商标费可直接归属生产，属于直接费用；租金和折旧属于间接费用。
+Bahasa Melayu: Royalti dan cap dagangan ialah belanja langsung; sewa kilang dan susut nilai mesin ialah kos overhed."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：间接费用 = 主管工资20,000 + 水电5,000 + 其他9,000 = RM34,000；生产工人工资属直接人工。
+Bahasa Melayu: Overhed = gaji penyelia 20,000 + utiliti 5,000 + pelbagai belanja 9,000 = RM34,000; gaji pekerja pengeluaran ialah buruh langsung."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：目标销量 = (12,000 + 6,000) ÷ (200 − 120) = 225单位。
+Bahasa Melayu: Unit untuk untung sasaran = (12,000 + 6,000) ÷ (200 − 120) = 225 unit."

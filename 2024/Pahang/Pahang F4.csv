@@ -1,22 +1,43 @@
-﻿title,type,question,A,B,C,D,answer,image
-Pahang F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,C,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,C,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,A,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,C,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,D,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,B,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,D,Picture21.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Pahang F4,radio,F4 Bab 1,A,B,C,D,B,Picture1.png,"中文：不偏袒、不受利益方影响，体现客观性职业道德。
+Bahasa Melayu: Tidak berat sebelah atau dipengaruhi pihak berkepentingan menepati etika objektiviti."
+,radio,F4 Bab 1,A,B,C,D,C,Picture2.png,"中文：机器按购入成本10,000记录，不改用市价8,000，体现成本原则。
+Bahasa Melayu: Mesin direkod pada kos belian 10,000, bukan harga pasaran 8,000, mengikut prinsip kos."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：一个业主承担全部盈亏、无限责任及个人所得税，是独资企业。
+Bahasa Melayu: Pemilik tunggal menanggung semua untung rugi, liabiliti tidak terhad dan cukai pendapatan individu."
+,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：非流动资产 = 办公设备8,000 + 车辆15,000 = RM23,000。
+Bahasa Melayu: Aset bukan semasa = alatan pejabat 8,000 + kenderaan 15,000 = RM23,000."
+,radio,F4 Bab 2,A,B,C,D,C,Picture5.png,"中文：提款减少资本，应在等式扣除，不能加上，所以 C 的等式错误。
+Bahasa Melayu: Ambilan mengurangkan modal dan perlu ditolak, bukannya ditambah; persamaan C salah."
+,radio,F4 Bab 3,A,B,C,D,A,Picture6.png,"中文：赊销增加应收3,330、减少存货2,860，利润470使资本增加。
+Bahasa Melayu: Jualan kredit menambah ABT 3,330, mengurangkan inventori 2,860 dan menambah modal melalui untung 470."
+,radio,F4 Bab 4,A,B,C,D,D,Picture7.png,"中文：凭证是交易证据；财务报表直接依据分类账和试算表编制，而不是直接逐张凭证汇总。
+Bahasa Melayu: Dokumen membuktikan urus niaga; rujukan langsung Penyata Kewangan ialah lejar dan Imbangan Duga."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：2月16日已超过15天现金折扣期限，须全付RM1,800。
+Bahasa Melayu: Bayaran 16 Februari melebihi tempoh diskaun 15 hari, maka hutang penuh RM1,800 dibayar."
+,radio,F4 Bab 5,A,B,C,D,A,Picture9.png,"中文：包括现金与车辆的开业资本综合分录记普通日记簿。
+Bahasa Melayu: Catatan pembukaan yang melibatkan tunai dan kenderaan sebagai modal direkod dalam Jurnal Am."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：更正错账和业主取用商品属于普通日记簿；商品赊销和退货使用特别日记簿。
+Bahasa Melayu: Pembetulan kesilapan dan ambilan barang niaga direkod dalam Jurnal Am; jualan kredit dan pulangan dalam jurnal khas."
+,radio,F4 Bab 5,A,B,C,D,C,Picture11.png,"中文：卖方借项通知副本增加客户销售欠款，记销售日记簿。
+Bahasa Melayu: Nota debit salinan penjual menambah jualan kredit dan direkod dalam Jurnal Jualan."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：收到支票及现金账单付款都有现金或银行变动，记入现金簿。
+Bahasa Melayu: Penerimaan cek dan pembayaran bil tunai melibatkan tunai atau bank, maka masuk Buku Tunai."
+,radio,F4 Bab 7,A,B,C,D,D,Picture13.png,"中文：速递费及办公室报刊是小额日常支付，适合零用现金簿。
+Bahasa Melayu: Pos laju serta akhbar dan majalah pejabat ialah pembayaran kecil dalam Buku Tunai Runcit."
+,radio,F4 Bab 7,A,B,C,D,D,Picture14.png,"中文：客户及供应商个人账户分别在销售与购货辅助分类账。
+Bahasa Melayu: Akaun pelanggan dan pembekal direkod dalam Lejar Subsidiari Jualan dan Belian."
+,radio,F4 Bab 8,A,B,C,D,C,Picture15.png,"中文：企业自用家具增加资产，借记家具；由私人款支付则贷记资本。
+Bahasa Melayu: Perabot kegunaan perniagaan didebitkan; wang peribadi pemilik menyebabkan Modal dikreditkan."
+,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：赊销 = 期末5,580 + 收款8,500 + 对销500 − 期初7,070 − 退票2,350 = RM5,160。
+Bahasa Melayu: Jualan kredit = 5,580 + 8,500 + kontra 500 − 7,070 − cek tak layan 2,350 = RM5,160."
+,radio,F4 Bab 8,A,B,C,D,C,Picture17.png,"中文：购货退回是贷方RM380；折扣给予是借方费用RM170。
+Bahasa Melayu: Pulangan belian berbaki kredit RM380; diskaun diberi berbaki debit RM170."
+,radio,F4 Bab 8,A,B,C,D,A,Picture18.png,"中文：逐项取成本和市价较低值：4,500 + 2,980 + 5,210 + 8,200 = RM20,890。
+Bahasa Melayu: Inventori pada nilai terendah setiap item: 4,500 + 2,980 + 5,210 + 8,200 = RM20,890."
+,radio,F4 Bab 8,A,B,C,D,B,Picture19.png,"中文：工资与贷款利息都是费用，列损益借方；租金及坏账收回是收入。
+Bahasa Melayu: Gaji dan faedah pinjaman ialah belanja debit; sewa diterima dan hutang lapuk terpulih ialah hasil kredit."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：毛利 = (66,500 − 2,200) − (6,950 + 42,000 + 1,800 − 8,000) = RM21,550。
+Bahasa Melayu: Untung kasar = (66,500 − 2,200) − (6,950 + 42,000 + 1,800 − 8,000) = RM21,550."
+,radio,F4 Bab 9,A,B,C,D,D,Picture21.png,"中文：收取的租赁押金须退还，不是收入，列流动负债。
+Bahasa Melayu: Deposit sewa diterima perlu dipulangkan dan dikelaskan sebagai liabiliti semasa, bukan hasil."

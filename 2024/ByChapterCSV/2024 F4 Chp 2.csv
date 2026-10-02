@@ -1,49 +1,97 @@
-﻿title,type,question,A,B,C,D,answer,image
-F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,C,Johor Set 1/Picture3.png
-F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,C,Johor Set 1/Picture4.png
-F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,A,Johor Set 1/Picture5.png
-F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,A,Johor Set 2/Picture3.png
-F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,B,Johor Set 2/Picture4.png
-F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,D,Johor Set 2/Picture5.png
-F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png
-F4 Chp 2,radio,Kedah_Q04,A,B,C,D,D,Kedah/Picture4.png
-F4 Chp 2,radio,Kedah_Q05,A,B,C,D,C,Kedah/Picture5.png
-F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,D,Kelantan/Picture3.png
-F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,D,Kelantan/Picture4.png
-F4 Chp 2,radio,Kelantan_Q05,A,B,C,D,D,Kelantan/Picture5.png
-F4 Chp 2,radio,Kl_Q03,A,B,C,D,A,KL/Picture3.png
-F4 Chp 2,radio,Kl_Q04,A,B,C,D,A,KL/Picture4.png
-F4 Chp 2,radio,Kl_Q05,A,B,C,D,B,KL/Picture5.png
-F4 Chp 2,radio,Melaka_Q03,A,B,C,D,D,Melaka/Picture3.png
-F4 Chp 2,radio,Melaka_Q04,A,B,C,D,A,Melaka/Picture4.png
-F4 Chp 2,radio,Melaka_Q05,A,B,C,D,A,Melaka/Picture5.png
-F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,A,MRSM/Picture3.png
-F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,A,MRSM/Picture4.png
-F4 Chp 2,radio,Mrsm_Q05,A,B,C,D,C,MRSM/Picture5.png
-F4 Chp 2,radio,NegeriSembilan_Q03,A,B,C,D,A,Negeri Sembilan/Picture3.png
-F4 Chp 2,radio,NegeriSembilan_Q04,A,B,C,D,D,Negeri Sembilan/Picture4.png
-F4 Chp 2,radio,NegeriSembilan_Q05,A,B,C,D,C,Negeri Sembilan/Picture5.png
-F4 Chp 2,radio,Pahang_Q03,A,B,C,D,B,Pahang/Picture3.png
-F4 Chp 2,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png
-F4 Chp 2,radio,Pahang_Q05,A,B,C,D,C,Pahang/Picture5.png
-F4 Chp 2,radio,PenangPpdBaratDaya_Q03,A,B,C,D,D,Penang PPD Barat Daya/Picture3.png
-F4 Chp 2,radio,PenangPpdBaratDaya_Q04,A,B,C,D,D,Penang PPD Barat Daya/Picture4.png
-F4 Chp 2,radio,PenangPpdBaratDaya_Q05,A,B,C,D,C,Penang PPD Barat Daya/Picture5.png
-F4 Chp 2,radio,Perak_Q03,A,B,C,D,D,Perak/Picture3.png
-F4 Chp 2,radio,Perak_Q04,A,B,C,D,B,Perak/Picture4.png
-F4 Chp 2,radio,Perak_Q05,A,B,C,D,D,Perak/Picture5.png
-F4 Chp 2,radio,Perlis_Q03,A,B,C,D,C,Perlis/Picture3.png
-F4 Chp 2,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png
-F4 Chp 2,radio,Perlis_Q05,A,B,C,D,A,Perlis/Picture5.png
-F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,B,Selangor Set 1/Picture3.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,D,Selangor Set 1/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 1/Picture5.png
-F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,D,Selangor Set 2/Picture3.png
-F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor Set 2/Picture4.png
-F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 2/Picture5.png
-F4 Chp 2,radio,Smka_Q03,A,B,C,D,B,SMKA/Picture3.png
-F4 Chp 2,radio,Smka_Q04,A,B,C,D,C,SMKA/Picture4.png
-F4 Chp 2,radio,Smka_Q05,A,B,C,D,B,SMKA/Picture5.png
-F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png
-F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,B,Terengganu/Picture4.png
-F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,C,Johor Set 1/Picture3.png,"中文：股东人数无上限、董事会管理及有限责任，是上市公众有限公司的特点。
+Bahasa Melayu: Pemegang syer tidak terhad, pengurusan Lembaga Pengarah dan liabiliti terhad menunjukkan syarikat awam berhad."
+F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,C,Johor Set 1/Picture4.png,"中文：现金、存货与定期存款在本题分类中属流动资产；土地及车辆是非流动资产。
+Bahasa Melayu: Tunai, inventori dan simpanan tetap dikategorikan sebagai aset semasa dalam soalan."
+F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,A,Johor Set 1/Picture5.png,"中文：家具净成本 = 5,000 − 500 = RM4,500；银行减少 RM1,500，尚欠 RM3,000。
+Bahasa Melayu: Perabot RM4,500 selepas diskaun niaga; bank berkurang RM1,500 dan ABB bertambah RM3,000."
+F4 Chp 2,radio,JohorSet_Q03,A,B,C,D,A,Johor Set 2/Picture3.png,"中文：合作社成员承担有限责任，因此“无限责任”不是其特点。
+Bahasa Melayu: Koperasi mempunyai liabiliti terhad, maka liabiliti tidak terhad bukan cirinya."
+F4 Chp 2,radio,JohorSet_Q04,A,B,C,D,B,Johor Set 2/Picture4.png,"中文：购货运费把货品运入企业，属于购货成本，纳入销货成本。
+Bahasa Melayu: Angkutan masuk ialah kos membawa barang niaga masuk dan termasuk dalam kos jualan."
+F4 Chp 2,radio,JohorSet_Q05,A,B,C,D,D,Johor Set 2/Picture5.png,"中文：业主用私人资金购入企业电脑，增加企业资产及资本，不增加企业负债。
+Bahasa Melayu: Komputer dibeli dengan wang peribadi menambah aset dan modal, tanpa pertambahan liabiliti perniagaan."
+F4 Chp 2,radio,Kedah_Q03,A,B,C,D,A,Kedah/Picture3.png,"中文：贷款利息属于融资费用，是非营业费用；工资、文具和水电属于营业费用。
+Bahasa Melayu: Faedah pinjaman ialah belanja pembiayaan bukan operasi; gaji, alat tulis dan kadar bayaran ialah belanja operasi."
+F4 Chp 2,radio,Kedah_Q04,A,B,C,D,D,Kedah/Picture4.png,"中文：业主投入私人电脑，使企业资产和业主权益增加，负债不变。
+Bahasa Melayu: Komputer peribadi yang dibawa masuk menambah aset dan ekuiti pemilik tanpa mengubah liabiliti."
+F4 Chp 2,radio,Kedah_Q05,A,B,C,D,C,Kedah/Picture5.png,"中文：补收运输费会增加客户欠款，因此发出借项通知单（Nota Debit）。
+Bahasa Melayu: Nota Debit dihantar untuk menambah hutang pelanggan bagi caj pengangkutan RM120."
+F4 Chp 2,radio,Kelantan_Q03,A,B,C,D,D,Kelantan/Picture3.png,"中文：现金增加1,700、存货减少1,300，资产及权益净增RM400。
+Bahasa Melayu: Tunai bertambah 1,700 dan inventori berkurang 1,300; aset serta ekuiti bertambah RM400."
+F4 Chp 2,radio,Kelantan_Q04,A,B,C,D,D,Kelantan/Picture4.png,"中文：账户结单列出客户尚欠款项，提醒客户付款。
+Bahasa Melayu: Penyata Akaun menunjukkan baki hutang pelanggan sebagai peringatan pembayaran."
+F4 Chp 2,radio,Kelantan_Q05,A,B,C,D,D,Kelantan/Picture5.png,"中文：供应商发票追加的进货运费增加应付账款，记入应付控制账户贷方。
+Bahasa Melayu: Angkutan masuk yang dicaj pembekal melalui invois menambah hutang dan dikreditkan dalam Akaun Kawalan Belum Bayar."
+F4 Chp 2,radio,Kl_Q03,A,B,C,D,A,KL/Picture3.png,"中文：业主投入私人资产没有外部交易凭证，使用内部备忘录 Memo。
+Bahasa Melayu: Aset peribadi dibawa masuk oleh pemilik direkod berdasarkan dokumen dalaman Memo."
+F4 Chp 2,radio,Kl_Q04,A,B,C,D,A,KL/Picture4.png,"中文：业主权益 = 10,000 + 6,980 − 6,000 − 580 = RM10,400。
+Bahasa Melayu: Ekuiti pemilik = 10,000 + 6,980 − 6,000 − 580 = RM10,400."
+F4 Chp 2,radio,Kl_Q05,A,B,C,D,B,KL/Picture5.png,"中文：销售成本 = 3,500 + 11,800 − 420 + 680 − 2,140 = RM13,420。
+Bahasa Melayu: Kos jualan = 3,500 + 11,800 − 420 + 680 − 2,140 = RM13,420."
+F4 Chp 2,radio,Melaka_Q03,A,B,C,D,D,Melaka/Picture3.png,"中文：专业合伙如诊所有2–50人，承担无限责任，按协议分配利润。
+Bahasa Melayu: Perkongsian profesional seperti klinik boleh mempunyai 2–50 pekongsi, liabiliti tidak terhad dan pembahagian untung menurut perjanjian."
+F4 Chp 2,radio,Melaka_Q04,A,B,C,D,A,Melaka/Picture4.png,"中文：出售自用家具的利润不是鞋店主要销售活动收入，属于非营业收入。
+Bahasa Melayu: Untung jualan perabot bukan hasil aktiviti utama jualan kasut, maka merupakan hasil bukan operasi."
+F4 Chp 2,radio,Melaka_Q05,A,B,C,D,A,Melaka/Picture5.png,"中文：银行减少350、债务减少400；获得折扣50增加利润及权益。
+Bahasa Melayu: Bank berkurang 350, hutang berkurang 400; diskaun diterima 50 menambah keuntungan dan ekuiti."
+F4 Chp 2,radio,Mrsm_Q03,A,B,C,D,A,MRSM/Picture3.png,"中文：展开的等式为资产 = 负债 + 资本 + 收入 − 费用，所以 X 是收入。
+Bahasa Melayu: Persamaan diperluas ialah Aset = Liabiliti + Modal + Hasil − Belanja; X ialah Hasil."
+F4 Chp 2,radio,Mrsm_Q04,A,B,C,D,A,MRSM/Picture4.png,"中文：提款是资本的减项，对应资本账户；它减少业主权益。
+Bahasa Melayu: Ambilan ialah akaun kontra kepada Modal kerana mengurangkan ekuiti pemilik."
+F4 Chp 2,radio,Mrsm_Q05,A,B,C,D,C,MRSM/Picture5.png,"中文：先扣商业折扣后发票9,000，7日内再享现金折扣5%：9,000 × 5% = RM450。
+Bahasa Melayu: Diskaun tunai atas invois selepas diskaun niaga: 9,000 × 5% = RM450 kerana dibayar dalam 7 hari."
+F4 Chp 2,radio,NegeriSembilan_Q03,A,B,C,D,A,Negeri Sembilan/Picture3.png,"中文：提款账户是资本减项，减少业主权益，正确配对为 Ambilan 与 Modal。
+Bahasa Melayu: Ambilan ialah akaun kontra kepada Modal kerana mengurangkan ekuiti pemilik."
+F4 Chp 2,radio,NegeriSembilan_Q04,A,B,C,D,D,Negeri Sembilan/Picture4.png,"中文：私人车辆投入企业，增加资产及资本，负债不变。
+Bahasa Melayu: Kenderaan peribadi dibawa masuk menambah aset dan ekuiti pemilik tanpa mengubah liabiliti."
+F4 Chp 2,radio,NegeriSembilan_Q05,A,B,C,D,C,Negeri Sembilan/Picture5.png,"中文：采购单只表示订购意向，尚未证明会计交易发生，属于非原始凭证。
+Bahasa Melayu: Pesanan Belian menunjukkan pesanan sahaja dan belum membuktikan urus niaga berlaku; ia dokumen bukan sumber."
+F4 Chp 2,radio,Pahang_Q03,A,B,C,D,B,Pahang/Picture3.png,"中文：一个业主承担全部盈亏、无限责任及个人所得税，是独资企业。
+Bahasa Melayu: Pemilik tunggal menanggung semua untung rugi, liabiliti tidak terhad dan cukai pendapatan individu."
+F4 Chp 2,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png,"中文：非流动资产 = 办公设备8,000 + 车辆15,000 = RM23,000。
+Bahasa Melayu: Aset bukan semasa = alatan pejabat 8,000 + kenderaan 15,000 = RM23,000."
+F4 Chp 2,radio,Pahang_Q05,A,B,C,D,C,Pahang/Picture5.png,"中文：提款减少资本，应在等式扣除，不能加上，所以 C 的等式错误。
+Bahasa Melayu: Ambilan mengurangkan modal dan perlu ditolak, bukannya ditambah; persamaan C salah."
+F4 Chp 2,radio,PenangPpdBaratDaya_Q03,A,B,C,D,D,Penang PPD Barat Daya/Picture3.png,"中文：有限公司股东的责任以投入的股本为限，所以 Syarikat Intan Jaya Berhad 属于有限责任组织。
+Bahasa Melayu: Liabiliti pemegang syer syarikat berhad terhad kepada modal yang dilaburkan."
+F4 Chp 2,radio,PenangPpdBaratDaya_Q04,A,B,C,D,D,Penang PPD Barat Daya/Picture4.png,"中文：T 型财务状况表列示资本和提款；营运资本是另行计算的分析指标，不是该表的独立项目。
+Bahasa Melayu: Modal kerja ialah ukuran aset semasa tolak liabiliti semasa, bukan butiran berasingan dalam Penyata Kedudukan Kewangan bentuk T."
+F4 Chp 2,radio,PenangPpdBaratDaya_Q05,A,B,C,D,C,Penang PPD Barat Daya/Picture5.png,"中文：资本 = 资产 − 负债 = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190。
+Bahasa Melayu: Modal = aset − liabiliti = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190."
+F4 Chp 2,radio,Perak_Q03,A,B,C,D,D,Perak/Picture3.png,"中文：股息和服务收入都是收益；现金属于资产，工资和折旧属于费用。
+Bahasa Melayu: Dividen dan hasil perkhidmatan ialah hasil; tunai ialah aset, manakala gaji dan susut nilai ialah belanja."
+F4 Chp 2,radio,Perak_Q04,A,B,C,D,B,Perak/Picture4.png,"中文：非流动负债是超过一年才偿还的债务，房屋抵押贷款是典型例子；题目以 I 和 IV 作为答案。
+Bahasa Melayu: Liabiliti bukan semasa ialah hutang yang perlu dijelaskan melebihi satu tahun, seperti gadai janji; skema memilih I dan IV."
+F4 Chp 2,radio,Perak_Q05,A,B,C,D,D,Perak/Picture5.png,"中文：客户账单 folio pelanggan 常用于服务业列出客户消费，并作为现金结算的单据。
+Bahasa Melayu: Folio pelanggan menyenaraikan caj perkhidmatan kepada pelanggan dan digunakan sebagai dokumen urus niaga tunai."
+F4 Chp 2,radio,Perlis_Q03,A,B,C,D,C,Perlis/Picture3.png,"中文：投入私人电脑增加资本；提款支付私人电费减少业主权益，所以 R 增、S 减。
+Bahasa Melayu: Komputer peribadi dibawa masuk menambah modal; ambilan untuk bil rumah mengurangkan ekuiti, maka R bertambah dan S berkurang."
+F4 Chp 2,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png,"中文：送货单和采购订单仅确认货物交付及订购，不直接作为记账来源单据。
+Bahasa Melayu: Nota serahan dan pesanan belian ialah dokumen bukan sumber kerana tidak menjadi asas terus catatan perakaunan."
+F4 Chp 2,radio,Perlis_Q05,A,B,C,D,A,Perlis/Picture5.png,"中文：原始发票证明赊购商品；贷项通知单用于退货减债，支票存根证明付款。
+Bahasa Melayu: Invois asal membuktikan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan pembayaran."
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,B,Selangor Set 1/Picture3.png,"中文：车辆累计折旧是车辆资产的抵销账户，在财务状况表从车辆成本中扣除。
+Bahasa Melayu: Susut nilai terkumpul ialah akaun kontra kepada kenderaan dan ditolak daripada kosnya dalam Penyata Kedudukan Kewangan."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,D,Selangor Set 1/Picture4.png,"中文：银行发出扣账通知和入账通知，即 Makluman Debit、Makluman Kredit；Nota Debit、Nota Kredit 则由商家使用。
+Bahasa Melayu: Bank mengeluarkan Makluman Debit dan Makluman Kredit; nota debit dan nota kredit digunakan oleh perniagaan."
+F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 1/Picture5.png,"中文：向客户发借项通知单补收少计的货款，会增加赊销，记入销货日记簿。
+Bahasa Melayu: Nota debit kerana invois terkurang caj menambah jualan kredit dan direkod dalam Jurnal Jualan."
+F4 Chp 2,radio,SelangorSet_Q03,A,B,C,D,D,Selangor Set 2/Picture3.png,"中文：坏账准备从应收账款扣除，会减少流动资产净值；累计折旧则抵减非流动资产。
+Bahasa Melayu: Peruntukan hutang ragu ditolak daripada Akaun Belum Terima dan mengurangkan nilai bersih aset semasa; susut nilai terkumpul berkaitan aset bukan semasa."
+F4 Chp 2,radio,SelangorSet_Q04,A,B,C,D,B,Selangor Set 2/Picture4.png,"中文：企业把银行款项转为营业现金，是内部现金转账，使用备忘录 memo 作为来源单据。
+Bahasa Melayu: Pengeluaran wang bank untuk kegunaan perniagaan ialah pindahan dalaman bank kepada tunai dan disokong oleh memo."
+F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,B,Selangor Set 2/Picture5.png,"中文：家具商的餐桌属于待售商品，收到赊购发票 RM800，记购货日记簿。
+Bahasa Melayu: Set meja makan ialah barang niaga kedai perabot; invois belian kredit RM800 direkod dalam Jurnal Belian."
+F4 Chp 2,radio,Smka_Q03,A,B,C,D,B,SMKA/Picture3.png,"中文：销货成本 = 期初存货 + 购货成本 − 期末存货，因此 W 是 kos belian。
+Bahasa Melayu: Kos jualan = inventori awal + kos belian − inventori akhir, maka W ialah kos belian."
+F4 Chp 2,radio,Smka_Q04,A,B,C,D,C,SMKA/Picture4.png,"中文：赊售成本 RM7,000 的货物售价 RM8,200，使存货减少 7,000、应收增加 8,200，并因利润使资本增加 1,200。
+Bahasa Melayu: Jualan kredit RM8,200 bagi barang berkos RM7,000 mengurangkan inventori RM7,000, menambah ABT RM8,200 dan modal RM1,200."
+F4 Chp 2,radio,Smka_Q05,A,B,C,D,B,SMKA/Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
+Bahasa Melayu: Penghapusan hutang pelanggan merupakan pelarasan dalaman yang disokong oleh memo."
+F4 Chp 2,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png,"中文：车辆按原始购入成本 RM40,000 记录，体现成本原则；市场价下跌不会直接取代其原价。
+Bahasa Melayu: Prinsip kos merekod kenderaan pada kos asal RM40,000 walaupun harga pasaran menurun."
+F4 Chp 2,radio,Terengganu_Q04,A,B,C,D,B,Terengganu/Picture4.png,"中文：按课程，专业合伙可由 2 至 50 人组成，普通合伙才是 2 至 20 人，所以例外为 B。
+Bahasa Melayu: Menurut sukatan, perkongsian profesional boleh mempunyai 2 hingga 50 orang; had 2 hingga 20 ialah perkongsian biasa, maka B ialah pengecualian."
+F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png,"中文：销货退回减少营业账户净销货；运出费是营业费用，列损益账户。
+Bahasa Melayu: Pulangan jualan mengurangkan jualan bersih dalam Akaun Perdagangan; angkutan keluar ialah belanja Akaun Untung Rugi."

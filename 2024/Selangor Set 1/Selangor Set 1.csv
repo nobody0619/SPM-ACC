@@ -1,41 +1,81 @@
-﻿title,type,question,A,B,C,D,answer,image
-Selangor Set 1 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png
-,radio,F4 Bab 1,A,B,C,D,A,Picture2.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture3.png
-,radio,F4 Bab 2,A,B,C,D,D,Picture4.png
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png
-,radio,F4 Bab 3,A,B,C,D,C,Picture6.png
-,radio,F4 Bab 4,A,B,C,D,A,Picture7.png
-,radio,F4 Bab 4,A,B,C,D,D,Picture8.png
-,radio,F4 Bab 5,A,B,C,D,D,Picture9.png
-,radio,F4 Bab 5,A,B,C,D,A,Picture10.png
-,radio,F4 Bab 5,A,B,C,D,B,Picture11.png
-,radio,F4 Bab 6,A,B,C,D,B,Picture12.png
-,radio,F4 Bab 7,A,B,C,D,A,Picture13.png
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png
-,radio,F4 Bab 8,A,B,C,D,A,Picture15.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture16.png
-,radio,F4 Bab 8,A,B,C,D,D,Picture17.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture18.png
-,radio,F4 Bab 8,A,B,C,D,C,Picture19.png
-,radio,F4 Bab 9,A,B,C,D,C,Picture20.png
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png
-,radio,F5 Bab 1,A,B,C,D,C,Picture22.png
-,radio,F5 Bab 2,A,B,C,D,A,Picture23.png
-,radio,F5 Bab 2,A,B,C,D,B,Picture24.png
-,radio,F5 Bab 3,A,B,C,D,C,Picture25.png
-,radio,F5 Bab 3,A,B,C,D,B,Picture26.png
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture28.png
-,radio,F5 Bab 4,A,B,C,D,C,Picture29.png
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png
-,radio,F5 Bab 4,A,B,C,D,A,Picture31.png
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png
-,radio,F5 Bab 5,A,B,C,D,C,Picture33.png
-,radio,F5 Bab 5,A,B,C,D,A,Picture34.png
-,radio,F5 Bab 6,A,B,C,D,C,Picture35.png
-,radio,F5 Bab 6,A,B,C,D,D,Picture36.png
-,radio,F5 Bab 6,A,B,C,D,A,Picture37.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture38.png
-,radio,F5 Bab 7,A,B,C,D,C,Picture39.png
-,radio,F5 Bab 7,A,B,C,D,A,Picture40.png
+﻿title,type,question,A,B,C,D,answer,image,explanation
+Selangor Set 1 2024,radio,F4 Bab 1,A,B,C,D,C,Picture1.png,"中文：CIMA 专注管理会计，培养擅长企业管理与经营决策的专业会计师。
+Bahasa Melayu: CIMA menumpukan perakaunan pengurusan dan melahirkan akauntan mahir dalam pengurusan serta pentadbiran perniagaan."
+,radio,F4 Bab 1,A,B,C,D,A,Picture2.png,"中文：业主投入电脑增加资本；以个人名义捐出商品属提款，减少业主权益。
+Bahasa Melayu: Komputer dibawa masuk menambah modal; derma barang atas nama sendiri ialah ambilan yang mengurangkan ekuiti pemilik."
+,radio,F4 Bab 2,A,B,C,D,B,Picture3.png,"中文：车辆累计折旧是车辆资产的抵销账户，在财务状况表从车辆成本中扣除。
+Bahasa Melayu: Susut nilai terkumpul ialah akaun kontra kepada kenderaan dan ditolak daripada kosnya dalam Penyata Kedudukan Kewangan."
+,radio,F4 Bab 2,A,B,C,D,D,Picture4.png,"中文：银行发出扣账通知和入账通知，即 Makluman Debit、Makluman Kredit；Nota Debit、Nota Kredit 则由商家使用。
+Bahasa Melayu: Bank mengeluarkan Makluman Debit dan Makluman Kredit; nota debit dan nota kredit digunakan oleh perniagaan."
+,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：向客户发借项通知单补收少计的货款，会增加赊销，记入销货日记簿。
+Bahasa Melayu: Nota debit kerana invois terkurang caj menambah jualan kredit dan direkod dalam Jurnal Jualan."
+,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：定额零用现金 RM200，支出 15 + 20 = RM35，补款 RM35 后恢复原定额。
+Bahasa Melayu: Jumlah perbelanjaan runcit = 15 + 20 = RM35; rekupmen RM35 memulihkan apungan asal RM200."
+,radio,F4 Bab 4,A,B,C,D,A,Picture7.png,"中文：借记装置、贷记供应商 Lim，表示向 Lim 赊购展示架，增加资产与应付债务。
+Bahasa Melayu: Debit Lengkapan dan kredit Perniagaan Lim menunjukkan pembelian rak pameran secara kredit."
+,radio,F4 Bab 4,A,B,C,D,D,Picture8.png,"中文：赊购增加应付账款，列在应付控制账户贷方；付款、购货退回及抵销则减少债务。
+Bahasa Melayu: Belian kredit menambah hutang kepada pembekal dan dikreditkan dalam Akaun Kawalan Belum Bayar."
+,radio,F4 Bab 5,A,B,C,D,D,Picture9.png,"中文：资本正常在贷方；提款和销货退回正常在借方，所以 D 的排列正确。
+Bahasa Melayu: Modal berbaki kredit, manakala ambilan dan pulangan masuk berbaki debit; susunan D adalah betul."
+,radio,F4 Bab 5,A,B,C,D,A,Picture10.png,"中文：风扇余额 = (20 + 180 − 150) × 50 = 2,500；搅拌机余额 = (40 + 210 − 170) × 70 = 5,600；合计 RM8,100。
+Bahasa Melayu: Nilai kipas = 50 × 50 = 2,500; nilai pengisar = 80 × 70 = 5,600; inventori akhir RM8,100 berdasarkan kos yang lebih rendah."
+,radio,F4 Bab 5,A,B,C,D,B,Picture11.png,"中文：净利 = 毛利 15,300 + 租金收入 3,000 − 费率 250 − 工资 4,000 = RM14,050；期末存货已用于求毛利。
+Bahasa Melayu: Untung bersih = 15,300 + 3,000 − 250 − 4,000 = RM14,050; inventori akhir telah diambil kira dalam untung kasar."
+,radio,F4 Bab 6,A,B,C,D,B,Picture12.png,"中文：购货账户先扣商品提款，再把剩余借方余额贷记转入营业账户，不留余额至下期。
+Bahasa Melayu: Selepas ambilan barang ditolak, baki Belian ditutup dengan kredit Belian dan debit Akaun Perdagangan."
+,radio,F4 Bab 7,A,B,C,D,A,Picture13.png,"中文：现金制在收钱时确认收入；应计制在收入赚取时确认，与实际收款时间无关。
+Bahasa Melayu: Asas tunai mengiktiraf hasil apabila tunai diterima; asas akruan mengiktiraf hasil dalam tempoh diperoleh."
+,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：4 月至 8 月使用 5 个月，剩余 7 个月预付；6,600 × 7/12 = RM3,850。
+Bahasa Melayu: Lima bulan telah digunakan hingga Ogos; baki tujuh bulan prabayar = 6,600 × 7/12 = RM3,850."
+,radio,F4 Bab 8,A,B,C,D,A,Picture15.png,"中文：坏账准备减少额按课程列为收入，使本期利润增加。
+Bahasa Melayu: Pengurangan peruntukan hutang ragu dianggap hasil yang menambah untung tahun semasa."
+,radio,F4 Bab 8,A,B,C,D,D,Picture16.png,"中文：重估法折旧 = 期初家具 4,800 + 购入 1,900 − 卖出 1,800 − 期末 4,650 = RM250。
+Bahasa Melayu: Susut nilai penilaian semula = 4,800 + 1,900 − 1,800 − 4,650 = RM250."
+,radio,F4 Bab 8,A,B,C,D,D,Picture17.png,"中文：打印机两年折旧 = 800 × 20% × 2 = 320；账面值 RM480，卖 RM350，损失 RM130。
+Bahasa Melayu: Susut nilai dua tahun = 800 × 20% × 2 = RM320; nilai buku RM480 ditolak harga jualan RM350 menghasilkan rugi RM130."
+,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：本期租金收入按 3 月至 12 月共 10 个月确认：10 × RM500 = RM5,000；未收 12 月租金也是本期收入。
+Bahasa Melayu: Hasil sewa Mac hingga Disember ialah 10 × RM500 = RM5,000, termasuk sewa Disember yang belum diterima."
+,radio,F4 Bab 8,A,B,C,D,C,Picture19.png,"中文：营运资本 = (10,000 + 2,800 + 1,000) − (1,650 + 2,700) = RM9,450；2030 年到期贷款属非流动负债。
+Bahasa Melayu: Modal kerja = (10,000 + 2,800 + 1,000) − (1,650 + 2,700) = RM9,450; pinjaman matang 2030 ialah liabiliti bukan semasa."
+,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：原记录把借贷完全颠倒，纠正需记双倍：借记折扣给予 RM300，贷记应收账款 RM300。
+Bahasa Melayu: Catatan terbalik dibetulkan dengan amaun dua kali: debit Diskaun Diberi RM300 dan kredit Akaun Belum Terima RM300."
+,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：车辆成本误含维修费 RM500，纠正后车辆 = 50,800 − 500 = RM50,300。
+Bahasa Melayu: Nilai kenderaan selepas belanja membaiki dikeluarkan = 50,800 − 500 = RM50,300."
+,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：Hebat 资本回报率 25% 高于 Jaya 20%，按投资收益角度较适合；Jaya 的存货周转反而较快。
+Bahasa Melayu: Pulangan atas modal Hebat 25% melebihi Jaya 20%, maka lebih menarik untuk pelaburan; Jaya pula mempunyai pusing ganti inventori lebih tinggi."
+,radio,F5 Bab 2,A,B,C,D,A,Picture23.png,"中文：只记现金簿或每笔只记一个账户，均未完成复式记账，形成不完整记录。
+Bahasa Melayu: Merekod Buku Tunai sahaja atau satu akaun bagi sesuatu urus niaga menyebabkan rekod tak lengkap."
+,radio,F5 Bab 2,A,B,C,D,B,Picture24.png,"中文：本期水电费 = 付款 2,510 − 期初应付 235 + 期末应付 190 = RM2,465。
+Bahasa Melayu: Utiliti semasa = bayaran 2,510 − belum bayar awal 235 + belum bayar akhir 190 = RM2,465."
+,radio,F5 Bab 3,A,B,C,D,C,Picture25.png,"中文：现金控制确保企业有足够现金支付到期费用和债务，维持正常营运。
+Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk membayar belanja dan hutang apabila perlu."
+,radio,F5 Bab 3,A,B,C,D,B,Picture26.png,"中文：股息代收与贷项转账增加客户存款，银行账单记贷方；支票簿费用及银行收费记借方。
+Bahasa Melayu: Dividen dan pindahan kredit menambah baki pelanggan serta dicatat kredit Penyata Bank; buku cek dan caj bank dicatat debit."
+,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：二月销货 = 5,000 × 1.1 = 5,500；三月 = 6,050；三月收款 = 6,050 × 70% + 5,500 × 30% = RM5,885。
+Bahasa Melayu: Jualan Februari RM5,500 dan Mac RM6,050; penerimaan Mac = 6,050 × 70% + 5,500 × 30% = RM5,885."
+,radio,F5 Bab 4,A,B,C,D,C,Picture28.png,"中文：提款利息是向合伙人收取的费用，减少其权益，借记合伙人往来账户。
+Bahasa Melayu: Faedah atas ambilan mengurangkan hak pekongsi dan didebitkan dalam Akaun Semasa pekongsi."
+,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：用私人现金装修相当于增加资本；利息 = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600。
+Bahasa Melayu: Tunai peribadi untuk ubah suai ialah modal tambahan; faedah = 150,000 × 5% + 6,000 × 5% × 4/12 = RM7,600."
+,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：两位合伙人的往来账户均为借方余额，合计 RM3,500 从资本 RM80,000 扣除。
+Bahasa Melayu: Kedua-dua Akaun Semasa berbaki debit; jumlah RM3,500 ditolak daripada modal RM80,000 dalam ekuiti pemilik."
+,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：变现利润 = 售价 86,000 − 资产账面值 73,000 − 变现费用 1,900 = RM11,100；按账面值偿债不会产生额外盈亏。
+Bahasa Melayu: Untung realisasi = 86,000 − 73,000 − 1,900 = RM11,100; pembayaran liabiliti pada nilai bukunya tidak menghasilkan untung atau rugi tambahan."
+,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：优先股一般没有权在股东大会投票选举董事，这是其权利上的限制。
+Bahasa Melayu: Pemegang syer keutamaan lazimnya tidak berhak mengundi untuk memilih Lembaga Pengarah."
+,radio,F5 Bab 5,A,B,C,D,C,Picture33.png,"中文：已发行并缴足普通股 1,000,000 股，资本 = 1,000,000 × RM1.50 = RM1,500,000；权益应列明股数和金额。
+Bahasa Melayu: Modal diterbitkan dan dibayar penuh ialah 1,000,000 unit syer biasa berjumlah 1,000,000 × RM1.50 = RM1,500,000."
+,radio,F5 Bab 5,A,B,C,D,A,Picture34.png,"中文：股息按每股 25 sen 计算：1,450,000 × RM0.25 = RM362,500；无需乘股价 RM1.50。
+Bahasa Melayu: Dividen syer biasa = 1,450,000 × RM0.25 = RM362,500; harga sesyer RM1.50 tidak digunakan."
+,radio,F5 Bab 6,A,B,C,D,C,Picture35.png,"中文：俱乐部费用超过收入称为 kurangan（赤字）；营利企业收入超过费用称为 untung（利润）。
+Bahasa Melayu: Kelab mencatat kurangan apabila perbelanjaan melebihi pendapatan; entiti keuntungan mencatat untung apabila pendapatan melebihi belanja."
+,radio,F5 Bab 6,A,B,C,D,D,Picture36.png,"中文：期末现金 = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600。
+Bahasa Melayu: Baki akhir = 12,500 + 44,000 + 5,700 + 25,000 + 8,500 − 8,100 − 3,200 − 2,800 = RM81,600."
+,radio,F5 Bab 6,A,B,C,D,A,Picture37.png,"中文：本年会费收入 = 3,180 − 期初应收 105 − 期末预收 65 = RM3,010。
+Bahasa Melayu: Hasil yuran semasa = 3,180 − yuran belum terima awal 105 − yuran belum terperoleh akhir 65 = RM3,010."
+,radio,F5 Bab 7,A,B,C,D,C,Picture38.png,"中文：费用 = 租金 4,200 + 费率 (1,800 − 800 + 550) + 保险 (2,000 + 600) = RM8,350。
+Bahasa Melayu: Perbelanjaan hasil = 4,200 + (1,800 − 800 + 550) + (2,000 + 600) = RM8,350."
+,radio,F5 Bab 7,A,B,C,D,C,Picture39.png,"中文：制造成本 = 18,000 + 35,000 + 40,500 + 28,000 + 8,400 − 2,600 = RM127,300；完成品存货不进入此制造成本式。
+Bahasa Melayu: Kos pengeluaran = 18,000 + 35,000 + 40,500 + 28,000 + 8,400 − 2,600 = RM127,300; barang siap tidak dimasukkan dalam rumus ini."
+,radio,F5 Bab 7,A,B,C,D,A,Picture40.png,"中文：盈亏平衡数量 = 28,000 ÷ (50 − 15) = 800 单位。
+Bahasa Melayu: Titik pulang modal = 28,000 ÷ (50 − 15) = 800 unit."
