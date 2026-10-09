@@ -113,8 +113,8 @@ F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,C,Johor Set 1/Picture6.png,"中文：Memo �
 Bahasa Melayu: Memo dan baucer pembayaran disediakan dalam satu salinan untuk kegunaan dalaman; resit dan bil tunai memerlukan salinan untuk pihak urus niaga."
 F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,B,Johor Set 2/Picture6.png,"中文：客户退回空瓶使其欠款减少，企业发出贷项通知单 Nota Kredit。
 Bahasa Melayu: Nota Kredit dihantar kepada pelanggan untuk mengurangkan hutangnya apabila botol kosong dipulangkan."
-F4 Chp 3,radio,Kedah_Q06,A,B,C,D,A,Kedah/Picture6.png,"中文：本题答案为发票，它通知客户该笔赊购应付的金额；账户结单则汇总一段期间的交易与余额。
-Bahasa Melayu: Invois memaklumkan amaun perlu dibayar bagi sesuatu jualan kredit; Penyata Akaun merumuskan urus niaga dan baki bagi suatu tempoh."
+F4 Chp 3,radio,Kedah_Q06,A,B,C,D,A,C,Kedah/Picture6.png,"中文：A（发票）会告知客户某一笔赊销的应付金额；C（账户结单）汇总一段期间的交易及客户欠款余额。题干没有说明是单笔交易金额还是账户结欠，因此 A、C 均接受；按“顾客应付总额”的意思，C 更贴切。
+Bahasa Melayu: Invois memaklumkan amaun yang perlu dibayar bagi satu urus niaga kredit, manakala Penyata Akaun merumuskan urus niaga dan baki hutang pelanggan bagi sesuatu tempoh. Frasa soalan tidak menjelaskan sama ada amaun bagi satu urus niaga atau baki akaun, jadi A dan C diterima; C lebih sesuai dengan maksud jumlah yang perlu dibayar oleh pelanggan."
 F4 Chp 3,radio,KelantanYik_Q06,A,B,C,D,C,Kelantan YIK/Picture6.png,"中文：发票少计金额或漏记收费时，发出借项通知单增加客户欠款，故 II 和 III 正确。
 Bahasa Melayu: Nota debit dikeluarkan apabila invois terkurang nyata atau butiran tertinggal, untuk menambah hutang pelanggan; II dan III betul."
 F4 Chp 3,radio,NegeriSembilan_Q06,A,B,C,D,A,Negeri Sembilan/Picture6.png,"中文：商业折扣用于鼓励大量或批量购货；催促客户尽快清偿债务的是现金折扣。
