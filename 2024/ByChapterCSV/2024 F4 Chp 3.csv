@@ -1,33 +1,59 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,C,Johor Set 1/Picture6.png,"中文：4101 位于收入代码 4000–4999，收到佣金属于收入。
-Bahasa Melayu: Kod 4101 dalam julat hasil 4000–4999; komisen diterima ialah hasil."
-F4 Chp 3,radio,JohorSet_Q06,A,B,C,D,A,Johor Set 2/Picture6.png,"中文：按账户类别及编号设置编码，是账户图表系统 Sistem Carta Akaun。
-Bahasa Melayu: Pengelasan akaun dengan kod nombor merupakan Sistem Carta Akaun."
+F4 Chp 3,radio,Kedah_Q05,A,B,C,D,C,Kedah/Picture5.png,"中文：补收运输费会增加客户欠款，因此发出借项通知单（Nota Debit）。
+Bahasa Melayu: Nota Debit dihantar untuk menambah hutang pelanggan bagi caj pengangkutan RM120."
+F4 Chp 3,radio,Kelantan_Q04,A,B,C,D,D,Kelantan/Picture4.png,"中文：账户结单列出客户尚欠款项，提醒客户付款。
+Bahasa Melayu: Penyata Akaun menunjukkan baki hutang pelanggan sebagai peringatan pembayaran."
+F4 Chp 3,radio,Kl_Q03,A,B,C,D,A,KL/Picture3.png,"中文：业主投入私人资产没有外部交易凭证，使用内部备忘录 Memo。
+Bahasa Melayu: Aset peribadi dibawa masuk oleh pemilik direkod berdasarkan dokumen dalaman Memo."
+F4 Chp 3,radio,Mrsm_Q05,A,B,C,D,C,MRSM/Picture5.png,"中文：先扣商业折扣后发票9,000，7日内再享现金折扣5%：9,000 × 5% = RM450。
+Bahasa Melayu: Diskaun tunai atas invois selepas diskaun niaga: 9,000 × 5% = RM450 kerana dibayar dalam 7 hari."
+F4 Chp 3,radio,NegeriSembilan_Q05,A,B,C,D,C,Negeri Sembilan/Picture5.png,"中文：采购单只表示订购意向，尚未证明会计交易发生，属于非原始凭证。
+Bahasa Melayu: Pesanan Belian menunjukkan pesanan sahaja dan belum membuktikan urus niaga berlaku; ia dokumen bukan sumber."
+F4 Chp 3,radio,Perak_Q05,A,B,C,D,D,Perak/Picture5.png,"中文：客户账单 folio pelanggan 常用于服务业列出客户消费，并作为现金结算的单据。
+Bahasa Melayu: Folio pelanggan menyenaraikan caj perkhidmatan kepada pelanggan dan digunakan sebagai dokumen urus niaga tunai."
+F4 Chp 3,radio,Perlis_Q04,A,B,C,D,A,Perlis/Picture4.png,"中文：送货单和采购订单仅确认货物交付及订购，不直接作为记账来源单据。
+Bahasa Melayu: Nota serahan dan pesanan belian ialah dokumen bukan sumber kerana tidak menjadi asas terus catatan perakaunan."
+F4 Chp 3,radio,Perlis_Q05,A,B,C,D,A,Perlis/Picture5.png,"中文：原始发票证明赊购商品；贷项通知单用于退货减债，支票存根证明付款。
+Bahasa Melayu: Invois asal membuktikan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan pembayaran."
+F4 Chp 3,radio,SelangorSet_Q04,A,B,C,D,D,Selangor Set 1/Picture4.png,"中文：银行发出扣账通知和入账通知，即 Makluman Debit、Makluman Kredit；Nota Debit、Nota Kredit 则由商家使用。
+Bahasa Melayu: Bank mengeluarkan Makluman Debit dan Makluman Kredit; nota debit dan nota kredit digunakan oleh perniagaan."
+F4 Chp 3,radio,SelangorSet_Q04,A,B,C,D,B,Selangor Set 2/Picture4.png,"中文：企业把银行款项转为营业现金，是内部现金转账，使用备忘录 memo 作为来源单据。
+Bahasa Melayu: Pengeluaran wang bank untuk kegunaan perniagaan ialah pindahan dalaman bank kepada tunai dan disokong oleh memo."
+F4 Chp 3,radio,Smka_Q05,A,B,C,D,B,SMKA/Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
+Bahasa Melayu: Penghapusan hutang pelanggan merupakan pelarasan dalaman yang disokong oleh memo."
 F4 Chp 3,radio,Kedah_Q06,A,B,C,D,A,Kedah/Picture6.png,"中文：赊购先发采购单，再收到发票；退货时涉及贷项通知单，付款后取得收据。
 Bahasa Melayu: Urus niaga kredit bermula dengan pesanan belian dan invois; pulangan melibatkan nota kredit, kemudian resit selepas pembayaran."
-F4 Chp 3,radio,Kelantan_Q06,A,B,C,D,B,Kelantan/Picture6.png,"中文：收取的租赁押金日后须退还，属于负债，代码在2000–2999。
-Bahasa Melayu: Deposit sewa diterima perlu dipulangkan dan merupakan liabiliti, dengan kod 2000–2999."
-F4 Chp 3,radio,Kl_Q06,A,B,C,D,D,KL/Picture6.png,"中文：办公设备、存货、现金和家具都是企业资产；贷款和应付款是负债。
-Bahasa Melayu: Alatan pejabat, inventori, tunai dan perabot ialah aset; pinjaman dan ABT bayar ialah liabiliti."
 F4 Chp 3,radio,Melaka_Q06,A,B,C,D,C,Melaka/Picture6.png,"中文：额外运输费增加客户欠款，发借项通知单；卖方留存副本入账。
 Bahasa Melayu: Caj pengangkutan menambah hutang pelanggan; penjual mengeluarkan Nota Debit dan menyimpan salinan untuk rekod."
 F4 Chp 3,radio,Mrsm_Q06,A,B,C,D,C,MRSM/Picture6.png,"中文：银行借项通知表示客户银行余额减少，与银行贷项通知相反。
 Bahasa Melayu: Makluman Debit daripada bank memberitahu baki akaun pelanggan telah berkurang."
-F4 Chp 3,radio,NegeriSembilan_Q06,A,B,C,D,B,Negeri Sembilan/Picture6.png,"中文：赊购自用柜子属于资产：借记设备45,000、贷记供应商45,000，记录普通日记簿。
-Bahasa Melayu: Kabinet kegunaan pejabat dibeli kredit: debit Lengkapan 45,000, kredit Kedai Perabot Nogori 45,000 dalam Jurnal Am."
-F4 Chp 3,radio,Pahang_Q06,A,B,C,D,A,Pahang/Picture6.png,"中文：赊销增加应收3,330、减少存货2,860，利润470使资本增加。
-Bahasa Melayu: Jualan kredit menambah ABT 3,330, mengurangkan inventori 2,860 dan menambah modal melalui untung 470."
-F4 Chp 3,radio,PenangPpdBaratDaya_Q06,A,B,C,D,D,Penang PPD Barat Daya/Picture6.png,"中文：文具属于费用，题目费用编码范围为 4000–4999，所以使用 4020。
-Bahasa Melayu: Alat tulis ialah belanja; kod belanja 4000–4999, maka kod yang sesuai ialah 4020."
 F4 Chp 3,radio,Perak_Q06,A,B,C,D,C,Perak/Picture6.png,"中文：银行定期发给往来户的交易和余额报告是银行账单 Penyata Bank。
 Bahasa Melayu: Penyata Bank ialah dokumen bank yang menunjukkan urus niaga dan baki akaun semasa pelanggan."
-F4 Chp 3,radio,Perlis_Q06,A,B,C,D,A,Perlis/Picture6.png,"中文：发出借项通知单 RM230 增加客户欠款，按课程记入销货日记簿。
-Bahasa Melayu: Nota debit yang dihantar kepada pelanggan menambah hutangnya, maka RM230 direkod dalam Jurnal Jualan."
-F4 Chp 3,radio,SelangorSet_Q06,A,B,C,D,C,Selangor Set 1/Picture6.png,"中文：定额零用现金 RM200，支出 15 + 20 = RM35，补款 RM35 后恢复原定额。
-Bahasa Melayu: Jumlah perbelanjaan runcit = 15 + 20 = RM35; rekupmen RM35 memulihkan apungan asal RM200."
-F4 Chp 3,radio,SelangorSet_Q06,A,B,C,D,B,Selangor Set 2/Picture6.png,"中文：信封和 A4 纸都是文具，零用现金费用分析列应记 alat tulis RM26，不是付款 RM30 的总额。
-Bahasa Melayu: Sampul surat dan kertas A4 ialah alat tulis; analisis merekod RM26, bukan wang tunai RM30 yang diserahkan."
 F4 Chp 3,radio,Smka_Q06,A,B,C,D,C,SMKA/Picture6.png,"中文：净发票 = 9,400 − 10% = RM8,460。按题目把 6 日列第一天，16 日是第 11 天，超过 10 天现金折扣期限，须付全额 RM8,460。
 Bahasa Melayu: Jumlah invois = 9,400 × 90% = RM8,460. Dengan 6 Januari sebagai hari pertama, 16 Januari ialah hari ke-11 dan tiada diskaun tunai, maka bayaran RM8,460."
-F4 Chp 3,radio,Terengganu_Q06,A,B,C,D,D,Terengganu/Picture6.png,"中文：捐赠福利机构不直接用于日常营业，属于非营业费用；工资、租金和费率属营业费用。
-Bahasa Melayu: Derma kepada rumah kebajikan ialah belanja bukan operasi; gaji, sewa dan kadar bayaran ialah belanja operasi."
+F4 Chp 3,radio,JohorSet_Q07,A,B,C,D,A,Johor Set 1/Picture7.png,"中文：7 月 10 日已超过七天档，仍在十四天内：现金折扣 = 3,060 × 5% = RM153。
+Bahasa Melayu: Bayaran melebihi tujuh hari tetapi dalam empat belas hari; diskaun = RM3,060 × 5% = RM153."
+F4 Chp 3,radio,JohorSet_Q08,A,B,C,D,B,Johor Set 1/Picture8.png,"中文：银行结单列银行交易；账目结单由供应商发出以提醒未清欠款，即 I、IV。
+Bahasa Melayu: Penyata Bank menyenaraikan urus niaga bank; Penyata Akaun mengingatkan hutang pelanggan, iaitu I dan IV."
+F4 Chp 3,radio,JohorSet_Q07,A,B,C,D,D,Johor Set 2/Picture7.png,"中文：银行代收股息后增加账户余额，并发出贷方通知 Makluman Kredit。
+Bahasa Melayu: Bank mengkreditkan dividen ke akaun dan mengeluarkan Makluman Kredit."
+F4 Chp 3,radio,JohorSet_Q08,A,B,C,D,C,Johor Set 2/Picture8.png,"中文：银行结单是交易汇总参考文件，属于非原始凭证。
+Bahasa Melayu: Penyata Bank ialah dokumen bukan sumber yang merumuskan urus niaga bank."
+F4 Chp 3,radio,Kedah_Q07,A,B,C,D,C,Kedah/Picture7.png,"中文：3月20日付款已超过7天，但仍在14天内，享5%折扣：2,400 × 95% = RM2,280。
+Bahasa Melayu: Bayaran pada 20 Mac melebihi 7 hari tetapi masih dalam 14 hari; RM2,400 × 95% = RM2,280."
+F4 Chp 3,radio,NegeriSembilan_Q07,A,B,C,D,B,Negeri Sembilan/Picture7.png,"中文：账户结单列客户欠款余额，便于提醒客户清偿。
+Bahasa Melayu: Penyata Akaun menunjukkan baki hutang pelanggan supaya pembayaran dapat dibuat."
+F4 Chp 3,radio,NegeriSembilan_Q08,A,B,C,D,B,Negeri Sembilan/Picture8.png,"中文：买方以发票原件及借项通知原件记录赊购，副本由卖方保留。
+Bahasa Melayu: Pembeli merekod belian melalui invois asal dan nota debit asal; salinan disimpan penjual."
+F4 Chp 3,radio,Pahang_Q07,A,B,C,D,D,Pahang/Picture7.png,"中文：凭证是交易证据；财务报表直接依据分类账和试算表编制，而不是直接逐张凭证汇总。
+Bahasa Melayu: Dokumen membuktikan urus niaga; rujukan langsung Penyata Kewangan ialah lejar dan Imbangan Duga."
+F4 Chp 3,radio,Pahang_Q08,A,B,C,D,D,Pahang/Picture8.png,"中文：2月16日已超过15天现金折扣期限，须全付RM1,800。
+Bahasa Melayu: Bayaran 16 Februari melebihi tempoh diskaun 15 hari, maka hutang penuh RM1,800 dibayar."
+F4 Chp 3,radio,PenangPpdBaratDaya_Q08,A,B,C,D,A,Penang PPD Barat Daya/Picture8.png,"中文：发票金额高估时，卖方开出贷项通知单，以减少买方所欠金额。
+Bahasa Melayu: Nota kredit dikeluarkan apabila invois terlebih nyata untuk mengurangkan hutang pembeli."
+F4 Chp 3,radio,PenangPpdBaratDaya_Q09,A,B,C,D,B,Penang PPD Barat Daya/Picture9.png,"中文：先扣贸易折扣：8,000 × 80% = RM6,400；3 月 14 日在 10 天期限内付款，再扣 10% 现金折扣：6,400 × 90% = RM5,760。
+Bahasa Melayu: Selepas diskaun niaga, 8,000 × 80% = RM6,400. Bayaran pada 14 Mac dalam tempoh 10 hari mendapat diskaun tunai 10%: 6,400 × 90% = RM5,760."
+F4 Chp 3,radio,PenangPpdBaratDaya_Q10,A,B,C,D,D,Penang PPD Barat Daya/Picture10.png,"中文：收据确认商家收到支票 RM1,560；它是收款凭证，而不是用来调整发票金额的单据。
+Bahasa Melayu: Resit rasmi mengesahkan penerimaan cek RM1,560, bukan untuk menambah atau mengurangkan invois."
+F4 Chp 3,radio,Terengganu_Q09,A,B,C,D,C,Terengganu/Picture9.png,"中文：银行通知存款减少时发出 Makluman Debit，即扣账通知。
+Bahasa Melayu: Makluman Debit dikeluarkan oleh bank untuk memaklumkan pengurangan wang dalam akaun pelanggan."

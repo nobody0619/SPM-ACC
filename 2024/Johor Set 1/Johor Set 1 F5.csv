@@ -1,21 +1,17 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-Johor Set 1 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：整项交易完全漏记时，借贷两边一起遗漏，试算表仍平衡；单边遗漏则不平衡。
-Bahasa Melayu: Ketinggalan keseluruhan urus niaga melibatkan kedua-dua catatan, maka Imbangan Duga masih seimbang; ketinggalan sebelah tidak seimbang."
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：调整净利 = 5,430 − 未付费用45 + 应收佣金380 = RM5,765。
-Bahasa Melayu: Untung terselaras = RM5,430 − belanja terakru RM45 + komisen belum terima RM380 = RM5,765."
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：毛利率 = 13,500 ÷（60,000 − 6,000）×100% = 25%。
+,radio,F5 Bab 1,A,B,C,D,C,Picture24.png,"中文：毛利率 = 13,500 ÷（60,000 − 6,000）×100% = 25%。
 Bahasa Melayu: Margin untung kasar = RM13,500 ÷ (RM60,000 − RM6,000) ×100% = 25%."
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：业主提取会减少资本，计算真实净利时应加回，所以 Q 是 Ambilan。
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：业主提取会减少资本，计算真实净利时应加回，所以 Q 是 Ambilan。
 Bahasa Melayu: Ambilan mengurangkan modal; ditambah semula dalam pengiraan untung bersih, maka Q ialah ambilan."
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：盈亏 = 48,500 − 5,000 − 54,600 = −RM11,100，为净亏。
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：盈亏 = 48,500 − 5,000 − 54,600 = −RM11,100，为净亏。
 Bahasa Melayu: Untung atau rugi = RM48,500 − RM5,000 − RM54,600 = −RM11,100, iaitu rugi bersih."
-,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：赊销 = 28,500 + 1,400 + 39,500 − 43,400 = RM26,000；加现金销售19,500，总销售 RM45,500。
+,radio,F5 Bab 2,A,B,C,D,C,Picture27.png,"中文：赊销 = 28,500 + 1,400 + 39,500 − 43,400 = RM26,000；加现金销售19,500，总销售 RM45,500。
 Bahasa Melayu: Jualan kredit RM26,000 diperoleh melalui ABT; tambah jualan tunai RM19,500 untuk jumlah RM45,500. Diskaun diterima tidak digunakan."
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：现金控制保护资金及确保现金充足，不直接保证利润最大化。
+,radio,F5 Bab 3,A,B,C,D,A,Picture28.png,"中文：现金控制保护资金及确保现金充足，不直接保证利润最大化。
 Bahasa Melayu: Kawalan tunai melindungi wang dan memastikan kecukupan tunai, bukan menjamin keuntungan maksimum."
-,radio,F5 Bab 4,A,B,C,D,B,Picture29.png,"中文：从现金簿余额推算银行结单余额，未兑现客户支票应作为不兑现支票扣除。
+,radio,F5 Bab 3,A,B,C,D,B,Picture29.png,"中文：从现金簿余额推算银行结单余额，未兑现客户支票应作为不兑现支票扣除。
 Bahasa Melayu: Cek tak laku ditolak apabila bermula dengan baki Buku Tunai untuk mendapatkan baki Penyata Bank."
-,radio,F5 Bab 4,A,B,C,D,D,Picture30.png,"中文：现金预算的预测付款超过预测收款时出现短缺，不是实际收支报表。
+,radio,F5 Bab 3,A,B,C,D,D,Picture30.png,"中文：现金预算的预测付款超过预测收款时出现短缺，不是实际收支报表。
 Bahasa Melayu: Kurangan Belanjawan Tunai berlaku apabila anggaran pembayaran melebihi anggaran penerimaan."
 ,radio,F5 Bab 4,A,B,C,D,C,Picture31.png,"中文：合伙人工资及资本利息贷记往来账户；固定资本另记资本账户。
 Bahasa Melayu: Gaji pekongsi dan faedah atas modal dicatat dalam Akaun Semasa, iaitu II dan III."

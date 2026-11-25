@@ -7,7 +7,7 @@ Bahasa Melayu: Ambilan barang direkod berasingan daripada belian perniagaan, sel
 Bahasa Melayu: Kos jualan = inventori awal + kos belian − inventori akhir, maka W ialah kos belian."
 ,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：赊售成本 RM7,000 的货物售价 RM8,200，使存货减少 7,000、应收增加 8,200，并因利润使资本增加 1,200。
 Bahasa Melayu: Jualan kredit RM8,200 bagi barang berkos RM7,000 mengurangkan inventori RM7,000, menambah ABT RM8,200 dan modal RM1,200."
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
 Bahasa Melayu: Penghapusan hutang pelanggan merupakan pelarasan dalaman yang disokong oleh memo."
 ,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：净发票 = 9,400 − 10% = RM8,460。按题目把 6 日列第一天，16 日是第 11 天，超过 10 天现金折扣期限，须付全额 RM8,460。
 Bahasa Melayu: Jumlah invois = 9,400 × 90% = RM8,460. Dengan 6 Januari sebagai hari pertama, 16 Januari ialah hari ke-11 dan tiada diskaun tunai, maka bayaran RM8,460."
@@ -15,7 +15,7 @@ Bahasa Melayu: Jumlah invois = 9,400 × 90% = RM8,460. Dengan 6 Januari sebagai 
 Bahasa Melayu: Barang niaga diambil untuk derma direkod dalam Jurnal Am kerana bukan jualan kredit atau urus niaga tunai."
 ,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：收回客户欠款及业主投入现金都增加现金，记现金簿借方；还债及私人提款在贷方。
 Bahasa Melayu: Kutipan penghutang dan modal tunai menambah tunai serta dicatat debit Buku Tunai; pembayaran hutang dan ambilan dicatat kredit."
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：定额 RM300 已使用 RM270、余额 RM30，补款 = 300 − 30 = RM270。
+,radio,F4 Bab 4,A,B,C,D,B,Picture9.png,"中文：定额 RM300 已使用 RM270、余额 RM30，补款 = 300 − 30 = RM270。
 Bahasa Melayu: Rekupmen = apungan asal RM300 − baki RM30 = RM270, sama dengan jumlah pembayaran."
 ,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：业主把创业资金直接存入企业银行：借记银行 RM30,000、贷记资本 RM30,000。
 Bahasa Melayu: Modal permulaan dimasukkan ke bank: debit Bank RM30,000 dan kredit Modal RM30,000."
@@ -23,11 +23,11 @@ Bahasa Melayu: Modal permulaan dimasukkan ke bank: debit Bank RM30,000 dan kredi
 Bahasa Melayu: Belian kredit = 8,600 + 300 + 1,200 − 4,300 = RM5,800."
 ,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：装置是资产，余额在借方；折扣取得是收入，余额在贷方。
 Bahasa Melayu: Lengkapan ialah aset berbaki debit; diskaun diterima ialah hasil berbaki kredit."
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
+,radio,F4 Bab 6,A,B,C,D,C,Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
 Bahasa Melayu: Inventori ialah barang niaga yang dimiliki untuk dijual dan diklasifikasikan sebagai aset semasa."
 ,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：X = 流动资产 9,440 − 流动负债 5,560 = RM3,880，称为营运资本。
 Bahasa Melayu: X = aset semasa 9,440 − liabiliti semasa 5,560 = RM3,880, iaitu modal kerja."
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：销货与运入费都参与毛利计算，结转到营业账户；促销及一般费用结转损益账户。
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：销货与运入费都参与毛利计算，结转到营业账户；促销及一般费用结转损益账户。
 Bahasa Melayu: Jualan dan angkutan masuk ditutup ke Akaun Perdagangan; promosi dan belanja am ditutup ke Akaun Untung Rugi."
 ,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：应付费用是本期已经发生但尚未付款的费用，期末通常列流动负债。
 Bahasa Melayu: Belanja belum bayar ialah belanja tempoh semasa yang belum dijelaskan dan merupakan liabiliti semasa."
@@ -35,9 +35,7 @@ Bahasa Melayu: Belanja belum bayar ialah belanja tempoh semasa yang belum dijela
 Bahasa Melayu: Hasil sewa semasa = 5,000 − belum terima awal 500 − belum terperoleh akhir 300 = RM4,200."
 ,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：新坏账准备 = 22,500 × 3% = RM675；比原准备 RM450 增加 RM225，形成费用。
 Bahasa Melayu: Peruntukan baharu = 22,500 × 3% = RM675; pertambahan 675 − 450 = RM225 menambah belanja."
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：把资产与费用弄错类别，是原则错误；借贷金额仍可相等。
+,radio,F4 Bab 9,A,B,C,D,A,Picture19.png,"中文：把资产与费用弄错类别，是原则错误；借贷金额仍可相等。
 Bahasa Melayu: Kesilapan prinsip berlaku apabila aset direkod sebagai belanja atau sebaliknya, walaupun debit dan kredit masih seimbang."
 ,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：补记商品提款会贷记购货，减少购货成本，所以增加原先少算的净利。
 Bahasa Melayu: Pembetulan ambilan barang yang tertinggal mengkreditkan Belian, mengurangkan kos belian dan menambah untung bersih."
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：酸性测试比率 =（流动资产 − 期末存货）÷ 流动负债，用来衡量快速偿还短期债务的能力。
-Bahasa Melayu: Nisbah ujian asid = (aset semasa − inventori akhir) ÷ liabiliti semasa untuk menilai keupayaan membayar hutang jangka pendek."

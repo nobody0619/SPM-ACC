@@ -1,24 +1,18 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 1/Picture22.png,"中文：整项交易完全漏记时，借贷两边一起遗漏，试算表仍平衡；单边遗漏则不平衡。
-Bahasa Melayu: Ketinggalan keseluruhan urus niaga melibatkan kedua-dua catatan, maka Imbangan Duga masih seimbang; ketinggalan sebelah tidak seimbang."
-F5 Chp 1,radio,JohorSet_Q22,A,B,C,D,C,Johor Set 2/Picture22.png,"中文：把办公设备赊账或支票购入记为购货，是原则错误；借贷金额仍相等，试算表不显示差额。
-Bahasa Melayu: Belian alatan pejabat direkod sebagai Belian ialah kesilapan prinsip; amaun debit dan kredit masih seimbang."
+F5 Chp 1,radio,Kedah_Q21,A,B,C,D,B,Kedah/Picture21.png,"中文：平均存货 = (12,000 + 24,000) ÷ 2 = 18,000；存货周转率 = 72,000 ÷ 18,000 = 4次。
+Bahasa Melayu: Inventori purata = (12,000 + 24,000) ÷ 2 = 18,000; kadar pusing ganti inventori = 72,000 ÷ 18,000 = 4 kali."
+F5 Chp 1,radio,NegeriSembilan_Q20,A,B,C,D,C,Negeri Sembilan/Picture20.png,"中文：平均存货 = 24,600 ÷ 5 = 4,920；期末 = 4,920 × 2 − 6,320 = RM3,520。
+Bahasa Melayu: Inventori purata = 24,600 ÷ 5 = 4,920; inventori akhir = 4,920 × 2 − 6,320 = RM3,520."
+F5 Chp 1,radio,NegeriSembilan_Q21,A,B,C,D,D,Negeri Sembilan/Picture21.png,"中文：欠款收回期及存货周转率衡量经营效率；流动比率衡量偿债能力。
+Bahasa Melayu: Tempoh kutipan hutang dan pusing ganti inventori ialah nisbah kecekapan; nisbah semasa mengukur kecairan."
+F5 Chp 1,radio,Perlis_Q21,A,B,C,D,B,Perlis/Picture21.png,"中文：资本回报率 14.3% 表示每投入 RM1 资本赚取约 14.3 sen 净利，选项将其取约 14 sen。
+Bahasa Melayu: Pulangan atas modal 14.3% bermaksud setiap RM1 modal menghasilkan kira-kira 14.3 sen untung bersih, dibundarkan kepada 14 sen dalam pilihan."
+F5 Chp 1,radio,Smka_Q21,A,B,C,D,B,SMKA/Picture21.png,"中文：酸性测试比率 =（流动资产 − 期末存货）÷ 流动负债，用来衡量快速偿还短期债务的能力。
+Bahasa Melayu: Nisbah ujian asid = (aset semasa − inventori akhir) ÷ liabiliti semasa untuk menilai keupayaan membayar hutang jangka pendek."
 F5 Chp 1,radio,Kedah_Q22,A,B,C,D,B,Kedah/Picture22.png,"中文：Minaa 的资本回报率最高，为25%，且存货周转率6次显示存货能周转，因此按题目投资回报选择 B。
 Bahasa Melayu: Minaa mempunyai pulangan atas modal tertinggi, 25%, dengan pusing ganti inventori 6 kali; pilihan B memberi pulangan pelaburan terbaik."
 F5 Chp 1,radio,Kelantan_Q22,A,B,C,D,D,Kelantan/Picture22.png,"中文：加价率60%是每RM1销售成本赚取RM0.60毛利。现有答案 D 的文字不够准确，应按这个定义理解。
 Bahasa Melayu: Tokokan 60% bermaksud untung kasar RM0.60 bagi setiap RM1 kos jualan. Ayat pilihan D dalam kunci kurang tepat; gunakan definisi ini."
-F5 Chp 1,radio,Kl_Q22,A,B,C,D,C,KL/Picture22.png,"中文：净利 = 5,840 + 190 − 260 − 780 = RM4,990。
-Bahasa Melayu: Untung bersih = 5,840 + 190 − 260 − 780 = RM4,990."
-F5 Chp 1,radio,Melaka_Q22,A,B,C,D,A,Melaka/Picture22.png,"中文：按答案的处理，125,000包括新车：旧车净值125,000 − 50,000 − 15,000 = 60,000；累计折旧15,000 + 6,000 + 1,250 = RM22,250。
-Bahasa Melayu: Mengikut kunci, 125,000 termasuk kenderaan baharu: nilai buku lama 60,000. Susut nilai terkumpul = 15,000 + 6,000 + 50,000 × 10% × 3/12 = RM22,250."
-F5 Chp 1,radio,Mrsm_Q22,A,B,C,D,A,MRSM/Picture22.png,"中文：取消误记供应商：借记 Suria 7,500，再贷记正确的 Suri 7,500。
-Bahasa Melayu: Batalkan kredit salah dengan debit Suria 7,500 dan kredit pembekal sebenar Suri 7,500."
-F5 Chp 1,radio,NegeriSembilan_Q22,A,B,C,D,B,Negeri Sembilan/Picture22.png,"中文：净利 = 期末19,400 + 提款1,500 − 期初10,500 − 新资本4,000 = RM6,400。
-Bahasa Melayu: Untung bersih = 19,400 + 1,500 − 10,500 − 4,000 = RM6,400."
-F5 Chp 1,radio,Pahang_Q22,A,B,C,D,A,Pahang/Picture22.png,"中文：工资实付3,000中有预付400，本期费用2,600；预付额转作资产。
-Bahasa Melayu: Daripada bayaran gaji 3,000, sebanyak 400 ialah prabayar; belanja semasa 2,600 dipindahkan ke Untung Rugi."
-F5 Chp 1,radio,PenangPpdBaratDaya_Q22,A,B,C,D,C,Penang PPD Barat Daya/Picture22.png,"中文：2023 折旧 = 10,800 × 10% = RM1,080；累计折旧 = 1,200 + 1,080 = RM2,280。
-Bahasa Melayu: Susut nilai 2023 = 10,800 × 10% = RM1,080; susut nilai terkumpul = 1,200 + 1,080 = RM2,280."
 F5 Chp 1,radio,Perak_Q22,A,B,C,D,A,Perak/Picture22.png,"中文：存货周转率衡量企业售出及补充存货的效率；酸性测试比率衡量短期而非长期偿债能力。
 Bahasa Melayu: Kadar pusing ganti inventori mengukur kecekapan pengurusan inventori; nisbah ujian asid berkaitan hutang jangka pendek."
 F5 Chp 1,radio,Perlis_Q22,A,B,C,D,C,Perlis/Picture22.png,"中文：销货成本 = 10,500 × 80% = 8,400；平均存货 = (2,100 + 1,260) ÷ 2 = 1,680；周转率 = 5 次。
@@ -29,5 +23,31 @@ F5 Chp 1,radio,SelangorSet_Q22,A,B,C,D,A,Selangor Set 2/Picture22.png,"中文：
 Bahasa Melayu: Tokokan membandingkan untung kasar dengan kos jualan; margin untung kasar menggunakan jualan sebagai penyebut."
 F5 Chp 1,radio,Smka_Q22,A,B,C,D,A,SMKA/Picture22.png,"中文：收账期 = 应收账款 11,400 ÷ 赊销 21,000 × 365 ≈ 199 天；不采用现金销货。
 Bahasa Melayu: Tempoh kutipan hutang = 11,400 ÷ jualan kredit 21,000 × 365 ≈ 199 hari; jualan tunai tidak digunakan."
-F5 Chp 1,radio,Terengganu_Q22,A,B,C,D,C,Terengganu/Picture22.png,"中文：收回已注销坏账是收入：借记银行 RM700、贷记收回坏账 RM700。
-Bahasa Melayu: Hutang lapuk terpulih direkod dengan debit Bank RM700 dan kredit Hutang Lapuk Terpulih RM700."
+F5 Chp 1,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 1/Picture24.png,"中文：毛利率 = 13,500 ÷（60,000 − 6,000）×100% = 25%。
+Bahasa Melayu: Margin untung kasar = RM13,500 ÷ (RM60,000 − RM6,000) ×100% = 25%."
+F5 Chp 1,radio,JohorSet_Q24,A,B,C,D,C,Johor Set 2/Picture24.png,"中文：投资回报率 = 净利÷资本。资本 = 40,000÷25% = RM160,000。
+Bahasa Melayu: Modal = untung bersih ÷ pulangan atas modal = RM40,000÷25% = RM160,000."
+F5 Chp 1,radio,Mrsm_Q23,A,B,C,D,C,MRSM/Picture23.png,"中文：速动比率排除存货：(350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1。
+Bahasa Melayu: Nisbah ujian asid mengecualikan inventori: (350 + 8,710) ÷ (2,500 + 3,600) = 1.49 : 1."
+F5 Chp 1,radio,Perak_Q23,A,B,C,D,D,Perak/Picture23.png,"中文：销货成本 = 10,200 + 15,780 − 12,140 = 13,840；成本加成率 = 9,800 ÷ 13,840 × 100% ≈ 70.80%。
+Bahasa Melayu: Kos jualan = 10,200 + 15,780 − 12,140 = 13,840; tokokan = 9,800 ÷ 13,840 × 100% ≈ 70.80%."
+F5 Chp 1,radio,Melaka_Q25,A,B,C,D,B,Melaka/Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
+Bahasa Melayu: Kos jualan = 120,000 − 59,520 = 60,480; inventori purata = 60,480 ÷ 8 = RM7,560."
+F5 Chp 1,radio,Pahang_Q26,A,B,C,D,A,Pahang/Picture26.png,"中文：存货周转率衡量存货管理效率；资本回报率看净利，流动比率看短期偿债。
+Bahasa Melayu: Pusing ganti inventori mengukur kecekapan inventori; pulangan modal menggunakan untung bersih, nisbah semasa mengukur hutang jangka pendek."
+F5 Chp 1,radio,Pahang_Q27,A,B,C,D,D,Pahang/Picture27.png,"中文：流动比率 = (预付300 + 应收6,000) ÷ 银行透支1,500 = 4.20 : 1。
+Bahasa Melayu: Nisbah semasa = (prabayar 300 + ABT 6,000) ÷ overdraf 1,500 = 4.20 : 1."
+F5 Chp 1,radio,PenangPpdBaratDaya_Q27,A,B,C,D,D,Penang PPD Barat Daya/Picture27.png,"中文：净利 ÷ 期初资本 × 100% 是资本回报率，用来衡量每单位投入资本赚取的净利。
+Bahasa Melayu: Untung bersih ÷ modal awal × 100% ialah pulangan atas modal, iaitu keuntungan berbanding modal yang dilaburkan."
+F5 Chp 1,radio,Terengganu_Q26,A,B,C,D,A,Terengganu/Picture26.png,"中文：Liyani 周转率 6 次高于 Mimmy 3 次，存货卖出更快，管理效率较高。
+Bahasa Melayu: Kadar pusing ganti Liyani 6 kali melebihi Mimmy 3 kali, menunjukkan inventori lebih laris dan pengurusan lebih cekap."
+F5 Chp 1,radio,Pahang_Q28,A,B,C,D,B,Pahang/Picture28.png,"中文：Aisyah资本回报48%高于35%，按投资回报可较吸引投资者；不代表其周转和偿债也最佳。
+Bahasa Melayu: Pulangan modal Aisyah 48% melebihi 35%, lebih menarik dari segi pulangan pelaburan; kecekapan dan kecairannya tidak semestinya lebih baik."
+F5 Chp 1,radio,PenangPpdBaratDaya_Q28,A,B,C,D,B,Penang PPD Barat Daya/Picture28.png,"中文：销货成本 = 60,000 × 75% = 45,000；平均存货 = (3,500 + 4,000) ÷ 2 = 3,750；周转率 = 45,000 ÷ 3,750 = 12 次。
+Bahasa Melayu: Kos jualan = 60,000 × 75% = 45,000; inventori purata = (3,500 + 4,000) ÷ 2 = 3,750; kadar pusing ganti = 45,000 ÷ 3,750 = 12 kali."
+F5 Chp 1,radio,PenangPpdBaratDaya_Q29,A,B,C,D,D,Penang PPD Barat Daya/Picture29.png,"中文：Saida 流动比率 2.5:1 高于 Aisyah 的 1.8:1，表示其流动资产相对短期债务更充足。
+Bahasa Melayu: Nisbah semasa Saida 2.5:1 melebihi 1.8:1, menunjukkan keupayaan membayar hutang jangka pendek yang lebih tinggi."
+F5 Chp 1,radio,Kl_Q39,A,B,C,D,C,KL/Picture39.png,"中文：流动比率 = (5,400 + 2,280 + 890) ÷ 1,200 = 7.14 : 1。
+Bahasa Melayu: Nisbah semasa = (5,400 + 2,280 + 890) ÷ 1,200 = 7.14 : 1."
+F5 Chp 1,radio,Kl_Q40,A,B,C,D,B,KL/Picture40.png,"中文：净利12,500 − 5,230 = 7,270；资本回报 = 7,270 ÷ 56,000 × 100% = 12.98%。
+Bahasa Melayu: Untung bersih = 12,500 − 5,230 = 7,270; pulangan atas modal = 7,270 ÷ 56,000 × 100% = 12.98%."

@@ -1,21 +1,17 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-Johor Set 2 F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：把办公设备赊账或支票购入记为购货，是原则错误；借贷金额仍相等，试算表不显示差额。
-Bahasa Melayu: Belian alatan pejabat direkod sebagai Belian ialah kesilapan prinsip; amaun debit dan kredit masih seimbang."
-,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：净利 = 9,700+150−240+80+80 = RM9,770；收到折扣错记为给予折扣，需两次 RM80 修正。
-Bahasa Melayu: Untung = RM9,700+RM150−RM240+RM160 = RM9,770. Kesilapan diskaun dibetulkan sebanyak dua kali RM80; bayaran hutang tidak menjejaskan untung."
-,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：投资回报率 = 净利÷资本。资本 = 40,000÷25% = RM160,000。
+,radio,F5 Bab 1,A,B,C,D,C,Picture24.png,"中文：投资回报率 = 净利÷资本。资本 = 40,000÷25% = RM160,000。
 Bahasa Melayu: Modal = untung bersih ÷ pulangan atas modal = RM40,000÷25% = RM160,000."
-,radio,F5 Bab 3,A,B,C,D,A,Picture25.png,"中文：比较法净利 = 期末资本 + 提取 − 期初资本 − 新增资本。
+,radio,F5 Bab 2,A,B,C,D,A,Picture25.png,"中文：比较法净利 = 期末资本 + 提取 − 期初资本 − 新增资本。
 Bahasa Melayu: Untung kaedah perbandingan = modal akhir + ambilan − modal awal − modal tambahan."
-,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：净利 = 42,000 + 600 − 12,750 − 10,850 = RM19,000；流动资产不直接代入资本比较式。
+,radio,F5 Bab 2,A,B,C,D,A,Picture26.png,"中文：净利 = 42,000 + 600 − 12,750 − 10,850 = RM19,000；流动资产不直接代入资本比较式。
 Bahasa Melayu: Untung bersih = 42,000 + 600 − 12,750 − 10,850 = RM19,000; aset semasa tidak dimasukkan terus dalam rumus perbandingan modal."
-,radio,F5 Bab 3,A,B,C,D,D,Picture27.png,"中文：赊购 = 9,800+450+1,180−1,430 = RM10,000；加现金购货4,520，总购货 RM14,520。
+,radio,F5 Bab 2,A,B,C,D,D,Picture27.png,"中文：赊购 = 9,800+450+1,180−1,430 = RM10,000；加现金购货4,520，总购货 RM14,520。
 Bahasa Melayu: Belian kredit RM10,000 melalui ABB; tambah belian tunai RM4,520 untuk jumlah RM14,520."
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：现金控制确保资金流量足以支付日常支出，不等同于保证盈利。
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：现金控制确保资金流量足以支付日常支出，不等同于保证盈利。
 Bahasa Melayu: Kawalan tunai memastikan aliran tunai mencukupi untuk pembayaran perniagaan."
-,radio,F5 Bab 4,A,B,C,D,A,Picture29.png,"中文：Aniq 付款企业已收、银行未入账，是未入账存款；付给 Fikri 的支票未兑换，是未兑付支票。
+,radio,F5 Bab 3,A,B,C,D,A,Picture29.png,"中文：Aniq 付款企业已收、银行未入账，是未入账存款；付给 Fikri 的支票未兑换，是未兑付支票。
 Bahasa Melayu: Aniq ialah deposit belum dikreditkan; cek kepada Fikri ialah cek belum dikemukakan."
-,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：现金预算盈余或短缺 = 总收款 − 总付款，不能混用应计收入与费用。
+,radio,F5 Bab 3,A,B,C,D,B,Picture30.png,"中文：现金预算盈余或短缺 = 总收款 − 总付款，不能混用应计收入与费用。
 Bahasa Melayu: Lebihan atau kurangan Belanjawan Tunai = jumlah penerimaan − jumlah pembayaran."
 ,radio,F5 Bab 4,A,B,C,D,B,Picture31.png,"中文：没有合伙协议时，本题按课本要求参照 Akta Perkongsian 1961 的默认规定。
 Bahasa Melayu: Tanpa Ikatan Perjanjian Perkongsian, soalan ini merujuk peraturan Akta Perkongsian 1961 yang dipelajari."

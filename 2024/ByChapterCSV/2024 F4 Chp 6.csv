@@ -1,33 +1,55 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,C,Johor Set 1/Picture12.png,"中文：转入损益账户的租金是 RM280；余下 RM200 为预付租金，不是本期费用。
-Bahasa Melayu: Sewa dipindahkan ke Untung Rugi ialah RM280; baki RM200 merupakan sewa prabayar."
-F4 Chp 6,radio,JohorSet_Q12,A,B,C,D,B,Johor Set 2/Picture12.png,"中文：购货及一般费用在期末结转，属名义账户；厂房及贷款不是。
-Bahasa Melayu: Belian dan belanja am ialah akaun nominal yang ditutup pada akhir tempoh; I dan IV."
-F4 Chp 6,radio,Kedah_Q12,A,B,C,D,B,Kedah/Picture12.png,"中文：应收账款余额 = 1,300 + 5,600 − 4,230 − 120 = RM2,550；供应商给予的折扣不影响应收账款。
-Bahasa Melayu: Baki ABT = 1,300 + 5,600 − 4,230 − 120 = RM2,550. Diskaun pembekal tidak melibatkan ABT."
-F4 Chp 6,radio,Kelantan_Q12,A,B,C,D,C,Kelantan/Picture12.png,"中文：资本正常余额在贷方；净利增加资本记贷方，净亏减少资本记借方。
-Bahasa Melayu: Modal berbaki kredit; untung bersih dikreditkan dan rugi bersih didebitkan ke Akaun Modal."
-F4 Chp 6,radio,Kl_Q12,A,B,C,D,A,KL/Picture12.png,"中文：打印纸和笔属于文具，记入零用现金簿文具分析栏。
-Bahasa Melayu: Kertas pencetak dan pen dikelaskan sebagai alat tulis dalam Buku Tunai Runcit."
-F4 Chp 6,radio,Melaka_Q12,A,B,C,D,D,Melaka/Picture12.png,"中文：净利增加企业资本；毛利尚未扣除其他费用，不能直接当资本增加。
-Bahasa Melayu: Untung bersih menambah modal; untung kasar belum mengambil kira semua belanja."
-F4 Chp 6,radio,Mrsm_Q12,A,B,C,D,B,MRSM/Picture12.png,"中文：损益账户费用超过收入，会产生净亏损。
-Bahasa Melayu: Belanja melebihi hasil dalam Akaun Untung Rugi menghasilkan rugi bersih."
+F4 Chp 6,radio,Kelantan_Q08,A,B,C,D,A,Kelantan/Picture8.png,"中文：试算表汇集账户余额，便于编制财务报表；它不能排除所有记账错误。
+Bahasa Melayu: Imbangan Duga menghimpunkan baki akaun untuk memudahkan penyediaan Penyata Kewangan, tetapi tidak mengesan semua kesilapan."
+F4 Chp 6,radio,Kelantan_Q10,A,B,C,D,B,Kelantan/Picture10.png,"中文：库存卡按成本记录；售出1个柜子，出库金额RM850，不能用售价1,220。
+Bahasa Melayu: Kad inventori menggunakan kos; rekod satu almari keluar pada RM850, bukan harga jualan RM1,220."
+F4 Chp 6,radio,Mrsm_Q11,A,B,C,D,D,MRSM/Picture11.png,"中文：存货按成本与市价孰低：100 × 150 + 90 × 100 = RM24,000。
+Bahasa Melayu: Inventori pada kos atau pasaran terendah: 100 × 150 + 90 × 100 = RM24,000."
+F4 Chp 6,radio,Perlis_Q10,A,B,C,D,A,Perlis/Picture10.png,"中文：期末数量 = 100 + 200 − 8 − 50 = 242 件；按每件 RM50，存货价值 = 242 × 50 = RM12,100。
+Bahasa Melayu: Kuantiti akhir = 100 + 200 − 8 − 50 = 242 unit; nilai inventori = 242 × RM50 = RM12,100."
+F4 Chp 6,radio,SelangorSet_Q09,A,B,C,D,D,Selangor Set 1/Picture9.png,"中文：资本正常在贷方；提款和销货退回正常在借方，所以 D 的排列正确。
+Bahasa Melayu: Modal berbaki kredit, manakala ambilan dan pulangan masuk berbaki debit; susunan D adalah betul."
+F4 Chp 6,radio,SelangorSet_Q10,A,B,C,D,A,Selangor Set 1/Picture10.png,"中文：风扇余额 = (20 + 180 − 150) × 50 = 2,500；搅拌机余额 = (40 + 210 − 170) × 70 = 5,600；合计 RM8,100。
+Bahasa Melayu: Nilai kipas = 50 × 50 = 2,500; nilai pengisar = 80 × 70 = 5,600; inventori akhir RM8,100 berdasarkan kos yang lebih rendah."
+F4 Chp 6,radio,SelangorSet_Q09,A,B,C,D,B,Selangor Set 2/Picture9.png,"中文：试算表借方 = 存款 20,000 + 车辆 40,000 + 购货 27,400 = RM87,400；贷方 47,660 + 6,000 + 33,180 + 560 亦相同。
+Bahasa Melayu: Jumlah debit = 20,000 + 40,000 + 27,400 = RM87,400; jumlah kredit = 47,660 + 6,000 + 33,180 + 560 = RM87,400."
+F4 Chp 6,radio,SelangorSet_Q10,A,B,C,D,B,Selangor Set 2/Picture10.png,"中文：持续更新数量、成本及每次进出的系统称为持续盘存制 Sistem Inventori Berterusan。
+Bahasa Melayu: Sistem Inventori Berterusan mengemas kini kuantiti, nilai dan pergerakan inventori setiap kali urus niaga berlaku."
 F4 Chp 6,radio,NegeriSembilan_Q12,A,B,C,D,C,Negeri Sembilan/Picture12.png,"中文：X在借方可为已付租金费用，Y在贷方可为折扣收入，符合 C。
 Bahasa Melayu: X di debit boleh merupakan sewa dibayar; Y di kredit boleh merupakan diskaun diterima, seperti C."
-F4 Chp 6,radio,Pahang_Q12,A,B,C,D,B,Pahang/Picture12.png,"中文：收到支票及现金账单付款都有现金或银行变动，记入现金簿。
-Bahasa Melayu: Penerimaan cek dan pembayaran bil tunai melibatkan tunai atau bank, maka masuk Buku Tunai."
-F4 Chp 6,radio,PenangPpdBaratDaya_Q12,A,B,C,D,A,Penang PPD Barat Daya/Picture12.png,"中文：业主把待售家具取作私人用途：借记提款 RM400，贷记购货 RM400。
-Bahasa Melayu: Barang niaga diambil untuk kegunaan peribadi: debit Ambilan RM400 dan kredit Belian RM400."
 F4 Chp 6,radio,Perak_Q12,A,B,C,D,C,Perak/Picture12.png,"中文：期末存货用于计算销货成本，继而确定毛利；它代表尚未售出的商品成本。
 Bahasa Melayu: Inventori akhir diperlukan untuk menentukan kos jualan dan seterusnya untung kasar."
-F4 Chp 6,radio,Perlis_Q12,A,B,C,D,D,Perlis/Picture12.png,"中文：财务状况表在特定日期列示资产、负债及业主权益，显示企业财务状况。
-Bahasa Melayu: Penyata Kedudukan Kewangan menunjukkan aset, liabiliti dan ekuiti pemilik pada sesuatu tarikh."
-F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,B,Selangor Set 1/Picture12.png,"中文：购货账户先扣商品提款，再把剩余借方余额贷记转入营业账户，不留余额至下期。
-Bahasa Melayu: Selepas ambilan barang ditolak, baki Belian ditutup dengan kredit Belian dan debit Akaun Perdagangan."
-F4 Chp 6,radio,SelangorSet_Q12,A,B,C,D,C,Selangor Set 2/Picture12.png,"中文：普通员工工资属于营运费用，期末结转到损益账户借方。
-Bahasa Melayu: Gaji pekerja ialah belanja operasi dan dipindahkan ke sebelah debit Akaun Untung Rugi semasa penutupan."
 F4 Chp 6,radio,Smka_Q12,A,B,C,D,C,SMKA/Picture12.png,"中文：装置是资产，余额在借方；折扣取得是收入，余额在贷方。
 Bahasa Melayu: Lengkapan ialah aset berbaki debit; diskaun diterima ialah hasil berbaki kredit."
-F4 Chp 6,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png,"中文：零用现金簿记录邮费、车费、文具等小额支出。
-Bahasa Melayu: Buku Tunai Runcit digunakan untuk merekod perbelanjaan kecil seperti pos, tambang dan alat tulis."
+F4 Chp 6,radio,Kedah_Q13,A,B,C,D,D,Kedah/Picture13.png,"中文：坏账准备属于应收账款的减项，正常余额在贷方，不能放在试算表借方。
+Bahasa Melayu: Peruntukan hutang ragu mempunyai baki kredit sebagai pengurangan ABT, bukannya baki debit."
+F4 Chp 6,radio,NegeriSembilan_Q13,A,B,C,D,D,Negeri Sembilan/Picture13.png,"中文：期末存货一方面减少销售成本，另一方面列流动资产，因此在两张报表出现。
+Bahasa Melayu: Inventori akhir mengurangkan kos jualan dan menjadi aset semasa, maka muncul dalam kedua-dua penyata."
+F4 Chp 6,radio,Perak_Q14,A,B,C,D,B,Perak/Picture14.png,"中文：产业、厂房是资产，仓库工资是费用，均在借方；抵押贷款及坏账准备减少额在贷方。
+Bahasa Melayu: Hartanah dan loji serta upah gudang berbaki debit; gadai janji dan pengurangan peruntukan hutang ragu berbaki kredit."
+F4 Chp 6,radio,Perlis_Q13,A,B,C,D,C,Perlis/Picture13.png,"中文：期末存货借记存货账户、贷记营业账户；结转后在下一期成为借方期初余额。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir; baki tersebut dibawa ke tempoh berikut sebagai baki debit."
+F4 Chp 6,radio,Smka_Q13,A,B,C,D,C,SMKA/Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
+Bahasa Melayu: Inventori ialah barang niaga yang dimiliki untuk dijual dan diklasifikasikan sebagai aset semasa."
+F4 Chp 6,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 1/Picture15.png,"中文：现金备用金列借方；购货退回属于贷方余额，符合 C 的 P、Q 配对。
+Bahasa Melayu: Tunai runcit berbaki debit dan pulangan keluar berbaki kredit; padanan C betul."
+F4 Chp 6,radio,JohorSet_Q16,A,B,C,D,A,Johor Set 1/Picture16.png,"中文：期末存货越低，销货成本越高，毛利越低。
+Bahasa Melayu: Inventori akhir rendah meningkatkan kos jualan dan mengurangkan untung kasar."
+F4 Chp 6,radio,JohorSet_Q15,A,B,C,D,C,Johor Set 2/Picture15.png,"中文：试算表测试借贷总额是否相等，帮助检查双重记录；仍可能存在不影响平衡的错误。
+Bahasa Melayu: Imbangan Duga menguji keseimbangan catatan bergu, tetapi tidak mengesan semua kesilapan tidak ketara."
+F4 Chp 6,radio,JohorSet_Q16,A,B,C,D,D,Johor Set 2/Picture16.png,"中文：期末存货结账：借记存货、贷记交易账户，降低本期销货成本。
+Bahasa Melayu: Debit Inventori dan kredit Perdagangan bagi inventori akhir, mengurangkan kos jualan."
+F4 Chp 6,radio,Kl_Q15,A,B,C,D,D,KL/Picture15.png,"中文：收租收入的正常余额在贷方，符合试算表的 F 位置。
+Bahasa Melayu: Sewa diterima mempunyai baki kredit dan sesuai dengan kedudukan F dalam Imbangan Duga."
+F4 Chp 6,radio,Melaka_Q15,A,B,C,D,C,Melaka/Picture15.png,"中文：试算表借方可列销售退回，贷方可列坏账收回收入，对应 C。
+Bahasa Melayu: Pulangan jualan berbaki debit dan hutang lapuk terpulih berbaki kredit, seperti pilihan C."
+F4 Chp 6,radio,Pahang_Q17,A,B,C,D,C,Pahang/Picture17.png,"中文：购货退回是贷方RM380；折扣给予是借方费用RM170。
+Bahasa Melayu: Pulangan belian berbaki kredit RM380; diskaun diberi berbaki debit RM170."
+F4 Chp 6,radio,Pahang_Q18,A,B,C,D,A,Pahang/Picture18.png,"中文：逐项取成本和市价较低值：4,500 + 2,980 + 5,210 + 8,200 = RM20,890。
+Bahasa Melayu: Inventori pada nilai terendah setiap item: 4,500 + 2,980 + 5,210 + 8,200 = RM20,890."
+F4 Chp 6,radio,PenangPpdBaratDaya_Q17,A,B,C,D,A,Penang PPD Barat Daya/Picture17.png,"中文：定期存款利息是收入，正常余额在贷方；贷款利息及运出费是费用，存款本金是资产。
+Bahasa Melayu: Faedah simpanan tetap ialah hasil berbaki kredit; faedah pinjaman dan angkutan keluar ialah belanja, manakala simpanan tetap ialah aset."
+F4 Chp 6,radio,PenangPpdBaratDaya_Q18,A,B,C,D,A,Penang PPD Barat Daya/Picture18.png,"中文：各项存货按成本与市价较低者计量：177 + 700 + 120 + 162 = RM1,159。
+Bahasa Melayu: Inventori dinilai pada kos atau harga pasaran yang lebih rendah bagi setiap barang: 177 + 700 + 120 + 162 = RM1,159."
+F4 Chp 6,radio,Terengganu_Q16,A,B,C,D,B,Terengganu/Picture16.png,"中文：试算表核对借方与贷方总额是否相等，以检查复式记录的算术准确性；平衡不保证完全无错。
+Bahasa Melayu: Imbangan Duga menyemak persamaan jumlah debit dan kredit untuk menguji ketepatan catatan bergu, tetapi tidak mengesan semua kesilapan."

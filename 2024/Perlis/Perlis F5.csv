@@ -1,17 +1,19 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+Perlis F5,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：资本回报率 14.3% 表示每投入 RM1 资本赚取约 14.3 sen 净利，选项将其取约 14 sen。
+Bahasa Melayu: Pulangan atas modal 14.3% bermaksud setiap RM1 modal menghasilkan kira-kira 14.3 sen untung bersih, dibundarkan kepada 14 sen dalam pilihan."
 Perlis F5,radio,F5 Bab 1,A,B,C,D,C,Picture22.png,"中文：销货成本 = 10,500 × 80% = 8,400；平均存货 = (2,100 + 1,260) ÷ 2 = 1,680；周转率 = 5 次。
 Bahasa Melayu: Kos jualan = 10,500 × 80% = 8,400; inventori purata = 1,680; kadar pusing ganti = 8,400 ÷ 1,680 = 5 kali."
 ,radio,F5 Bab 2,A,B,C,D,C,Picture23.png,"中文：不采用复式记账，或原有记录在水灾中毁坏，都会导致会计记录不完整。
 Bahasa Melayu: Tidak mengamalkan catatan bergu atau rekod musnah dalam banjir menyebabkan rekod perakaunan tak lengkap."
 ,radio,F5 Bab 2,A,B,C,D,D,Picture24.png,"中文：净利 = 期末资本 + 提款 − 期初资本 − 额外资本 = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680。
 Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 62,370 + 2,750 − 46,200 − 9,240 = RM9,680."
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：赊购 = 1,200 + 5,500 + 300 − 3,900 = 3,100；加现金购货 RM2,700，总购货 RM5,800。
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：赊购 = 1,200 + 5,500 + 300 − 3,900 = 3,100；加现金购货 RM2,700，总购货 RM5,800。
 Bahasa Melayu: Belian kredit = 1,200 + 5,500 + 300 − 3,900 = 3,100; jumlah belian = 3,100 + 2,700 = RM5,800."
 ,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：之前月份发出的支票已在现金簿记录，不需要再次更新；退票、银行代付及金额错误才须更新现金簿。
 Bahasa Melayu: Cek bulan sebelumnya telah dicatat dalam Buku Tunai dan tidak dicatat semula; cek tak laku, perintah sedia ada dan kesilapan amaun perlu dikemas kini."
 ,radio,F5 Bab 3,A,B,C,D,C,Picture27.png,"中文：银行账单借方余额代表透支：现金簿 = −350 + 3,000 − 2,500 = RM150，属借方余额。
 Bahasa Melayu: Baki debit Penyata Bank ialah overdraf; baki Buku Tunai = −350 + 3,000 − 2,500 = RM150 debit."
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：投入资本和存款利息增加现金，是现金预算的收款；水电费与贷款利息是付款。
+,radio,F5 Bab 3,A,B,C,D,D,Picture28.png,"中文：投入资本和存款利息增加现金，是现金预算的收款；水电费与贷款利息是付款。
 Bahasa Melayu: Modal dan faedah simpanan ialah penerimaan Belanjawan Tunai; utiliti dan faedah pinjaman ialah pembayaran."
 ,radio,F5 Bab 4,A,B,C,D,D,Picture29.png,"中文：没有合伙协议时，合伙利润或亏损平均分配，不按资本比例分配。
 Bahasa Melayu: Tanpa ikatan perkongsian, untung atau rugi dibahagi sama rata antara pekongsi."
@@ -19,7 +21,7 @@ Bahasa Melayu: Tanpa ikatan perkongsian, untung atau rugi dibahagi sama rata ant
 Bahasa Melayu: Faedah pinjaman setahun = 25,000 × 5% = RM1,250; baki belum dibayar 1,250 − 200 = RM1,050 dikreditkan ke Akaun Semasa."
 ,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：解散时合伙人接收电脑，借记 Kamelia 资本 RM3,500、贷记变现账户 RM3,500。
 Bahasa Melayu: Pengambilalihan komputer oleh pekongsi: debit Modal Kamelia RM3,500 dan kredit Realisasi RM3,500."
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：普通股股东有权投票选举董事；普通股股息并非固定，且在优先股之后支付。
+,radio,F5 Bab 5,A,B,C,D,D,Picture32.png,"中文：普通股股东有权投票选举董事；普通股股息并非固定，且在优先股之后支付。
 Bahasa Melayu: Pemegang syer biasa berhak mengundi untuk melantik pengarah; dividennya tidak tetap dan dibayar selepas syer keutamaan."
 ,radio,F5 Bab 5,A,B,C,D,D,Picture33.png,"中文：股本 = 1,000,000 × RM1.50 = RM1,500,000；借记认购申请账户、贷记普通股资本，收款时借银行、贷认购申请。
 Bahasa Melayu: Modal syer = 1,000,000 × RM1.50 = RM1,500,000; debit Permohonan dan kredit Modal Syer Biasa, kemudian debit Bank dan kredit Permohonan bagi wang diterima."

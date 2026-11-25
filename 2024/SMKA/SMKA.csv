@@ -7,7 +7,7 @@ Bahasa Melayu: Ambilan barang direkod berasingan daripada belian perniagaan, sel
 Bahasa Melayu: Kos jualan = inventori awal + kos belian − inventori akhir, maka W ialah kos belian."
 ,radio,F4 Bab 2,A,B,C,D,C,Picture4.png,"中文：赊售成本 RM7,000 的货物售价 RM8,200，使存货减少 7,000、应收增加 8,200，并因利润使资本增加 1,200。
 Bahasa Melayu: Jualan kredit RM8,200 bagi barang berkos RM7,000 mengurangkan inventori RM7,000, menambah ABT RM8,200 dan modal RM1,200."
-,radio,F4 Bab 2,A,B,C,D,B,Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
+,radio,F4 Bab 3,A,B,C,D,B,Picture5.png,"中文：注销客户欠款是内部会计调整，使用 memo 备忘录作为凭证。
 Bahasa Melayu: Penghapusan hutang pelanggan merupakan pelarasan dalaman yang disokong oleh memo."
 ,radio,F4 Bab 3,A,B,C,D,C,Picture6.png,"中文：净发票 = 9,400 − 10% = RM8,460。按题目把 6 日列第一天，16 日是第 11 天，超过 10 天现金折扣期限，须付全额 RM8,460。
 Bahasa Melayu: Jumlah invois = 9,400 × 90% = RM8,460. Dengan 6 Januari sebagai hari pertama, 16 Januari ialah hari ke-11 dan tiada diskaun tunai, maka bayaran RM8,460."
@@ -15,7 +15,7 @@ Bahasa Melayu: Jumlah invois = 9,400 × 90% = RM8,460. Dengan 6 Januari sebagai 
 Bahasa Melayu: Barang niaga diambil untuk derma direkod dalam Jurnal Am kerana bukan jualan kredit atau urus niaga tunai."
 ,radio,F4 Bab 4,A,B,C,D,C,Picture8.png,"中文：收回客户欠款及业主投入现金都增加现金，记现金簿借方；还债及私人提款在贷方。
 Bahasa Melayu: Kutipan penghutang dan modal tunai menambah tunai serta dicatat debit Buku Tunai; pembayaran hutang dan ambilan dicatat kredit."
-,radio,F4 Bab 5,A,B,C,D,B,Picture9.png,"中文：定额 RM300 已使用 RM270、余额 RM30，补款 = 300 − 30 = RM270。
+,radio,F4 Bab 4,A,B,C,D,B,Picture9.png,"中文：定额 RM300 已使用 RM270、余额 RM30，补款 = 300 − 30 = RM270。
 Bahasa Melayu: Rekupmen = apungan asal RM300 − baki RM30 = RM270, sama dengan jumlah pembayaran."
 ,radio,F4 Bab 5,A,B,C,D,B,Picture10.png,"中文：业主把创业资金直接存入企业银行：借记银行 RM30,000、贷记资本 RM30,000。
 Bahasa Melayu: Modal permulaan dimasukkan ke bank: debit Bank RM30,000 dan kredit Modal RM30,000."
@@ -23,11 +23,11 @@ Bahasa Melayu: Modal permulaan dimasukkan ke bank: debit Bank RM30,000 dan kredi
 Bahasa Melayu: Belian kredit = 8,600 + 300 + 1,200 − 4,300 = RM5,800."
 ,radio,F4 Bab 6,A,B,C,D,C,Picture12.png,"中文：装置是资产，余额在借方；折扣取得是收入，余额在贷方。
 Bahasa Melayu: Lengkapan ialah aset berbaki debit; diskaun diterima ialah hasil berbaki kredit."
-,radio,F4 Bab 7,A,B,C,D,C,Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
+,radio,F4 Bab 6,A,B,C,D,C,Picture13.png,"中文：存货是企业为出售而持有的商品，列为流动资产。
 Bahasa Melayu: Inventori ialah barang niaga yang dimiliki untuk dijual dan diklasifikasikan sebagai aset semasa."
 ,radio,F4 Bab 7,A,B,C,D,B,Picture14.png,"中文：X = 流动资产 9,440 − 流动负债 5,560 = RM3,880，称为营运资本。
 Bahasa Melayu: X = aset semasa 9,440 − liabiliti semasa 5,560 = RM3,880, iaitu modal kerja."
-,radio,F4 Bab 8,A,B,C,D,B,Picture15.png,"中文：销货与运入费都参与毛利计算，结转到营业账户；促销及一般费用结转损益账户。
+,radio,F4 Bab 7,A,B,C,D,B,Picture15.png,"中文：销货与运入费都参与毛利计算，结转到营业账户；促销及一般费用结转损益账户。
 Bahasa Melayu: Jualan dan angkutan masuk ditutup ke Akaun Perdagangan; promosi dan belanja am ditutup ke Akaun Untung Rugi."
 ,radio,F4 Bab 8,A,B,C,D,A,Picture16.png,"中文：应付费用是本期已经发生但尚未付款的费用，期末通常列流动负债。
 Bahasa Melayu: Belanja belum bayar ialah belanja tempoh semasa yang belum dijelaskan dan merupakan liabiliti semasa."
@@ -35,11 +35,11 @@ Bahasa Melayu: Belanja belum bayar ialah belanja tempoh semasa yang belum dijela
 Bahasa Melayu: Hasil sewa semasa = 5,000 − belum terima awal 500 − belum terperoleh akhir 300 = RM4,200."
 ,radio,F4 Bab 8,A,B,C,D,C,Picture18.png,"中文：新坏账准备 = 22,500 × 3% = RM675；比原准备 RM450 增加 RM225，形成费用。
 Bahasa Melayu: Peruntukan baharu = 22,500 × 3% = RM675; pertambahan 675 − 450 = RM225 menambah belanja."
-,radio,F4 Bab 8,A,B,C,D,A,Picture19.png,"中文：把资产与费用弄错类别，是原则错误；借贷金额仍可相等。
+,radio,F4 Bab 9,A,B,C,D,A,Picture19.png,"中文：把资产与费用弄错类别，是原则错误；借贷金额仍可相等。
 Bahasa Melayu: Kesilapan prinsip berlaku apabila aset direkod sebagai belanja atau sebaliknya, walaupun debit dan kredit masih seimbang."
 ,radio,F4 Bab 9,A,B,C,D,C,Picture20.png,"中文：补记商品提款会贷记购货，减少购货成本，所以增加原先少算的净利。
 Bahasa Melayu: Pembetulan ambilan barang yang tertinggal mengkreditkan Belian, mengurangkan kos belian dan menambah untung bersih."
-,radio,F4 Bab 9,A,B,C,D,B,Picture21.png,"中文：酸性测试比率 =（流动资产 − 期末存货）÷ 流动负债，用来衡量快速偿还短期债务的能力。
+,radio,F5 Bab 1,A,B,C,D,B,Picture21.png,"中文：酸性测试比率 =（流动资产 − 期末存货）÷ 流动负债，用来衡量快速偿还短期债务的能力。
 Bahasa Melayu: Nisbah ujian asid = (aset semasa − inventori akhir) ÷ liabiliti semasa untuk menilai keupayaan membayar hutang jangka pendek."
 ,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：收账期 = 应收账款 11,400 ÷ 赊销 21,000 × 365 ≈ 199 天；不采用现金销货。
 Bahasa Melayu: Tempoh kutipan hutang = 11,400 ÷ jualan kredit 21,000 × 365 ≈ 199 hari; jualan tunai tidak digunakan."
@@ -47,13 +47,13 @@ Bahasa Melayu: Tempoh kutipan hutang = 11,400 ÷ jualan kredit 21,000 × 365 ≈
 Bahasa Melayu: Jawapan B ialah catatan tunggal yang berkaitan rekod tak lengkap. Perkataan tidak dalam frasa tidak mengamalkan rekod tak lengkap mungkin tersalah cetak; secara literal A, C dan D berkaitan rekod lengkap."
 ,radio,F5 Bab 2,A,B,C,D,C,Picture24.png,"中文：比较法净利 = 期末资本 + 提款 − 额外资本 − 期初资本，所以 R 是提款。
 Bahasa Melayu: Untung bersih kaedah perbandingan = modal akhir + ambilan − modal tambahan − modal awal; R ialah ambilan."
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：本年租金费用 = 付款 1,080 − 期初应付 560 + 期末应付 320 = RM840。
+,radio,F5 Bab 2,A,B,C,D,B,Picture25.png,"中文：本年租金费用 = 付款 1,080 − 期初应付 560 + 期末应付 320 = RM840。
 Bahasa Melayu: Belanja sewa = 1,080 − 560 + 320 = RM840."
 ,radio,F5 Bab 3,A,B,C,D,A,Picture26.png,"中文：现金控制通过保管、分工和核对防止现金遗失或被挪用。
 Bahasa Melayu: Sistem kawalan tunai mencegah kehilangan dan penyalahgunaan tunai melalui penjagaan serta semakan."
 ,radio,F5 Bab 3,A,B,C,D,A,Picture27.png,"中文：实际付款 RM950 却只记 RM905，现金簿少减 RM45，余额便比银行账单多 RM45。
 Bahasa Melayu: Bayaran terkurang catat sebanyak 950 − 905 = RM45 menyebabkan baki Buku Tunai terlebih nyata RM45."
-,radio,F5 Bab 4,A,B,C,D,A,Picture28.png,"中文：实际收款高于预算，是有利的收款差异，符合选项 A；选项 D 语意其实相同，题目存在重复选项。
+,radio,F5 Bab 3,A,B,C,D,A,Picture28.png,"中文：实际收款高于预算，是有利的收款差异，符合选项 A；选项 D 语意其实相同，题目存在重复选项。
 Bahasa Melayu: Penerimaan sebenar melebihi belanjawan ialah prestasi memuaskan seperti A; pilihan D mempunyai maksud yang sama dan merupakan pilihan berulang."
 ,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：没有合伙协议时，参考 Akta Perkongsian 1961 的默认规则。
 Bahasa Melayu: Jika tiada ikatan perkongsian, peraturan Akta Perkongsian 1961 digunakan."
@@ -61,7 +61,7 @@ Bahasa Melayu: Jika tiada ikatan perkongsian, peraturan Akta Perkongsian 1961 di
 Bahasa Melayu: Baki untung = 50,000 + 500 − 14,000 = RM36,500; setiap pekongsi mendapat 36,500 ÷ 2 = RM18,250."
 ,radio,F5 Bab 4,A,B,C,D,A,Picture31.png,"中文：变现损失 = 资产账面值 45,000 + 费用 850 − 售价 42,000 = RM3,850；按原值偿还负债不影响变现盈亏。
 Bahasa Melayu: Rugi realisasi = 45,000 + 850 − 42,000 = RM3,850; liabiliti yang dijelaskan pada nilai buku tidak mengubah untung rugi realisasi."
-,radio,F5 Bab 4,A,B,C,D,C,Picture32.png,"中文：有限公司是独立法人，法律上与股东分离，因此股东和企业不是同一个法律实体。
+,radio,F5 Bab 5,A,B,C,D,C,Picture32.png,"中文：有限公司是独立法人，法律上与股东分离，因此股东和企业不是同一个法律实体。
 Bahasa Melayu: Syarikat ialah entiti undang-undang yang berasingan daripada pemilik atau pemegang syer."
 ,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：普通股股息在优先股股息支付之后才分配；普通股一般有投票权，股息率也不固定。
 Bahasa Melayu: Dividen syer biasa dibayar selepas syer keutamaan; pemegangnya lazimnya mempunyai hak mengundi dan kadar dividen tidak tetap."

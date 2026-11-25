@@ -1,25 +1,23 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
-Melaka F5,radio,F5 Bab 1,A,B,C,D,A,Picture22.png,"中文：按答案的处理，125,000包括新车：旧车净值125,000 − 50,000 − 15,000 = 60,000；累计折旧15,000 + 6,000 + 1,250 = RM22,250。
-Bahasa Melayu: Mengikut kunci, 125,000 termasuk kenderaan baharu: nilai buku lama 60,000. Susut nilai terkumpul = 15,000 + 6,000 + 50,000 × 10% × 3/12 = RM22,250."
-,radio,F5 Bab 2,A,B,C,D,B,Picture23.png,"中文：记到同类别但错误供应商账户，属于账户混淆错误（kesilapan komisen）。
-Bahasa Melayu: Belian dicatat dalam akaun pembekal yang salah tetapi dalam kelas sama ialah kesilapan komisen."
+Melaka F5,radio,F5 Bab 3,A,B,C,D,A,Picture20.png,"中文：已收支票尚未存入银行是时间差，只作银行调节；不用再次更新收款。
+Bahasa Melayu: Cek diterima belum didepositkan ialah perbezaan masa untuk penyesuaian bank, bukan catatan baharu Buku Tunai."
 ,radio,F5 Bab 2,A,B,C,D,A,Picture24.png,"中文：现金销售占40%，38,400 × 40% = RM15,360。
 Bahasa Melayu: Jualan tunai ialah 40%: 38,400 × 40% = RM15,360."
-,radio,F5 Bab 3,A,B,C,D,B,Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
+,radio,F5 Bab 1,A,B,C,D,B,Picture25.png,"中文：销售成本 = 120,000 − 59,520 = 60,480；平均存货 = 60,480 ÷ 8 = RM7,560。
 Bahasa Melayu: Kos jualan = 120,000 − 59,520 = 60,480; inventori purata = 60,480 ÷ 8 = RM7,560."
-,radio,F5 Bab 3,A,B,C,D,C,Picture26.png,"中文：资本 = 资产 − 负债；应收账款是资产，银行透支是负债。
+,radio,F5 Bab 2,A,B,C,D,C,Picture26.png,"中文：资本 = 资产 − 负债；应收账款是资产，银行透支是负债。
 Bahasa Melayu: Modal = aset − liabiliti; Akaun Belum Terima ialah aset dan overdraf bank ialah liabiliti."
-,radio,F5 Bab 3,A,B,C,D,B,Picture27.png,"中文：一般合伙具有无限责任，且向SSM注册。现有答案 B 的“无限至出资额”措辞矛盾，C 的注册特征正确，待核对。
+,radio,F5 Bab 4,A,B,C,D,B,Picture27.png,"中文：一般合伙具有无限责任，且向SSM注册。现有答案 B 的“无限至出资额”措辞矛盾，C 的注册特征正确，待核对。
 Bahasa Melayu: Perkongsian biasa mempunyai liabiliti tidak terhad dan didaftarkan dengan SSM. Ayat B bercanggah; ciri pendaftaran dalam C adalah betul dan perlu disemak."
-,radio,F5 Bab 4,A,B,C,D,D,Picture28.png,"中文：收款 = 5,428 + 6,840 − 480 − 3,862 = RM7,926；坏账准备不是应收账款控制账户付款。
+,radio,F5 Bab 2,A,B,C,D,D,Picture28.png,"中文：收款 = 5,428 + 6,840 − 480 − 3,862 = RM7,926；坏账准备不是应收账款控制账户付款。
 Bahasa Melayu: Kutipan = 5,428 + 6,840 − 480 − 3,862 = RM7,926; PHR bukan item pengurangan dalam akaun kawalan."
 ,radio,F5 Bab 4,A,B,C,D,C,Picture29.png,"中文：提款利息记利润分配账户贷方，资本利息记借方。因此概念对应 D，现有答案 C 待确认。
 Bahasa Melayu: Faedah ambilan dikreditkan dalam akaun pengasingan; faedah modal didebitkan. Konsep memberi D, tetapi kunci sedia ada C perlu disahkan."
 ,radio,F5 Bab 4,A,B,C,D,B,Picture30.png,"中文：变现结果 = 27,000 − 35,000 − 600 = 亏RM8,600，应为 D。现有 B 把同金额标成盈利，待确认。
 Bahasa Melayu: Hasil realisasi = 27,000 − 35,000 − 600 = rugi RM8,600, pilihan D. Kunci B menyatakan untung dan perlu disahkan."
-,radio,F5 Bab 4,A,B,C,D,D,Picture31.png,"中文：指定建球场的捐款属于资本收入，增加累计基金。
+,radio,F5 Bab 6,A,B,C,D,D,Picture31.png,"中文：指定建球场的捐款属于资本收入，增加累计基金。
 Bahasa Melayu: Derma khas membina gelanggang ialah penerimaan modal yang menambah dana terkumpul."
-,radio,F5 Bab 4,A,B,C,D,D,Picture32.png,"中文：退还超额认购款：借记普通股申请账户、贷记银行RM200,000。
+,radio,F5 Bab 5,A,B,C,D,D,Picture32.png,"中文：退还超额认购款：借记普通股申请账户、贷记银行RM200,000。
 Bahasa Melayu: Pulangan lebihan langganan: debit Permohonan Syer Biasa, kredit Bank RM200,000."
 ,radio,F5 Bab 5,A,B,C,D,A,Picture33.png,"中文：缴足股本 = 500,000 × RM1 = RM500,000。现有 A 金额正确；D 的“unit syer biasa RM1 sesyer”披露每股价最完整，格式待核对。
 Bahasa Melayu: Modal berbayar = 500,000 × RM1 = RM500,000. Amaun A betul; D menyatakan harga sesyer dengan paling lengkap. Format kunci perlu disemak."
