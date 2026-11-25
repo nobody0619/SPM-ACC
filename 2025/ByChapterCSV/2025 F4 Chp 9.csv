@@ -1,12 +1,12 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 9,radio,NegeriSembilan_Q12,A,B,C,D,B,Negeri Sembilan/Picture12.png,"中文：电脑应列办公设备；改正时借记办公设备 RM2,500、贷记购货 RM2,500，撤销误记的商品购货。
+Bahasa Melayu: Pembetulan ialah debit Alatan Pejabat RM2,500 dan kredit Belian RM2,500."
 F4 Chp 9,radio,JohorSet_Q18,A,B,C,D,D,Johor Set 1/Picture18.png,"中文：转移错误可使试算表借贷不平衡，属于明显错误；原则、颠倒及佣金错误通常仍维持平衡。
 Bahasa Melayu: Kesilapan pindahan boleh menyebabkan Imbangan Duga tidak seimbang, maka merupakan kesilapan ketara."
 F4 Chp 9,radio,JohorSet_Q18,A,B,C,D,B,Johor Set 2/Picture18.png,"中文：应记 Shaza 却误记同类供应商 Shazi，属于同类账户之间的佣金错误 Kesilapan Komisen。
 Bahasa Melayu: Catatan kepada Shazi menggantikan Shaza melibatkan akaun sejenis, maka ialah kesilapan komisen."
 F4 Chp 9,radio,NegeriSembilan_Q18,A,B,C,D,B,Negeri Sembilan/Picture18.png,"中文：Azue 的赊销误记另一客户 Azie，属于相同类别账户之间的佣金错误。
 Bahasa Melayu: Catatan jualan kepada pelanggan lain dalam kelas akaun sama ialah kesilapan komisen."
-F4 Chp 9,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 1/Picture19.png,"中文：存货取较低值 RM19,990；流动资产 = 19,990 + 1,200 + 12,800 + 2,000 + 30,000 = 65,990。流动负债 = 23,400 + 1,500 = 24,900；营运资本 RM41,090。
-Bahasa Melayu: Inventori dinilai RM19,990. Aset semasa RM65,990 ditolak liabiliti semasa RM24,900, termasuk overdraf RM1,500, memberikan modal kerja RM41,090."
 F4 Chp 9,radio,JohorSet_Q19,A,B,C,D,B,Johor Set 2/Picture19.png,"中文：维修费 RM800 误记资产，导致费用少记、净利高估；新净利 = 10,200 − 800 = RM9,400。
 Bahasa Melayu: Belanja pembaikan RM800 tersalah menjadi aset, menyebabkan untung terlebih. Untung baharu = 10,200 − 800 = RM9,400."
 F4 Chp 9,radio,Kedah_Q19,A,B,C,D,A,Kedah/Picture19.png,"中文：办公电脑是非流动资产，误记商品购货把资本支出当营业支出，属于原则错误。
@@ -21,8 +21,6 @@ F4 Chp 9,radio,Perlis_Q20,A,B,C,D,A,Perlis/Picture20.png,"中文：原先错误�
 Bahasa Melayu: Debit Danisha RM1,500 untuk membatalkan kredit salah, kemudian kredit Danish RM1,500 kepada pembekal sebenar."
 F4 Chp 9,radio,Selangor_Q20,A,B,C,D,C,Selangor/Picture20.png,"中文：维修费属于收益支出，却记入车辆资产，混淆费用及资产，属于原则错误。
 Bahasa Melayu: Belanja membaiki kenderaan ialah perbelanjaan hasil tetapi direkod sebagai aset; ini ialah kesilapan prinsip."
-F4 Chp 9,radio,Terengganu_Q20,A,B,C,D,D,Terengganu/Picture20.png,"中文：折旧应列损益借方费用，坏账收回应列贷方收入；题中两项位置颠倒。
-Bahasa Melayu: Susut nilai ialah belanja di debit Akaun Untung Rugi; hutang lapuk terpulih ialah hasil di kredit. Kedua-duanya tersalah bahagian."
 F4 Chp 9,radio,Kelantan_Q21,A,B,C,D,B,Kelantan/Picture21.png,"中文：折旧费用增加 RM1,500，使本期净利减少 RM1,500，也降低资产账面值。
 Bahasa Melayu: Belanja susut nilai bertambah RM1,500 menyebabkan untung bersih berkurang RM1,500."
 F4 Chp 9,radio,KelantanYik_Q21,A,B,C,D,B,Kelantan YIK/Picture21.png,"中文：I 把维修费记车辆是原则错误；III 把付款借贷颠倒是颠倒错误，两者仍借贷相等，试算表不能发现。

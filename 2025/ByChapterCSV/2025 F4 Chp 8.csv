@@ -1,4 +1,8 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 8,radio,KelantanYik_Q15,A,B,C,D,D,Kelantan YIK/Picture15.png,"中文：净利 = 毛利 50,020 + 股息 250 − 租金 (1,500 + 500) = RM48,270。
+Bahasa Melayu: Untung bersih = 50,020 + 250 − (1,500 + 500) = RM48,270 selepas memasukkan sewa belum bayar."
+F4 Chp 8,radio,KelantanYik_Q17,A,B,C,D,C,Kelantan YIK/Picture17.png,"中文：坏账准备从应收账款中扣除，会降低净流动资产及营运资本。题目未说明其他项目收付情况，现有答案选最直接调整流动资产的 C。
+Bahasa Melayu: Peruntukan hutang ragu ditolak daripada ABT, lalu mengurangkan aset semasa bersih dan modal kerja; C ialah pelarasan paling langsung dalam soalan ini."
 F4 Chp 8,radio,NegeriSembilan_Q09,A,B,C,D,C,Negeri Sembilan/Picture9.png,"中文：账面值 = 70,000 − 25,000 = RM45,000；售价 = 45,000 + 出售利润 4,500 = RM49,500。
 Bahasa Melayu: Nilai buku RM45,000 ditambah untung pelupusan RM4,500 memberikan harga pelupusan RM49,500."
 F4 Chp 8,radio,Perlis_Q12,A,B,C,D,C,Perlis/Picture12.png,"中文：本期佣金 = 1,200 − 400 = RM800；净利 = 27,791 + 800 − 350 = RM28,241。提款不属于费用。
@@ -85,8 +89,6 @@ F4 Chp 8,radio,Kedah_Q20,A,B,C,D,B,Kedah/Picture20.png,"中文：新坏账准备
 Bahasa Melayu: Peruntukan baharu = 19,300 × 2% = RM386; pengurangan RM64 didebitkan dalam Akaun Peruntukan Hutang Ragu."
 F4 Chp 8,radio,KelantanYik_Q20,A,B,C,D,C,Kelantan YIK/Picture20.png,"中文：预收下一期收入尚未赚取，须列为流动负债 Hasil Belum Terperoleh。
 Bahasa Melayu: Hasil diterima bagi tempoh akan datang belum diperoleh dan direkod sebagai liabiliti semasa, iaitu Hasil Belum Terperoleh."
-F4 Chp 8,radio,Pahang_Q20,A,B,C,D,B,Pahang/Picture20.png,"中文：租金收入收款时贷记租金收入、借记银行；结转收入时借记租金收入、贷记损益账户。
-Bahasa Melayu: Sewa diterima dikreditkan apabila wang masuk ke Bank; pada akhir tempoh, debit Sewa Diterima dan kredit Akaun Untung Rugi."
 F4 Chp 8,radio,Pahang_Q21,A,B,C,D,D,Pahang/Picture21.png,"中文：本期水电费 = 已付 2,500 + 期初预付 600 + 期末应付 400 = RM3,500。
 Bahasa Melayu: Belanja utiliti semasa = bayaran 2,500 + prabayar awal 600 + belum bayar akhir 400 = RM3,500."
 F4 Chp 8,radio,Pahang_Q22,A,B,C,D,C,Pahang/Picture22.png,"中文：新增坏账 RM650；新准备 = (15,000 − 650) × 2% = RM287，比旧准备 RM380 减少 RM93，净利因此减少 650 − 93 = RM557。
@@ -95,3 +97,11 @@ F4 Chp 8,radio,Pahang_Q23,A,B,C,D,B,Pahang/Picture23.png,"中文：2023年11月�
 Bahasa Melayu: Dari November 2023 hingga Mac 2025 ialah 17 bulan. Susut nilai terkumpul = 60,000 × 10% × 17/12 = RM8,500."
 F4 Chp 8,radio,KelantanYik_Q31,A,B,C,D,C,Kelantan YIK/Picture31.png,"中文：两年折旧 = 8,500 × 10% × 2 = 1,700；账面值 6,800，售价 5,000，出售亏损 RM1,800。
 Bahasa Melayu: Susut nilai dua tahun RM1,700; nilai buku RM6,800 ditolak harga jualan RM5,000 memberikan rugi RM1,800."
+F4 Chp 8,radio,JohorSet_Q19,A,B,C,D,C,Johor Set 1/Picture19.png,"中文：存货取较低值 RM19,990；流动资产 = 19,990 + 1,200 + 12,800 + 2,000 + 30,000 = 65,990。流动负债 = 23,400 + 1,500 = 24,900；营运资本 RM41,090。
+Bahasa Melayu: Inventori dinilai RM19,990. Aset semasa RM65,990 ditolak liabiliti semasa RM24,900, termasuk overdraf RM1,500, memberikan modal kerja RM41,090."
+F4 Chp 8,radio,Terengganu_Q20,A,B,C,D,D,Terengganu/Picture20.png,"中文：折旧应列损益借方费用，坏账收回应列贷方收入；题中两项位置颠倒。
+Bahasa Melayu: Susut nilai ialah belanja di debit Akaun Untung Rugi; hutang lapuk terpulih ialah hasil di kredit. Kedua-duanya tersalah bahagian."
+F4 Chp 8,radio,KelantanYik_Q27,A,B,C,D,B,Kelantan YIK/Picture27.png,"中文：年初购入设备计全年折旧，6 月末购入计半年，12 月末购入不计本年月份；折旧 = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020。
+Bahasa Melayu: Susut nilai = 2,800 × 20% + 4,600 × 20% × 6/12 = RM1,020; aset akhir Disember tidak mempunyai bulan penggunaan dalam tahun semasa."
+F4 Chp 8,radio,JohorSet_Q35,A,B,C,D,B,Johor Set 2/Picture35.png,"中文：折旧 = (12,500 − 2,500) × 20% = 2,000；账面值 8,000，售价 8,700，出售利润 RM700。
+Bahasa Melayu: Susut nilai = (12,500 − 2,500) × 20% = RM2,000; nilai buku RM8,000 dan harga jualan RM8,700 memberikan untung RM700."
