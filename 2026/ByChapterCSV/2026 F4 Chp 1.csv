@@ -15,8 +15,6 @@ F4 Chp 1,radio,Kedah_Q02,A,B,C,D,B,Kedah/Picture2.png,"中文：审计检查文�
 Bahasa Melayu: Pengauditan memeriksa dokumen dan rekod bagi mengesahkan ketepatan serta kebolehpercayaan maklumat perakaunan."
 F4 Chp 1,radio,Kelantan_Q01,A,B,C,D,B,Kelantan/Picture1.png,"中文：审计检查文件和账簿，确认会计记录准确。
 Bahasa Melayu: Pengauditan memeriksa dokumen dan rekod bagi mengesahkan ketepatan catatan perakaunan."
-F4 Chp 1,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png,"中文：办公设备长期使用，不容易转换成现金，属于非流动资产。
-Bahasa Melayu: Alatan pejabat mempunyai hayat penggunaan panjang dan kecairan rendah, maka ialah aset bukan semasa."
 F4 Chp 1,radio,MRSM_Q01,A,B,C,D,D,MRSM/Picture1.png,"中文：一个会计期间内，按步骤处理交易、过账、试算及编制报表的流程称为会计循环 Kitaran Perakaunan。
 Bahasa Melayu: Kitaran Perakaunan ialah tatacara mengolah urus niaga, membuat catatan dan menyediakan laporan sepanjang satu tempoh kewangan."
 F4 Chp 1,radio,MRSM_Q02,A,B,C,D,C,MRSM/Picture2.png,"中文：租金以 RM 表示，体现货币计量；本期尚未支付的租金也确认为费用，体现收入与费用确认原则，因此选 II、III。
@@ -39,8 +37,6 @@ F4 Chp 1,radio,Pahang_Q03,A,B,C,D,A,Pahang/Picture3.png,"中文：每年沿用�
 Bahasa Melayu: Penggunaan kaedah susut nilai yang sama setiap tahun menepati prinsip ketekalan."
 F4 Chp 1,radio,Penang_Q01,A,B,C,D,C,Penang/Picture1.png,"中文：业主和企业是独立实体，业主取商品私用须记为提取，不能当成企业销售或费用。
 Bahasa Melayu: Entiti berasingan memisahkan pemilik daripada perniagaan; barang diambil untuk peribadi direkod sebagai ambilan."
-F4 Chp 1,radio,Penang_Q02,A,B,C,D,D,Penang/Picture2.png,"中文：应收款、现金及应收收入都是流动资产；透支及预收收入是流动负债。
-Bahasa Melayu: ABT, tunai dan hasil belum terima ialah aset semasa; overdraf dan hasil belum terperoleh ialah liabiliti semasa."
 F4 Chp 1,radio,Perak_Q01,A,B,C,D,D,Perak/Picture1.png,"中文：管理会计向内部管理人员提供规划及决策资料，财务会计则侧重对外报表。
 Bahasa Melayu: Perakaunan pengurusan menyediakan maklumat kepada pengguna dalaman untuk perancangan dan keputusan."
 F4 Chp 1,radio,Perak_Q02,A,B,C,D,A,Perak/Picture2.png,"中文：课本列出的职业伦理包括客观性、保密及专业行为；Kredibiliti 不是该五项基本原则之一。
@@ -67,3 +63,7 @@ F4 Chp 1,radio,Terengganu_Q03,A,B,C,D,B,Terengganu/Picture3.png,"中文：私人
 Bahasa Melayu: Ambilan peribadi direkod berasingan daripada kegiatan perniagaan, menepati entiti berasingan."
 F4 Chp 1,radio,Terengganu_Q04,A,B,C,D,D,Terengganu/Picture4.png,"中文：合作社资本来源包括会员入会费及会员购买股份。
 Bahasa Melayu: Koperasi memperoleh modal melalui fi masuk dan jualan saham kepada anggota."
+F4 Chp 1,radio,Perak_Q06,A,B,C,D,A,Perak/Picture6.png,"中文：合作社及有限公司可有有限责任、大量资本和会员或股东大会，I、II 正确。
+Bahasa Melayu: Koperasi dan syarikat berhad mempunyai ciri liabiliti terhad serta mesyuarat agung; I dan II betul."
+F4 Chp 1,radio,Pahang_Q04,A,B,C,D,C,Pahang/Picture4.png,"中文：有限公司由董事会管理，股东通过持股提供资本，并承担有限责任。
+Bahasa Melayu: Syarikat berhad diuruskan oleh Ahli Lembaga Pengarah dan dimiliki oleh pemegang syer dengan liabiliti terhad."

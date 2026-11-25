@@ -25,17 +25,19 @@ Bahasa Melayu: Pulangan masuk mengurangkan hutang pelanggan, maka mengurangkan b
 Bahasa Melayu: Sewa kediaman ialah belanja peribadi pemilik: debit Ambilan dan kredit Bank RM1,500."
 ,radio,F4 Bab 6,A,B,C,D,D,Picture13.png,"中文：股息是收入，正常余额在贷方；利息费用、运出费和提取则在借方。
 Bahasa Melayu: Dividen ialah hasil dan berbaki kredit; faedah pinjaman, angkutan keluar dan ambilan berbaki debit."
-,radio,F4 Bab 7,A,B,C,D,C,Picture14.png,"中文：期末应收款 = 36,000 − 380 − 200 = RM35,420。收到折扣不属于应收款控制账户。
+,radio,F4 Bab 5,A,B,C,D,C,Picture14.png,"中文：期末应收款 = 36,000 − 380 − 200 = RM35,420。收到折扣不属于应收款控制账户。
 Bahasa Melayu: Baki akhir ABT = 36,000 − 380 − 200 = RM35,420. Diskaun diterima berkaitan ABB, bukan ABT."
 ,radio,F4 Bab 7,A,B,C,D,D,Picture15.png,"中文：进口税使商品购入成本增加；购货退回减少成本，运出费属于销售费用。
 Bahasa Melayu: Duti import menambah kos belian. Pulangan belian mengurangkannya, manakala angkutan keluar ialah belanja menjual."
-,radio,F4 Bab 8,A,B,C,D,B,Picture16.png,"中文：净利 = 14,500 + 1,700 − 1,200 − 800 = RM14,200。运入费已在毛利计算中处理，不能重复扣除。
+,radio,F4 Bab 7,A,B,C,D,B,Picture16.png,"中文：净利 = 14,500 + 1,700 − 1,200 − 800 = RM14,200。运入费已在毛利计算中处理，不能重复扣除。
 Bahasa Melayu: Untung bersih = 14,500 + 1,700 − 1,200 − 800 = RM14,200. Angkutan masuk sudah diambil kira sebelum untung kasar."
-,radio,F4 Bab 8,A,B,C,D,B,Picture17.png,"中文：收到折扣是名义收入账户，年末结转损益账户；资本、预付保险和预收租金保留余额。
+,radio,F4 Bab 7,A,B,C,D,B,Picture17.png,"中文：收到折扣是名义收入账户，年末结转损益账户；资本、预付保险和预收租金保留余额。
 Bahasa Melayu: Diskaun diterima ialah akaun hasil yang ditutup ke Akaun Untung Rugi; modal, insurans prabayar dan sewa belum terperoleh dibawa ke tempoh berikutnya."
 ,radio,F4 Bab 8,A,B,C,D,B,Picture18.png,"中文：保险覆盖五月至翌年四月。年底尚未使用四个月，所以预付保险 = 3,600 × 4/12 = RM1,200。
 Bahasa Melayu: Baki perlindungan Januari hingga April ialah empat bulan. Insurans prabayar = 3,600 × 4/12 = RM1,200."
 ,radio,F4 Bab 9,A,B,C,D,C,Picture19.png,"中文：金额正确但记入同一类别中的错误账户，属于 komisen 错误；试算表仍可能平衡。
 Bahasa Melayu: Kesilapan komisen berlaku apabila amaun betul dicatat dalam akaun yang salah tetapi daripada pengelasan yang sama."
-,radio,F4 Bab 8,A,B,C,D,A,Picture20.png,"中文：运出费误记为运入费，两者都记借方，相同金额不改变借贷总额，所以试算表仍平衡。
+,radio,F4 Bab 9,A,B,C,D,A,Picture20.png,"中文：运出费误记为运入费，两者都记借方，相同金额不改变借贷总额，所以试算表仍平衡。
 Bahasa Melayu: Angkutan keluar tersalah dicatat sebagai angkutan masuk masih berada di sebelah debit; jumlah debit dan kredit kekal seimbang."
+Kedah F4,radio,F4 Bab 5,A,B,C,D,A,Picture21.png,"中文：电脑是店里的商品，老板拿给孩子使用属于提取：借记 Ambilan RM1,000，贷记 Belian RM1,000。
+Bahasa Melayu: Komputer ialah barang niaga yang diambil untuk kegunaan peribadi: debit Ambilan RM1,000 dan kredit Belian RM1,000."

@@ -1,4 +1,16 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 9,radio,Kedah_Q20,A,B,C,D,A,Kedah/Picture20.png,"中文：运出费误记为运入费，两者都记借方，相同金额不改变借贷总额，所以试算表仍平衡。
+Bahasa Melayu: Angkutan keluar tersalah dicatat sebagai angkutan masuk masih berada di sebelah debit; jumlah debit dan kredit kekal seimbang."
+F4 Chp 9,radio,Kelantan_Q19,A,B,C,D,A,Kelantan/Picture19.png,"中文：赊销已借记应收款但漏贷记销售，令借方比贷方多 RM370，符合题目差额。
+Bahasa Melayu: Jualan kredit yang tidak dikreditkan ke Akaun Jualan menyebabkan jumlah debit melebihi kredit RM370."
+F4 Chp 9,radio,Melaka_Q18,A,B,C,D,C,Melaka/Picture18.png,"中文：遗漏赊购展示架，补记借方 Perabot RM3,000、贷方 Kedai Perabot Raju RM3,000。
+Bahasa Melayu: Betulkan peninggalan belian rak: debit Perabot RM3,000 dan kredit Kedai Perabot Raju RM3,000."
+F4 Chp 9,radio,Penang_Q18,A,B,C,D,B,Penang/Picture18.png,"中文：正确顾客金额记在另一顾客账户，是同一类别中的 komisen 错误。
+Bahasa Melayu: Jualan kepada Mirza dicatat dalam akaun Miza merupakan kesilapan komisen."
+F4 Chp 9,radio,Penang_Q19,A,B,C,D,A,Penang/Picture19.png,"中文：少记购货 850 − 580 = RM270；补借记 Belian RM270、贷记 Tunai RM270。
+Bahasa Melayu: Amaun terkurang RM270; debit Belian dan kredit Tunai RM270 untuk membetulkannya."
+F4 Chp 9,radio,Perlis_Q18,A,B,C,D,A,Perlis/Picture18.png,"中文：将欠款由错记 Hafiz 转到 Hariz：借记 Hariz、贷记 Hafiz RM2,200，不再重复记销售。
+Bahasa Melayu: Debit Hariz dan kredit Hafiz RM2,200 untuk memindahkan hutang tanpa mengubah Jualan."
 F4 Chp 9,radio,Johor_Q20,A,B,C,D,B,Johor/Picture20.png,"中文：漏记坏账收回是收入，增加利润 RM780；漏记宣传费减少利润 RM230。调整净利 = 12,540 + 780 − 230 = RM13,090。
 Bahasa Melayu: Hutang lapuk terpulih menambah hasil RM780 dan belanja promosi mengurangkan untung RM230. Untung bersih terselaras = RM12,540 + RM780 − RM230 = RM13,090."
 F4 Chp 9,radio,KL_Q18,A,B,C,D,D,KL/Picture18.png,"中文：III 只记录银行而漏记银行费用，属于单边记录；IV 两边都贷记，也破坏借贷平衡。I、II 只是记错账户，不影响总额平衡。
@@ -13,31 +25,23 @@ F4 Chp 9,radio,MRSM_Q22,A,B,C,D,D,MRSM/Picture22.png,"中文：购货运费少�
 Bahasa Melayu: Angkutan masuk terkurang RM50 dan angkutan keluar terlebih RM50. Kedua-dua kesilapan saling mengimbangi; jawapan D."
 F4 Chp 9,radio,MRSM_Q23,A,B,C,D,B,MRSM/Picture23.png,"中文：维修办公设备是费用，不是购入资产。更正时把 RM1,000 从资产转入维修费用，因此费用增加、资产及利润减少。
 Bahasa Melayu: Pembaikan alatan pejabat ialah belanja, bukannya aset. Pembetulan memindahkan RM1,000 daripada aset kepada belanja pembaikan, lalu belanja bertambah."
-F4 Chp 9,radio,Melaka_Q20,A,B,C,D,D,Melaka/Picture20.png,"中文：净利 = 9,000 + 7,500 − 10,000 − 600 = RM5,900，即期末资本加提取减期初资本及追加资本。
-Bahasa Melayu: Untung bersih = modal akhir + ambilan − modal awal − modal tambahan = 9,000 + 7,500 − 10,000 − 600 = RM5,900."
-F4 Chp 9,radio,Melaka_Q21,A,B,C,D,A,Melaka/Picture21.png,"中文：赊购 = 15,500 + 10,400 − 7,500 = RM18,400；加现购 RM10,600，总购货 RM29,000。
-Bahasa Melayu: Belian kredit = 15,500 + 10,400 − 7,500 = RM18,400. Jumlah belian = 18,400 + 10,600 = RM29,000."
 F4 Chp 9,radio,NegeriSembilan_Q18,A,B,C,D,A,Negeri Sembilan/Picture18.png,"中文：运入费误记运出费，两项都在借方，金额没有改变，所以试算表仍平衡。
 Bahasa Melayu: Angkutan masuk tersalah menjadi angkutan keluar tidak mengubah jumlah debit, maka Imbangan Duga kekal seimbang."
 F4 Chp 9,radio,Pahang_Q24,A,B,C,D,B,Pahang/Picture24.png,"中文：供应商金额记对，却记入另一名供应商账户，属于同类账户的 komisen 错误。
 Bahasa Melayu: Belian dicatat dalam akaun pembekal lain yang sama pengelasan merupakan kesilapan komisen."
-F4 Chp 9,radio,Penang_Q20,A,B,C,D,D,Penang/Picture20.png,"中文：收债期及存货周转率衡量经营效率，属于效率比率。III、IV 正确。
-Bahasa Melayu: Tempoh kutipan hutang dan kadar pusing ganti inventori ialah nisbah kecekapan; III dan IV betul."
-F4 Chp 9,radio,Penang_Q21,A,B,C,D,A,Penang/Picture21.png,"中文：售货成本 = 486,000 − 246,000 = RM240,000；平均存货 RM60,000，周转率 = 240,000/60,000 = 4 次。
-Bahasa Melayu: Kos jualan RM240,000; inventori purata RM60,000. Kadar pusing ganti inventori = 4 kali."
-F4 Chp 9,radio,Perak_Q20,A,B,C,D,A,Perak/Picture20.png,"中文：本题把应收与应付的互抵视为日常 contra 交易，区别于期末费用、折旧及坏账准备调整。
-Bahasa Melayu: Catatan kontra ABT dengan ABB ialah urus niaga biasa, berbeza daripada pelarasan nominal, susut nilai dan PHR pada tarikh imbangan."
-F4 Chp 9,radio,Perak_Q21,A,B,C,D,D,Perak/Picture21.png,"中文：权责发生制包括尚未支付的本期费用：421 + 63 = RM484。
-Bahasa Melayu: Asas akruan mengiktiraf belanja belum bayar: 421 + 63 = RM484."
-F4 Chp 9,radio,Perlis_Q19,A,B,C,D,C,Perlis/Picture19.png,"中文：财务报表分析帮助管理层评估盈利、流动性及效率，从而作经营决策。
-Bahasa Melayu: Analisis penyata kewangan membantu pengurusan menilai prestasi dan membuat keputusan kewangan."
-F4 Chp 9,radio,Perlis_Q20,A,B,C,D,B,Perlis/Picture20.png,"中文：流动负债 = 22,000 − 6,300 = RM15,700；速动比率 = (22,000 − 2,100)/15,700 = 1.27:1。
-Bahasa Melayu: Liabiliti semasa RM15,700. Nisbah ujian asid = (22,000 − 2,100)/15,700 = 1.27:1."
 F4 Chp 9,radio,SelangorSet_Q20,A,B,C,D,D,Selangor Set 1/Picture20.png,"中文：维修费是收益性费用，却记入车辆资产，违反账户类别原则，属于原则错误。
 Bahasa Melayu: Belanja membaiki tersalah sebagai aset ialah kesilapan prinsip."
 F4 Chp 9,radio,SelangorSet_Q21,A,B,C,D,B,Selangor Set 1/Picture21.png,"中文：把运入费移回交易账户使销货成本增加、毛利减少；同时损益费用减少，净利不变。
 Bahasa Melayu: Pembetulan menambah kos jualan dan mengurangkan untung kasar, tetapi untung bersih tidak berubah kerana belanja angkutan keluar turut berkurang."
-F4 Chp 9,radio,Terengganu_Q20,A,B,C,D,C,Terengganu/Picture20.png,"中文：收到租赁押金将来可能须归还，所以属于负债；已付押金和预付款则是资产。
-Bahasa Melayu: Deposit sewa diterima perlu dipulangkan apabila berkenaan, maka ialah liabiliti."
-F4 Chp 9,radio,Terengganu_Q21,A,B,C,D,D,Terengganu/Picture21.png,"中文：财务状况表列新坏账准备总额 = 8,000 × 5% = RM400，不是增加额 RM200。题列坏账为已记账余额，不重复减应收款。
-Bahasa Melayu: PHR akhir = 8,000 × 5% = RM400; penyata kedudukan kewangan melaporkan jumlah akhir, bukan pertambahan RM200."
+F4 Chp 9,radio,Perak_Q25,A,B,C,D,A,Perak/Picture25.png,"中文：抵销错误及整宗遗漏可能不影响借贷相等；只遗漏一方则使试算表不平衡。I、II 正确。
+Bahasa Melayu: Kesilapan saling mengimbangi dan ketinggalan seluruh urus niaga tidak semestinya menjejaskan keseimbangan; I dan II betul."
+F4 Chp 9,radio,Perak_Q26,A,B,C,D,C,Perak/Picture26.png,"中文：购货账户记 RM540 而实际 RM450，购货多记 RM90，现金簿没有错误。
+Bahasa Melayu: Akaun Belian terlebih catat 540 − 450 = RM90; Buku Tunai telah betul."
+F4 Chp 9,radio,Terengganu_Q24,A,B,C,D,A,Terengganu/Picture24.png,"中文：购货金额记入另一供应商同类账户，属于 komisen 错误。
+Bahasa Melayu: Belian tersalah dalam akaun pembekal lain daripada pengelasan sama ialah kesilapan komisen."
+F4 Chp 9,radio,Terengganu_Q25,A,B,C,D,D,Terengganu/Picture25.png,"中文：减少多记销售退回会增加收入 RM190；减少多记购货退回会增加成本 RM190，两者抵销，净利不变。
+Bahasa Melayu: Pembetulan pulangan jualan menambah hasil RM190, manakala pembetulan pulangan belian menambah kos RM190; untung bersih tidak berubah."
+F4 Chp 9,radio,NegeriSembilan_Q23,A,B,C,D,A,Negeri Sembilan/Picture23.png,"中文：维修费误计资产，需从机器成本减 RM1,800，并加到费用。机器 = RM63,200；维修费 = RM4,800。
+Bahasa Melayu: Kurangkan mesin RM1,800 dan tambah belanja membaiki: mesin RM63,200, belanja RM4,800."
+F4 Chp 9,radio,Perak_Q27,A,B,C,D,B,Perak/Picture27.png,"中文：原分录借贷完全颠倒，改正需原金额两倍：借记顾客、贷记销售 RM12,920。
+Bahasa Melayu: Kesilapan songsang dibetulkan pada dua kali amaun: debit pelanggan dan kredit Jualan RM12,920."

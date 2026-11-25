@@ -1,4 +1,8 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+F4 Chp 2,radio,Kelantan_Q02,A,B,C,D,C,Kelantan/Picture2.png,"中文：办公设备长期使用，不容易转换成现金，属于非流动资产。
+Bahasa Melayu: Alatan pejabat mempunyai hayat penggunaan panjang dan kecairan rendah, maka ialah aset bukan semasa."
+F4 Chp 2,radio,Penang_Q02,A,B,C,D,D,Penang/Picture2.png,"中文：应收款、现金及应收收入都是流动资产；透支及预收收入是流动负债。
+Bahasa Melayu: ABT, tunai dan hasil belum terima ialah aset semasa; overdraf dan hasil belum terperoleh ialah liabiliti semasa."
 F4 Chp 2,radio,Johor_Q04,A,B,C,D,D,Johor/Picture4.png,"中文：非流动资产列在财务状况表，不是交易及损益账户项目。后者记录销售、收入、销货成本和费用。
 Bahasa Melayu: Aset bukan semasa dilaporkan dalam Penyata Kedudukan Kewangan, bukan Akaun Perdagangan dan Untung Rugi yang mengandungi hasil dan belanja."
 F4 Chp 2,radio,Johor_Q05,A,B,C,D,C,Johor/Picture5.png,"中文：资本 = 资产 − 负债 = 30,000 + 15,000 + 8,590 − 13,400 = RM40,190。
@@ -47,3 +51,29 @@ F4 Chp 2,radio,SelangorSet_Q05,A,B,C,D,D,Selangor Set 1/Picture5.png,"中文：�
 Bahasa Melayu: Ansuran kenderaan peribadi menggunakan cek perniagaan ialah ambilan yang mengurangkan aset dan ekuiti."
 F4 Chp 2,radio,Terengganu_Q05,A,B,C,D,C,Terengganu/Picture5.png,"中文：交易账户包括销货成本，以净销售减销货成本求毛利。本题把毛利视为计算结果而非费用或成本项目。
 Bahasa Melayu: Kos jualan ialah komponen Akaun Perdagangan; untung kasar merupakan hasil pengiraan jualan bersih ditolak kos jualan."
+F4 Chp 2,radio,NegeriSembilan_Q06,A,B,C,D,B,Negeri Sembilan/Picture6.png,"中文：付款 RM550 清偿 RM700 债务：资产减 RM550、负债减 RM700，收到折扣 RM150 增加盈利及权益。
+Bahasa Melayu: Bayaran RM550 menjelaskan hutang RM700; aset turun RM550, liabiliti turun RM700 dan diskaun diterima RM150 menambah ekuiti."
+F4 Chp 2,radio,Terengganu_Q06,A,B,C,D,B,Terengganu/Picture6.png,"中文：抵押贷款及超过一年的债务通常是非流动负债；透支及一年内欠款属于流动负债。I、IV 正确。
+Bahasa Melayu: Gadai janji dan hutang melebihi setahun ialah liabiliti bukan semasa; I dan IV betul."
+F4 Chp 2,radio,Perak_Q07,A,B,C,D,A,Perak/Picture7.png,"中文：企业现金用于孩子学费是提取，使资产和业主权益同时减少 RM300。
+Bahasa Melayu: Wang untuk yuran anak ialah ambilan yang mengurangkan aset dan ekuiti RM300."
+F4 Chp 2,radio,Perak_Q08,A,B,C,D,D,Perak/Picture8.png,"中文：原资本 = 12,000 − 5,000 = RM7,000；投入 RM2,000 后资产 RM14,000、负债 RM5,000、权益 RM9,000。
+Bahasa Melayu: Modal asal RM7,000; tambahan tunai RM2,000 menjadikan aset RM14,000, liabiliti RM5,000 dan ekuiti RM9,000."
+F4 Chp 2,radio,Perak_Q09,A,B,C,D,D,Perak/Picture9.png,"中文：账户表把账户按类别及编码排列，方便电脑系统一致记录和检索。
+Bahasa Melayu: Carta Akaun menyusun akaun secara sistematik dengan kod bagi memudahkan perekodan komputer."
+F4 Chp 2,radio,Terengganu_Q07,A,B,C,D,C,Terengganu/Picture7.png,"中文：付供应商 RM4,500 清偿 RM5,000，收到折扣 RM500；资产减 4,500、负债减 5,000、权益加 500。
+Bahasa Melayu: Bayaran RM4,500 dan diskaun diterima RM500 menjelaskan hutang RM5,000; ekuiti meningkat RM500."
+F4 Chp 2,radio,Perlis_Q05,A,B,C,D,D,Perlis/Picture5.png,"中文：已付税费押金可收回，属于资产，代码应在 1000–1999，选 1020。
+Bahasa Melayu: Deposit kadar bayaran ialah aset yang boleh diperoleh semula; kod 1020 berada dalam julat aset."
+F4 Chp 2,radio,Terengganu_Q08,A,B,C,D,C,Terengganu/Picture8.png,"中文：车辆的抵销账户是累计折旧，不是本年折旧费用，故 C 的配对错误。
+Bahasa Melayu: Akaun kontra kenderaan ialah susut nilai terkumpul, bukannya belanja susut nilai semasa; C tidak tepat."
+F4 Chp 2,radio,Kelantan_Q11,A,B,C,D,A,Kelantan/Picture11.png,"中文：提取的正常余额为借方，抵减资本贷方余额，是资本的抵销账户。
+Bahasa Melayu: Ambilan berbaki debit dan mengurangkan modal berbaki kredit, maka merupakan akaun kontra modal."
+F4 Chp 2,radio,Terengganu_Q18,A,B,C,D,D,Terengganu/Picture18.png,"中文：净利是本期收入减全部费用后的盈利，结转资本后增加权益。
+Bahasa Melayu: Untung bersih dipindahkan ke Akaun Modal dan menambah ekuiti pemilik."
+F4 Chp 2,radio,Terengganu_Q20,A,B,C,D,C,Terengganu/Picture20.png,"中文：收到租赁押金将来可能须归还，所以属于负债；已付押金和预付款则是资产。
+Bahasa Melayu: Deposit sewa diterima perlu dipulangkan apabila berkenaan, maka ialah liabiliti."
+F4 Chp 2,radio,SelangorSet_Q23,A,B,C,D,D,Selangor Set 1/Picture23.png,"中文：净利增加资本与权益；费用、提取及净亏损会减少权益。
+Bahasa Melayu: Untung bersih menambah ekuiti pemilik; belanja, ambilan dan rugi mengurangkannya."
+F4 Chp 2,radio,Perak_Q31,A,B,C,D,B,Perak/Picture31.png,"中文：净亏损减少资本及业主权益；收入和追加资本通常增加权益。
+Bahasa Melayu: Rugi bersih mengurangkan ekuiti pemilik; hasil dan modal tambahan meningkatkan ekuiti."

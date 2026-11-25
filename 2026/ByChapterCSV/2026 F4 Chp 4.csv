@@ -31,29 +31,35 @@ F4 Chp 4,radio,NegeriSembilan_Q08,A,B,C,D,B,Negeri Sembilan/Picture8.png,"中文
 Bahasa Melayu: Debit Perabot RM2,500 dan kredit Mewah Furniture Bhd RM2,500 bagi belian aset secara kredit."
 F4 Chp 4,radio,Pahang_Q09,A,B,C,D,C,Pahang/Picture9.png,"中文：退货给供应商属于购货退回，记入购货退回日记账；其他非现金资产交易用普通日记账。
 Bahasa Melayu: Pulangan barang kepada pembekal direkod dalam Jurnal Pulangan Belian, iaitu jurnal khas."
-F4 Chp 4,radio,Pahang_Q10,A,B,C,D,B,Pahang/Picture10.png,"中文：借记期末存货、贷记交易账户，是年末结账分录，确认尚未售出的商品。
-Bahasa Melayu: Debit Inventori dan kredit Akaun Perdagangan merupakan catatan penutupan bagi inventori akhir."
 F4 Chp 4,radio,Pahang_Q11,A,B,C,D,C,Pahang/Picture11.png,"中文：收回应收账款和老板投入资金都是现金收入，记现金簿借方；付款与提取在贷方。II、III 正确。
 Bahasa Melayu: Penerimaan daripada ABT dan modal tunai masuk direkod di sebelah debit Buku Tunai; II dan III betul."
 F4 Chp 4,radio,Pahang_Q12,A,B,C,D,D,Pahang/Picture12.png,"中文：月初备用金 = 原余额 RM65 + 补款 RM185 = RM250；本月支付额不是备用金额。
 Bahasa Melayu: Panjar awal = baki RM65 + penerimaan RM185 = RM250; jumlah pembayaran bukan nilai panjar."
 F4 Chp 4,radio,Penang_Q05,A,B,C,D,A,Penang/Picture5.png,"中文：赊购店铺家具是非商品资产交易，原始发票记普通日记账；不能记为商品购货。
 Bahasa Melayu: Belian perabot kedai secara kredit ialah belian aset bukan semasa, direkod dalam Jurnal Am."
-F4 Chp 4,radio,Penang_Q07,A,B,C,D,C,Penang/Picture7.png,"中文：赊销给 Kedai Ina：借记顾客账户，贷记销售账户 RM500。
-Bahasa Melayu: Jualan kredit RM500 kepada Kedai Ina: debit Kedai Ina dan kredit Jualan."
-F4 Chp 4,radio,Penang_Q08,A,B,C,D,B,Penang/Picture8.png,"中文：企业商品赠给学校作捐款：借记 Derma RM300、贷记 Belian RM300；并非业主私用提取。
-Bahasa Melayu: Barang niaga didermakan oleh perniagaan: debit Derma RM300 dan kredit Belian RM300."
-F4 Chp 4,radio,Perak_Q07,A,B,C,D,A,Perak/Picture7.png,"中文：企业现金用于孩子学费是提取，使资产和业主权益同时减少 RM300。
-Bahasa Melayu: Wang untuk yuran anak ialah ambilan yang mengurangkan aset dan ekuiti RM300."
-F4 Chp 4,radio,Perak_Q08,A,B,C,D,D,Perak/Picture8.png,"中文：原资本 = 12,000 − 5,000 = RM7,000；投入 RM2,000 后资产 RM14,000、负债 RM5,000、权益 RM9,000。
-Bahasa Melayu: Modal asal RM7,000; tambahan tunai RM2,000 menjadikan aset RM14,000, liabiliti RM5,000 dan ekuiti RM9,000."
-F4 Chp 4,radio,Perak_Q09,A,B,C,D,D,Perak/Picture9.png,"中文：账户表把账户按类别及编码排列，方便电脑系统一致记录和检索。
-Bahasa Melayu: Carta Akaun menyusun akaun secara sistematik dengan kod bagi memudahkan perekodan komputer."
-F4 Chp 4,radio,Perlis_Q07,A,B,C,D,D,Perlis/Picture7.png,"中文：报价单仅提供价格，不证明交易已发生，是非来源文件。
-Bahasa Melayu: Sebut harga hanya menyatakan tawaran harga dan merupakan dokumen bukan sumber."
 F4 Chp 4,radio,SelangorSet_Q07,A,B,C,D,A,Selangor Set 1/Picture7.png,"中文：老板投入电脑：借记办公设备、贷记资本 RM3,000，没有企业银行款项变动。
 Bahasa Melayu: Debit Alatan Pejabat dan kredit Modal RM3,000; tiada aliran wang bank perniagaan."
 F4 Chp 4,radio,SelangorSet_Q08,A,B,C,D,D,Selangor Set 1/Picture8.png,"中文：收回应收款及老板投入现金都是现金簿借方收入，III、IV 正确。
 Bahasa Melayu: Kutipan ABT dan modal tambahan tunai ialah penerimaan debit Buku Tunai; III dan IV betul."
-F4 Chp 4,radio,Terengganu_Q07,A,B,C,D,C,Terengganu/Picture7.png,"中文：付供应商 RM4,500 清偿 RM5,000，收到折扣 RM500；资产减 4,500、负债减 5,000、权益加 500。
-Bahasa Melayu: Bayaran RM4,500 dan diskaun diterima RM500 menjelaskan hutang RM5,000; ekuiti meningkat RM500."
+F4 Chp 4,radio,Melaka_Q09,A,B,C,D,D,Melaka/Picture9.png,"中文：零用现金簿使用备用金制度，补回已支付金额后恢复固定备用金。
+Bahasa Melayu: Buku Tunai Runcit menggunakan sistem panjar dengan bayaran balik berdasarkan jumlah yang telah dibelanjakan."
+F4 Chp 4,radio,Perlis_Q08,A,B,C,D,C,Perlis/Picture8.png,"中文：顾客收到原始发票买商品，记购货日记账，金额为扣商业折扣后的 RM21,600。
+Bahasa Melayu: Invois asal belian barang niaga direkod dalam Jurnal Belian pada RM21,600 selepas diskaun niaga."
+F4 Chp 4,radio,Perlis_Q10,A,B,C,D,C,Perlis/Picture10.png,"中文：顾客饮料 RM20 和邮费 RM15 是小额日常支出，可用零用现金簿；家具和工资通常不用。
+Bahasa Melayu: Minuman pelanggan dan bungkusan pos ialah bayaran kecil dalam Buku Tunai Runcit; II dan III betul."
+F4 Chp 4,radio,Terengganu_Q10,A,B,C,D,B,Terengganu/Picture10.png,"中文：退票后撤销给予折扣：借记 Haifa 增加欠款，贷记 Diskaun Diberi 减少折扣费用。
+Bahasa Melayu: Diskaun dibatalkan: debit Haifa dan kredit Diskaun Diberi untuk memulihkan hutang pelanggan."
+F4 Chp 4,radio,Terengganu_Q11,A,B,C,D,B,Terengganu/Picture11.png,"中文：顾客退货记销售退回日记账，赊销记销售日记账，均为特别日记账，I、III 正确。
+Bahasa Melayu: Pulangan pelanggan dan jualan kredit direkod dalam jurnal khas; I dan III betul."
+F4 Chp 4,radio,Perak_Q12,A,B,C,D,B,Perak/Picture12.png,"中文：老板投入车辆是非现金追加资本，用普通日记账；现金或支票交易主要用现金簿。
+Bahasa Melayu: Kenderaan dibawa masuk sebagai modal tambahan ialah urus niaga bukan tunai yang direkod dalam Jurnal Am."
+F4 Chp 4,radio,Perak_Q13,A,B,C,D,A,Perak/Picture13.png,"中文：卖方发出借项通知单，追加原来少收的售价，增加赊销，记销售日记账 RM320。
+Bahasa Melayu: Nota debit salinan menambah jualan kredit kerana harga terkurang caj; RM320 direkod dalam Jurnal Jualan."
+F4 Chp 4,radio,Terengganu_Q12,A,B,C,D,D,Terengganu/Picture12.png,"中文：现金簿借方记录收款，正式收据证明收回应收款，适合作来源文件。
+Bahasa Melayu: Resit menjadi dokumen sumber penerimaan wang yang direkod di sebelah debit Buku Tunai."
+F4 Chp 4,radio,Perak_Q14,A,B,C,D,A,Perak/Picture14.png,"中文：收到支票 RM6,000、给予折扣 6,300 − 6,000 = RM300，均记现金簿借方对应栏。
+Bahasa Melayu: Debit Buku Tunai: bank RM6,000 dan diskaun diberi RM300 untuk menjelaskan hutang RM6,300."
+F4 Chp 4,radio,NegeriSembilan_Q09,A,B,C,D,A,Negeri Sembilan/Picture9.png,"中文：收到支票 RM2,000 清偿 RM2,250，给予折扣 RM250。现金簿借方分别记录银行及折扣。
+Bahasa Melayu: Diskaun diberi = 2,250 − 2,000 = RM250; debit Buku Tunai pada ruangan bank RM2,000 dan diskaun RM250."
+F4 Chp 4,radio,Perak_Q15,A,B,C,D,D,Perak/Picture15.png,"中文：备用金 = 月初剩余 RM45 + 补款 RM100 = RM145，不是本月付款 RM90。
+Bahasa Melayu: Panjar = baki awal RM45 + penerimaan RM100 = RM145."

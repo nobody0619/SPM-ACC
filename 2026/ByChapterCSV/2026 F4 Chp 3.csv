@@ -25,19 +25,19 @@ F4 Chp 3,radio,Melaka_Q06,A,B,C,D,C,Melaka/Picture6.png,"中文：发票证明�
 Bahasa Melayu: Invois digunakan bagi urus niaga kredit; bil tunai digunakan bagi urus niaga tunai."
 F4 Chp 3,radio,NegeriSembilan_Q04,A,B,C,D,C,Negeri Sembilan/Picture4.png,"中文：正式收据证明已经收到现金，属于现金交易文件；发票主要用于赊账交易。
 Bahasa Melayu: Resit rasmi membuktikan penerimaan wang bagi urus niaga tunai; invois lazimnya untuk urus niaga kredit."
-F4 Chp 3,radio,NegeriSembilan_Q06,A,B,C,D,B,Negeri Sembilan/Picture6.png,"中文：付款 RM550 清偿 RM700 债务：资产减 RM550、负债减 RM700，收到折扣 RM150 增加盈利及权益。
-Bahasa Melayu: Bayaran RM550 menjelaskan hutang RM700; aset turun RM550, liabiliti turun RM700 dan diskaun diterima RM150 menambah ekuiti."
-F4 Chp 3,radio,NegeriSembilan_Q07,A,B,C,D,A,Negeri Sembilan/Picture7.png,"中文：工资是费用，销售是收入，都是每期结清的名义账户；设备及存货是实账户。
-Bahasa Melayu: Gaji dan jualan ialah akaun nominal belanja dan hasil; lekapan serta inventori ialah akaun nyata."
 F4 Chp 3,radio,Pahang_Q08,A,B,C,D,C,Pahang/Picture8.png,"中文：向客户追加运输收费，使用借项通知单，增加客户欠款。
 Bahasa Melayu: Nota debit dihantar untuk menambah caj pengangkutan dan hutang pelanggan."
 F4 Chp 3,radio,Penang_Q04,A,B,C,D,A,Penang/Picture4.png,"中文：银行收到定存利息或投资股息，会发出贷项通知，表示客户银行存款增加。
 Bahasa Melayu: Makluman kredit dikeluarkan apabila bank menerima faedah atau dividen bagi pelanggan, menambah baki bank mereka."
-F4 Chp 3,radio,Penang_Q06,A,B,C,D,B,Penang/Picture6.png,"中文：收入增加记贷方；资产增加记借方，负债和权益增加也记贷方。
-Bahasa Melayu: Hasil bertambah dikreditkan; aset bertambah didebitkan, manakala liabiliti dan ekuiti bertambah dikreditkan."
-F4 Chp 3,radio,Perak_Q06,A,B,C,D,A,Perak/Picture6.png,"中文：合作社及有限公司可有有限责任、大量资本和会员或股东大会，I、II 正确。
-Bahasa Melayu: Koperasi dan syarikat berhad mempunyai ciri liabiliti terhad serta mesyuarat agung; I dan II betul."
 F4 Chp 3,radio,SelangorSet_Q06,A,B,C,D,B,Selangor Set 1/Picture6.png,"中文：商品私人提取用内部备忘录说明，而不是对外销售发票。
 Bahasa Melayu: Ambilan barang niaga direkod melalui memo dalaman, bukan invois jualan."
-F4 Chp 3,radio,Terengganu_Q06,A,B,C,D,B,Terengganu/Picture6.png,"中文：抵押贷款及超过一年的债务通常是非流动负债；透支及一年内欠款属于流动负债。I、IV 正确。
-Bahasa Melayu: Gadai janji dan hutang melebihi setahun ialah liabiliti bukan semasa; I dan IV betul."
+F4 Chp 3,radio,Perlis_Q07,A,B,C,D,D,Perlis/Picture7.png,"中文：报价单仅提供价格，不证明交易已发生，是非来源文件。
+Bahasa Melayu: Sebut harga hanya menyatakan tawaran harga dan merupakan dokumen bukan sumber."
+F4 Chp 3,radio,Perak_Q10,A,B,C,D,B,Perak/Picture10.png,"中文：购货订单后收到发票，若有调整或退货收到贷项通知，再付款及收据，符合 B 的顺序。
+Bahasa Melayu: Urutan ialah pesanan belian, invois, nota kredit jika perlu, cek pembayaran dan resit."
+F4 Chp 3,radio,Perak_Q11,A,B,C,D,C,Perak/Picture11.png,"中文：15 日是第一天，20 日是第六天，已超过首五天的 10% 折扣期限，但仍符合十天内的 5% 折扣条件。付款额 = RM1,800 × 95% = RM1,710，选 C。
+Bahasa Melayu: 15 haribulan ialah hari pertama dan 20 haribulan ialah hari keenam. Bayaran melebihi tempoh lima hari untuk diskaun 10%, tetapi masih dalam tempoh sepuluh hari untuk diskaun 5%. Bayaran = RM1,800 × 95% = RM1,710, iaitu C."
+F4 Chp 3,radio,Perlis_Q06,A,B,C,D,B,Perlis/Picture6.png,"中文：发票证明商品赊购；贷项通知是减少欠款，支票存根证明支票付款。
+Bahasa Melayu: Invois menunjukkan belian kredit; nota kredit mengurangkan hutang dan keratan cek membuktikan bayaran cek."
+F4 Chp 3,radio,Terengganu_Q09,A,B,C,D,A,Terengganu/Picture9.png,"中文：银行借项通知表示客户存款被扣减，例如代付款、银行费用或透支利息。
+Bahasa Melayu: Makluman debit memberitahu pelanggan bahawa bank telah mengurangkan baki akaunnya."

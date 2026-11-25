@@ -1,4 +1,10 @@
 ﻿title,type,question,A,B,C,D,answer,image,explanation
+F5 Chp 7,radio,Melaka_Q37,A,B,C,D,D,Melaka/Picture37.png,"中文：厂房水电费是生产的间接支出，属于制造费用；销售员工资和店租不属于生产成本。
+Bahasa Melayu: Utiliti kilang ialah kos tidak langsung pengeluaran, maka termasuk kos overhed."
+F5 Chp 7,radio,Perlis_Q36,A,B,C,D,D,Perlis/Picture36.png,"中文：直接用于生产产品的版权费用属于直接费用；监督员工资属间接人工，生产员工工资属直接人工。
+Bahasa Melayu: Hak cipta khusus pengeluaran ialah belanja langsung; gaji penyelia ialah overhed dan operator ialah buruh langsung."
+F5 Chp 7,radio,Perlis_Q37,A,B,C,D,A,Perlis/Picture37.png,"中文：制造企业的生产成本从生产账户转入交易账户，作为完工产品的成本。
+Bahasa Melayu: Kos pengeluaran dipindahkan daripada Akaun Pengeluaran ke Akaun Perdagangan sebagai kos produk siap."
 F5 Chp 7,radio,Johor_Q38,A,B,C,D,B,Johor/Picture38.png,"中文：小型生产工具折旧是间接制造费用。厂房及设备本身是资产；办公室租金非制造费用；操作员工资是直接人工。
 Bahasa Melayu: Susut nilai alatan kecil ialah kos overhed pengeluaran. Loji dan alatan ialah aset, sewa pejabat bukan kos pengeluaran dan gaji operator ialah kos buruh langsung."
 F5 Chp 7,radio,Johor_Q39,A,B,C,D,B,Johor/Picture39.png,"中文：制造成本 = 18,700 + 48,100 + 51,200 + 期初在产品 5,010 − 期末在产品 6,250 = RM116,760。
@@ -21,8 +27,6 @@ F5 Chp 7,radio,Kedah_Q40,A,B,C,D,C,Kedah/Picture40.png,"中文：总生产成本
 Bahasa Melayu: Jumlah kos pengeluaran = (3.50 + 4.00) × 30,000 + 10,890 + 35,100 = RM270,990. Gaji pengurus pemasaran tidak dimasukkan."
 F5 Chp 7,radio,Kelantan_Q35,A,B,C,D,B,Kelantan/Picture35.png,"中文：本题把用于产品的商标费用列为直接费用；原材料是直接材料，生产工人工资是直接人工，厂租是间接费用。
 Bahasa Melayu: Cap dagangan bagi produk ialah belanja langsung dalam konteks soalan; bahan mentah ialah bahan langsung, gaji operator buruh langsung dan sewa kilang kos overhed."
-F5 Chp 7,radio,Kelantan_Q38,A,B,C,D,D,Kelantan/Picture38.png,"中文：期末累计基金 = 120,000 − 4,800 + 70,000 = RM185,200。资本捐款直接增加基金，修缮费用不能再次重复扣减本期亏额。
-Bahasa Melayu: Dana terkumpul akhir = 120,000 − 4,800 + 70,000 = RM185,200. Derma modal ditambah; belanja hasil tidak ditolak sekali lagi daripada kurangan."
 F5 Chp 7,radio,Kelantan_Q39,A,B,C,D,B,Kelantan/Picture39.png,"中文：制造费用 = 设备折旧 75,000 × 10% + 厂租 6,300 + 欠租 1,700 = RM15,500；直接人工不计入。
 Bahasa Melayu: Kos overhed = susut nilai 7,500 + sewa 6,300 + sewa belum bayar 1,700 = RM15,500; buruh langsung dikecualikan."
 F5 Chp 7,radio,Kelantan_Q40,A,B,C,D,D,Kelantan/Picture40.png,"中文：单位贡献 = 5.00 − 2.60 = RM2.40；目标产量 = (固定成本 15,000 + 目标利润 9,000)/2.40 = 10,000 瓶。
@@ -37,12 +41,6 @@ F5 Chp 7,radio,Melaka_Q39,A,B,C,D,B,Melaka/Picture39.png,"中文：在售价和�
 Bahasa Melayu: Kos tetap meningkat menaikkan titik pulang modal dan unit yang diperlukan, jika sumbangan seunit kekal; I dan IV betul."
 F5 Chp 7,radio,Melaka_Q40,A,B,C,D,D,Melaka/Picture40.png,"中文：固定成本 = 5,000 + 1,200 = RM6,200；单位贡献 = 250 − 150 = RM100；盈亏平衡量 = 6,200/100 = 62 单位。
 Bahasa Melayu: Kos tetap RM6,200; sumbangan seunit RM100. Titik pulang modal = 6,200/100 = 62 unit."
-F5 Chp 7,radio,NegeriSembilan_Q32,A,B,C,D,B,Negeri Sembilan/Picture32.png,"中文：优先股资本 RM6,000,000，自二月至六月计五个月股息：6,000,000 × 6% × 5/12 = RM150,000；普通股中期股息 4,000,000 × 3% = RM120,000，合计 RM270,000。
-Bahasa Melayu: Dividen keutamaan lima bulan RM150,000 + dividen interim biasa RM120,000 = RM270,000, mengikut tempoh langganan dalam soalan."
-F5 Chp 7,radio,NegeriSembilan_Q37,A,B,C,D,A,Negeri Sembilan/Picture37.png,"中文：本年租金费用 = 已付 1,500 + 期初预付 420 − 期末预付 610 = RM1,310。
-Bahasa Melayu: Sewa tahun semasa = 1,500 + 420 − 610 = RM1,310."
-F5 Chp 7,radio,NegeriSembilan_Q38,A,B,C,D,B,Negeri Sembilan/Picture38.png,"中文：累计基金 = 40,000 + 15,000 + 1,120 − 2,000 − 900 − 1,200 = RM52,020；预收会费和银行透支是负债。
-Bahasa Melayu: Dana terkumpul = 40,000 + 15,000 + 1,120 − 2,000 − 900 − 1,200 = RM52,020."
 F5 Chp 7,radio,NegeriSembilan_Q39,A,B,C,D,C,Negeri Sembilan/Picture39.png,"中文：厂长工资是间接人工，不直接追溯到每件产品，列为制造费用。
 Bahasa Melayu: Gaji pengurus kilang ialah buruh tidak langsung dan termasuk kos overhed."
 F5 Chp 7,radio,NegeriSembilan_Q40,A,B,C,D,D,Negeri Sembilan/Picture40.png,"中文：单位贡献 = 15 − 10 = RM5；目标产量 = (18,000 + 3,500)/5 = 4,300 个蛋糕。
@@ -53,14 +51,10 @@ F5 Chp 7,radio,Pahang_Q39,A,B,C,D,C,Pahang/Picture39.png,"中文：基本成本�
 Bahasa Melayu: Kos prima terdiri daripada bahan langsung, buruh langsung dan belanja langsung; M ialah bahan langsung dan N buruh langsung."
 F5 Chp 7,radio,Pahang_Q40,A,B,C,D,C,Pahang/Picture40.png,"中文：目标产量 =（固定成本 + 目标利润）÷ 单位贡献 =（RM3,000 + RM2,000）÷ RM5 = 1,000 单位，所以选 C。RM5 是单位贡献，不是单位变动成本；答案纸的 D 已更正。
 Bahasa Melayu: Kuantiti sasaran = (kos tetap + untung sasaran) ÷ margin caruman seunit = (RM3,000 + RM2,000) ÷ RM5 = 1,000 unit, iaitu C. RM5 ialah margin caruman seunit, bukan kos berubah seunit. Jawapan D dalam skema dibetulkan kepada C."
-F5 Chp 7,radio,Penang_Q38,A,B,C,D,D,Penang/Picture38.png,"中文：会费账户的本年收入结转收入与支出账户，收到现金则记银行，所以 R 是收入与支出，S 是银行。
-Bahasa Melayu: Yuran tahun semasa dipindahkan ke Akaun Pendapatan dan Perbelanjaan; penerimaan tunai dicatat melalui Bank."
 F5 Chp 7,radio,Penang_Q39,A,B,C,D,C,Penang/Picture39.png,"中文：生产操作员直接制作产品，其工资属于直接人工；监督员及保安属于间接人工。
 Bahasa Melayu: Upah operator pengeluaran ialah buruh langsung; penyelia dan pengawal keselamatan ialah buruh tidak langsung."
 F5 Chp 7,radio,Penang_Q40,A,B,C,D,A,Penang/Picture40.png,"中文：基本成本包括直接人工及直接材料；厂税及机器折旧属于制造费用。I、II 正确。
 Bahasa Melayu: Kos prima termasuk upah langsung dan bahan langsung; kadar bayaran kilang serta susut nilai ialah kos overhed. I dan II betul."
-F5 Chp 7,radio,Perak_Q38,A,B,C,D,D,Perak/Picture38.png,"中文：盈余增加累计基金，累计基金相当于独资企业权益；其计算是资产减负债。II、IV 正确。
-Bahasa Melayu: Lebihan menambah dana terkumpul yang bersamaan ekuiti milikan tunggal; dana = aset − liabiliti. II dan IV betul."
 F5 Chp 7,radio,Perak_Q39,A,B,C,D,C,Perak/Picture39.png,"中文：制造费用增加使总生产成本增加，不直接改变基本成本或原材料成本。
 Bahasa Melayu: Pertambahan kos overhed menaikkan kos pengeluaran tanpa mengubah kos prima atau bahan secara langsung."
 F5 Chp 7,radio,Perak_Q40,A,B,C,D,A,Perak/Picture40.png,"中文：盈亏平衡量 1,500 = 3,000/单位贡献，故单位贡献 RM2。卖 4,000 单位盈利 = (4,000 − 1,500) × 2 = RM5,000。
